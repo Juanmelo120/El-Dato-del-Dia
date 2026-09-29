@@ -1,30 +1,31 @@
 ---
+import Icon from './Icon.astro';
 import { SITE, CATEGORIES } from '../config';
 const path = Astro.url.pathname;
 ---
 <header class="header">
   <div class="container bar">
-    <a href="/" class="logo" aria-label={SITE.name}>
-      <span class="mark">D</span>
-      <span>El Dato <em>del Día</em></span>
+    <a href="/" class="logo" aria-label={`${SITE.name}, inicio`}>
+      <span class="logo-mark" aria-hidden="true">?!</span>
+      <span>El Dato <span class="mark">del Día</span></span>
     </a>
     <nav aria-label="Categorías">
       {Object.entries(CATEGORIES).slice(0, 5).map(([slug, c]) => (
         <a href={`/categoria/${slug}`} aria-current={path.startsWith(`/categoria/${slug}`) ? 'page' : undefined}>{c.name}</a>
       ))}
     </nav>
-    <a href="/tiktok" class="btn btn--sm">Buscar dato</a>
+    <a href="/tiktok" class="btn btn--sm"><Icon name="search" size={16} />Buscar</a>
   </div>
 </header>
 <style>
-  .header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 85%, transparent); backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid var(--line); }
-  .bar { display: flex; align-items: center; gap: 24px; height: 64px; }
-  .logo { display: flex; align-items: center; gap: 10px; font: 700 18px/1 var(--font-display); text-decoration: none; letter-spacing: -0.02em; }
-  .logo em { font-style: italic; color: var(--accent); }
-  .mark { width: 32px; height: 32px; border-radius: 9px; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font-size: 18px; transform: rotate(-6deg); }
-  nav { display: flex; gap: 20px; margin-left: auto; font-size: 15px; }
-  nav a { text-decoration: none; color: var(--muted); transition: color 150ms var(--ease-out); }
+  .header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid var(--line); }
+  .bar { display: flex; align-items: center; gap: 28px; height: 64px; }
+  .logo { display: flex; align-items: center; gap: 10px; font: 800 19px/1 var(--font-display); letter-spacing: -0.03em; text-decoration: none; }
+  .logo-mark { width: 32px; height: 32px; border-radius: 8px; background: var(--chip); color: var(--marker); display: grid; place-items: center; font: 800 15px/1 var(--font-display); letter-spacing: -0.06em;  box-shadow: inset 0 0 0 1px var(--line); }
+  nav { display: flex; gap: 22px; margin-left: auto; font-size: 15px; }
+  nav a { text-decoration: none; color: var(--muted); transition: color 150ms ease; }
   nav a:hover, nav a[aria-current] { color: var(--ink); }
-  .btn--sm { padding: 10px 14px; font-size: 14px; }
+  nav a[aria-current] { text-decoration: underline; text-decoration-color: var(--marker); text-decoration-thickness: 3px; }
+  .btn--sm { padding: 10px 16px; font-size: 14px; }
   @media (max-width: 860px) { nav { display: none; } .btn--sm { margin-left: auto; } }
 </style>

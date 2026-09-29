@@ -12,12 +12,12 @@ export const SITE = {
   gaId: '',
 };
 
-export const CATEGORIES: Record<string, { name: string; emoji: string }> = {
-  ciencia: { name: 'Ciencia', emoji: '🔬' },
-  historia: { name: 'Historia', emoji: '🏛️' },
-  animales: { name: 'Animales', emoji: '🦩' },
-  'cuerpo-humano': { name: 'Cuerpo humano', emoji: '🫀' },
-  espacio: { name: 'Espacio', emoji: '🪐' },
-  geografia: { name: 'Geografía', emoji: '🌍' },
-  tecnologia: { name: 'Tecnología', emoji: '💡' },
+export const CATEGORIES: Record<string, { name: string; icon: string }> = {
+  ciencia: { name: 'Ciencia', icon: 'flask-conical' },
+  historia: { name: 'Historia', icon: 'landmark' },
+  animales: { name: 'Animales', icon: 'paw-print' },
+  'cuerpo-humano': { name: 'Cuerpo humano', icon: 'heart-pulse' },
+  espacio: { name: 'Espacio', icon: 'orbit' },
+  geografia: { name: 'Geografía', icon: 'globe' },
+  tecnologia: { name: 'Tecnología', icon: 'cpu' },
 };

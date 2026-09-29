@@ -36,10 +36,10 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   <meta property="og:image" content={ogImage} />
   <meta property="og:locale" content="es_LA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="theme-color" content="#e8452c" />
+  <meta name="theme-color" content="#0c0e12" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
   {jsonLd.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 
   <!-- Consentimiento por defecto: nada se activa hasta que el visitante acepte -->

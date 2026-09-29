@@ -1,11 +1,16 @@
 ---
 import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
 ---
 <Base title="Página no encontrada">
-  <section class="container" style="padding:96px 16px;text-align:center">
-    <p class="eyebrow">Dato curioso: error 404</p>
-    <h1 style="font-size:48px">Esta página no existe… todavía.</h1>
-    <p class="muted">El código 404 viene del protocolo HTTP de 1992: el 4 indica que el error es del lado del cliente.</p>
-    <a class="btn" href="/tiktok">Buscar un dato</a>
+  <section class="container nf">
+    <h1>Esta página <span class="mark">no existe</span>.</h1>
+    <p class="muted">Dato de consuelo: el error 404 significa que el problema está del lado de quien pide la página, no del servidor. Vuelve a buscar el dato que viste.</p>
+    <a class="btn" href="/tiktok"><Icon name="search" size={16} />Buscar un dato</a>
   </section>
 </Base>
+<style>
+  .nf { padding: clamp(64px, 12vw, 140px) 16px; max-width: 720px; }
+  h1 { font-size: clamp(40px, 7vw, 72px); margin: 0 0 20px; }
+  p { font-size: 18px; margin: 0 0 32px; }
+</style>

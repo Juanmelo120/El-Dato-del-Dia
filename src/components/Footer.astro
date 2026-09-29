@@ -7,7 +7,7 @@ const year = new Date().getFullYear();
     <div>
       <p class="brand">{SITE.name}</p>
       <p class="muted">{SITE.tagline}</p>
-      <a class="btn" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok</a>
+      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok</a>
     </div>
     <div>
       <p class="h">Categorías</p>
@@ -29,7 +29,7 @@ const year = new Date().getFullYear();
   .cols { display: grid; gap: 32px; grid-template-columns: 2fr 1fr 1fr; }
   .cols a:not(.btn) { display: block; text-decoration: none; color: var(--muted); padding: 4px 0; }
   .cols a:not(.btn):hover { color: var(--ink); }
-  .brand { font: 700 22px/1 var(--font-display); margin: 0 0 8px; }
+  .brand { font: 800 24px/1 var(--font-display); letter-spacing: -0.03em; margin: 0 0 8px; }
   .h { font-weight: 600; margin: 0 0 8px; }
   .copy { font-size: 13px; margin-top: 40px; }
   @media (max-width: 720px) { .cols { grid-template-columns: 1fr 1fr; } .cols > :first-child { grid-column: 1 / -1; } }

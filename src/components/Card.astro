@@ -1,21 +1,36 @@
 ---
+// Fila editorial de un dato: número, categoría, título y gancho.
+import Icon from './Icon.astro';
 import { CATEGORIES } from '../config';
 interface Props { dato: any; }
 const { dato } = Astro.props;
 const cat = CATEGORIES[dato.data.category];
 ---
-<a href={`/datos/${dato.id}`} class="card">
-  <span class="top"><span class="badge">{cat.emoji} {cat.name}</span><span class="num muted">#{dato.data.numero}</span></span>
-  <h3>{dato.data.title}</h3>
-  <p class="muted">{dato.data.hook}</p>
-  <span class="more">Leer la historia completa →</span>
-</a>
+<li class="row">
+  <a href={`/datos/${dato.id}`}>
+    <span class="num n">{String(dato.data.numero).padStart(3, '0')}</span>
+    <span class="body">
+      <span class="cat muted"><Icon name={cat.icon} size={14} />{cat.name}</span>
+      <span class="t">{dato.data.title}</span>
+      <span class="h muted">{dato.data.hook}</span>
+    </span>
+    <Icon name="arrow-up-right" size={22} class="go" />
+  </a>
+</li>
 <style>
-  .card { display: flex; flex-direction: column; gap: 10px; padding: 22px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; transition: transform 200ms var(--ease-out), box-shadow 200ms var(--ease-out), border-color 200ms var(--ease-out); }
-  @media (hover: hover) { .card:hover { transform: translateY(-3px); box-shadow: 0 10px 30px rgb(0 0 0 / .07); border-color: color-mix(in srgb, var(--accent) 35%, var(--line)); } }
-  .card:active { transform: scale(0.99); }
-  .top { display: flex; justify-content: space-between; align-items: center; }
-  h3 { font-size: 22px; margin: 4px 0 0; }
-  p { margin: 0; font-size: 15px; }
-  .more { margin-top: auto; padding-top: 8px; font-weight: 600; font-size: 14px; color: var(--accent); }
+  .row { border-top: 1px solid var(--line); }
+  a { display: grid; grid-template-columns: 72px 1fr auto; gap: 20px; align-items: start; padding: 26px 4px; text-decoration: none; }
+  .n { font-size: 15px; color: var(--muted); padding-top: 6px; transition: color 150ms ease; }
+  .body { display: grid; gap: 8px; }
+  .cat { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 500; }
+  .t { font: 800 clamp(22px, 3vw, 30px)/1.1 var(--font-display); letter-spacing: -0.03em; text-wrap: balance; }
+  .h { font-size: 16px; max-width: 60ch; }
+  a :global(.go) { margin-top: 6px; color: var(--muted); transition: transform 200ms var(--ease-out), color 150ms ease; }
+  a:active .t { opacity: .7; }
+  @media (hover: hover) and (pointer: fine) {
+    a:hover .n, a:hover :global(.go) { color: var(--ink); }
+    a:hover :global(.go) { transform: translate(2px, -2px); }
+    a:hover .t { text-decoration: underline; text-decoration-color: var(--marker); text-decoration-thickness: 4px; text-underline-offset: 0.12em; }
+  }
+  @media (max-width: 560px) { a { grid-template-columns: 1fr auto; gap: 8px 16px; } .n { grid-column: 1 / -1; padding: 0; } }
 </style>

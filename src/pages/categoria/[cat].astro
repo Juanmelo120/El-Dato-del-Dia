@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import Card from '../../components/Card.astro';
+import DatoList from '../../components/DatoList.astro';
+import Icon from '../../components/Icon.astro';
 import { getDatos } from '../../lib';
 import { CATEGORIES } from '../../config';
 
@@ -17,8 +18,20 @@ const c = CATEGORIES[cat];
 ---
 <Base title={`Datos curiosos de ${c.name}`} description={`Los datos curiosos más sorprendentes de ${c.name.toLowerCase()}, explicados a fondo.`}>
   <section class="container">
-    <p class="eyebrow" style="margin-top:48px">Categoría</p>
-    <h1 style="font-size:clamp(36px,6vw,56px);margin:8px 0 32px">{c.emoji} {c.name}</h1>
-    {datos.length ? <div class="grid">{datos.map((d) => <Card dato={d} />)}</div> : <p class="muted">Muy pronto habrá datos en esta categoría.</p>}
+    <h1><Icon name={c.icon} size={44} class="ci" /><span>Datos de <span class="mark">{c.name.toLowerCase()}</span></span></h1>
+    <p class="muted count">{datos.length === 1 ? '1 dato' : `${datos.length} datos`}</p>
+    {datos.length ? <DatoList datos={datos} /> : (
+      <div class="empty">
+        <p>Todavía no hay datos de {c.name.toLowerCase()}. El próximo podría ser el tuyo: sugiérelo en TikTok.</p>
+        <a class="btn" href="/">Ver todos los datos</a>
+      </div>
+    )}
   </section>
 </Base>
+<style>
+  h1 { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; font-size: clamp(36px, 6vw, 60px); margin: clamp(40px, 7vw, 80px) 0 12px; }
+  h1 :global(.ci) { stroke-width: 1.5; }
+  .count { margin: 0 0 32px; }
+  .empty { padding: 32px 0; border-top: 1px solid var(--line); }
+  .empty p { color: var(--ink-2); max-width: 50ch; }
+</style>
