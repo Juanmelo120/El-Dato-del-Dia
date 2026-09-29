@@ -1,21 +1,3 @@
-=032 historia
-El dinero que llevas en la cartera está lleno de detalles pensados para durar, protegerse o contar una historia.
-10: Los **billetes de euro** tienen el mismo diseño en toda la zona euro. Las **monedas** tienen una cara común y otra nacional, pero todas valen en cualquier país del euro.
-9: El reverso del billete de **un dólar** muestra el Gran Sello de EE. UU., con una **pirámide inacabada** de 13 escalones y el "ojo que todo lo ve". Representa una nación en construcción.
-8: El **yen japonés** de 5 y 50 y la **corona danesa** tienen monedas con agujero. Ahorran metal y permiten reconocerlas al tacto.
-7: Estudios han encontrado cientos de tipos de bacterias en billetes, sobre todo inofensivas. Los billetes de polímero parecen retener menos microbios.
-6: Muchos billetes llevan **tinta ópticamente variable**: cambia de color al inclinar el billete (el número del euro pasa de verde a azul).
-5: En 1950, Frank McNamara olvidó la cartera en un restaurante de Nueva York. De ahí nació **Diners Club**, la primera tarjeta de pago de uso general.
-4: El **Banco de Inglaterra** se fundó en **1694** para financiar la guerra contra Francia. Es el segundo banco central más antiguo, tras el Riksbank sueco (1668).
-3: Los billetes de **polímero** resisten el agua y duran más que los de papel. Australia fue pionera en 1988.
-2: Cuando las monedas eran de oro o plata, algunas personas **limaban los bordes** para quedarse el metal. El canto estriado hacía evidente el recorte. Isaac Newton, como director de la Casa de la Moneda, persiguió a falsificadores.
-1: El BCE dejó de emitir el billete de **500 euros** en 2019 por su uso en actividades ilegales. Sigue siendo de curso legal.
-? ¿Por qué las monedas tienen el canto estriado? | Para evitar que se limara el metal cuando eran de oro o plata.
-? ¿Sigue valiendo el billete de 500 euros? | Sí, aunque dejó de emitirse en 2019.
-+ Banco Central Europeo: Billetes | https://www.ecb.europa.eu/euro/banknotes/html/index.es.html
-+ Wikipedia: Diners Club | https://es.wikipedia.org/wiki/Diners_Club_International
-+ Wikipedia: Banco de Inglaterra | https://es.wikipedia.org/wiki/Banco_de_Inglaterra
-
 =033 geografia
 El mapa del mundo tiene rarezas que casi nadie enseña: islas dentro de lagos, países en cuatro hemisferios y fronteras de 4 km.
 10: En Filipinas, **Vulcan Point** es un islote dentro del lago del cráter del volcán Taal, que está en una isla dentro del lago Taal, en la isla de Luzón.
