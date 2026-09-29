@@ -1,21 +1,3 @@
-=018 cultura
-La música afecta al cerebro, a los animales e incluso a los tribunales. Estos 10 datos lo cuentan.
-10: *Happy Birthday to You* nació de una melodía de 1893. Warner/Chappell cobró derechos por ella durante décadas, hasta que en **2015 un juez** dictaminó que no tenía un copyright válido sobre la letra. Hoy es de dominio público.
-9: El piano moderno tiene **88 teclas**, 52 blancas y 36 negras, que cubren poco más de **siete octavas**. Algunos, como el Bösendorfer Imperial, tienen 97.
-8: **Beethoven** fue perdiendo el oído desde los 20 años. Compuso su **Novena Sinfonía** (1824) casi totalmente sordo. En el estreno tuvieron que girarlo para que viera los aplausos.
-7: Estudios con neuroimagen muestran que escuchar música emocionante libera **dopamina** en zonas del cerebro ligadas a la recompensa.
-6: **Antonio Stradivari** fabricó violines entre finales del siglo XVII y principios del XVIII. Algunos se han vendido por más de **15 millones de dólares**.
-5: Un estudio de la Universidad de Leicester (2001) sugirió que las vacas producían **algo más de leche** escuchando música tranquila. Es un resultado curioso, no una ley científica.
-4: La erupción del **Krakatoa** (1883) produjo un sonido que se oyó a unos **4.800 km**. Los barómetros de todo el mundo registraron su onda.
-3: **Mozart** compuso pequeñas piezas para teclado hacia los 5 años. A los 8 escribió su primera sinfonía.
-2: La mayoría de personas tiene un rango vocal de unas 2 octavas. Cantantes entrenados alcanzan 3 o 4, y casos excepcionales superan las 5. Por eso ciertas notas de ópera son casi inalcanzables.
-1: En la iglesia de San Burchardi de Halberstadt suena la obra de John Cage ***ORGAN²/ASLSP***, programada para durar **639 años**, hasta 2640. Un acorde puede durar años sin cambiar.
-? ¿Cuántas teclas tiene un piano? | 88: 52 blancas y 36 negras.
-? ¿Cuánto durará la pieza de Halberstadt? | 639 años: empezó en 2001 y terminará en 2640.
-+ Wikipedia: Organ²/ASLSP | https://es.wikipedia.org/wiki/Organ%C2%B2/ASLSP
-+ Wikipedia: Cumpleaños feliz | https://es.wikipedia.org/wiki/Cumplea%C3%B1os_feliz
-+ Wikipedia: Erupción del Krakatoa de 1883 | https://es.wikipedia.org/wiki/Erupci%C3%B3n_del_Krakatoa_de_1883
-
 =019 deportes
 Los deportes que conocemos nacieron de ideas curiosas, reglas inventadas en una tarde y récords imposibles.
 10: Las pelotas de golf lisas volaban poco. Se descubrió que las marcadas recorrían más distancia: los **hoyuelos** crean turbulencia que reduce la resistencia del aire. Una pelota tiene unos 300–500.
