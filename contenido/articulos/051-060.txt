@@ -1,0 +1,179 @@
+=051 cultura
+El español que hablas cada día guarda curiosidades que casi nadie conoce. Estos son 10.
+10: El *Diccionario de la lengua española* de la RAE (23.ª edición) recoge más de **93.000 entradas**. El idioma tiene muchas más palabras si se cuentan tecnicismos y regionalismos.
+9: *Murciélago* contiene las cinco vocales una sola vez, igual que *euforia*, *arquitecto* o *abuelito*. Se llaman palabras **pentavocálicas**.
+8: El español es oficial en **21 países** y tiene presencia enorme en Estados Unidos, donde lo hablan más de 40 millones de personas como lengua materna.
+7: Un **palíndromo** se lee igual al revés. Además de *reconocer*, hay frases como "Dábale arroz a la zorra el abad".
+6: Se calcula que el español tiene unas **4.000 palabras de origen árabe**, como *aceite*, *azotea*, *almacén* o *ojalá*.
+5: En 2010, la Ortografía de la RAE dejó de considerar **ch** y **ll** letras independientes: son dígrafos. El abecedario tiene 27 letras.
+4: El **voseo** (usar "vos" en lugar de "tú") es habitual en Argentina, Uruguay, Paraguay y gran parte de Centroamérica.
+3: Las **Glosas Emilianenses**, anotaciones del siglo X–XI en un códice del monasterio de San Millán de la Cogolla, se consideran de los primeros textos en un romance cercano al castellano. Las Glosas Silenses son de la misma época.
+2: El español tiene una ortografía bastante **transparente**: casi siempre se pronuncia como se escribe, a diferencia del inglés o el francés.
+1: Otras palabras con las cinco vocales son *Aurelio*, *abuelito*, *centuria* o *educación*. ¿Cuántas más se te ocurren?
+? ¿Cuántas letras tiene el abecedario español? | 27 letras, desde que ch y ll dejaron de contarse como letras en 2010.
+? ¿Qué es una palabra pentavocálica? | Una que contiene las cinco vocales, como murciélago.
++ Real Academia Española | https://www.rae.es/
++ Wikipedia: Glosas Emilianenses | https://es.wikipedia.org/wiki/Glosas_Emilianenses
++ Wikipedia: Voseo | https://es.wikipedia.org/wiki/Voseo
+
+=052 historia
+La economía está llena de datos que parecen mentira: inflaciones extremas, oro que cabe en piscinas y monedas millonarias.
+10: En la Persia sasánida y en el mundo islámico medieval se usaban documentos de pago llamados *sakk*, de donde podría venir la palabra **cheque**.
+9: En **Hungría**, en julio de 1946, los precios se duplicaban cada unas **15 horas**. Es la mayor hiperinflación registrada. Llegó a imprimirse un billete de 100 trillones de pengő.
+8: La Reserva Federal de Nueva York guarda unas 6.000 toneladas de oro en una bóveda a 24 metros bajo la calle. El Banco de Inglaterra guarda unas 400.000 barras.
+7: Los billetes llevan un **hilo de seguridad** integrado en el papel, visible al trasluz.
+6: Según la Reserva Federal, un billete de 1 dólar dura **unos 6–7 años** en circulación antes de ser retirado.
+5: En **China**, los pagos con móvil (WeChat Pay, Alipay) superan ampliamente al efectivo en las ciudades.
+4: Se han extraído unas **212.000 toneladas** de oro en toda la historia. Por su densidad, cabrían en un cubo de unos 22 metros de lado, alrededor de cuatro piscinas olímpicas.
+3: Con la **inflación**, los precios suben y cada euro o dólar compra menos. Por eso guardar dinero en efectivo durante años pierde valor.
+2: Las primeras monedas conocidas se acuñaron en **Lidia** (actual Turquía) hacia el **siglo VII a. C.**, en electro, una aleación de oro y plata.
+1: En 2013 un **dólar de cabellos sueltos de 1794** se vendió por unos 10 millones de dólares, récord para una moneda en su momento.
+? ¿Cuál fue la peor hiperinflación? | La de Hungría en 1946, cuando los precios se duplicaban cada unas 15 horas.
+? ¿Cuánto oro se ha extraído? | Unas 212.000 toneladas, según estimaciones.
++ World Gold Council: Above-ground stocks | https://www.gold.org/goldhub/data/how-much-gold
++ Wikipedia: Hiperinflación en Hungría | https://es.wikipedia.org/wiki/Hiperinflaci%C3%B3n_h%C3%BAngara
++ Wikipedia: Moneda de Lidia | https://es.wikipedia.org/wiki/Lidia
+
+=053 geografia
+El mapa del mundo tiene rarezas: países-ciudad, lagos que parecen mares y una isla perdida en el océano.
+10: **Singapur** es una ciudad-estado: la ciudad y el país coinciden. Mónaco y el Vaticano también lo son.
+9: **Arabia Saudita** no tiene ríos permanentes, solo cauces que se llenan con las lluvias (wadis).
+8: **Andorra** no tiene aeropuerto propio. Los viajeros llegan por carretera desde aeropuertos de España o Francia.
+7: Buena parte de la frontera entre **EE. UU. y Canadá** sigue el **paralelo 49**, una línea recta de más de 2.000 km.
+6: En la proyección de Mercator, **Groenlandia** parece tan grande como África, pero África es unas 14 veces mayor.
+5: **Sudáfrica** tiene tres capitales: Pretoria (ejecutiva), Ciudad del Cabo (legislativa) y Bloemfontein (judicial).
+4: El **lago Baikal**, en Siberia, supera los **1.600 metros** de profundidad y guarda cerca del 20 % del agua dulce superficial del planeta.
+3: El **mar Caspio** está rodeado de tierra: técnicamente es el **lago** más grande del mundo, aunque su agua es algo salada.
+2: El **Teide**, en Tenerife, mide 3.715 metros. Desde su base en el fondo del océano supera los 7.500.
+1: La **isla Bouvet**, territorio noruego en el Atlántico sur, está cubierta de hielo y a más de 1.600 km de cualquier tierra. Es la isla más remota del mundo.
+? ¿Cuál es el lago más grande del mundo? | El mar Caspio, aunque se llame mar.
+? ¿Qué país tiene tres capitales? | Sudáfrica: Pretoria, Ciudad del Cabo y Bloemfontein.
++ Wikipedia: Isla Bouvet | https://es.wikipedia.org/wiki/Isla_Bouvet
++ Wikipedia: Lago Baikal | https://es.wikipedia.org/wiki/Lago_Baikal
++ Wikipedia: Mar Caspio | https://es.wikipedia.org/wiki/Mar_Caspio
+
+=054 tecnologia
+Detrás de muchos inventos hay personajes curiosos: médicos tímidos, niñas impacientes y condes jugadores.
+10: **Leonardo da Vinci** dibujó un paracaídas piramidal hacia 1485. En 2000, Adrian Nicholas construyó uno con su diseño y saltó con éxito.
+9: En **1796**, **Edward Jenner** inoculó a un niño con pus de viruela bovina y comprobó que quedaba protegido de la viruela. La palabra "vacuna" viene de *vacca*.
+8: En 1816, el médico **René Laennec** no quería apoyar la oreja en el pecho de una paciente y enrolló una hoja de papel: oyó el corazón mejor. Así nació el **estetoscopio**.
+7: **Daniel Fahrenheit** creó el termómetro de mercurio en 1714 y la escala que lleva su nombre.
+6: **Galileo** mejoró el telescopio en 1609 y descubrió en 1610 cuatro lunas de Júpiter.
+5: **Benjamin Franklin** propuso el pararrayos tras estudiar la electricidad de las tormentas hacia 1750.
+4: En el siglo XIX los relojes de pulsera eran **joyas para mujeres**. Los hombres los adoptaron por su utilidad en la Primera Guerra Mundial.
+3: En 1895, **Wilhelm Röntgen** notó que una pantalla fluorescente brillaba cerca de un tubo cubierto. Descubrió los **rayos X** e hizo una radiografía de la mano de su esposa.
+2: En 1943, la hija de **Edwin Land** le preguntó por qué no podía ver la foto al momento. Esa pregunta inspiró la cámara **Polaroid**, lanzada en 1948.
+1: Según la tradición, **John Montagu, conde de Sandwich**, pedía carne entre dos panes para no levantarse de la mesa de juego o de trabajo. Comer así ya existía antes.
+? ¿Quién inventó la vacuna? | Edward Jenner, con la vacuna de la viruela en 1796.
+? ¿Cómo se descubrieron los rayos X? | Röntgen vio brillar una pantalla por casualidad en 1895.
++ Wikipedia: Edward Jenner | https://es.wikipedia.org/wiki/Edward_Jenner
++ Wikipedia: René Laennec | https://es.wikipedia.org/wiki/Ren%C3%A9_Laennec
++ Wikipedia: Wilhelm Röntgen | https://es.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen
+
+=055 naturaleza
+Hay plantas que parecen sacadas de un cuento: sangran, se mueven o viven miles de años.
+10: La ***Mimosa pudica*** pliega sus hojas en segundos al tocarla. Las células de la base pierden agua de golpe. Se cree que así ahuyenta a los herbívoros.
+9: El **drago** (*Dracaena draco*) produce una resina roja llamada "sangre de drago", usada antiguamente como tinte y medicina.
+8: La palmera ***Socratea exorrhiza*** tiene raíces zancudas. Se dice que "camina" hacia la luz, pero los estudios no lo han confirmado.
+7: La ***Rafflesia arnoldii*** produce la flor individual más grande (hasta 1 metro). Es parásita: no tiene hojas, tallo ni raíces visibles.
+6: Algunos hongos, como *Armillaria*, emiten una luz verde tenue en la madera podrida llamada **fuego de zorro**.
+5: El **baobab** almacena agua en su tronco esponjoso: un ejemplar grande puede guardar más de 100.000 litros.
+4: Los **helechos** aparecieron hace unos **360 millones de años**, mucho antes que los dinosaurios.
+3: Las semillas de **orquídea** son tan pequeñas que parecen polvo. Necesitan asociarse con hongos para germinar.
+2: Los **eucaliptos** tienen aceites inflamables y su corteza cae en tiras que alimentan incendios. Algunas especies rebrotan tras el fuego.
+1: En Suecia, un abeto llamado **Old Tjikko** tiene un sistema de raíces de unos **9.500 años**. El tronco visible es mucho más joven: se renueva cuando muere.
+? ¿Por qué se cierra la mimosa púdica? | Porque sus células pierden agua de golpe al tocarla, quizá para defenderse.
+? ¿Cuál es la flor más grande? | La Rafflesia arnoldii, que puede medir un metro.
++ Wikipedia: Mimosa pudica | https://es.wikipedia.org/wiki/Mimosa_pudica
++ Wikipedia: Rafflesia arnoldii | https://es.wikipedia.org/wiki/Rafflesia_arnoldii
++ Wikipedia: Old Tjikko | https://es.wikipedia.org/wiki/Old_Tjikko
+
+=056 historia
+Tesoros perdidos, desapariciones y objetos sin explicación. Estos son 10 casos que siguen intrigando.
+10: El **oro de Yamashita** sería un botín escondido por el ejército japonés en Filipinas durante la Segunda Guerra Mundial. Muchos lo buscan; no hay pruebas firmes.
+9: El **Triángulo de las Bermudas** no tiene más accidentes que otras zonas con tanto tráfico, según la NOAA y aseguradoras. Su fama viene de libros sensacionalistas.
+8: **Leonardo da Vinci** fue enterrado en Amboise (Francia) en 1519. La iglesia fue destruida y sus restos se trasladaron; no se sabe con certeza si son suyos.
+7: En **Oak Island** (Canadá) se excava desde **1795** en busca de un supuesto tesoro. Hay pozos, túneles y hasta un programa de televisión.
+6: El **mapa de Piri Reis** (1513) muestra la costa de Sudamérica. Algunos creen que incluye la Antártida, pero los historiadores lo descartan.
+5: En 1971 un hombre conocido como **D. B. Cooper** secuestró un avión, cobró 200.000 dólares y saltó en paracaídas. Nunca se le identificó.
+4: El 5 de diciembre de 1945 desaparecieron cinco bombarderos del **vuelo 19** durante un entrenamiento. Un hidroavión que fue a buscarlos también se perdió.
+3: Se han hallado más de 100 **dodecaedros romanos** de bronce, huecos y con agujeros. Nadie sabe para qué servían.
+2: En 1925, el explorador **Percy Fawcett** desapareció en el Amazonas buscando una ciudad perdida que llamó "Z".
+1: En 1991 hidrófonos de la NOAA registraron el **Upsweep**, un sonido que sube de tono y varía según la estación. Podría ser volcánico, pero no está claro.
+? ¿Es peligroso el Triángulo de las Bermudas? | No más que otras zonas con mucho tráfico, según la NOAA.
+? ¿Quién fue D. B. Cooper? | Un secuestrador de 1971 que saltó con el rescate y nunca fue identificado.
++ NOAA Ocean Service: ¿Qué es el Triángulo de las Bermudas? | https://oceanservice.noaa.gov/facts/bermudatri.html
++ Wikipedia: D. B. Cooper | https://es.wikipedia.org/wiki/D._B._Cooper
++ Wikipedia: Dodecaedro romano | https://es.wikipedia.org/wiki/Dodecaedro_romano
+
+=057 cultura
+Grandes películas nacieron de accidentes, presupuestos mínimos y trucos visuales. Estos son 10 datos.
+10: En la primera escena de ***El Padrino***, Marlon Brando acaricia un gato que apareció en el estudio. Coppola lo incluyó en la escena.
+9: George Lucas probó títulos como *The Star Wars* o *Adventures of Luke Starkiller* antes de quedarse con ***Star Wars***.
+8: ***Rocky*** (1976) se rodó en 28 días con poco más de un millón de dólares y ganó el Óscar a mejor película.
+7: El tiburón mecánico de ***Tiburón*** (1975) fallaba con el agua salada. Spielberg lo mostró poco, y la tensión funcionó mejor.
+6: ***Avatar*** (2009) superó a *Titanic* como la más taquillera. Tras un tiempo detrás de *Vengadores: Endgame*, volvió al primer puesto en 2021.
+5: **Walt Disney** puso la voz a Mickey Mouse desde 1928 hasta 1947.
+4: ***Blancanieves y los siete enanitos*** (1937) fue el primer largometraje animado de Disney.
+3: En ***Matrix***, las escenas dentro de la simulación tienen un filtro **verde**; las del mundo real, uno **azul**.
+2: El reparto principal de ***Harry Potter*** creció con la saga: se rodó durante unos 10 años.
+1: ***1917*** (2019) parece un plano secuencia continuo, pero tiene cortes ocultos en momentos oscuros o con movimientos rápidos.
+? ¿1917 está rodada en un solo plano? | Parece, pero tiene cortes escondidos.
+? ¿Quién ponía la voz de Mickey Mouse? | Walt Disney, entre 1928 y 1947.
++ Wikipedia: El padrino (película) | https://es.wikipedia.org/wiki/El_padrino_(pel%C3%ADcula)
++ Wikipedia: Tiburón (película) | https://es.wikipedia.org/wiki/Tibur%C3%B3n_(pel%C3%ADcula)
++ Wikipedia: 1917 (película) | https://es.wikipedia.org/wiki/1917_(pel%C3%ADcula)
+
+=058 cultura
+El sonido tiene reglas sorprendentes: escalas que engañan, oídos que nunca descansan y silencios imposibles.
+10: El sonido viaja a unos **343 m/s** en el aire a 20 °C; más rápido en aire caliente.
+9: Los **decibelios** son logarítmicos: 10 dB más es diez veces más intensidad; 20 dB, cien veces.
+8: Un concierto de rock puede superar los **110 dB**. Exponerse mucho tiempo a más de 85 dB puede dañar el oído.
+7: Los oídos no se cierran. Mientras duermes siguen oyendo, pero el cerebro filtra lo que no importa.
+6: El oído humano capta de unos **20 a 20.000 Hz**. Con la edad se pierden sobre todo los agudos.
+5: Los **infrasonidos** (menos de 20 Hz) no se oyen, pero se pueden sentir como vibraciones.
+4: Para oír un eco separado, el obstáculo debe estar a unos **17 metros** o más.
+3: Las llamadas de la **ballena azul** superan los 180 dB bajo el agua y pueden viajar cientos de kilómetros.
+2: En una **cámara anecoica** no hay eco. Muchas personas oyen su corazón, su respiración o el zumbido de sus oídos.
+1: Los **perros** oyen hasta unos 45.000 Hz, muy por encima de nosotros. Por eso los silbatos ultrasónicos funcionan con ellos.
+? ¿Qué rango de frecuencias oímos? | Aproximadamente de 20 a 20.000 Hz.
+? ¿Existe el silencio total? | En una cámara anecoica casi, pero oyes los sonidos de tu propio cuerpo.
++ Wikipedia: Decibelio | https://es.wikipedia.org/wiki/Decibelio
++ Wikipedia: Cámara anecoica | https://es.wikipedia.org/wiki/C%C3%A1mara_anecoica
++ Wikipedia: Infrasonido | https://es.wikipedia.org/wiki/Infrasonido
+
+=059 deportes
+Algunos récords deportivos parecen imposibles. Estos son 10.
+10: **Michael Phelps** ganó **28 medallas olímpicas**, 23 de oro, entre 2004 y 2016.
+9: **Mike Powell** saltó **8,95 metros** en Tokio 1991, el récord más antiguo del atletismo masculino en pruebas de salto.
+8: En Montreal 1976, **Nadia Comăneci**, con 14 años, logró el primer **10 perfecto** olímpico. El marcador solo podía mostrar "1.00".
+7: En 2019, **Eliud Kipchoge** corrió un maratón en 1:59:40 en Viena. No es récord oficial por las liebres y condiciones especiales.
+6: **Javier Sotomayor** saltó **2,45 m** en 1993. Nadie lo ha superado.
+5: **Pelé** ganó los Mundiales de 1958, 1962 y 1970. Es el único jugador con tres títulos.
+4: **Serena Williams** ganó **23 Grand Slams** individuales en la era abierta.
+3: En 400 metros vallas femenino, **Sydney McLaughlin-Levrone** ha batido el récord varias veces.
+2: **Wayne Gretzky** tiene más de 60 récords de la NHL, como 894 goles en temporada regular.
+1: En 2012, **Felix Baumgartner** saltó desde unos 39 km y superó la velocidad del sonido en caída libre. Alan Eustace saltó desde más alto en 2014.
+? ¿Quién tiene más medallas olímpicas? | Michael Phelps, con 28, 23 de oro.
+? ¿Cuál es el récord de salto de altura? | 2,45 metros, de Javier Sotomayor en 1993.
++ World Athletics: Records | https://worldathletics.org/records/all-time-toplists
++ Wikipedia: Nadia Comăneci | https://es.wikipedia.org/wiki/Nadia_Com%C4%83neci
++ Wikipedia: Red Bull Stratos | https://es.wikipedia.org/wiki/Red_Bull_Stratos
+
+=060 tecnologia
+La red que usas cada día tiene curiosidades técnicas y culturales. Estas son 10.
+10: En las listas anuales de contraseñas filtradas, **"123456"** aparece casi siempre en primer lugar.
+9: El "**Dancing Baby**" (1996), un bebé en 3D bailando, fue uno de los primeros contenidos virales por correo.
+8: El **Consorcio Unicode** aprueba los nuevos emojis a partir de propuestas públicas.
+7: En 1994, **Lou Montulli**, de Netscape, creó las **cookies** para que los sitios recordaran datos, como un carrito de compra.
+6: El correo electrónico en red nació en **1971**; la web, en **1991**: veinte años de diferencia.
+5: Desde hace años, **más de la mitad** del tráfico web mundial viene de móviles.
+4: Los **cables de fibra óptica** submarinos pueden medir más de 20.000 km.
+3: Vídeos han mostrado **tiburones** mordiendo cables submarinos. Google reforzó algunos con materiales resistentes.
+2: El **29 de octubre** se celebra el Día Internacional de Internet por el primer mensaje de ARPANET, en 1969.
+1: En 2014, *Gangnam Style* superó los 2.147.483.647 reproducciones, el límite de un número entero de 32 bits. YouTube amplió su contador.
+? ¿Por qué Gangnam Style rompió YouTube? | Superó el máximo de un contador de 32 bits: 2.147.483.647 visitas.
+? ¿Quién inventó las cookies? | Lou Montulli, de Netscape, en 1994.
++ Wikipedia: Cookie (informática) | https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)
++ Wikipedia: Gangnam Style | https://es.wikipedia.org/wiki/Gangnam_Style
++ Wikipedia: Consorcio Unicode | https://es.wikipedia.org/wiki/Consorcio_Unicode
