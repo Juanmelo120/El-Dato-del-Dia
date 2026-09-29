@@ -1,13 +1,9 @@
-# Skills de diseño
+# Skills de diseño instaladas
 
-Pon cada skill en su propia carpeta dentro de `.claude/skills/`:
+| Carpeta | Origen | Licencia |
+|---|---|---|
+| `impeccable/` | github.com/pbakaus/impeccable | Apache-2.0 |
+| `emil-design-eng/`, `animate/`, `improve-animations/`, `review-animations/` | github.com/emilkowalski/skill | MIT |
+| `taste/` | github.com/Leonxlnx/taste-skill | MIT |
 
-```
-.claude/skills/
-├── impeccable/SKILL.md
-├── emil-kowalski/SKILL.md
-└── taste/SKILL.md
-```
-
-Claude Code las carga solas al empezar cada sesión.
-Las instrucciones completas están en `/GUIA-SKILLS-Y-MCP.md`.
+Se cargan solas al abrir una sesión de Claude Code en este repo. Escribe `/` para verlas.

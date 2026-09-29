@@ -2,6 +2,8 @@
 
 ## 1. Skills (Impeccable, Emil Kowalski, Taste)
 
+> ✅ **Ya están instaladas** en `.claude/skills/`. No tienes que hacer nada. Lo de abajo solo sirve si quieres añadir más skills en el futuro.
+
 Una *skill* es una carpeta con un archivo `SKILL.md` y a veces otros archivos de apoyo.
 Claude Code las lee de `.claude/skills/` en el repo (para todas las sesiones, incluidas las de la nube) o de `~/.claude/skills/` en tu computadora (solo en tu equipo).
 
@@ -29,6 +31,8 @@ Si el autor la publica como plugin, en Claude Code escribe `/plugin`, añade el 
 **Para comprobar que funcionó:** abre una sesión nueva y escribe `/`. Deberían aparecer `impeccable`, `emil-kowalski` y `taste` en la lista.
 
 ## 2. MCP de Figma
+
+> ⚠️ **En la nube:** el entorno bloquea `mcp.figma.com`. Para permitirlo, abre el menú del entorno en la barra superior de la sesión, pulsa **Edit → Network access** y añade `mcp.figma.com` y `*.figma.com` a los dominios permitidos (o elige acceso completo). Luego abre una sesión nueva.
 El archivo `.mcp.json` del repo ya lo configura. Solo falta autorizarlo:
 1. Abre Claude Code en este repo y acepta el servidor `figma` cuando te lo pregunte.
 2. Escribe `/mcp`, elige **figma → Authenticate** e inicia sesión en Figma.
