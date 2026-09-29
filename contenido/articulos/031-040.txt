@@ -1,21 +1,3 @@
-=035 naturaleza
-La naturaleza lleva millones de años perfeccionando soluciones. Estos 10 datos muestran algunas de las mejores.
-10: En otoño, los árboles dejan de producir **clorofila**. El verde desaparece y aparecen los **carotenoides** amarillos y naranjas, que siempre estuvieron ahí. Los rojos (antocianinas) sí se producen en otoño.
-9: Los árboles crecen en altura por los **meristemos** de las puntas. Por eso un clavo en el tronco se queda a la misma altura siempre, aunque el tronco se engrose.
-8: La ***Selaginella lepidophylla*** o planta de la resurrección puede perder casi toda su agua, enrollarse y "revivir" en horas al mojarse.
-7: La seda de araña es, a igualdad de peso, más resistente a la tracción que el acero y muy elástica. Los científicos intentan imitarla.
-6: Las plantas pierden agua por los estomas de las hojas (**transpiración**). Un árbol grande puede transpirar cientos de litros al día.
-5: Los **cocos** flotan y pueden sobrevivir meses en el mar. Así colonizaron muchas islas tropicales.
-4: Los **girasoles jóvenes** siguen al sol durante el día gracias a su reloj interno. De adultos quedan orientados al **este**, lo que atrae más polinizadores.
-3: Los montículos de **termitas** tienen conductos que regulan temperatura y gases. Inspiraron el edificio Eastgate, en Zimbabue, que ahorra energía.
-2: La **mariposa monarca** viaja cada otoño hasta unos 4.000 km desde Canadá y EE. UU. hasta los bosques de México. El viaje lo completan varias generaciones.
-1: Las abejas usan celdas **hexagonales** porque el hexágono divide el espacio con el menor perímetro. Lo demostró matemáticamente Thomas Hales en 1999.
-? ¿Por qué las hojas cambian de color en otoño? | Porque desaparece la clorofila y quedan otros pigmentos.
-? ¿Por qué las abejas hacen hexágonos? | Porque es la forma que divide el espacio con menos cera.
-+ Wikipedia: Conjetura del panal | https://es.wikipedia.org/wiki/Conjetura_del_panal
-+ Wikipedia: Danaus plexippus | https://es.wikipedia.org/wiki/Danaus_plexippus
-+ Wikipedia: Selaginella lepidophylla | https://es.wikipedia.org/wiki/Selaginella_lepidophylla
-
 =036 historia
 Algunos enigmas históricos llevan siglos sin respuesta. Estos son 10 de los más famosos.
 10: **Alejandro Magno** murió en Babilonia en el 323 a. C. y su cuerpo se llevó a Egipto. Su tumba en Alejandría fue visitada por emperadores romanos, pero su ubicación se perdió.
