@@ -1,21 +1,3 @@
-=031 cultura
-Cada palabra es un pequeño fósil: guarda historias de pueblos, inventos y hasta bromas. Estas son las 10 del carrusel.
-10: *Robot* nació en la obra teatral *R.U.R.* (1920) de Karel Čapek. La palabra la sugirió su hermano Josef, a partir del checo ***robota***, "trabajo forzado" o servidumbre.
-9: *Tomate* viene del náhuatl ***tomatl***, fruto hinchado. Los españoles lo llevaron a Europa en el siglo XVI junto con la palabra.
-8: *Chocolate* suele relacionarse con el náhuatl *xocolātl*, aunque esa forma no aparece en los textos más antiguos. Una teoría la vincula con *chicolatl*, por el palito con que se batía. Su origen exacto **sigue discutiéndose**.
-7: *Almohada* viene del árabe hispánico *almuẖádda*, "lugar donde se apoya la mejilla". Muchas palabras con "al-" inicial (*alfombra*, *algodón*, *alcalde*) incorporaron el artículo árabe *al*.
-6: *Galaxia* viene del griego *galaxías*, derivado de *gála*, **leche**. Los griegos llamaban así a la franja lechosa del cielo: la Vía Láctea.
-5: En 1688, el médico suizo **Johannes Hofer** unió los términos griegos *nóstos* (regreso) y *álgos* (dolor) para describir la enfermedad de soldados suizos que añoraban su casa.
-4: Los **vándalos**, pueblo germánico, saquearon Roma en el 455. En 1794, durante la Revolución francesa, el abad Grégoire acuñó *vandalisme* para la destrucción de obras de arte.
-3: En 1946 EE. UU. hizo pruebas nucleares en el atolón **Bikini**. Días después, el diseñador Louis Réard presentó un bañador diminuto y lo bautizó así, buscando un impacto "explosivo".
-2: *Hamaca* viene del **taíno**, lengua del Caribe. Colón la describió en su diario y la palabra pasó al español y a otros idiomas (*hammock* en inglés).
-1: En 1839, un periódico de Boston usó "O.K." como abreviatura humorística de ***oll korrect*** (all correct mal escrito). La moda de abreviaturas pasó, pero *OK* sobrevivió gracias a una campaña presidencial de 1840.
-? ¿De dónde viene la palabra OK? | De "oll korrect", una abreviatura humorística publicada en Boston en 1839.
-? ¿Qué significa galaxia? | Viene del griego gála, leche, por la Vía Láctea.
-+ Diccionario de la lengua española (RAE) | https://dle.rae.es/
-+ Wikipedia: OK | https://es.wikipedia.org/wiki/OK
-+ Wikipedia: Nostalgia | https://es.wikipedia.org/wiki/Nostalgia
-
 =032 historia
 El dinero que llevas en la cartera está lleno de detalles pensados para durar, protegerse o contar una historia.
 10: Los **billetes de euro** tienen el mismo diseño en toda la zona euro. Las **monedas** tienen una cara común y otra nacional, pero todas valen en cualquier país del euro.
