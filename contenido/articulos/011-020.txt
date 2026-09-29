@@ -1,21 +1,3 @@
-=017 cultura
-Detrás de las películas más famosas hay trucos de sonido, riesgos que hoy serían impensables y récords curiosos. Estos son los 10 datos del carrusel.
-10: En 1895, los hermanos **Lumière** proyectaron en París películas de unos **50 segundos**, como *La salida de los obreros de la fábrica*. Ya antes, en 1888, Louis Le Prince filmó *La escena del jardín de Roundhay*, de apenas 2 segundos.
-9: **Toy Story** (1995), de Pixar, fue el primer largometraje hecho completamente con animación por ordenador. Tardó unos cuatro años en producirse.
-8: El logo de la MGM tuvo varios leones desde 1916. Slats, Jackie o Leo aparecieron en distintas épocas. Leo es el que se usa desde 1957.
-7: El diseñador de sonido **Ben Burtt** creó el zumbido de los sables láser de *Star Wars* combinando el ruido de un **proyector de cine** con la interferencia de un televisor captada por un micrófono.
-6: Se cuenta que **Charles Chaplin** participó de incógnito en un concurso de imitadores suyos y no ganó. La historia aparece en periódicos de 1915, pero **no está confirmada** del todo.
-5: En los años 30 se usaba **amianto** como nieve artificial en películas. En *El mago de Oz* (1939) cubre la escena de las amapolas. Su peligro para la salud aún no se conocía bien.
-4: *The Kiss* (1896), de Thomas Edison, mostró un beso en primer plano durante unos 18 segundos. Algunos la criticaron por "escandalosa".
-3: Para *Titanic* (1997), James Cameron construyó en México una réplica del barco de unos **236 metros**, alrededor del 90 % del tamaño real, en un tanque gigante.
-2: **Alfred Hitchcock** aparece en unas 39 de sus 52 películas. Sus cameos eran tan esperados que empezó a hacerlos pronto para que el público se concentrara en la trama.
-1: El **grito de Wilhelm** se grabó en 1951 para *Distant Drums*. Ben Burtt lo recuperó y lo usó en *Star Wars*. Hoy aparece en cientos de películas.
-? ¿Cuál fue la primera película hecha totalmente por ordenador? | Toy Story, de Pixar, estrenada en 1995.
-? ¿Qué es el grito de Wilhelm? | Un efecto de sonido grabado en 1951 que aparece en cientos de películas.
-+ Wikipedia: Grito Wilhelm | https://es.wikipedia.org/wiki/Grito_Wilhelm
-+ Wikipedia: Toy Story | https://es.wikipedia.org/wiki/Toy_Story
-+ Wikipedia: Cameos de Alfred Hitchcock | https://en.wikipedia.org/wiki/List_of_Alfred_Hitchcock_cameo_appearances
-
 =018 cultura
 La música afecta al cerebro, a los animales e incluso a los tribunales. Estos 10 datos lo cuentan.
 10: *Happy Birthday to You* nació de una melodía de 1893. Warner/Chappell cobró derechos por ella durante décadas, hasta que en **2015 un juez** dictaminó que no tenía un copyright válido sobre la letra. Hoy es de dominio público.
