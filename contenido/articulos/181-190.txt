@@ -1,0 +1,179 @@
+=181 ciencia
+Los virus están en la frontera entre lo vivo y lo inerte. Estos son 10 datos.
+10: Los virus no tienen metabolismo propio ni se reproducen solos: necesitan infectar una célula. Por eso muchos científicos no los consideran seres vivos del todo.
+9: Los **bacteriófagos** infectan bacterias. Se investigan como alternativa a los antibióticos.
+8: La mayoría de virus miden entre 20 y 300 nanómetros: solo se ven con **microscopio electrónico**.
+7: El **Mimivirus**, descubierto en 2003, es tan grande que al principio se confundió con una bacteria.
+6: Un mililitro de agua de mar puede contener **millones de virus**; la mayoría infectan bacterias y algas.
+5: La OMS declaró **erradicada la viruela** en 1980 tras una campaña mundial de vacunación.
+4: Los virus de la gripe **mutan** rápido; por eso la vacuna se actualiza cada año.
+3: Algunos virus ayudan a sus huéspedes, como uno que da tolerancia al calor a una planta en suelos geotérmicos.
+2: Las **vacunas** enseñan al sistema inmunitario a reconocer un virus sin sufrir la enfermedad.
+1: Alrededor del **8 % de nuestro ADN** son restos de **retrovirus** que infectaron a nuestros antepasados.
+? ¿Los virus están vivos? | Es discutido: no se reproducen sin infectar una célula.
+? ¿Cuándo se erradicó la viruela? | En 1980, según la OMS.
++ Wikipedia: Virus | https://es.wikipedia.org/wiki/Virus
++ Wikipedia: Mimivirus | https://es.wikipedia.org/wiki/Mimivirus
++ Wikipedia: Retrovirus endógeno | https://es.wikipedia.org/wiki/Retrovirus_end%C3%B3geno
+
+=182 ciencia
+El ADN es el manual de instrucciones de la vida. Estos son 10 datos.
+10: Dos personas cualesquiera comparten alrededor del **99,9 %** de su ADN.
+9: Una comparación divulgada por el NIH indicó que compartimos genes con equivalentes en el **plátano**, en torno al 60 %. Esos genes hacen funciones básicas de las células.
+8: El ADN usa cuatro bases: **adenina, timina, citosina y guanina**.
+7: Se ha secuenciado ADN de **mamuts** de más de un millón de años, conservado en el permafrost.
+6: Científicos han guardado libros, fotos y vídeos codificados en **ADN sintético**.
+5: Los **gemelos idénticos** tienen ADN casi idéntico, con algunas mutaciones propias.
+4: El **Proyecto Genoma Humano** terminó en 2003, tras 13 años. En 2022 se completó la secuencia al 100 %.
+3: El **ADN mitocondrial** se hereda casi siempre de la madre.
+2: Las pruebas de **ascendencia** comparan marcadores genéticos con poblaciones de referencia.
+1: El ADN de una célula mide unos **2 metros** estirado y cabe en un núcleo de unas pocas micras.
+? ¿Cuánto ADN compartimos con otras personas? | Alrededor del 99,9 %.
+? ¿Cuánto mide el ADN de una célula? | Unos 2 metros estirado.
++ NHGRI: Human Genome Project | https://www.genome.gov/human-genome-project
++ Wikipedia: ADN | https://es.wikipedia.org/wiki/%C3%81cido_desoxirribonucleico
++ Wikipedia: ADN mitocondrial | https://es.wikipedia.org/wiki/ADN_mitocondrial
+
+=183 cuerpo-humano
+Tus células son pequeñas fábricas con formas y vidas muy distintas. Estos son 10 datos.
+10: Un adulto tiene unos **30 billones** de células humanas, según estimaciones de 2016.
+9: El **óvulo** mide unos 0,1 mm y es visible a simple vista.
+8: Algunas **neuronas** motoras van de la médula espinal a los dedos del pie: más de un metro.
+7: Los **glóbulos rojos** maduros no tienen núcleo, lo que deja más espacio para la hemoglobina.
+6: El cuerpo produce millones de células nuevas cada segundo para reemplazar las que mueren.
+5: Los **macrófagos** "comen" bacterias y células muertas (fagocitosis).
+4: Las **células madre** pueden convertirse en distintos tipos de células.
+3: En 1665, **Robert Hooke** vio celdas en un trozo de corcho y las llamó *cells*.
+2: La **epidermis** se renueva aproximadamente cada 4 semanas.
+1: Algunas células viven días (como las del intestino) y muchas **neuronas** duran toda la vida.
+? ¿Cuántas células tiene el cuerpo? | Unos 30 billones.
+? ¿Quién vio la primera célula? | Robert Hooke, en 1665, en un trozo de corcho.
++ Wikipedia: Célula | https://es.wikipedia.org/wiki/C%C3%A9lula
++ Wikipedia: Robert Hooke | https://es.wikipedia.org/wiki/Robert_Hooke
++ Wikipedia: Macrófago | https://es.wikipedia.org/wiki/Macr%C3%B3fago
+
+=184 ciencia
+Los genes explican curiosidades como el pelo rojo o el odio al cilantro. Estos son 10 datos.
+10: Los humanos tenemos unos **20.000 genes** que codifican proteínas, muchos menos de lo que se pensaba.
+9: El **arroz** tiene más genes que nosotros: unos 40.000.
+8: Las variantes del gen **MC1R** se asocian al pelo rojo y la piel clara.
+7: La capacidad de **enrollar la lengua** no depende de un solo gen, como se enseñaba en clase.
+6: Los **hoyuelos** tienen un componente hereditario, pero no siguen una regla simple.
+5: Además del ABO y el Rh, existen **más de 40 sistemas** de grupos sanguíneos reconocidos.
+4: Una variante del gen **OR6A2** hace que el cilantro sepa a jabón para algunas personas.
+3: El **reflejo fótico** hace estornudar al mirar una luz brillante; es hereditario.
+2: La **epigenética** estudia cómo el ambiente "enciende" o "apaga" genes sin cambiar el ADN.
+1: Un estudio de 2008 propuso que todas las personas con **ojos azules** comparten una mutación de un antepasado de hace unos 6.000–10.000 años.
+? ¿Por qué el cilantro sabe a jabón para algunos? | Por una variante del gen OR6A2.
+? ¿De dónde vienen los ojos azules? | De una mutación de hace unos 6.000–10.000 años, según un estudio.
++ Wikipedia: Epigenética | https://es.wikipedia.org/wiki/Epigen%C3%A9tica
++ Wikipedia: Reflejo fótico del estornudo | https://es.wikipedia.org/wiki/Reflejo_f%C3%B3tico_del_estornudo
++ Eiberg et al. (2008). Blue eye color in humans may be caused by a perfectly associated founder mutation. Human Genetics | https://doi.org/10.1007/s00439-007-0460-x
+
+=185 ciencia
+El microscopio abrió un mundo invisible. Estos son 10 datos.
+10: El microscopio compuesto se atribuye a ópticos neerlandeses, como **Zacharias Janssen**, hacia 1590.
+9: **Anton van Leeuwenhoek** observó bacterias y protozoos en los años 1670 con microscopios de una sola lente.
+8: En *Micrographia* (1665), **Robert Hooke** dibujó una pulga y un piojo enormes.
+7: El **microscopio electrónico** usa electrones, con longitud de onda mucho menor que la luz.
+6: El **Foldscope** es un microscopio de papel que cuesta alrededor de un dólar.
+5: Los **virus** son más pequeños que el límite de resolución de la luz visible.
+4: La **microscopía de fluorescencia** usa tintes o proteínas que brillan.
+3: Gracias al microscopio, Schleiden y Schwann formularon la **teoría celular** en 1838–1839.
+2: En la **Estación Espacial** hay microscopios para estudiar células en microgravedad.
+1: El **microscopio de efecto túnel** (1981) permitió ver átomos. Sus inventores ganaron el Nobel en 1986.
+? ¿Quién vio las primeras bacterias? | Anton van Leeuwenhoek, en los años 1670.
+? ¿Se pueden ver átomos? | Sí, con el microscopio de efecto túnel.
++ Wikipedia: Microscopio de efecto túnel | https://es.wikipedia.org/wiki/Microscopio_de_efecto_t%C3%BAnel
++ Wikipedia: Anton van Leeuwenhoek | https://es.wikipedia.org/wiki/Anton_van_Leeuwenhoek
++ Wikipedia: Foldscope | https://es.wikipedia.org/wiki/Foldscope
+
+=186 ciencia
+Algunos experimentos históricos parecen de novela. Estos son 10.
+10: Según su biógrafo, **Galileo** midió las oscilaciones de una lámpara en la catedral de Pisa usando su **pulso**.
+9: **Newton** se metió una aguja roma entre el ojo y el hueso para ver qué colores aparecían al presionar la retina.
+8: **Marie Curie** llevaba a veces tubos de radio en los bolsillos. Sus cuadernos siguen siendo radiactivos y se consultan con protección.
+7: **Iván Pávlov** descubrió el **reflejo condicionado** con perros que salivaban al oír una señal.
+6: **Gregor Mendel** cruzó miles de plantas de guisante y descubrió las leyes de la herencia.
+5: En 1909, el equipo de **Rutherford** disparó partículas contra una lámina de oro y descubrió el **núcleo atómico**.
+4: En 1847, **Ignaz Semmelweis** pidió lavarse las manos con cloro y la mortalidad por fiebre puerperal cayó drásticamente.
+3: En 1953, **Stanley Miller** simuló la Tierra primitiva y obtuvo **aminoácidos**.
+2: La oveja **Dolly** (1996) fue el primer mamífero clonado a partir de una célula adulta.
+1: En 2010, el equipo de **Craig Venter** creó una bacteria con un genoma sintético, apodada **Synthia**.
+? ¿Quién descubrió el núcleo atómico? | Rutherford, con el experimento de la lámina de oro.
+? ¿Quién fue Dolly? | La primera oveja clonada de una célula adulta, en 1996.
++ Wikipedia: Experimento de Rutherford | https://es.wikipedia.org/wiki/Experimento_de_Rutherford
++ Wikipedia: Ignaz Semmelweis | https://es.wikipedia.org/wiki/Ignaz_Semmelweis
++ Wikipedia: Experimento de Miller y Urey | https://es.wikipedia.org/wiki/Experimento_de_Miller_y_Urey
+
+=187 ciencia
+Muchos descubrimientos llegaron por accidente. Estos son 10.
+10: En 1879, **Constantin Fahlberg** notó un sabor dulce en su mano tras trabajar con derivados del alquitrán: la **sacarina**.
+9: En 1938, **Roy Plunkett** abrió un cilindro de gas vacío y encontró un polvo resbaladizo: el **teflón**.
+8: En 1896, **Henri Becquerel** guardó sales de uranio en un cajón con placas fotográficas por un día nublado. Las placas se velaron: descubrió la **radiactividad**.
+7: En 1943, **Albert Hofmann** absorbió accidentalmente **LSD** y describió sus efectos.
+6: **Alfred Nobel** estabilizó la nitroglicerina mezclándola con tierra de diatomeas: la **dinamita** (1867).
+5: En 1903, el químico **Édouard Bénédictus** vio que un frasco con nitrato de celulosa se rompía sin esparcir trozos: nació el **vidrio de seguridad**.
+4: La corteza del **quino** se usaba en Sudamérica contra fiebres; de ella se aisló la **quinina** contra la malaria.
+3: Alquimistas chinos buscando un **elixir de inmortalidad** crearon la **pólvora** hacia el siglo IX.
+2: El **sildenafilo** se estudiaba para la angina de pecho antes de conocerse su uso actual.
+1: La **Play-Doh** nació en los años 30 como masa para limpiar el hollín del papel pintado.
+? ¿Cómo se descubrió la radiactividad? | Becquerel guardó uranio con placas fotográficas y se velaron.
+? ¿Para qué se inventó la plastilina Play-Doh? | Para limpiar papel pintado.
++ Wikipedia: Sacarina | https://es.wikipedia.org/wiki/Sacarina
++ Wikipedia: Politetrafluoroetileno | https://es.wikipedia.org/wiki/Politetrafluoroetileno
++ Wikipedia: Play-Doh | https://es.wikipedia.org/wiki/Play-Doh
+
+=188 tecnologia
+Algunos errores terminaron convertidos en inventos famosos. Estos son 10.
+10: En 1942, **Harry Coover** descartó el cianoacrilato por pegarse a todo. En 1951 lo redescubrió: el **pegamento instantáneo**.
+9: En 1957, Alfred Fielding y Marc Chavannes intentaron hacer **papel pintado** texturizado. Fracasó, pero nació el **plástico de burbujas**.
+8: En 1913, **Harry Brearley** notó que unas muestras de acero con cromo no se oxidaban: el **acero inoxidable**.
+7: En 1856, **William Perkin**, de 18 años, buscaba sintetizar quinina y obtuvo el primer tinte sintético: la **malveína**.
+6: Se cuenta que un ingeniero de **Canon** dejó un soldador caliente sobre una jeringa de tinta y esta salió disparada: la idea de la inyección térmica.
+5: En 1908, **Jacques Brandenberger** quería una tela que repeliera manchas y acabó creando el **celofán**.
+4: En 1943, **Richard James** vio caer un muelle que parecía caminar: nació el **Slinky**.
+3: En 1826, **John Walker** raspó un palillo con químicos que se encendió: las **cerillas de fricción**.
+2: En 1952, la química **Patsy Sherman** derramó un compuesto en su zapatilla que repelía el agua: el **Scotchgard**.
+1: En 1905, **Frank Epperson**, de 11 años, dejó un refresco con un palito fuera en una noche fría: el primer **polo helado**.
+? ¿Quién inventó el polo helado? | Frank Epperson, un niño de 11 años, en 1905.
+? ¿Cómo nació el plástico de burbujas? | De un intento fallido de papel pintado.
++ Wikipedia: Plástico de burbujas | https://es.wikipedia.org/wiki/Pl%C3%A1stico_de_burbujas
++ Wikipedia: Slinky | https://es.wikipedia.org/wiki/Slinky
++ Wikipedia: Malveína | https://es.wikipedia.org/wiki/Malve%C3%ADna
+
+=189 ciencia
+Los premios científicos tienen historias curiosas. Estas son 10.
+10: **Einstein** recibió el Nobel de Física de 1921 por el **efecto fotoeléctrico**, no por la relatividad.
+9: **Linus Pauling** ganó el Nobel de Química (1954) y el de la Paz (1962), ambos sin compartir.
+8: **William y Lawrence Bragg**, padre e hijo, compartieron el Nobel de Física de 1915.
+7: **Grigori Perelman** rechazó en 2010 el premio de un millón de dólares del Instituto Clay por la conjetura de Poincaré.
+6: La **Medalla Fields** solo se concede a matemáticos menores de 40 años.
+5: El "Nobel de Economía" lo creó el Banco de Suecia en **1968**, no Alfred Nobel.
+4: **Marie y Pierre Curie** compartieron el Nobel de Física de 1903 con Becquerel.
+3: El **Premio Abel**, desde 2003, es uno de los máximos reconocimientos en matemáticas.
+2: **Andre Geim** ganó el Ig Nobel (2000) por hacer levitar una rana con imanes y el Nobel de Física (2010) por el grafeno.
+1: Los **Ig Nobel** premian investigaciones que "primero hacen reír y luego hacen pensar".
+? ¿Por qué ganó Einstein el Nobel? | Por el efecto fotoeléctrico.
+? ¿Qué son los Ig Nobel? | Premios a investigaciones que primero hacen reír y luego pensar.
++ Nobel Prize | https://www.nobelprize.org/
++ Improbable Research: Ig Nobel | https://improbable.com/ig/
++ Wikipedia: Medalla Fields | https://es.wikipedia.org/wiki/Medalla_Fields
+
+=190 ciencia
+Algunos experimentos cambiaron la ciencia para siempre. Estos son 10.
+10: La historia de **Galileo** soltando bolas desde la Torre de Pisa probablemente fue un experimento mental; sí experimentó con planos inclinados.
+9: Hacia 1801, **Thomas Young** hizo pasar luz por dos rendijas y vio franjas de interferencia: la luz se comporta como onda.
+8: En 1887, **Michelson y Morley** no detectaron el "éter", lo que abrió camino a la relatividad.
+7: En 1851, **Léon Foucault** colgó un péndulo en París y mostró que su plano de oscilación gira: la Tierra rota.
+6: En 1798, **Henry Cavendish** midió la densidad de la Tierra con una balanza de torsión.
+5: En 1887, **Heinrich Hertz** generó y detectó ondas de radio, confirmando la teoría de Maxwell.
+4: Entre 1909 y 1913, **Robert Millikan** midió la carga del electrón con gotas de aceite.
+3: En el eclipse de 1919, **Arthur Eddington** midió la desviación de la luz de estrellas cerca del Sol, como predijo Einstein.
+2: Con **matraces de cuello de cisne**, **Pasteur** demostró que la vida no surge espontáneamente.
+1: **Newton** imaginó un cubo de agua girando para discutir el movimiento absoluto; el experimento del cubo aún se debate.
+? ¿Cómo se demostró que la Tierra gira? | Con el péndulo de Foucault en 1851.
+? ¿Qué demostró Eddington en 1919? | Que la luz se curva cerca del Sol, como predijo Einstein.
++ Wikipedia: Péndulo de Foucault | https://es.wikipedia.org/wiki/P%C3%A9ndulo_de_Foucault
++ Wikipedia: Experimento de Young | https://es.wikipedia.org/wiki/Experimento_de_Young
++ Wikipedia: Experimento de Michelson y Morley | https://es.wikipedia.org/wiki/Experimento_de_Michelson_y_Morley
