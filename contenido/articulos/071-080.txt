@@ -1,0 +1,179 @@
+=071 cultura
+Los idiomas del mundo funcionan de maneras sorprendentes: tonos que cambian el significado, reyes que inventan alfabetos y lenguas creadas desde cero.
+10: En **mandarín**, la sílaba *ma* significa "madre", "cáñamo", "caballo" o "regañar" según el **tono** (hay cuatro, más uno neutro). Muchas lenguas de Asia y África son tonales.
+9: El japonés combina **kanji** (caracteres de origen chino), **hiragana** (para gramática) y **katakana** (para palabras extranjeras) en una misma frase.
+8: El **árabe** y el **hebreo** se escriben de derecha a izquierda, pero sus números suelen escribirse de izquierda a derecha.
+7: El alemán forma **compuestos**: *Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz* fue el nombre de una ley regional, con 63 letras.
+6: El **finés** no tiene género gramatical: el pronombre ***hän*** significa tanto "él" como "ella".
+5: **Papúa Nueva Guinea** tiene más de **800 lenguas**, más que ningún otro país.
+4: El médico **L. L. Zamenhof** publicó el **esperanto** en 1887 para facilitar el entendimiento entre pueblos. Hoy lo hablan cientos de miles de personas.
+3: El **islandés** conserva mucho del nórdico antiguo: los islandeses pueden leer las sagas medievales con relativa facilidad.
+2: En 1443, el rey **Sejong** de Corea creó el **hangul**, un alfabeto diseñado para que todo el pueblo pudiera aprender a leer.
+1: En ruso, "tengo un libro" se dice ***U menyá yest kniga***: literalmente, "junto a mí hay un libro".
+? ¿Quién inventó el alfabeto coreano? | El rey Sejong, en 1443.
+? ¿Qué país tiene más idiomas? | Papúa Nueva Guinea, con más de 800.
++ Wikipedia: Hangul | https://es.wikipedia.org/wiki/Hangul
++ Wikipedia: Esperanto | https://es.wikipedia.org/wiki/Esperanto
++ Ethnologue: Papúa Nueva Guinea | https://www.ethnologue.com/country/PG/
+
+=072 historia
+El dinero tiene historias curiosas: monedas con forma de cuchillo, pizzas carísimas y cajeros con más de medio siglo.
+10: En prisiones de EE. UU., cuando se prohibió fumar, los **sobres de caballa** y los sellos se convirtieron en moneda. Cuando no hay dinero oficial, se inventa.
+9: El primer **cajero automático** se instaló en un banco de Barclays en **Londres** en junio de 1967.
+8: Las primeras tarjetas de débito aparecieron en los años 60 y 70. El **PIN** lo ideó el escocés James Goodfellow en 1966.
+7: En la antigua China, entre los siglos VII y III a. C., circulaban **monedas de bronce con forma de cuchillo** y de pala.
+6: Desde **1929**, los billetes de dólar miden unos **15,6 × 6,6 cm**, más pequeños que los anteriores.
+5: Los bancos centrales retiran los billetes gastados, los **trituran** y a veces los reciclan como material de construcción o compost.
+4: En **Kenia**, el sistema **M-Pesa** (2007) permite pagar y enviar dinero con un móvil sencillo. Transformó el acceso a servicios financieros.
+3: El **euro** nació como moneda en **1999** para transferencias; los billetes y monedas llegaron el 1 de enero de 2002.
+2: Guardar dinero en casa lo expone a robos y a la **inflación**, que le quita poder de compra.
+1: El 22 de mayo de 2010, **Laszlo Hanyecz** pagó **10.000 bitcoins** por dos pizzas. Ese día se celebra el "Bitcoin Pizza Day".
+? ¿Cuándo se instaló el primer cajero? | En 1967, en Londres.
+? ¿Qué es el Bitcoin Pizza Day? | El 22 de mayo, aniversario de la compra de dos pizzas por 10.000 bitcoins en 2010.
++ Wikipedia: Cajero automático | https://es.wikipedia.org/wiki/Cajero_autom%C3%A1tico
++ Wikipedia: M-Pesa | https://es.wikipedia.org/wiki/M-Pesa
++ Wikipedia: Bitcoin | https://es.wikipedia.org/wiki/Bitcoin
+
+=073 geografia
+Estos son los lugares extremos del planeta: el más lluvioso, el más bajo, el más remoto y la ciudad más alta.
+10: **Mawsynram** (India) recibe de media unos **11.800 mm** de lluvia al año, por los monzones que chocan con las colinas de Khasi.
+9: **Longyearbyen**, en Svalbard (Noruega), es la localidad más septentrional con más de 1.000 habitantes. Allí se desaconseja morir: el permafrost impide que los cuerpos se descompongan.
+8: **Groenlandia** mide unos 2,2 millones de km². Australia es mayor, pero se considera continente.
+7: Según la ONU, **India** superó a China como país más poblado en **2023**.
+6: La orilla del **mar Muerto** está a unos **430 metros** bajo el nivel del mar, y sigue bajando.
+5: El área metropolitana de **Tokio** tiene unos 37 millones de habitantes.
+4: El **Amazonas** vierte unos 200.000 m³ de agua por segundo, cerca del 20 % del agua dulce que llega a los océanos.
+3: El **Ojos del Salado** (6.893 m), entre Chile y Argentina, es el volcán más alto del mundo.
+2: **Tristán de Acuña** tiene unos 250 habitantes y está a unos 2.400 km de Santa Elena, el lugar habitado más cercano.
+1: **La Rinconada** (Perú), a unos **5.100 metros**, es la ciudad más alta del mundo. Vive de las minas de oro.
+? ¿Cuál es el lugar más lluvioso del mundo? | Mawsynram, en India.
+? ¿Cuál es la ciudad más alta del mundo? | La Rinconada, en Perú, a unos 5.100 metros.
++ Wikipedia: Mawsynram | https://es.wikipedia.org/wiki/Mawsynram
++ Wikipedia: La Rinconada (Perú) | https://es.wikipedia.org/wiki/La_Rinconada_(Per%C3%BA)
++ Wikipedia: Tristán de Acuña | https://es.wikipedia.org/wiki/Trist%C3%A1n_de_Acu%C3%B1a
+
+=074 tecnologia
+Muchos inventos que parecen modernos tienen miles de años. Estos son 10.
+10: Desde el 59 a. C., Roma publicaba las **Acta Diurna**, avisos oficiales tallados o escritos que se exponían en lugares públicos.
+9: Un papiro egipcio describe una **pasta de dientes** con sal, menta, flores de iris y pimienta.
+8: En el palacio de Jorsabad (Asiria) se encontró una **cerradura de madera** de unos 4.000 años.
+7: Según la tradición, **Platón** tenía un reloj de agua con alarma que silbaba para despertar a sus alumnos.
+6: El funcionario chino **Cai Lun** perfeccionó el **papel** en el año 105 con corteza, cáñamo y trapos.
+5: El **cursus publicus** romano tenía estaciones de relevo con caballos para llevar mensajes oficiales por todo el imperio.
+4: En el **Coliseo**, montacargas movidos por poleas y personas subían animales y decorados a la arena.
+3: **Herón de Alejandría** describió una **máquina expendedora**: al echar una moneda, se liberaba agua sagrada.
+2: Los **inuit** tallaban gafas de hueso o madera con rendijas para evitar la **ceguera de la nieve**.
+1: La **lente de Nimrud** es un cristal de roca pulido de unos 3.000 años. Se debate si era lupa o adorno.
+? ¿Existía el papel hace 2.000 años? | Sí, en China; Cai Lun lo perfeccionó en el año 105.
+? ¿Hubo máquinas expendedoras en la Antigüedad? | Sí, Herón de Alejandría describió una que daba agua al echar una moneda.
++ Wikipedia: Acta Diurna | https://es.wikipedia.org/wiki/Acta_Diurna
++ Wikipedia: Cai Lun | https://es.wikipedia.org/wiki/Cai_Lun
++ Wikipedia: Lente de Nimrud | https://es.wikipedia.org/wiki/Lente_de_Nimrud
+
+=075 naturaleza
+Las plantas no pueden huir, pero tienen estrategias sorprendentes: avisan a sus vecinas, se camuflan y cuentan.
+10: Al ser mordidas, muchas plantas producen compuestos tóxicos o de mal sabor. Algunas detectan las **vibraciones** de un insecto masticando.
+9: Las **tomateras** atacadas liberan compuestos volátiles; las vecinas los detectan y refuerzan sus defensas.
+8: Las raíces crecen hacia la humedad (**hidrotropismo**), además de hacia abajo por la gravedad.
+7: Los ***lithops*** del sur de África parecen piedras. Solo "florecen" en colores llamativos tras las lluvias.
+6: En algunas flores, como la **lantana**, el color cambia tras la polinización y los insectos visitan las que aún tienen néctar.
+5: Cuando una oruga come **maíz**, la planta libera sustancias que atraen a **avispas parasitoides**, que atacan a la oruga.
+4: Muchas legumbres **pliegan sus hojas** de noche (nictinastia). Darwin lo estudió.
+3: La ***Welwitschia mirabilis*** del desierto de Namib tiene solo dos hojas que crecen toda su vida. Puede superar los 1.000 años.
+2: El **muérdago** hace fotosíntesis pero extrae agua y minerales del árbol donde vive: es semiparásito.
+1: La **dionea** cierra su trampa en unos 0,1 segundos. Necesita que se toquen dos pelos sensores en unos 20 segundos para cerrarse: así evita falsas alarmas.
+? ¿Las plantas se comunican? | Sí, liberan sustancias que otras plantas detectan.
+? ¿Cómo sabe la dionea que atrapó un insecto? | Cuenta los toques en sus pelos sensores.
++ Wikipedia: Dionaea muscipula | https://es.wikipedia.org/wiki/Dionaea_muscipula
++ Wikipedia: Welwitschia mirabilis | https://es.wikipedia.org/wiki/Welwitschia_mirabilis
++ Wikipedia: Lithops | https://es.wikipedia.org/wiki/Lithops
+
+=076 historia
+Hay lugares en el mundo que siguen intrigando a arqueólogos y geólogos. Estos son 10.
+10: Muchos **moáis** de la Isla de Pascua están semienterrados. Las excavaciones revelaron torsos con grabados bajo tierra.
+9: **Göbekli Tepe** (Turquía) tiene pilares tallados de más de 11.000 años, anteriores a la agricultura y a Stonehenge.
+8: En **Carnac** (Francia) hay más de 3.000 piedras alineadas de hace unos 6.000 años. Su función no está clara.
+7: En el **Bosque torcido** de Polonia, unos 400 pinos tienen el tronco curvado en su base. Se cree que fue intervención humana, pero no hay registros.
+6: El cráter de **Darvaza** (Turkmenistán) arde desde hace décadas. Las autoridades han planteado apagarlo.
+5: La **Puerta del Sol** de Tiwanaku (Bolivia) está tallada en un solo bloque de andesita con grabados precisos.
+4: La **Carretera de Bimini** (Bahamas) es una alineación de piedras bajo el agua. La mayoría de geólogos cree que es roca natural fracturada.
+3: En 1911, **Hiram Bingham** dio a conocer **Machu Picchu** al mundo, aunque agricultores locales vivían allí.
+2: Las **cuevas de Longyou** (China) son enormes salas excavadas en roca hace más de 2.000 años. No hay registros de quién las hizo.
+1: En 2000, el arqueólogo Franck Goddio encontró **Heraclión** (Thonis) bajo la bahía de Abukir, en Egipto, con templos y estatuas.
+? ¿Qué es Göbekli Tepe? | Un santuario de más de 11.000 años, anterior a la agricultura.
+? ¿Existe una ciudad sumergida en Egipto? | Sí, Heraclión, hallada bajo el mar en 2000.
++ Wikipedia: Göbekli Tepe | https://es.wikipedia.org/wiki/G%C3%B6bekli_Tepe
++ Wikipedia: Heraclión | https://es.wikipedia.org/wiki/Heracle%C3%B3n
++ Wikipedia: Bosque torcido | https://es.wikipedia.org/wiki/Bosque_torcido
+
+=077 cultura
+La animación esconde trucos, cambios de guion y retos técnicos enormes. Estos son 10 secretos.
+10: La animación clásica usa **24 fotogramas por segundo**. A menudo se dibuja "en doses": 12 dibujos por segundo, cada uno repetido dos veces.
+9: ***Shrek*** (2001) se basó en el libro ilustrado de **William Steig** de 1990.
+8: En una versión temprana de ***Toy Story***, **Woody** era cruel y mandón. Tras un pase desastroso en 1993 ("Black Friday"), rehicieron el guion.
+7: El pelaje de **Sulley** en *Monstruos, S.A.* tenía unos **2,3 millones** de pelos. Pixar creó software nuevo para simularlos.
+6: ***Frozen*** cambió cuando se compuso *Let It Go*: Elsa pasó de villana a personaje complejo.
+5: ***El Rey León*** toma ideas de ***Hamlet***: un tío que mata al rey y un hijo que debe vengarlo.
+4: Muchos personajes animados, como **Los Simpson**, tienen **cuatro dedos**: es más fácil de dibujar y se ve mejor.
+3: En ***Coco***, cada esqueleto tenía cientos de piezas. La Tierra de los Muertos tenía unos 7 millones de luces.
+2: ***Spider-Man: Un nuevo universo*** mezcló técnicas 2D y 3D e imitó la trama de puntos de los cómics.
+1: ***Blancanieves*** (1937) necesitó unos **2 millones de dibujos**, aunque solo una parte llegó a la película.
+? ¿Cuántos dibujos por segundo tiene la animación? | 24 fotogramas por segundo, a menudo 12 dibujos repetidos.
+? ¿Por qué los personajes animados tienen cuatro dedos? | Porque es más fácil de dibujar y se ve mejor.
++ Wikipedia: Toy Story | https://es.wikipedia.org/wiki/Toy_Story
++ Wikipedia: Blancanieves y los siete enanitos (película) | https://es.wikipedia.org/wiki/Blancanieves_y_los_siete_enanitos_(pel%C3%ADcula_de_1937)
++ Wikipedia: Spider-Man: Un nuevo universo | https://es.wikipedia.org/wiki/Spider-Man:_Un_nuevo_universo
+
+=078 cultura
+Cada instrumento tiene su historia: pianos suaves y fuertes, flautas de Hawái con raíces portuguesas y un instrumento que no se toca.
+10: Bartolomeo Cristofori creó hacia 1700 el ***gravicembalo col piano e forte***: un teclado que podía sonar suave (*piano*) o fuerte (*forte*).
+9: El belga **Adolphe Sax** patentó el **saxofón** en 1846. Es de metal, pero se clasifica como instrumento de viento madera por su lengüeta.
+8: A principios del siglo XX, músicos de jazz combinaron bombo con pedal, cajas y platillos: nació la **batería**.
+7: En las tumbas reales de **Ur** (Mesopotamia) se hallaron liras y arpas de unos 4.500 años.
+6: El **ukelele** nació en Hawái en el siglo XIX a partir del **machete** portugués llevado por inmigrantes de Madeira.
+5: La guitarra antigua tenía cuatro o cinco órdenes de cuerdas dobles. La de **seis cuerdas simples** se consolidó hacia el siglo XIX.
+4: El **didgeridoo** de los aborígenes australianos se toca con **respiración circular**: se inspira por la nariz sin dejar de soplar.
+3: El violín tiene cuatro cuerdas afinadas en **quintas**: sol, re, la y mi.
+2: Hay **gaitas** en Galicia, Asturias, Irlanda, Bulgaria y muchos otros lugares.
+1: El **theremín**, inventado por Lev Termen en 1920, se toca sin contacto: las manos cambian un campo eléctrico que controla tono y volumen.
+? ¿Qué instrumento se toca sin tocarlo? | El theremín, inventado en 1920.
+? ¿De dónde viene el ukelele? | De Hawái, a partir de un instrumento portugués.
++ Wikipedia: Theremín | https://es.wikipedia.org/wiki/Therem%C3%ADn
++ Wikipedia: Saxofón | https://es.wikipedia.org/wiki/Saxof%C3%B3n
++ Wikipedia: Ukelele | https://es.wikipedia.org/wiki/Ukelele
+
+=079 deportes
+Muchos deportes nacieron de juegos antiguos, leyendas escolares o aburrimiento de surfistas.
+10: Según la leyenda, en 1823 **William Webb Ellis** cogió el balón con las manos en un partido del colegio Rugby. Los historiadores dudan de la historia, pero la Copa del Mundo lleva su nombre.
+9: El **jeu de paume** francés se jugaba golpeando la pelota con la palma de la mano. Luego llegaron guantes y raquetas: nació el tenis.
+8: Los polinesios y hawaianos practicaban el surf (***heʻe nalu***) hace siglos. El capitán Cook lo describió en 1778.
+7: El **pugilato** formaba parte de los Juegos Olímpicos antiguos desde el 688 a. C.
+6: En los años 50, surfistas de California fijaron ruedas a tablas para "surfear" en el asfalto cuando no había olas.
+5: El **bádminton** viene del juego indio *poona*. Oficiales británicos lo llevaron a Inglaterra; su nombre viene de la mansión Badminton House.
+4: El **polo** se jugaba en Persia hace más de 2.000 años para entrenar a la caballería.
+3: En tumbas de **Beni Hasan** (Egipto) hay dibujos de hace unos 4.000 años con personas usando palos y una pelota.
+2: El **snowboard** se hizo olímpico en Nagano **1998**.
+1: La **pelota vasca** viene de juegos medievales de pelota. Se jugaba contra las paredes de iglesias; los frontones se construyeron después.
+? ¿De dónde viene el tenis? | Del jeu de paume francés, que se jugaba con la palma de la mano.
+? ¿Cuándo se hizo olímpico el snowboard? | En Nagano 1998.
++ Wikipedia: Jeu de paume | https://es.wikipedia.org/wiki/Jeu_de_paume
++ Wikipedia: William Webb Ellis | https://es.wikipedia.org/wiki/William_Webb_Ellis
++ Wikipedia: Pelota vasca | https://es.wikipedia.org/wiki/Pelota_vasca
+
+=080 tecnologia
+Las redes sociales que usas tuvieron comienzos inesperados. Estos son 10 datos.
+10: **Instagram** empezó como **Burbn** (2010), una app de check-ins. Sus creadores se quedaron con la función de fotos.
+9: Facebook probó llamar ***awesome*** al botón "me gusta". En 2009 eligió ***Like***.
+8: En 2017 ByteDance compró **Musical.ly** y en 2018 la fusionó con **TikTok**.
+7: Sus fundadores empezaron con una app de vídeos educativos que no funcionó. Luego crearon **Musical.ly** para vídeos musicales.
+6: En 2005 **YouTube** se presentó como sitio de citas con vídeo ("Tune In, Hook Up"). Nadie lo usó así.
+5: **WhatsApp** (2009) nació para mostrar estados en la agenda. La mensajería llegó después.
+4: El pájaro de Twitter se llamaba **Larry**, por el jugador de baloncesto Larry Bird.
+3: **Pinterest** nació en 2010 para guardar y organizar imágenes.
+2: **Snapchat** nació en 2011 como proyecto de estudiantes de **Stanford**.
+1: **Mark Zuckerberg** lanzó "TheFacebook" en 2004 desde su habitación en **Harvard**.
+? ¿Cómo se llamaba Instagram al principio? | Burbn.
+? ¿Cuándo se unió Musical.ly a TikTok? | En 2018.
++ Wikipedia: Instagram | https://es.wikipedia.org/wiki/Instagram
++ Wikipedia: TikTok | https://es.wikipedia.org/wiki/TikTok
++ Wikipedia: WhatsApp | https://es.wikipedia.org/wiki/WhatsApp
