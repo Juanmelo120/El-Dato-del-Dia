@@ -1,0 +1,179 @@
+=201 tecnologia
+Las matemáticas protegen tus mensajes, tus tarjetas y hasta los libros de la biblioteca. Estos son 10 códigos curiosos.
+10: Según Suetonio, **Julio César** cifraba sus cartas desplazando cada letra **tres posiciones** en el alfabeto: la A se convertía en D.
+9: El último dígito de un **código de barras EAN-13** es un **dígito de control**. Se calcula con los demás y permite detectar lecturas erróneas.
+8: El **ISBN** de 13 cifras de los libros también termina en un dígito de control que detecta la mayoría de errores al teclearlo.
+7: En **Morse**, las letras más usadas en inglés tienen los códigos más cortos: la **E** es un solo punto y la **T** una sola raya.
+6: El **algoritmo de Luhn** (1954) comprueba si un número de tarjeta es válido antes de consultar al banco. Detecta cualquier error en una sola cifra.
+5: El sistema **RSA** (1977) se basa en que multiplicar dos primos enormes es fácil, pero separar el resultado en sus factores es casi imposible.
+4: Los **códigos QR** usan la corrección de errores **Reed-Solomon**. En su nivel más alto, se leen aunque falte hasta un **30 %** del código.
+3: Todo lo digital, desde fotos hasta canciones, se guarda como secuencias de **0 y 1**: el sistema **binario**.
+2: Las webs bien hechas no guardan tu contraseña, sino su **hash**: una huella que no se puede revertir fácilmente.
+1: Los descifradores de **Bletchley Park**, entre ellos **Alan Turing**, rompieron los mensajes de la máquina **Enigma**. Algunos historiadores calculan que acortaron la guerra hasta dos años.
+? ¿Qué es un dígito de control? | Una cifra calculada con las demás que permite detectar errores.
+? ¿Por qué un QR dañado sigue funcionando? | Por la corrección de errores Reed-Solomon.
++ Wikipedia: Algoritmo de Luhn | https://es.wikipedia.org/wiki/Algoritmo_de_Luhn
++ Wikipedia: RSA | https://es.wikipedia.org/wiki/RSA
++ Wikipedia: Enigma (máquina) | https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)
+
+=202 historia
+Los calendarios parecen fijos, pero han cambiado con papas, revoluciones y emperadores. Estos son 10 datos.
+10: En **1582**, el papa **Gregorio XIII** introdujo el calendario gregoriano. Al jueves 4 de octubre le siguió el viernes **15 de octubre**.
+9: Rusia usó el calendario **juliano** hasta 1918. La Revolución de Octubre (25 de octubre) fue el **7 de noviembre** en el calendario gregoriano.
+8: Los mayas combinaban varios ciclos: el **Tzolk'in** de 260 días, el **Haab'** de 365 y la **cuenta larga** para fechas históricas.
+7: El calendario chino es **lunisolar**, así que el **Año Nuevo** cae entre el 21 de enero y el 20 de febrero.
+6: El calendario **islámico** tiene 12 meses lunares y unos **354 días**. Por eso el **Ramadán** se adelanta unos 11 días cada año.
+5: El **calendario republicano francés** (1793–1805) tenía meses de 30 días divididos en **décadas** de 10 días.
+4: Para ajustar el calendario, **Julio César** hizo que el año **46 a. C.** durara **445 días**. Se le llamó "el último año de la confusión".
+3: **Julio** honra a **Julio César** y **agosto** a **Augusto**.
+2: El año romano empezaba en marzo, así que **septiembre** (séptimo), octubre, noviembre y diciembre conservan números que ya no encajan.
+1: El calendario **etíope** tiene 12 meses de 30 días y un **13.º mes** de 5 o 6 días. Va unos **7 u 8 años** por detrás del gregoriano.
+? ¿Cuántos días se saltaron en 1582? | Diez: del 4 de octubre se pasó al 15.
+? ¿Por qué la Revolución de Octubre fue en noviembre? | Rusia aún usaba el calendario juliano.
++ Wikipedia: Calendario gregoriano | https://es.wikipedia.org/wiki/Calendario_gregoriano
++ Wikipedia: Calendario etíope | https://es.wikipedia.org/wiki/Calendario_et%C3%ADope
++ Wikipedia: Calendario republicano francés | https://es.wikipedia.org/wiki/Calendario_republicano_franc%C3%A9s
+
+=203 tecnologia
+Antes del móvil, la humanidad midió el tiempo con arena, agua, fuego y átomos. Estos son 10 datos.
+10: Los **relojes de arena** se usaban en los barcos para medir guardias y calcular la velocidad con la **corredera**.
+9: Las **clepsidras** medían el tiempo por el agua que goteaba. La más antigua conocida, egipcia, tiene unos **3.400 años**.
+8: Las **velas** con marcas se quemaban a ritmo casi constante. Se atribuyen al rey anglosajón **Alfredo el Grande**.
+7: **Christiaan Huygens** construyó el primer **reloj de péndulo** en 1656. Pasó de desviarse unos 15 minutos al día a solo unos **15 segundos**.
+6: El cristal de **cuarzo** de un reloj vibra **32.768 veces por segundo**, que es 2¹⁵ y fácil de contar en binario.
+5: El reloj de la **catedral de Salisbury**, de hacia **1386**, se considera el reloj mecánico en funcionamiento más antiguo.
+4: Los primeros relojes de torre solo tenían **aguja de horas**. El minutero se generalizó cuando los relojes fueron más precisos.
+3: Antes del tren, cada pueblo usaba su propia hora solar. En 1847, los ferrocarriles británicos adoptaron la **hora de Greenwich**.
+2: El **Reloj del Juicio Final**, del *Bulletin of the Atomic Scientists*, marca el riesgo de catástrofe global. En 2025 quedó a **89 segundos** de la medianoche.
+1: Los mejores **relojes atómicos ópticos** no ganarían ni perderían un segundo en más de **10.000 millones de años**.
+? ¿Quién inventó el reloj de péndulo? | Christiaan Huygens, en 1656.
+? ¿Por qué el cuarzo vibra 32.768 veces? | Porque es 2¹⁵ y es fácil dividirlo en binario hasta un segundo.
++ Wikipedia: Reloj de péndulo | https://es.wikipedia.org/wiki/Reloj_de_p%C3%A9ndulo
++ Wikipedia: Reloj de la catedral de Salisbury | https://en.wikipedia.org/wiki/Salisbury_Cathedral_clock
++ NIST: Atomic clocks | https://www.nist.gov/atomic-clocks
+
+=204 geografia
+Los husos horarios parecen lógicos, pero la política los ha llenado de rarezas. Estos son 10.
+10: China abarca unos **cinco husos horarios** geográficos, pero desde 1949 usa solo la **hora de Pekín**. En el oeste amanece hacia las 10.
+9: **India** usa **UTC+5:30**, una media hora que reparte la diferencia entre sus extremos este y oeste.
+8: **Nepal** usa **UTC+5:45**, uno de los pocos husos del mundo con 45 minutos.
+7: En la **Antártida**, cada base suele usar la hora de su país o de su puerto de abastecimiento.
+6: En la **Conferencia Internacional del Meridiano** de 1884 se eligió **Greenwich** como meridiano 0.
+5: **Samoa** pasó al otro lado de la línea internacional de fecha y se saltó el **30 de diciembre de 2011**, para acercarse a Australia y Nueva Zelanda.
+4: España usa la hora de Europa Central desde **1940**. Por su longitud le correspondería la de Greenwich, como Portugal y Reino Unido.
+3: **Venezuela** atrasó su hora media hora en **2007** y la volvió a adelantar en **2016**.
+2: Muchos países tropicales no usan **horario de verano**, porque cerca del ecuador la duración del día cambia poco.
+1: Las islas **Diómedes Mayor** (Rusia) y **Menor** (EE. UU.) están a unos 4 km, pero separadas por **21 horas** en su hora oficial.
+? ¿Por qué Nepal usa UTC+5:45? | Para ajustar la hora a su mediodía solar, que queda entre dos husos.
+? ¿Qué día se saltó Samoa? | El 30 de diciembre de 2011.
++ Wikipedia: Huso horario | https://es.wikipedia.org/wiki/Huso_horario
++ Wikipedia: Hora de Pekín | https://es.wikipedia.org/wiki/Hora_de_Pek%C3%ADn
++ Wikipedia: Islas Diómedes | https://es.wikipedia.org/wiki/Islas_Di%C3%B3medes
+
+=205 ciencia
+El 29 de febrero existe porque la Tierra no tarda un número exacto de días en dar la vuelta al Sol. Estos son 10 datos.
+10: Un año bisiesto tiene **366 días**, con un **29 de febrero** extra.
+9: Los años terminados en 00 solo son bisiestos si se dividen entre **400**. Por eso **1900 no fue bisiesto**.
+8: **2000** sí fue bisiesto, porque se divide entre 400. El próximo año secular bisiesto será el **2400**.
+7: El **año trópico** dura unos **365,2422 días**. Sin bisiestos, las estaciones se desplazarían casi un día cada 4 años.
+6: **Julio César** introdujo el día bisiesto cada 4 años con el calendario **juliano**, en el **46 a. C.**
+5: Desde 1972 se han añadido **27 segundos intercalares** para ajustar la hora atómica a la rotación de la Tierra. Se dejarán de añadir hacia 2035.
+4: **Anthony**, en la frontera entre Texas y Nuevo México, se proclama "capital mundial del año bisiesto" y celebra un festival.
+3: Según una tradición irlandesa atribuida a **santa Brígida**, el 29 de febrero las mujeres podían pedir matrimonio.
+2: **Suecia** tuvo un **30 de febrero** en **1712**, al corregir un intento fallido de pasarse poco a poco al calendario gregoriano.
+1: Quien nace el 29 de febrero, un **"bisiestino"**, solo tiene su fecha exacta cada **4 años**. La probabilidad de nacer ese día es de 1 entre 1.461.
+? ¿Por qué 1900 no fue bisiesto? | Porque los años terminados en 00 solo lo son si se dividen entre 400.
+? ¿Cuándo hubo un 30 de febrero? | En Suecia, en 1712.
++ Wikipedia: Año bisiesto | https://es.wikipedia.org/wiki/A%C3%B1o_bisiesto
++ Wikipedia: 30 de febrero | https://es.wikipedia.org/wiki/30_de_febrero
++ Wikipedia: Segundo intercalar | https://es.wikipedia.org/wiki/Segundo_intercalar
+
+=206 historia
+Algunas fechas marcan un antes y un después para millones de personas. Estas son 10.
+10: El **12 de octubre de 1492**, la expedición de **Colón** llegó a Guanahaní, en las Bahamas. Empezó el intercambio entre América y Europa.
+9: El **14 de julio de 1789**, los parisinos tomaron la **Bastilla**, símbolo del poder real. Es la fiesta nacional de Francia.
+8: El **4 de julio de 1776**, el Congreso Continental aprobó la **Declaración de Independencia** de Estados Unidos.
+7: El **28 de junio de 1914**, el archiduque **Francisco Fernando** fue asesinado en Sarajevo. Un mes después empezó la Primera Guerra Mundial.
+6: El **9 de noviembre de 1989**, tras un anuncio confuso en rueda de prensa, se abrieron los pasos del **Muro de Berlín**.
+5: El **6 de agosto de 1945**, EE. UU. lanzó una bomba atómica sobre **Hiroshima**. Tres días después, sobre Nagasaki.
+4: El **4 de octubre de 1957**, la URSS lanzó el **Sputnik 1**, el primer satélite artificial.
+3: El **12 de abril de 1961**, **Yuri Gagarin** dio una vuelta a la Tierra en 108 minutos a bordo del Vostok 1.
+2: El **25 de diciembre de 1991**, **Gorbachov** dimitió y al día siguiente se disolvió formalmente la **URSS**.
+1: El **20 de julio de 1969**, el Apolo 11 aterrizó en la Luna. Se estima que unos **600 millones** de personas lo vieron por televisión.
+? ¿Cuándo cayó el Muro de Berlín? | El 9 de noviembre de 1989.
+? ¿Cuánto duró el vuelo de Gagarin? | 108 minutos.
++ Wikipedia: Caída del Muro de Berlín | https://es.wikipedia.org/wiki/Ca%C3%ADda_del_Muro_de_Berl%C3%ADn
++ Wikipedia: Sputnik 1 | https://es.wikipedia.org/wiki/Sputnik_1
++ NASA: Apollo 11 | https://www.nasa.gov/mission/apollo-11/
+
+=207 naturaleza
+Las estaciones no son iguales en todo el planeta. Estos son 10 datos.
+10: En el hemisferio sur, la Navidad cae en **verano**. En Australia es común celebrarla en la playa.
+9: La órbita terrestre es algo elíptica, así que el **verano boreal** dura unos 93 días y el **invierno boreal** unos 89.
+8: En el **equinoccio**, el día dura unos minutos más que la noche porque la **refracción atmosférica** deja ver el Sol antes de que salga.
+7: Cerca del **ecuador**, la temperatura cambia poco durante el año. Las estaciones se distinguen por la **lluvia**: época húmeda y época seca.
+6: En otoño, muchos árboles pierden las hojas para **no perder agua** y evitar daños por el frío, ya que en invierno hay poca luz para la fotosíntesis.
+5: La **liebre ártica** y el **armiño** cambian a pelaje **blanco** en invierno para camuflarse en la nieve.
+4: El **solsticio de verano**, hacia el 21 de junio en el hemisferio norte, es el día con más horas de luz.
+3: La **primavera meteorológica** empieza el 1 de marzo. La **astronómica**, con el equinoccio, hacia el 20 de marzo.
+2: El año de **Marte** dura unos **687 días**, así que cada estación dura aproximadamente el doble que en la Tierra.
+1: Las estaciones se deben a la **inclinación del eje** (unos 23,4°). De hecho, la Tierra está más **cerca** del Sol en enero.
+? ¿Qué causa las estaciones? | La inclinación del eje de la Tierra.
+? ¿Cuándo está la Tierra más cerca del Sol? | A principios de enero.
++ NASA Space Place: What causes the seasons? | https://spaceplace.nasa.gov/seasons/
++ Wikipedia: Estación del año | https://es.wikipedia.org/wiki/Estaci%C3%B3n_del_a%C3%B1o
++ Wikipedia: Equinoccio | https://es.wikipedia.org/wiki/Equinoccio
+
+=208 geografia
+En algunos lugares el sol no se pone durante meses. Estos son 10 datos sobre días muy largos.
+10: En **Madrid**, el solsticio de junio trae unas **15 horas** de luz. En La Coruña, algo más.
+9: En algunos puntos de **Mercurio**, el Sol parece detenerse y **retroceder** en el cielo antes de seguir, por su órbita excéntrica.
+8: En el **Polo Norte** el Sol sale en marzo y no se pone hasta septiembre: un día de unos **seis meses**.
+7: En **Tromsø** (Noruega), el **sol de medianoche** dura aproximadamente del **20 de mayo al 22 de julio**.
+6: Las mareas frenan la rotación de la Tierra y el día se alarga unos **2 milisegundos por siglo**.
+5: Hace unos 600 millones de años, el día duraba unas **22 horas**, según registros en rocas y corales.
+4: En **San Petersburgo**, en junio, las **noches blancas** mantienen un crepúsculo claro toda la noche.
+3: En **Reikiavik**, en junio, el Sol se pone poco antes de medianoche y el cielo no llega a oscurecerse.
+2: En el norte de **Finlandia**, como en Utsjoki, el sol no se pone durante unos **70 días** en verano.
+1: En **Svalbard** (Longyearbyen), el sol de medianoche dura aproximadamente del **20 de abril al 23 de agosto**.
+? ¿Por qué se alargan los días? | Las mareas frenan la rotación de la Tierra.
+? ¿Cuánto dura el día en el Polo Norte? | Unos seis meses.
++ Wikipedia: Sol de medianoche | https://es.wikipedia.org/wiki/Sol_de_medianoche
++ Wikipedia: Noches blancas | https://es.wikipedia.org/wiki/Noches_blancas
++ NASA: Mercury | https://science.nasa.gov/mercury/
+
+=209 geografia
+Cuando el sol no sale durante semanas, la vida cambia. Estos son 10 datos de la noche polar.
+10: En la base **Concordia** o en el **Polo Sur**, pequeños equipos pasan el invierno aislados, sin vuelos durante meses.
+9: Un estudio de 2011 mostró que los **renos** ven **luz ultravioleta**, lo que les ayuda a distinguir líquenes y depredadores en la penumbra ártica.
+8: La falta de luz puede causar **trastorno afectivo estacional**, que se trata a menudo con **lámparas de luz**.
+7: En **Rjukan** (Noruega), un valle sin sol de septiembre a marzo, se instalaron en 2013 **espejos** que reflejan la luz a la plaza del pueblo.
+6: El **solsticio de invierno**, hacia el 21 de diciembre en el hemisferio norte, trae la noche más larga del año.
+5: En **Murmansk**, la mayor ciudad al norte del círculo polar, la noche polar dura unos **40 días**.
+4: Con la oscuridad casi continua, las **auroras** pueden verse también a media tarde si hay actividad solar.
+3: Muchas culturas celebran el regreso del sol, como la **Santa Lucía** en Suecia o el **Día del Sol** en Tromsø.
+2: En la noche polar, el mediodía trae unas horas de luz **azul** crepuscular, aunque el sol no sale.
+1: En **Utqiagvik** (Alaska), el sol no sale desde mediados de noviembre hasta finales de enero: unos **65 días**.
+? ¿Cómo tiene sol Rjukan en invierno? | Con espejos que reflejan la luz a la plaza.
+? ¿Ven los renos en la oscuridad? | Ven luz ultravioleta, útil en la penumbra ártica.
++ Wikipedia: Noche polar | https://es.wikipedia.org/wiki/Noche_polar
++ Wikipedia: Rjukan | https://es.wikipedia.org/wiki/Rjukan
++ Hogg et al. (2011). Arctic reindeer extend their visual range into the ultraviolet. J. Exp. Biol. | https://doi.org/10.1242/jeb.053553
+
+=210 historia
+Antes de los relojes, las personas medían el tiempo con el cielo, el fuego y la oración. Estos son 10 datos.
+10: Los egipcios dividieron el día en **12 horas de luz** y **12 de noche**. De ahí vienen nuestras 24 horas.
+9: Para los romanos, el día tenía siempre **12 horas**, así que una hora de verano era más larga que una de invierno.
+8: En los monasterios, las **horas canónicas** (maitines, laudes, vísperas…) marcaban el día con oraciones y campanas.
+7: **Stonehenge** se alinea con la salida del sol en el **solsticio de verano** y su puesta en el de invierno.
+6: El **Códice de Dresde** tiene tablas mayas que predicen el ciclo de **Venus** de 584 días con gran precisión.
+5: En China y Japón se usaban **relojes de incienso**, que ardían a ritmo conocido; algunos cambiaban de aroma según la hora.
+4: En los barcos, un reloj de arena de media hora marcaba la guardia y se tocaba la **campana** en cada giro.
+3: Japón usó **horas variables** según la estación hasta que adoptó el calendario occidental en **1873**.
+2: El **gnomon**, un palo que proyecta sombra, es uno de los instrumentos de medir el tiempo más antiguos.
+1: Los egipcios dividían el cielo en 36 **decanos**, grupos de estrellas que al salir marcaban las horas de la noche.
+? ¿De dónde vienen las 24 horas? | De los egipcios: 12 de día y 12 de noche.
+? ¿Qué eran los decanos? | Grupos de estrellas que marcaban las horas de la noche en Egipto.
++ Wikipedia: Decanos | https://es.wikipedia.org/wiki/Decano_(astrolog%C3%ADa)
++ Wikipedia: Códice de Dresde | https://es.wikipedia.org/wiki/C%C3%B3dice_de_Dresde
++ Wikipedia: Stonehenge | https://es.wikipedia.org/wiki/Stonehenge
