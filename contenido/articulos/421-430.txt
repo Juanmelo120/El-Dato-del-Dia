@@ -1,0 +1,179 @@
+=421 animales
+Algunos animales son maestros del disfraz. Estos son 10.
+10: La **mantis orquídea** parece una flor rosa y blanca. Los insectos se acercan confiados y ella los caza.
+9: El **búho chico** cierra los ojos, estira el cuerpo y se confunde con la **corteza** del árbol.
+8: Algunas **orugas** imitan **excrementos de pájaro** para que nadie quiera comérselas.
+7: El **pez pipa fantasma** parece un trozo de alga y flota inmóvil a la deriva.
+6: El **nictibio** pasa el día inmóvil en la punta de una rama, como si fuera un trozo roto.
+5: El **geco cola de hoja** de Madagascar parece una hoja seca, con bordes "mordidos".
+4: Algunos **saltamontes hoja** imitan hasta las **manchas** y mordiscos de una hoja vieja.
+3: La **perdiz nival** es blanca en invierno y parda en verano, al ritmo de la nieve.
+2: Las **rayas de la cebra** confunden a las **moscas**, que tienen dificultades para aterrizar sobre ellas.
+1: El **búho nival** es blanco sobre blanco: casi invisible en la tundra nevada.
+? ¿Para qué sirven las rayas de la cebra? | Entre otras cosas, dificultan que se posen las moscas.
+? ¿Qué animal imita una flor? | La mantis orquídea.
++ Caro et al. (2019). Benefits of zebra stripes: behaviour of tabanid flies around zebras and horses. PLoS ONE | https://doi.org/10.1371/journal.pone.0210831
++ Wikipedia: Hymenopus coronatus | https://es.wikipedia.org/wiki/Hymenopus_coronatus
++ Wikipedia: Uroplatus phantasticus | https://es.wikipedia.org/wiki/Uroplatus_phantasticus
+
+=422 animales
+Algunos animales cambian de color en segundos. Estos son 10.
+10: El **pulpo** cambia de color en milisegundos gracias a millones de **cromatóforos**, bolsitas de pigmento en la piel.
+9: La **rana arborícola gris** puede pasar de gris a verde según el fondo y la temperatura.
+8: El **camaleón** cambia de color reordenando **nanocristales** bajo su piel, que reflejan distinta luz.
+7: El **lenguado** copia el fondo tan bien que en experimentos imitó incluso un **tablero** de cuadros.
+6: El **pulpo de anillos azules** enciende sus anillos para avisar de su **veneno**, uno de los más mortales del mar.
+5: El **dragón barbudo** se oscurece por la mañana para absorber más calor.
+4: La **araña cangrejo** cambia de blanco a amarillo según la flor en la que caza.
+3: Los pulpos **palidecen** al asustarse y se **oscurecen** cuando se muestran agresivos.
+2: Las **sepias** hacen pasar "**nubes**" de colores por su piel, que pueden hipnotizar a sus presas.
+1: El **escarabajo tortuga dorado** pasa del oro brillante al **rojo** con puntos cuando lo molestan.
+? ¿Cómo cambia de color el camaleón? | Reordenando nanocristales bajo su piel.
+? ¿Qué son los cromatóforos? | Células con pigmento que permiten cambiar de color.
++ Teyssier et al. (2015). Photonic crystals cause active colour change in chameleons. Nature Communications | https://doi.org/10.1038/ncomms7368
++ Wikipedia: Cromatóforo | https://es.wikipedia.org/wiki/Cromat%C3%B3foro
++ Wikipedia: Charidotella sexpunctata | https://en.wikipedia.org/wiki/Charidotella_sexpunctata
+
+=423 animales
+En la oscuridad del océano, casi todos brillan. Estos son 10 datos.
+10: Un estudio de 2017 encontró que alrededor del **76 %** de los animales del océano profundo producen **luz**.
+9: En primavera, millones de **calamares luciérnaga** iluminan de azul la bahía de **Toyama** (Japón).
+8: El **calamar hawaiano** usa **bacterias luminosas** para no proyectar sombra desde abajo.
+7: La proteína verde fluorescente (**GFP**) de una medusa se usa en laboratorios de todo el mundo y ganó el **Nobel de Química** en 2008.
+6: Algunos organismos del plancton brillan como **chispas azules** cuando se agita el agua.
+5: Los **tiburones linterna** tienen luz en el vientre para ocultar su silueta.
+4: Los **escarabajos click** sudamericanos tienen dos "faros" verdes en la espalda.
+3: En California hay **milpiés** que brillan de noche para avisar de su veneno.
+2: El **krill** emite luz, que podría servir para comunicarse o camuflarse.
+1: El **pez dragón negro** produce luz **roja**, que casi ningún otro animal de las profundidades puede ver: es como una linterna secreta.
+? ¿Cuántos animales del océano profundo producen luz? | Alrededor del 76 %.
+? ¿Por qué es especial la luz roja del pez dragón? | Casi nadie más en las profundidades la ve.
++ Martini y Haddock (2017). Quantification of bioluminescence from the surface to the deep sea. Scientific Reports | https://doi.org/10.1038/srep45750
++ Nobel Prize: Chemistry 2008 | https://www.nobelprize.org/prizes/chemistry/2008/summary/
++ Wikipedia: Watasenia scintillans | https://es.wikipedia.org/wiki/Watasenia_scintillans
+
+=424 animales
+Algunos animales perciben el mundo de formas que no podemos imaginar. Estos son 10.
+10: Los **perros** tienen un olfato entre **10.000 y 100.000 veces** mejor que el nuestro y pueden detectar algunas enfermedades.
+9: Los **tiburones** detectan sangre en concentraciones muy bajas, como una gota en una piscina grande.
+8: Las **polillas** macho detectan las **feromonas** de las hembras a kilómetros.
+7: Los **gatos** ven con una sexta parte de la luz que necesitamos, gracias al **tapetum lucidum**, una capa reflectante del ojo.
+6: Las **serpientes** notan vibraciones del suelo a través de la **mandíbula**.
+5: Los **osos polares** huelen focas a más de **1 km**, incluso bajo el hielo.
+4: Las **águilas** ven entre **4 y 8 veces** mejor que nosotros.
+3: Los **delfines** "ven" con sonido: emiten clics y escuchan el eco.
+2: Los **abejorros** detectan los **campos eléctricos** de las flores.
+1: Se cuentan historias de animales que notan los **terremotos** antes, pero la ciencia aún no lo ha confirmado.
+? ¿Por qué los ojos de los gatos brillan de noche? | Por el tapetum lucidum.
+? ¿Pueden los animales predecir terremotos? | No está confirmado.
++ Clarke et al. (2013). Detection and learning of floral electric fields by bumblebees. Science | https://doi.org/10.1126/science.1230883
++ Wikipedia: Tapetum lucidum | https://es.wikipedia.org/wiki/Tapetum_lucidum
++ USGS: Animals and earthquake prediction | https://www.usgs.gov/programs/earthquake-hazards/animals-earthquake-prediction
+
+=425 animales
+Usar herramientas no es solo cosa de humanos. Estos son 10 ejemplos.
+10: Las **nutrias marinas** usan **piedras** para abrir conchas sobre su barriga.
+9: Los **elefantes** hacen **matamoscas** con ramas y los usan.
+8: Los **pulpos** de Indonesia cargan **cáscaras de coco** para usarlas como refugio.
+7: Los **pinzones carpinteros** de Galápagos usan **espinas** para sacar larvas.
+6: Algunos **cocodrilos** ponen **palos** en la cabeza en época de nidos para atraer aves.
+5: En 2005 se vio a una **gorila** usar un **palo** para medir la profundidad del agua antes de cruzar.
+4: Algunos **peces lábridos** golpean conchas contra **piedras** para romperlas.
+3: Algunas **hormigas** echan trozos de hoja en líquidos para usarlos como **esponja**.
+2: En Australia, algunos **milanos** recogen ramas ardiendo y las dejan caer para **extender el fuego** y cazar a los animales que huyen.
+1: En Shark Bay (Australia), algunos **delfines** llevan **esponjas marinas** en el hocico para protegerse al buscar comida en el fondo.
+? ¿Qué animal usa esponjas? | Algunos delfines de Shark Bay.
+? ¿Hay aves que usan el fuego? | Sí, algunos milanos australianos.
++ Bonta et al. (2017). Intentional fire-spreading by "firehawk" raptors in northern Australia. Journal of Ethnobiology | https://doi.org/10.2993/0278-0771-37.4.700
++ Finn et al. (2009). Defensive tool use in a coconut-carrying octopus. Current Biology | https://doi.org/10.1016/j.cub.2009.10.052
++ Wikipedia: Uso de herramientas por animales | https://es.wikipedia.org/wiki/Uso_de_herramientas_por_animales
+
+=426 animales
+Algunos animales tienen una memoria asombrosa. Estos son 10 datos.
+10: Las **elefantas** más viejas recuerdan durante décadas dónde hay **agua**, y guían a la manada en las sequías.
+9: El chimpancé **Ayumu** recordaba secuencias de números en pantalla mejor que estudiantes universitarios.
+8: Las **ovejas** pueden reconocer las caras de unas **50 ovejas** y recordarlas durante años.
+7: Los peces **no olvidan** en 3 segundos: algunos recuerdan cosas durante meses.
+6: Algunos **pulpos** de acuario reconocen a personas concretas y les **tiran agua**.
+5: El **cascanueces americano** esconde hasta **30.000 semillas** y recuerda dónde están muchas de ellas.
+4: Algunos **perros** aprenden los nombres de **cientos** de objetos.
+3: Las **palomas** pueden recordar cientos de imágenes.
+2: Los **pingüinos** reconocen la voz de su pareja entre miles en la colonia.
+1: Los **delfines mulares** recuerdan el silbido de sus compañeros después de **20 años** separados.
+? ¿Es verdad que los peces olvidan en 3 segundos? | No, es un mito.
+? ¿Cuánto recuerdan los delfines? | Silbidos de compañeros durante 20 años.
++ Bruck (2013). Decades-long social memory in bottlenose dolphins. Proc. R. Soc. B | https://doi.org/10.1098/rspb.2013.1726
++ Inoue y Matsuzawa (2007). Working memory of numerals in chimpanzees. Current Biology | https://doi.org/10.1016/j.cub.2007.10.027
++ Kendrick et al. (2001). Sheep don't forget a face. Nature | https://doi.org/10.1038/35082163
+
+=427 animales
+Cooperar es una estrategia muy extendida en la naturaleza. Estos son 10 ejemplos.
+10: Las **orcas** de la Antártida nadan juntas para crear **olas** que tiran a las focas del hielo.
+9: Los **lobos** cazan en **manada**, con papeles distintos para cada miembro.
+8: En un estudio, las **hienas** resolvieron juntas un problema de cooperación mejor que los chimpancés.
+7: Los **peces limpiadores** quitan parásitos a peces grandes, que no se los comen.
+6: Los **cuervos** siguen a los **lobos** para aprovechar los restos de sus presas.
+5: Los **pelícanos** pescan en grupo, rodeando a los peces.
+4: Las **suricatas** hacen turnos de **guardia**: una vigila mientras las demás buscan comida.
+3: Las **elefantas** cuidan crías de otras en una especie de **guardería**.
+2: Las **bacterias** se comunican con señales químicas para actuar en grupo: es el ***quorum sensing***.
+1: El **pájaro indicador** guía a personas hasta colmenas; cuando las abren, él come la **cera**.
+? ¿Qué es el quorum sensing? | La forma en que las bacterias se comunican para actuar en grupo.
+? ¿Qué hace el pájaro indicador? | Guía a las personas hasta colmenas.
++ Spottiswoode et al. (2016). Reciprocal signaling in honeyguide-human mutualism. Science | https://doi.org/10.1126/science.aaf4885
++ Drea y Carter (2009). Cooperative problem solving in a social carnivore. Animal Behaviour | https://doi.org/10.1016/j.anbehav.2009.06.030
++ Wikipedia: Quorum sensing | https://es.wikipedia.org/wiki/Percepci%C3%B3n_de_qu%C3%B3rum
+
+=428 animales
+Los animales se comunican de maneras sorprendentes. Estas son 10.
+10: Los **cachalotes** se comunican con secuencias de clics, y cada clan tiene su propio "**dialecto**".
+9: Un estudio de 2024 sugiere que los **elefantes africanos** se llaman unos a otros por su **nombre**.
+8: Las **jirafas** emiten un **zumbido** grave de noche, un sonido que se descubrió hace poco.
+7: Los **monos vervet** tienen alarmas distintas para **águila**, **serpiente** y **leopardo**.
+6: Los **perros** mueven la cola más hacia la derecha ante algo agradable y más hacia la izquierda ante algo que les inquieta.
+5: Los **gatos** adultos casi no maúllan entre ellos: el maullido lo usan sobre todo con **humanos**.
+4: Cada especie de **luciérnaga** tiene su propio **código de luz**.
+3: Los **pulpos** usan cambios de color como señales.
+2: Algunas **ranas** de torrentes ruidosos se comunican **agitando las patas**.
+1: Los **perritos de la pradera** tienen llamadas de alarma que describen el **color** y la **forma** del intruso.
+? ¿Se llaman por su nombre los elefantes? | Un estudio de 2024 lo sugiere.
+? ¿Para quién maúllan los gatos? | Sobre todo para los humanos.
++ Pardo et al. (2024). African elephants address one another with individually specific name-like calls. Nature Ecology & Evolution | https://doi.org/10.1038/s41559-024-02420-w
++ Slobodchikoff et al. (2009). Prairie dog alarm calls encode labels. Behaviour | https://doi.org/10.1163/156853909X427704
++ Wikipedia: Cercopithecus aethiops | https://es.wikipedia.org/wiki/Chlorocebus
+
+=429 naturaleza
+Algunos animales recorren miles de kilómetros cada año. Estas son 10 migraciones.
+10: Más de **un millón de ñus** migran en círculo cada año entre el **Serengeti** y el **Masái Mara**.
+9: La **ballena gris** recorre unos **16.000 a 20.000 km** al año entre México y el Ártico.
+8: Los **caribús** pueden recorrer hasta **5.000 km** al año, la mayor migración de un mamífero terrestre.
+7: Las **langostas espinosas** migran en largas **filas**, una tras otra.
+6: La **mariposa vanesa de los cardos** viaja de Europa a África cruzando el **Sahara**.
+5: Cada día, el **zooplancton** sube de noche a la superficie y baja de día: es la mayor migración del planeta en biomasa.
+4: Cada noviembre, unos **10 millones** de **murciélagos pajizos** llegan al parque Kasanka (Zambia).
+3: Los **elefantes marinos** del norte migran dos veces al año miles de kilómetros.
+2: Las **cebras** de Botsuana recorren unos **500 km** entre Namibia y Botsuana.
+1: Las **anguilas europeas** nadan hasta el **mar de los Sargazos**, a miles de km, para reproducirse y morir.
+? ¿Cuál es la mayor migración del planeta? | La del zooplancton, cada día.
+? ¿Dónde se reproducen las anguilas europeas? | En el mar de los Sargazos.
++ Wikipedia: Gran Migración del Serengeti | https://es.wikipedia.org/wiki/Gran_migraci%C3%B3n_del_Serengueti
++ Wikipedia: Migración vertical diaria | https://en.wikipedia.org/wiki/Diel_vertical_migration
++ Wikipedia: Anguilla anguilla | https://es.wikipedia.org/wiki/Anguilla_anguilla
+
+=430 animales
+Los animales son arquitectos, ingenieros y artistas. Estas son 10 construcciones.
+10: Las **ratas canguro** hacen montículos en el desierto con decenas de **entradas**.
+9: El macho del **pez globo japonés** dibuja **círculos** perfectos en la arena para atraer a las hembras.
+8: Las **arañas de trampilla** hacen una **puerta** con bisagra de seda que tapa su madriguera.
+7: Las **orugas procesionarias** tejen nidos de seda en los **pinos**.
+6: Los **gusanos de arena** construyen **arrecifes** pegando granos de arena.
+5: Las **abejas albañiles** hacen celdas de **barro** en huecos de paredes y piedras.
+4: Un **topo** puede cavar kilómetros de túneles a lo largo de su vida.
+3: Las larvas de **tricópteros** se hacen **casas** portátiles con piedras y palitos.
+2: El macho del **pez espinoso** construye un **nido** con plantas y lo defiende.
+1: En **Alberta** (Canadá) hay una **presa de castores** de unos **850 metros** que se ve en imágenes de satélite.
+? ¿Cuál es la presa de castores más grande? | Una de unos 850 m en Alberta, Canadá.
+? ¿Qué dibuja el pez globo japonés? | Círculos en la arena para atraer a las hembras.
++ Wikipedia: Presa de castores de Wood Buffalo | https://en.wikipedia.org/wiki/Wood_Buffalo_National_Park
++ Kawase et al. (2013). Role of huge geometric circular structures in the reproduction of a marine pufferfish. Scientific Reports | https://doi.org/10.1038/srep02106
++ Wikipedia: Trichoptera | https://es.wikipedia.org/wiki/Trichoptera
