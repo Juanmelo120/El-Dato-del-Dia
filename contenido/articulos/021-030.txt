@@ -1,21 +1,3 @@
-=024 cuerpo-humano
-Tu cuerpo tiene secretos dignos de ciencia ficción: huesos diminutos, hierro suficiente para un clavo y una luz que no ves.
-10: Durante años se repitió que teníamos 10 veces más bacterias que células. En 2016 un estudio lo corrigió: la proporción es **cercana a 1:1**, unas 38 billones de bacterias frente a unos 30 billones de células humanas.
-9: El **estribo**, en el oído medio, mide unos **3 mm** y es el hueso más pequeño del cuerpo. Transmite las vibraciones del tímpano al oído interno.
-8: La lengua tiene patrones de forma y textura propios de cada persona. Se ha estudiado como posible **identificador biométrico**, aunque no se usa de forma habitual.
-7: El jugo gástrico tiene un pH de 1,5–3,5 por el **ácido clorhídrico**. Puede corroer algunos metales como el zinc, aunque no de inmediato. El estómago se protege con moco.
-6: Los recién nacidos tienen unos **270–300 huesos**, muchos de ellos cartílago. Con el crecimiento se fusionan, como los del cráneo, hasta quedar en **206** en el adulto.
-5: Un adulto tiene unos **3 a 4 gramos de hierro**, sobre todo en la hemoglobina. Suficiente para fabricar un clavo pequeño.
-4: Las mediciones de la velocidad de un estornudo varían mucho. Algunos estudios hablan de más de 100 km/h; otros miden unos 16 km/h. Lo seguro es que las gotitas pueden viajar **varios metros**.
-3: Las uñas de las manos crecen unos **3,5 mm al mes**, unas dos o tres veces más rápido que las de los pies.
-2: Cada persona tiene una "firma" olfativa influida por sus genes, dieta y bacterias de la piel. Los perros rastreadores pueden distinguir individuos, e incluso casi a gemelos idénticos.
-1: En 2009 investigadores japoneses captaron con cámaras ultrasensibles que el cuerpo humano emite una **luz muy débil**, unas mil veces más tenue que la que ve el ojo. Varía durante el día.
-? ¿Tenemos más bacterias que células? | La proporción es cercana a 1:1, según un estudio de 2016.
-? ¿Cuántos huesos tiene un bebé? | Entre 270 y 300, que se fusionan hasta quedar 206.
-+ Sender et al. (2016). Revised estimates for the number of human and bacteria cells in the body. PLOS Biology | https://doi.org/10.1371/journal.pbio.1002533
-+ Wikipedia: Estribo (anatomía) | https://es.wikipedia.org/wiki/Estribo_(hueso)
-+ Kobayashi et al. (2009). Imaging of ultraweak spontaneous photon emission from human body. PLOS ONE | https://doi.org/10.1371/journal.pone.0006256
-
 =025 historia
 La historia tiene episodios que parecen guiones de película: guerras contra aves, juicios a cadáveres y un hombre que evitó una guerra nuclear.
 10: Según el historiador Suetonio, **Calígula** ordenó a sus soldados atacar el mar y recoger conchas como "botín". Los historiadores dudan de cuánto es cierto y cuánto propaganda contra el emperador.
