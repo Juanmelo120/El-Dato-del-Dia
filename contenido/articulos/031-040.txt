@@ -1,21 +1,3 @@
-=037 cultura
-Detrás de las escenas más famosas hay trucos baratos, sonidos inesperados y récords históricos.
-10: En *Jurassic Park* (1993), los dinosaurios aparecen en pantalla unos 15 minutos: la mayoría con animatrónicos de Stan Winston. Los hechos por ordenador suman solo unos minutos.
-9: El rugido del **T-Rex** mezcla sonidos de una cría de elefante, un tigre y un caimán, entre otros, según su diseñador Gary Rydstrom.
-8: Para la escena de la ducha de *Psicosis* (1960), Hitchcock usó **jarabe de chocolate** Bosco: en blanco y negro parecía sangre.
-7: La primera ceremonia de los **Óscar** fue el 16 de mayo de **1929** y duró unos 15 minutos. Los ganadores se conocían de antemano.
-6: En 2020, *Parásitos*, de Bong Joon-ho, fue la primera película en idioma no inglés en ganar el Óscar a **mejor película**.
-5: En *Star Wars*, **David Prowse** vestía el traje de Darth Vader y **James Earl Jones** puso la voz.
-4: **Andy Serkis** interpretó a Gollum con **captura de movimiento**: sensores registraban su cuerpo y su cara.
-3: El primer corto de Pixar, **Luxo Jr.** (1986), tenía una lámpara de escritorio. Desde entonces salta sobre la "I" del logo.
-2: Durante la saga *Harry Potter* se fabricaron miles de **varitas**; cada actor tenía varias copias.
-1: La nieve de muchos rodajes es **papel**, espuma o celulosa, porque la real se derrite bajo los focos.
-? ¿Con qué se hizo la sangre de Psicosis? | Con jarabe de chocolate, que se veía bien en blanco y negro.
-? ¿Quién puso la voz de Darth Vader? | James Earl Jones; en el traje estaba David Prowse.
-+ Wikipedia: Jurassic Park (película) | https://es.wikipedia.org/wiki/Jurassic_Park_(pel%C3%ADcula)
-+ Wikipedia: Parásitos (película) | https://es.wikipedia.org/wiki/Par%C3%A1sitos_(pel%C3%ADcula)
-+ Wikipedia: Luxo Jr. | https://es.wikipedia.org/wiki/Luxo_Jr.
-
 =038 cultura
 La música esconde curiosidades sobre silencio, flautas prehistóricas y cerebros que cambian. Estos son los 10 datos.
 10: Las guitarras acústicas apenas se oían en las orquestas de jazz y big band. En los años 30 aparecieron modelos con pastillas eléctricas, como la "Frying Pan" de Rickenbacker (1932).
