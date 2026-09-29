@@ -1,21 +1,3 @@
-=023 naturaleza
-El mar esconde animales longevos, lagos submarinos y hasta una medusa que rejuvenece. Estos son los 10 datos.
-10: Los corales negros de las profundidades crecen lentísimo. Análisis de radiocarbono en Hawái dataron una colonia de *Leiopathes* en **más de 4.000 años**, de los animales más longevos conocidos.
-9: El **pez loro** raspa algas del coral con su "pico" y tritura la roca caliza. Lo que no digiere lo expulsa como **arena blanca**. Un solo pez puede producir cientos de kilos al año en algunas especies.
-8: La **circulación termohalina** mueve el agua por todos los océanos según su temperatura y salinidad. Una "gota" puede tardar alrededor de **1.000 años** en completar el recorrido.
-7: Un estudio de 2016 dató con radiocarbono el cristalino de tiburones de Groenlandia: el más viejo tendría entre **272 y 512 años**. Es el vertebrado más longevo conocido.
-6: En el golfo de México hay **pozas de salmuera** tan densas que forman lagos en el fondo, con orillas y hasta "olas". Son tóxicas para muchos animales que caen en ellas.
-5: El **pulpo mimo** de Indonesia imita a peces león, serpientes marinas y lenguados cambiando color y postura. Se descubrió en 1998.
-4: Los machos de **ballena jorobada** cantan canciones complejas que se repiten. Las poblaciones comparten un mismo canto y lo van cambiando; a veces una canción nueva se "contagia" por todo un océano.
-3: En los **caballitos de mar**, la hembra deposita los huevos en la bolsa del macho, que los fecunda y los incuba hasta dar a luz a cientos de crías.
-2: Las medusas no tienen cerebro: usan una **red nerviosa** distribuida por el cuerpo que coordina el nado y la caza.
-1: La ***Turritopsis dohrnii*** puede volver a su fase de pólipo cuando está herida o envejece, y empezar de nuevo. Por eso la llaman "medusa inmortal", aunque puede morir por depredadores o enfermedades.
-? ¿Cuánto vive un tiburón de Groenlandia? | Al menos 272 años, y quizá más de 400.
-? ¿Existe una medusa inmortal? | La Turritopsis dohrnii puede rejuvenecer, aunque puede morir por otras causas.
-+ Nielsen et al. (2016). Eye lens radiocarbon reveals centuries of longevity in the Greenland shark. Science | https://www.science.org/doi/10.1126/science.aaf1703
-+ Wikipedia: Turritopsis dohrnii | https://es.wikipedia.org/wiki/Turritopsis_dohrnii
-+ Wikipedia: Circulación termohalina | https://es.wikipedia.org/wiki/Circulaci%C3%B3n_termohalina
-
 =024 cuerpo-humano
 Tu cuerpo tiene secretos dignos de ciencia ficción: huesos diminutos, hierro suficiente para un clavo y una luz que no ves.
 10: Durante años se repitió que teníamos 10 veces más bacterias que células. En 2016 un estudio lo corrigió: la proporción es **cercana a 1:1**, unas 38 billones de bacterias frente a unos 30 billones de células humanas.
