@@ -1,21 +1,3 @@
-=036 historia
-Algunos enigmas históricos llevan siglos sin respuesta. Estos son 10 de los más famosos.
-10: **Alejandro Magno** murió en Babilonia en el 323 a. C. y su cuerpo se llevó a Egipto. Su tumba en Alejandría fue visitada por emperadores romanos, pero su ubicación se perdió.
-9: La Orden del **Temple** fue disuelta en 1312. Desde entonces circulan leyendas sobre un tesoro escondido, pero no hay pruebas de que existiera.
-8: Las **esferas de piedra** del Diquís (Costa Rica) tienen hasta 2 metros y 15 toneladas. Las hizo la cultura diquís hace más de 1.000 años, pero su función exacta no se conoce.
-7: La **Biblioteca de Alejandría** no desapareció en un único incendio. Sufrió daños con César (48 a. C.) y fue declinando por falta de fondos y conflictos.
-6: El **Hombre de la máscara de hierro** fue un preso de Luis XIV que murió en la Bastilla en 1703. Se desconoce su identidad; la máscara probablemente era de terciopelo.
-5: En 1888, **Jack el Destripador** asesinó al menos a cinco mujeres en Londres. Hay más de cien sospechosos y ninguna identificación aceptada.
-4: El **Hum** es un zumbido grave que algunas personas oyen en lugares como Taos o Bristol. No se ha encontrado una única causa.
-3: El **rongorongo** es un sistema de glifos de la Isla de Pascua. Quedan unos 26 objetos grabados y nadie ha logrado descifrarlos.
-2: El vuelo **MH370** desapareció en 2014 con 239 personas. Se hallaron restos en el océano Índico, pero el grueso del avión no se ha encontrado.
-1: **Amelia Earhart** desapareció en 1937 sobre el Pacífico. Las teorías incluyen caer al mar o aterrizar en la isla Nikumaroro.
-? ¿Se sabe dónde está la tumba de Alejandro Magno? | No. Estaba en Alejandría, pero su ubicación se perdió.
-? ¿Qué le pasó a Amelia Earhart? | Desapareció en 1937 sobre el Pacífico; sigue sin saberse.
-+ Wikipedia: Esferas de piedra de Costa Rica | https://es.wikipedia.org/wiki/Esferas_de_piedra_de_Costa_Rica
-+ Wikipedia: Rongorongo | https://es.wikipedia.org/wiki/Rongorongo
-+ Wikipedia: Amelia Earhart | https://es.wikipedia.org/wiki/Amelia_Earhart
-
 =037 cultura
 Detrás de las escenas más famosas hay trucos baratos, sonidos inesperados y récords históricos.
 10: En *Jurassic Park* (1993), los dinosaurios aparecen en pantalla unos 15 minutos: la mayoría con animatrónicos de Stan Winston. Los hechos por ordenador suman solo unos minutos.
