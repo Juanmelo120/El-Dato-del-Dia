@@ -1,21 +1,3 @@
-=033 geografia
-El mapa del mundo tiene rarezas que casi nadie enseña: islas dentro de lagos, países en cuatro hemisferios y fronteras de 4 km.
-10: En Filipinas, **Vulcan Point** es un islote dentro del lago del cráter del volcán Taal, que está en una isla dentro del lago Taal, en la isla de Luzón.
-9: Según cómo se mida el origen y la desembocadura, el **Nilo** (unos 6.650 km) o el **Amazonas** (hasta unos 7.000 km según algunos estudios) es el más largo.
-8: Entre la **Diómedes Mayor** (Rusia) y la **Menor** (EE. UU.) hay unos **3,8 km**. La línea internacional de fecha pasa entre ellas.
-7: Un desierto se define por la poca precipitación, no por el calor. La **Antártida** recibe muy poca, así que es el desierto más grande del mundo.
-6: **Indonesia** tiene más de **17.000 islas**, de las que unas 6.000 están habitadas.
-5: El **Vaticano** mide unas **44 hectáreas**, más pequeño que muchos parques urbanos.
-4: **Chile** mide más de 4.300 km de largo y unos **177 km** de ancho medio.
-3: **Liechtenstein** y **Uzbekistán** no tienen salida al mar y además todos sus vecinos tampoco la tienen: son doblemente sin litoral.
-2: **Kiribati** tiene islas a ambos lados del ecuador y del meridiano 180, así que está en los cuatro hemisferios.
-1: **Estambul** está dividida por el estrecho del Bósforo: una parte en Europa y otra en Asia. Puedes cruzar de continente en ferry en minutos.
-? ¿Cuál es el desierto más grande del mundo? | La Antártida, porque recibe muy poca precipitación.
-? ¿Qué distancia separa Rusia y Estados Unidos? | Unos 3,8 km entre las islas Diómedes.
-+ Wikipedia: Islas Diómedes | https://es.wikipedia.org/wiki/Islas_Di%C3%B3medes
-+ Wikipedia: Vulcan Point | https://es.wikipedia.org/wiki/Vulcan_Point
-+ Wikipedia: País sin litoral | https://es.wikipedia.org/wiki/Pa%C3%ADs_sin_litoral
-
 =034 tecnologia
 Los objetos más cotidianos tienen historias sorprendentes: leyendas de restaurante, pastelerías y mucho ingenio.
 10: La leyenda dice que en 1853 el chef George Crum cortó papas finísimas para molestar a un cliente que se quejaba, y nacieron las papas fritas. Pero hay recetas similares anteriores: **los historiadores la consideran un mito**.
