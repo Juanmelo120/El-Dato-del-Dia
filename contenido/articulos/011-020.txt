@@ -1,21 +1,3 @@
-=019 deportes
-Los deportes que conocemos nacieron de ideas curiosas, reglas inventadas en una tarde y récords imposibles.
-10: Las pelotas de golf lisas volaban poco. Se descubrió que las marcadas recorrían más distancia: los **hoyuelos** crean turbulencia que reduce la resistencia del aire. Una pelota tiene unos 300–500.
-9: Los primeros **Juegos Olímpicos modernos** se celebraron en **Atenas en 1896**, impulsados por Pierre de Coubertin. Participaron unos 240 atletas de 14 países.
-8: En 1891, el profesor **James Naismith** colgó dos **cestos de melocotones** en un gimnasio de Massachusetts. Al principio había que sacar el balón con una escalera tras cada canasta.
-7: Las reglas del fútbol establecen que el balón pesa entre **410 y 450 gramos** y mide 68–70 cm de circunferencia.
-6: En **Londres 1908**, el recorrido del maratón se alargó hasta **42,195 km** para empezar en el castillo de Windsor y acabar frente al palco real del estadio. Esa distancia se fijó en 1921.
-5: En Berlín 2009, **Usain Bolt** alcanzó unos **44,7 km/h** de velocidad máxima al batir el récord de 100 metros (9,58 s).
-4: En **1895**, William G. Morgan inventó el **voleibol** en EE. UU. como un deporte menos brusco que el baloncesto.
-3: Entre 1912 y 1948 los Juegos Olímpicos entregaron medallas en **arquitectura, literatura, música, pintura y escultura**.
-2: El tenis de mesa nació en la Inglaterra victoriana como juego de salón. Según la tradición, se usaban **libros** como red y tapas de cajas como palas.
-1: En Wimbledon 2010, **John Isner** venció a **Nicolas Mahut** en un partido de **11 horas y 5 minutos** repartido en tres días. El quinto set terminó 70-68.
-? ¿Por qué el maratón mide 42,195 km? | Por el recorrido de Londres 1908, que terminaba frente al palco real.
-? ¿Cuál es el partido de tenis más largo? | Isner contra Mahut en Wimbledon 2010: 11 horas y 5 minutos.
-+ Wikipedia: Isner–Mahut | https://es.wikipedia.org/wiki/Isner-Mahut_en_el_Campeonato_de_Wimbledon_2010
-+ Wikipedia: Maratón | https://es.wikipedia.org/wiki/Marat%C3%B3n
-+ Wikipedia: Competiciones de arte en los Juegos Olímpicos | https://es.wikipedia.org/wiki/Competiciones_de_arte_en_los_Juegos_Ol%C3%ADmpicos
-
 =020 tecnologia
 Internet nació con un mensaje fallido y hoy mueve el mundo. Estos 10 datos cuentan su historia más curiosa.
 10: El 29 de octubre de **1969**, en ARPANET, la UCLA intentó enviar "LOGIN" a Stanford. El sistema falló tras las dos primeras letras: el primer mensaje fue **"LO"**.
