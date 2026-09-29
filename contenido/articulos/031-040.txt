@@ -1,21 +1,3 @@
-=038 cultura
-La música esconde curiosidades sobre silencio, flautas prehistóricas y cerebros que cambian. Estos son los 10 datos.
-10: Las guitarras acústicas apenas se oían en las orquestas de jazz y big band. En los años 30 aparecieron modelos con pastillas eléctricas, como la "Frying Pan" de Rickenbacker (1932).
-9: La **Marcha Real** es uno de los pocos himnos sin letra oficial, junto con los de Bosnia, Kosovo y San Marino.
-8: *Yesterday* de los Beatles tiene miles de versiones grabadas; el Libro Guinness la citó como una de las canciones más versionadas.
-7: La norma internacional fija el **La a 440 Hz** para afinar. El oboe suele dar la nota a la orquesta.
-6: Las ventas de vinilo en EE. UU. superaron a las de CD en 2022 por primera vez desde 1987.
-5: Estudios con músicos muestran diferencias en zonas del cerebro ligadas al oído, la motricidad y la memoria. Aprender un instrumento cambia el cerebro en cualquier edad.
-4: En la cueva de Hohle Fels (Alemania) se encontró una flauta de hueso de buitre de unos **40.000 años**, uno de los instrumentos más antiguos.
-3: Correr con música a un ritmo adecuado puede reducir la sensación de esfuerzo y ayudar a mantener el paso.
-2: Muchas aves aprenden el canto de adultos cercanos. Así, poblaciones distintas de la misma especie tienen **dialectos**.
-1: En ***4′33″*** (1952), de John Cage, los músicos no tocan durante 4 minutos y 33 segundos. La "música" son los sonidos del ambiente.
-? ¿Por qué se afina en La 440? | Es la frecuencia estándar internacional para afinar instrumentos.
-? ¿Qué es 4′33″? | Una obra de John Cage en la que los músicos no tocan; la música es el sonido ambiente.
-+ Wikipedia: 4′33″ | https://es.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3
-+ Wikipedia: Flauta de Hohle Fels | https://es.wikipedia.org/wiki/Flauta_de_Hohle_Fels
-+ Wikipedia: La 440 | https://es.wikipedia.org/wiki/La_440
-
 =039 deportes
 Los deportes más populares tienen curiosidades que casi nadie conoce: trofeos robados, golf lunar y reglas de taberna.
 10: La FIFA tiene más de 200 federaciones miembro. Se calcula que miles de millones de personas siguen el fútbol, el deporte más popular del mundo.
