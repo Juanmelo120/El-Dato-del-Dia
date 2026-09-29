@@ -1,22 +1,3 @@
-=025 historia
-La historia tiene episodios que parecen guiones de película: guerras contra aves, juicios a cadáveres y un hombre que evitó una guerra nuclear.
-10: Según el historiador Suetonio, **Calígula** ordenó a sus soldados atacar el mar y recoger conchas como "botín". Los historiadores dudan de cuánto es cierto y cuánto propaganda contra el emperador.
-9: La **Torre Eiffel** se construyó para la Exposición Universal de 1889 con un permiso de **20 años**. Se salvó del desmontaje por su valor como antena de radio y telegrafía.
-8: Un papiro egipcio describe una prueba: la mujer orinaba sobre semillas de trigo y cebada. Si germinaban, estaba embarazada. En 1963 un estudio comprobó que funcionaba en muchos casos, por las hormonas de la orina.
-7: En el **Sínodo del cadáver** (897), el papa Esteban VI hizo desenterrar al papa Formoso, lo vistió, lo sentó en un trono y lo juzgó. Lo declararon culpable y arrojaron su cuerpo al Tíber.
-6: En 1952, tras la muerte del primer presidente de Israel, le ofrecieron el cargo a **Albert Einstein**. Él lo rechazó diciendo que le faltaba experiencia para tratar con personas.
-5: En 1932, Australia envió soldados con ametralladoras contra unos 20.000 **emúes** que arrasaban cultivos. Las aves resultaron difíciles de abatir y la operación fue un fracaso mediático.
-4: El teniente **Hiroo Onoda** siguió en la selva de Filipinas hasta **1974** creyendo que la guerra continuaba. Solo se rindió cuando su antiguo comandante viajó para darle la orden.
-3: La **Estatua de la Libertad** es de cobre. Al inaugurarse en 1886 era marrón brillante; en unos 20–30 años la oxidación creó la **pátina verde** que la protege.
-2: El **senet** es uno de los juegos de mesa más antiguos, con unos 5.000 años. Se jugaba en un tablero de 30 casillas y se asociaba al viaje al más allá. Tutankamón fue enterrado con varios tableros.
-1: En 1983, un sistema soviético alertó de misiles estadounidenses. El oficial **Stanislav Petrov** sospechó un error y no informó como ataque. Era una falsa alarma causada por reflejos del sol en las nubes.
-? ¿Qué fue la guerra de los emúes? | Una operación militar australiana de 1932 contra emúes que fracasó.
-? ¿Quién fue Stanislav Petrov? | El oficial soviético que en 1983 identificó una falsa alarma nuclear.
-+ Wikipedia: Guerra del Emú | https://es.wikipedia.org/wiki/Guerra_del_Em%C3%BA
-+ Wikipedia: Stanislav Petrov | https://es.wikipedia.org/wiki/Stanislav_Petrov
-+ Wikipedia: Sínodo del cadáver | https://es.wikipedia.org/wiki/S%C3%ADnodo_del_cad%C3%A1ver
-+ Wikipedia: Senet | https://es.wikipedia.org/wiki/Senet
-
 =026 ciencia
 La física cotidiana está llena de efectos que parecen trucos. Estos 10 datos se pueden entender con un poco de ciencia (y algunos probar en casa, con cuidado).
 10: Una uva cortada casi por la mitad actúa como una antena que concentra las microondas en el punto de unión y genera **plasma**. Un estudio de 2019 en *PNAS* lo explicó. No lo pruebes: puede dañar el aparato.
