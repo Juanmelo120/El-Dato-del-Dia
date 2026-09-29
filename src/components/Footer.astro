@@ -5,9 +5,9 @@ const year = new Date().getFullYear();
 <footer class="footer">
   <div class="container cols">
     <div>
-      <p class="brand">{SITE.name}</p>
+      <p class="brand"><img src="/perfil.png" alt="" width="44" height="44" /><span><span class="gold">El Dato</span> <span class="cyan">del Día</span></span></p>
       <p class="muted">{SITE.tagline}</p>
-      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok</a>
+      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok · {SITE.tiktokHandle}</a>
     </div>
     <div>
       <p class="h">Categorías</p>
@@ -15,6 +15,7 @@ const year = new Date().getFullYear();
     </div>
     <div>
       <p class="h">El sitio</p>
+      <a href="/tiktok">Buscar un dato</a>
       <a href="/sobre-nosotros">Sobre nosotros</a>
       <a href="/contacto">Contacto</a>
       <a href="/privacidad">Política de privacidad</a>
@@ -25,12 +26,13 @@ const year = new Date().getFullYear();
   <p class="container muted copy">© {year} {SITE.name}. Todos los derechos reservados.</p>
 </footer>
 <style>
-  .footer { border-top: 1px solid var(--line); margin-top: 96px; padding: 48px 0 24px; font-size: 15px; }
+  .footer { border-top: 1px solid var(--line); margin-top: 112px; padding: 56px 0 28px; font-size: 15px; background: linear-gradient(180deg, transparent, color-mix(in srgb, var(--violet) 8%, transparent)); }
   .cols { display: grid; gap: 32px; grid-template-columns: 2fr 1fr 1fr; }
-  .cols a:not(.btn) { display: block; text-decoration: none; color: var(--muted); padding: 4px 0; }
+  .cols a:not(.btn) { display: block; width: fit-content; text-decoration: none; color: var(--muted); padding: 4px 0; transition: color 150ms ease; }
   .cols a:not(.btn):hover { color: var(--ink); }
-  .brand { font: 800 24px/1 var(--font-display); letter-spacing: -0.03em; margin: 0 0 8px; }
+  .brand { display: flex; align-items: center; gap: 12px; font: 800 24px/1 var(--font-display); letter-spacing: -0.03em; margin: 0 0 12px; }
+  .brand img { border-radius: 50%; box-shadow: 0 0 20px color-mix(in srgb, var(--magenta) 50%, transparent); }
   .h { font-weight: 600; margin: 0 0 8px; }
   .copy { font-size: 13px; margin-top: 40px; }
-  @media (max-width: 720px) { .cols { grid-template-columns: 1fr 1fr; } .cols > :first-child { grid-column: 1 / -1; } }
+  @media (max-width: 720px) { .cols { grid-template-columns: 1fr 1fr; } .cols > :first-child { grid-column: 1 / -1; } .btn { white-space: normal; } }
 </style>

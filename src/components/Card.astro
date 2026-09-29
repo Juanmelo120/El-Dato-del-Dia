@@ -6,7 +6,7 @@ interface Props { dato: any; }
 const { dato } = Astro.props;
 const cat = CATEGORIES[dato.data.category];
 ---
-<li class="row">
+<li class="row" data-reveal>
   <a href={`/datos/${dato.id}`}>
     <span class="num n">{String(dato.data.numero).padStart(3, '0')}</span>
     <span class="body">
@@ -19,7 +19,8 @@ const cat = CATEGORIES[dato.data.category];
 </li>
 <style>
   .row { border-top: 1px solid var(--line); }
-  a { display: grid; grid-template-columns: 72px 1fr auto; gap: 20px; align-items: start; padding: 26px 4px; text-decoration: none; }
+  a { display: grid; grid-template-columns: 72px 1fr auto; gap: 20px; align-items: start; padding: 26px 12px; margin: 0 -12px; border-radius: 12px; text-decoration: none; transition: background-color 200ms ease; }
+  @media (hover: hover) and (pointer: fine) { a:hover { background: color-mix(in srgb, var(--surface) 60%, transparent); } a:hover .n { color: var(--marker) !important; } }
   .n { font-size: 15px; color: var(--muted); padding-top: 6px; transition: color 150ms ease; }
   .body { display: grid; gap: 8px; }
   .cat { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 500; }

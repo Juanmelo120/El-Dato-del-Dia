@@ -40,6 +40,23 @@ if (d.faq.length) jsonLd.push({
       <p class="muted small">{fecha} · {readingTime(dato.body)} min de lectura</p>
     </header>
 
+    {d.slides.length > 0 && (
+      <nav class="slides" aria-label="Los datos del carrusel">
+        <p class="slides-h muted">Los {d.slides.length} datos del carrusel · toca uno para ir directo</p>
+        <ol class="slides-track">
+          {d.slides.map((s, i) => (
+            <li style={`--i:${i}`}>
+              <a href={`#${s.id}`}>
+                <span class="num">{String(s.n).padStart(2, '0')}</span>
+                <strong>{s.titulo}</strong>
+                <span>{s.gancho}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
     {d.tiktokId && (
       <div class="video">
         <iframe src={`https://www.tiktok.com/embed/v2/${d.tiktokId}`} title="Video de TikTok" loading="lazy" allow="encrypted-media" allowfullscreen></iframe>
@@ -81,10 +98,26 @@ if (d.faq.length) jsonLd.push({
   .head, .prose, .video, .cta { max-width: var(--prose); margin-left: auto; margin-right: auto; }
   .head { padding-top: clamp(40px, 7vw, 80px); }
   .meta { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 0; }
-  .stamp { background: var(--chip); color: var(--marker); padding: 7px 10px; border-radius: 6px; font-size: 13px; }
+  .stamp { background: var(--chip); color: var(--marker); padding: 7px 10px; border-radius: 8px; font-size: 13px; box-shadow: inset 0 0 0 1px var(--line); }
+  .head > * { animation: rise 700ms var(--ease-out) both; }
+  .head > :nth-child(2) { animation-delay: 80ms; } .head > :nth-child(3) { animation-delay: 160ms; } .head > :nth-child(4) { animation-delay: 240ms; }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px); filter: blur(4px); } }
   h1 { font-size: clamp(36px, 6vw, 60px); margin: 24px 0 20px; }
   .hook { font: 600 clamp(20px, 2.6vw, 24px)/1.45 var(--font-display); letter-spacing: -0.01em; margin: 0 0 20px; }
   .small { font-size: 14px; margin: 0 0 8px; }
+  .slides { margin: 40px 0 0; }
+  .slides-h { max-width: var(--prose); margin: 0 auto 12px; font-size: 14px; }
+  .slides-track { list-style: none; margin: 0 -16px; padding: 4px 16px 16px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(200px, 230px); gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+  .slides-track li { scroll-snap-align: start; animation: rise 600ms var(--ease-out) both; animation-delay: calc(200ms + var(--i) * 50ms); }
+  .slides-track a { display: flex; flex-direction: column; gap: 10px; height: 100%; aspect-ratio: 9 / 13; padding: 18px; border-radius: var(--radius); text-decoration: none; background: radial-gradient(120% 90% at 100% 0%, color-mix(in srgb, var(--violet) 35%, transparent), transparent 60%), var(--surface); box-shadow: inset 0 0 0 1px var(--line); transition: transform 250ms var(--ease-out), box-shadow 250ms ease; }
+  .slides-track .num { font-size: 32px; color: var(--marker); line-height: 1; }
+  .slides-track strong { font: 700 18px/1.2 var(--font-display); letter-spacing: -0.02em; color: var(--ink); }
+  .slides-track span:last-child { font-size: 14px; line-height: 1.45; color: var(--ink-2); }
+  .slides-track a:active { transform: scale(0.97); }
+  @media (hover: hover) and (pointer: fine) { .slides-track a:hover { transform: translateY(-4px); box-shadow: inset 0 0 0 1px var(--magenta), 0 18px 40px -20px var(--magenta); } }
+  .prose :global(h2) { scroll-margin-top: 96px; }
+  .prose :global(h2 .n) { display: block; font: 600 14px/1 var(--font-mono); color: var(--cyan); letter-spacing: .08em; margin-bottom: 10px; }
+  .prose :global(.corr) { margin: 24px 0; padding: 16px 18px; border-radius: 12px; background: color-mix(in srgb, var(--marker) 10%, transparent); box-shadow: inset 3px 0 0 var(--marker); font-size: 16px; }
   .video { display: flex; justify-content: center; margin: 40px auto; }
   .video iframe { width: 325px; height: 740px; border: 0; border-radius: var(--radius); }
   .prose { font-size: 18.5px; line-height: 1.75; color: var(--ink-2); margin-top: 40px; }
@@ -101,7 +134,7 @@ if (d.faq.length) jsonLd.push({
   .faq summary { cursor: pointer; font-weight: 600; color: var(--ink); }
   .faq summary::marker { color: var(--muted); }
   .sources { font-size: 15px; }
-  .cta { margin-top: 56px; padding: 24px; border-radius: var(--radius); background: var(--ink); color: var(--bg); display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+  .cta { margin-top: 56px; padding: 24px; border-radius: var(--radius); background: linear-gradient(135deg, var(--surface-2), var(--surface)); box-shadow: var(--glow); color: var(--ink); display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
   .cta p { margin: 0; }
   .rel { font-size: clamp(26px, 3.4vw, 34px); margin: 80px 0 24px; }
 </style>

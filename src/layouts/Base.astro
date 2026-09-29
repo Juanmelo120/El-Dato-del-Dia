@@ -4,6 +4,7 @@ import { ClientRouter } from 'astro:transitions';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import CookieBanner from '../components/CookieBanner.astro';
+import Motion from '../components/Motion.astro';
 import { SITE } from '../config';
 
 interface Props {
@@ -36,7 +37,8 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   <meta property="og:image" content={ogImage} />
   <meta property="og:locale" content="es_LA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="theme-color" content="#0c0e12" />
+  <meta name="theme-color" content="#0b0620" />
+  <link rel="apple-touch-icon" href="/perfil.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
@@ -53,6 +55,7 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   {SITE.gaId && <script is:inline define:vars={{ id: SITE.gaId }}>gtag('js', new Date()); gtag('config', id);</script>}
   {SITE.adsenseClient && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>}
   <ClientRouter />
+  <Motion />
 </head>
 <body>
   <Header />

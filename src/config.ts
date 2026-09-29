@@ -4,7 +4,8 @@ export const SITE = {
   tagline: 'Del video de 60 segundos a la historia completa.',
   description:
     'Datos curiosos de ciencia, historia, animales y el universo, explicados a fondo. La versión completa de los videos de El Dato del Día en TikTok.',
-  tiktok: 'https://www.tiktok.com/@eldatodeldia', // TODO: confirma tu usuario
+  tiktok: 'https://www.tiktok.com/@eldatodeldia03',
+  tiktokHandle: '@eldatodeldia03',
   email: 'contacto@eldatodeldia.com', // TODO: tu correo de contacto
   // TODO: tu ID de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = no se cargan anuncios.
   adsenseClient: '',
