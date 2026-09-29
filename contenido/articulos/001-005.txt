@@ -1,0 +1,219 @@
+=001 animales
+Algunos animales tienen capacidades que, si las viéramos en una película, nos parecerían inventadas. Pulpos con tres corazones, aves que recuerdan caras durante años o reptiles que se pegan al techo sin pegamento. Todas son reales y la ciencia sabe explicar cómo funcionan.
+En este artículo repasamos diez de esos "superpoderes": qué hace cada animal, cómo lo consigue su cuerpo y qué hemos aprendido los humanos al estudiarlos. Algunos ya han inspirado medicinas, materiales y robots.
+10: El pulpo tiene **tres corazones**. Dos de ellos, llamados corazones branquiales, bombean la sangre hacia las branquias para que se cargue de oxígeno. El tercero, el corazón sistémico, la reparte después por todo el cuerpo.
+Su sangre es **azul** porque transporta el oxígeno con **hemocianina**, una proteína que usa cobre en lugar del hierro de nuestra hemoglobina. La hemocianina funciona bien en aguas frías y con poco oxígeno, pero es menos eficiente. Además, el corazón sistémico se detiene cuando el pulpo nada a chorro, y por eso nadar lo agota: la mayoría de las veces prefiere arrastrarse por el fondo.
+» Entender cómo el pulpo reparte el trabajo entre varios corazones ayuda a los biólogos a estudiar cómo se adaptan los animales a ambientes con poco oxígeno.
+9: Durante años se dijo que el camaleón cambia de color para camuflarse. En realidad, su color de reposo ya lo camufla; los cambios rápidos le sirven sobre todo para **comunicarse**: mostrar que está tranquilo, que quiere pelear o que busca pareja. También lo usa para regular su temperatura, oscureciéndose para absorber más calor.
+El mecanismo es sorprendente. Bajo la piel tiene células llenas de **nanocristales de guanina** ordenados en una red. Cuando el camaleón se relaja o se excita, esa red se estira o se comprime y refleja otra longitud de onda de la luz. Es decir, no se "pinta": cambia la estructura que refleja la luz, como las burbujas de jabón o las alas de algunas mariposas.
+» Este tipo de color estructural se estudia para crear pantallas y pinturas que cambien de color sin pigmentos ni gasto de energía.
+8: El **axolote**, una salamandra mexicana, puede regenerar patas completas, la cola, la médula espinal, partes del corazón e incluso zonas del **cerebro**. Y lo hace sin dejar cicatriz: la parte nueva es igual a la original, con sus huesos, músculos y nervios.
+Cuando pierde una extremidad, en la herida se forma un grupo de células llamado **blastema**. Esas células "olvidan" su especialidad y vuelven a un estado parecido al de un embrión, desde el que reconstruyen todo lo que falta. En humanos, en cambio, una herida grave se cierra con tejido cicatricial.
+Por desgracia, en libertad el axolote está en peligro crítico: sobrevive casi solo en los canales de Xochimilco, en Ciudad de México.
+» Los investigadores estudian al axolote para entender por qué nosotros cicatrizamos en lugar de regenerar, y si algún día se podría cambiar.
+7: En un experimento de la Universidad de Washington, unos investigadores atraparon cuervos llevando puesta una máscara. Durante años, cada vez que alguien paseaba con esa máscara por el campus, los cuervos lo **increpaban** con graznidos de alarma y vuelos rasantes. A las personas con una máscara neutra, en cambio, las ignoraban.
+Lo más sorprendente es que la reacción se extendió a cuervos que **nunca habían sido capturados** e incluso a crías nacidas después. Aprendieron quién era "peligroso" observando a otros cuervos. Los córvidos tienen un cerebro grande en proporción a su cuerpo y resuelven problemas que antes creíamos exclusivos de los primates.
+» Muestra que el aprendizaje social, transmitir información a otros, no es solo cosa de humanos: también existe en aves.
+6: Cada delfín mular desarrolla en sus primeros meses de vida un **silbido característico**, un patrón sonoro único que funciona como su nombre. Lo usa para presentarse y lo mantiene durante años.
+En un estudio de 2013 se reprodujeron grabaciones de esos silbidos en el mar. Los delfines **respondían** cuando escuchaban su propio "nombre", pero no cuando oían el de otro. Además, a veces imitan el silbido de un compañero, como si lo llamaran. Los delfines pueden recordar el silbido de un compañero incluso tras pasar décadas separados.
+» Es una de las pruebas más claras de que algunos animales usan etiquetas vocales aprendidas para referirse a individuos concretos.
+5: Los **murciélagos vampiros** se alimentan solo de sangre y, si pasan unas 60 horas sin comer, pueden morir. Por eso tienen una costumbre que parece de novela: cuando un compañero vuelve de la noche sin haber comido, un murciélago bien alimentado le **regurgita parte de la sangre** que ha tomado.
+Pero no se la dan a cualquiera. Estudios desde los años 80 muestran que comparten sobre todo con parientes y con quienes antes les ayudaron a ellos. Es un ejemplo de **reciprocidad**: hoy te ayudo, mañana me ayudas tú. Los murciélagos que más comparten reciben también más ayuda cuando la necesitan.
+» Es un caso clásico en biología de cómo la cooperación puede evolucionar entre animales que no son familia.
+4: La mayoría de animales tienen dos oídos, uno a cada lado. La **mantis religiosa** tiene uno solo, en el centro del pecho, entre las patas. Por eso a veces se la llama "oreja de cíclope".
+Ese oído no sirve para oír a otras mantis, sino para detectar los **ultrasonidos** de los murciélagos, que cazan de noche por ecolocalización. Cuando la mantis los oye mientras vuela, hace maniobras bruscas, gira o se deja caer en picado. Así escapa de un depredador al que no puede ver en la oscuridad.
+» Es un ejemplo perfecto de "carrera armamentística" evolutiva entre cazadores y presas.
+3: El **ornitorrinco** caza en ríos turbios de Australia con los ojos, los oídos y la nariz cerrados. Su secreto está en el pico, cubierto de unos **40.000 electrorreceptores**.
+Todos los animales generan pequeños impulsos eléctricos al mover sus músculos. El ornitorrinco detecta esos impulsos en las gambas, larvas y gusanos que se esconden en el fondo, y mueve la cabeza de lado a lado como un detector de metales. También tiene sensores mecánicos que notan el movimiento del agua. Combinando ambas señales calcula dónde está su presa.
+» Muy pocos mamíferos detectan la electricidad; el ornitorrinco y su pariente, el equidna, son casos excepcionales.
+2: Un **gecko** puede subir por un cristal y caminar por el techo cabeza abajo. No usa ventosas ni pegamento. Sus dedos están cubiertos de millones de pelos microscópicos llamados **setas**, y cada uno se divide en cientos de puntas aún más finas.
+Esas puntas se acercan tanto a la superficie que aparecen unas fuerzas débiles entre moléculas, las **fuerzas de van der Waals**. Una sola es insignificante, pero sumadas son tan fuertes que un gecko podría sostener mucho más que su propio peso. Para despegarse, basta con cambiar el ángulo del dedo, por eso corren sin quedarse pegados.
+» Inspiró cintas adhesivas secas y reutilizables, y pinzas para robots que agarran sin dejar residuos.
+1: Los elefantes se comunican con **sonidos muy graves**, por debajo de lo que el oído humano puede captar. Parte de esa energía viaja por el suelo como vibraciones que pueden recorrer varios kilómetros.
+Otros elefantes las notan con las **patas** y la trompa, que tienen receptores muy sensibles a las vibraciones. La señal sube por los huesos hasta el oído interno. En estudios de campo, los elefantes reaccionaron a llamadas de alarma transmitidas solo por el suelo: se agrupaban, se quedaban quietos o se inclinaban hacia delante, como si "escucharan" con los pies.
+» Estas señales les permiten coordinarse a larga distancia, avisar de peligros y encontrar a otros miembros de la manada.
+? ¿Por qué el pulpo tiene la sangre azul? | Porque transporta el oxígeno con hemocianina, una proteína que usa cobre en lugar de hierro.
+? ¿Es verdad que el camaleón cambia de color para camuflarse? | Solo en parte: los cambios rápidos sirven sobre todo para comunicarse y regular la temperatura.
+? ¿Los cuervos de verdad reconocen caras humanas? | Sí. Recuerdan durante años a personas asociadas a una amenaza y lo enseñan a otros cuervos.
+? ¿Cómo se pega un gecko al techo? | Con millones de pelos microscópicos que generan fuerzas de van der Waals con la superficie.
+? ¿Cómo oyen los elefantes con las patas? | Captan vibraciones de baja frecuencia que viajan por el suelo y llegan al oído interno a través de los huesos.
++ Smithsonian Ocean: Octopuses | https://ocean.si.edu/ocean-life/invertebrates/octopuses
++ Teyssier et al. (2015). Photonic crystals cause active colour change in chameleons. Nature Communications | https://doi.org/10.1038/ncomms7368
++ Marzluff et al. (2010). Lasting recognition of threatening people by wild American crows. Animal Behaviour | https://doi.org/10.1016/j.anbehav.2010.01.025
++ King y Janik (2013). Bottlenose dolphins can use learned vocal labels to address each other. PNAS | https://doi.org/10.1073/pnas.1304459110
++ Wilkinson (1984). Reciprocal food sharing in the vampire bat. Nature | https://doi.org/10.1038/308181a0
++ Autumn et al. (2000). Adhesive force of a single gecko foot-hair. Nature | https://doi.org/10.1038/35015073
++ O'Connell-Rodwell (2007). Keeping an "ear" to the ground: seismic communication in elephants. Physiology | https://doi.org/10.1152/physiol.00008.2007
+
+=002 espacio
+El universo está lleno de cosas que desafían la intuición: planetas que giran al revés, estrellas tan densas que una cucharada pesaría como una montaña y tormentas que duran siglos. Lo que vemos en el cielo, además, siempre es el pasado.
+Estos diez datos no son curiosidades sueltas. Cada uno explica algo importante sobre cómo funcionan los planetas, las estrellas y la luz, y cómo lo han descubierto los astrónomos.
+10: **Venus** gira sobre sí mismo tan despacio que una vuelta completa le lleva **243 días terrestres**. En cambio, tarda solo **225 días** en dar la vuelta al Sol. Así que su "día sideral" es más largo que su año.
+Hay un matiz: como gira al revés mientras avanza en su órbita, el tiempo entre dos amaneceres (el día solar) es de unos **117 días terrestres**. Aun así, un habitante de Venus vería menos de dos amaneceres por año. Los científicos creen que la espesa atmósfera y las mareas del Sol frenaron su rotación a lo largo de miles de millones de años.
+» Venus nos enseña cómo la atmósfera y las mareas pueden transformar un planeta muy parecido a la Tierra en uno radicalmente distinto.
+9: Casi todos los planetas del sistema solar giran en el mismo sentido en que orbitan el Sol. **Venus lo hace al revés** (rotación retrógrada), así que allí el Sol sale por el **oeste** y se pone por el este.
+No se sabe con certeza por qué. Una hipótesis es que un gran impacto al principio de su historia lo desvió. Otra, que su enorme atmósfera, arrastrada por las mareas solares, fue cambiando poco a poco su giro. **Urano** también es raro: está tan inclinado que gira casi "tumbado".
+» Estas rarezas son pistas sobre los choques y fuerzas que dieron forma al sistema solar joven.
+8: Una **estrella de neutrones** es el núcleo que queda cuando una estrella muy masiva explota como supernova. Concentra más masa que el Sol en una esfera de unos **20 km de diámetro**, el tamaño de una ciudad.
+La materia está tan comprimida que los átomos se aplastan y los protones y electrones se fusionan en neutrones. Una cucharadita de ese material pesaría **miles de millones de toneladas**, más que todos los coches del mundo juntos. Algunas giran cientos de veces por segundo y emiten haces de radiación: son los **púlsares**.
+» Las estrellas de neutrones son laboratorios naturales para estudiar la materia en condiciones imposibles de crear en la Tierra.
+7: La luz viaja a unos **300.000 km por segundo** y el Sol está a unos 150 millones de kilómetros. Por eso la luz que ves ahora salió del Sol hace unos **8 minutos y 20 segundos**.
+Si el Sol desapareciera de golpe, seguiríamos viéndolo brillar esos 8 minutos. Curiosamente, la Tierra también seguiría girando alrededor de su posición durante ese tiempo, porque los cambios en la gravedad viajan a la velocidad de la luz. Y la energía que produce el Sol en su núcleo tarda decenas de miles de años en llegar a su superficie antes de salir al espacio.
+» Por eso en astronomía la distancia y el tiempo van unidos: mirar lejos es mirar atrás.
+6: Los anillos de **Saturno** están formados sobre todo por **trozos de hielo de agua**, desde granos de polvo hasta bloques del tamaño de una casa. Se extienden a lo largo de unos **280.000 km**, pero su grosor en muchas zonas es de apenas unos **10 metros**.
+Si hicieras una maqueta con los anillos del ancho de un campo de fútbol, serían más finos que una hoja de papel. La sonda **Cassini** mostró que algunos anillos cambian de forma y que ciertas lunas pequeñas los "pastorean". Algunos estudios sugieren que podrían ser relativamente jóvenes y que irán desapareciendo, cayendo poco a poco sobre el planeta.
+» Estudiar los anillos ayuda a entender cómo se forman los planetas a partir de discos de materia.
+5: La **Gran Mancha Roja** es un anticiclón gigante en la atmósfera de **Júpiter**, con vientos de más de **400 km/h**. Es tan grande que la Tierra cabría dentro.
+Se observa de forma continua desde **1830**, y es posible que ya la vieran astrónomos en el siglo XVII. Aun así, se está haciendo más pequeña: en el siglo XIX medía unos 40.000 km de ancho y hoy ronda los 14.000 km. Su color rojizo podría venir de compuestos químicos que la luz solar altera en las capas altas.
+» Es el mejor ejemplo de que en otros planetas las tormentas pueden durar siglos, algo impensable en la Tierra.
+4: El **Monte Olimpo**, en Marte, es un volcán en escudo de unos **22 km de altura** sobre la llanura que lo rodea, unas **2,5 veces el Everest**. Su base mide unos 600 km de ancho, como la península ibérica.
+En Marte los volcanes pudieron crecer tanto porque el planeta no tiene placas tectónicas que se muevan: el volcán permaneció millones de años sobre el mismo punto caliente, acumulando lava. Además, la gravedad marciana es menor y permite montañas más altas. Sus laderas son tan suaves que, si caminaras por ellas, no notarías que subes una montaña.
+» Comparar volcanes de distintos planetas ayuda a entender la geología de la Tierra.
+3: Las misiones **Apolo 11, 14 y 15** dejaron en la Luna paneles de espejos llamados **retrorreflectores**. Desde observatorios de la Tierra se les dispara un láser y se mide cuánto tarda en volver la luz.
+Gracias a esas medidas sabemos que la Luna se aleja unos **3,8 cm al año**. La causa son las mareas: la Tierra gira más rápido que la Luna la rodea, y esa interacción transfiere energía a la Luna, que sube a una órbita más alta. A la vez, nuestros días se alargan un poco: hace cientos de millones de años, el día duraba unas 22 horas.
+» Estos espejos son uno de los experimentos del programa Apolo que siguen funcionando más de 50 años después.
+2: En el espacio no hay gravedad que comprima la columna. Los discos que hay entre las vértebras se expanden y los astronautas pueden **crecer hasta un 3 %**, unos pocos centímetros, durante una misión larga.
+El estirón tiene un precio: muchos astronautas sufren dolor de espalda, y al volver a la Tierra recuperan su altura original en pocos meses. La microgravedad también hace que pierdan masa ósea y muscular, por eso en la Estación Espacial Internacional hacen unas **dos horas de ejercicio al día**.
+» Lo que se aprende en el espacio sobre huesos y músculos se usa también para estudiar la osteoporosis y el envejecimiento.
+1: Cuando miras una estrella, ves la luz que salió de ella hace tiempo. **Sirio**, la más brillante de noche, está a unos **8,6 años luz**: ves cómo era hace casi 9 años. Algunas estrellas visibles a simple vista están a cientos o miles de años luz.
+Con telescopios se puede mirar aún más atrás. El **James Webb** observa galaxias cuya luz salió hace más de **13.000 millones de años**, cuando el universo era muy joven. Es posible que algunas de las estrellas que ves esta noche ya no existan, aunque su luz sigue viajando hacia ti.
+» El cielo nocturno es, literalmente, una máquina del tiempo: cuanto más lejos miramos, más al pasado vemos.
+? ¿Por qué un día en Venus es más largo que su año? | Porque Venus tarda unos 243 días terrestres en girar sobre sí mismo y solo 225 en rodear el Sol.
+? ¿Cuánto tarda la luz del Sol en llegar a la Tierra? | Unos 8 minutos y 20 segundos.
+? ¿Por qué la Luna se aleja de la Tierra? | Por las mareas: la Tierra le transfiere energía y la Luna sube a una órbita más alta.
+? ¿De qué están hechos los anillos de Saturno? | Sobre todo de trozos de hielo de agua, desde polvo hasta bloques del tamaño de una casa.
++ NASA Science: Venus | https://science.nasa.gov/venus/
++ NASA Science: Saturn's rings | https://science.nasa.gov/saturn/
++ NASA Science: Jupiter's Great Red Spot | https://science.nasa.gov/jupiter/
++ NASA Science: Mars | https://science.nasa.gov/mars/
++ NASA: Apollo lunar laser ranging | https://science.nasa.gov/
++ NASA: Webb Space Telescope | https://science.nasa.gov/mission/webb/
+
+=003 naturaleza
+El océano cubre más del 70 % del planeta y aun así sigue siendo el lugar menos explorado de la Tierra. En sus profundidades hay ríos, cascadas y criaturas que parecen de otro mundo.
+Estos diez datos te llevan desde la superficie hasta las fosas más profundas, y explican por qué el océano es clave para que puedas respirar.
+10: Los fondos marinos se han cartografiado de forma general con satélites, que miden pequeñas variaciones en la superficie del mar. Pero en **alta resolución**, con barcos equipados con sonar, solo se ha mapeado alrededor de **una cuarta parte**.
+La superficie de **Marte**, en cambio, está cartografiada casi por completo con gran detalle desde órbita. El problema del océano es que el agua bloquea las ondas de radio y la luz, así que hay que recorrerlo en barco, palmo a palmo. El proyecto **Seabed 2030** intenta completar el mapa del fondo marino para esa fecha.
+» Conocer el fondo es clave para prever tsunamis, tender cables de internet y proteger ecosistemas.
+9: El **abismo Challenger**, en la fosa de las Marianas (Pacífico), supera los **10.900 metros** de profundidad. Si pusieras el Everest dentro, su cima quedaría a más de 2 km bajo la superficie.
+Allí abajo la presión es más de **1.000 veces** la que sentimos al nivel del mar: como tener varios coches encima de cada centímetro cuadrado. Solo unas pocas personas han llegado al fondo; los primeros fueron Jacques Piccard y Don Walsh en 1960, a bordo del batiscafo Trieste.
+» Estas fosas se forman donde una placa tectónica se hunde bajo otra, el mismo proceso que causa grandes terremotos.
+8: En 2010, investigadores detectaron en el fondo del **mar Negro** un **canal submarino** por el que circula agua muy salada y densa, con orillas, curvas y hasta zonas de "rápidos", como un río de tierra firme.
+El agua salada del Mediterráneo entra por el Bósforo y, al ser más densa, se hunde y corre pegada al fondo. Se estimó que su caudal es muy grande, comparable al de los mayores ríos de Europa. Estos ríos submarinos transportan sedimentos y nutrientes a zonas profundas.
+» Ayudan a llevar oxígeno y alimento a lugares del fondo marino donde de otro modo casi no habría vida.
+7: La **ballena azul** puede superar los **30 metros** de largo y las **150 toneladas**. Ningún dinosaurio conocido pesaba tanto: es el animal más grande del que tenemos registro.
+Lo curioso es que se alimenta de **krill**, crustáceos de pocos centímetros. En temporada de alimentación, una ballena azul puede comer varias toneladas al día, abriendo la boca y filtrando el agua con sus barbas. Casi desapareció por la caza industrial en el siglo XX; desde su prohibición, algunas poblaciones se recuperan despacio.
+» Su recuperación es uno de los ejemplos de cómo la protección puede salvar especies al borde de la extinción.
+6: El corazón de una ballena azul pesa unos **180 kilos** y es del tamaño de un coche pequeño. En 2019, investigadores colocaron un sensor a una ballena y midieron su pulso en libertad.
+Mientras buceaba en busca de comida, su corazón bajaba hasta solo **2 latidos por minuto**, para ahorrar oxígeno. Al subir a respirar, se aceleraba hasta unos 37 latidos. Los científicos creen que está cerca del límite: un animal más grande quizá no podría bombear sangre suficiente.
+» Explica por qué no hay animales aún más grandes: el corazón y el metabolismo ponen un tope.
+5: El **fitoplancton**, algas y bacterias microscópicas que flotan cerca de la superficie, hace fotosíntesis como las plantas. Se estima que produce alrededor de **la mitad del oxígeno** de la atmósfera.
+Una de sus protagonistas, la bacteria ***Prochlorococcus***, es tan pequeña que caben millones en una gota de agua, y aun así podría producir cerca del 20 % del oxígeno de la biosfera. Además, el fitoplancton es la base de la cadena alimentaria marina: sin él no habría krill, ni peces, ni ballenas.
+» Cada dos respiraciones que haces, una podría deberse en parte al océano.
+4: En el **estrecho de Dinamarca**, entre Groenlandia e Islandia, el agua fría y densa de los mares nórdicos se desploma unos **3.500 metros** sobre una pendiente submarina. Es la cascada más grande del planeta, aunque nadie puede verla.
+Su caudal equivale a cientos de veces el de las cataratas del Ángel o del Niágara. Ocurre porque el agua fría es más densa que la que la rodea y se hunde, del mismo modo que el agua cae por una cascada en tierra.
+» Esta cascada forma parte de la gran circulación de las corrientes oceánicas que regula el clima de la Tierra.
+3: El **pez linterna** mide pocos centímetros, pero podría ser el **vertebrado más abundante** del planeta. De día vive a cientos de metros de profundidad, en la oscuridad.
+Cada noche sube hacia la superficie para comer plancton y, al amanecer, vuelve a bajar. Junto a otros animales, protagoniza la **migración vertical diaria**, el mayor movimiento de seres vivos del planeta. Tiene órganos que producen luz, llamados fotóforos, para camuflarse y comunicarse.
+» Con sus viajes diarios, estos peces llevan carbono de la superficie a las profundidades, ayudando a retirar CO₂ de la atmósfera.
+2: El **calamar colosal** tiene los ojos más grandes del reino animal: pueden medir unos **27 cm**, como un balón de fútbol. El calamar gigante los tiene de tamaño parecido.
+Unos ojos tan grandes les permiten detectar a larga distancia la luz que producen los animales al moverse en la oscuridad, sobre todo la de su gran depredador, el **cachalote**. El primer calamar gigante vivo no se filmó en su hábitat hasta **2012**.
+» Muestra lo poco que conocemos todavía del mar profundo: hay animales enormes que casi nunca hemos visto vivos.
+1: En las fosas oceánicas, la presión es enorme, pero hay vida. En 2022 se filmó un **pez caracol** a más de **8.300 metros**, cerca de Japón: el pez más profundo registrado.
+Estos peces tienen un cuerpo gelatinoso, sin escamas y con huesos blandos, que soporta la presión. Además, contienen una molécula (el **TMAO**) que protege sus proteínas. Los científicos calculan que por debajo de unos **8.200-8.400 metros** ningún pez podría sobrevivir, porque su química dejaría de funcionar.
+» Estudiar la vida en condiciones extremas ayuda a imaginar dónde podría existir vida en otros mundos.
+? ¿Qué profundidad tiene la fosa de las Marianas? | Su punto más profundo, el abismo Challenger, supera los 10.900 metros.
+? ¿Cuánto oxígeno produce el océano? | Se estima que alrededor de la mitad del oxígeno de la atmósfera, gracias al fitoplancton.
+? ¿Existen cascadas bajo el mar? | Sí. La del estrecho de Dinamarca cae unos 3.500 metros.
+? ¿Cuál es el pez más profundo filmado? | Un pez caracol, a más de 8.300 metros, en 2022.
++ NOAA: How much of the ocean have we explored? | https://oceanservice.noaa.gov/facts/exploration.html
++ NOAA: How much oxygen comes from the ocean? | https://oceanservice.noaa.gov/facts/ocean-oxygen.html
++ Goldbogen et al. (2019). Extreme bradycardia and tachycardia in the world's largest animal. PNAS | https://doi.org/10.1073/pnas.1914273116
++ Seabed 2030 | https://seabed2030.org/
++ Wikipedia: Abismo Challenger | https://es.wikipedia.org/wiki/Abismo_Challenger
+
+=004 cuerpo-humano
+Tu cuerpo hace cada segundo miles de tareas sin que te enteres: repara tejidos, fabrica células y ajusta lo que ves. Algunas de esas tareas son tan asombrosas que parecen ciencia ficción.
+Estos diez datos explican qué hace tu cuerpo, cómo lo consigue y qué puedes hacer para cuidarlo.
+10: Tu estómago produce **ácido clorhídrico** para digerir los alimentos, tan fuerte que podría dañar su propia pared. Para evitarlo, lo recubre con una capa de **moco** y renueva las células de su revestimiento cada **pocos días**.
+Si esa protección falla, por ejemplo por la bacteria *Helicobacter pylori* o por el abuso de algunos antiinflamatorios, aparecen las **úlceras**. Durante décadas se pensó que las úlceras se debían al estrés, hasta que los médicos Barry Marshall y Robin Warren demostraron el papel de la bacteria. Marshall llegó a beberse un cultivo de ella para probarlo, y ganaron el Nobel en 2005.
+» Si tienes dolor de estómago persistente, merece la pena consultar: muchas úlceras se curan con antibióticos.
+9: A igualdad de peso, el **hueso** es más resistente que el hormigón y soporta muy bien la compresión. Su secreto es una mezcla de fibras de **colágeno**, que le dan flexibilidad, y cristales de **calcio** y fosfato, que le dan dureza.
+Además, está vivo: células llamadas osteoclastos lo destruyen y los osteoblastos lo reconstruyen continuamente. En unos diez años renuevas buena parte de tu esqueleto. Por eso los huesos se **reparan** tras una fractura y se fortalecen con el ejercicio.
+» Caminar, correr o hacer ejercicio con peso ayuda a mantener los huesos fuertes y prevenir la osteoporosis.
+8: La nariz humana tiene unos **400 tipos** de receptores olfativos. Combinándolos, puede distinguir una cantidad enorme de olores: un estudio de 2014 estimó más de un billón, aunque esa cifra se discute.
+Lo que está claro es que olemos mucho mejor de lo que creemos: en algunas pruebas, las personas siguen un rastro de olor como un perro. El olfato además está muy unido a la memoria y a las emociones, porque su señal llega casi directamente a zonas del cerebro que las gestionan.
+» Perder el olfato puede ser una señal temprana de algunas enfermedades, como el párkinson, y también afecta al gusto.
+7: Tus ojos no se mueven de forma suave: saltan varias veces por segundo con movimientos rápidos llamados **sacadas**. Durante cada salto, la imagen debería verse borrosa.
+Tu cerebro lo evita con la **supresión sacádica**: "apaga" la visión durante ese instante y luego rellena el hueco. Por eso no puedes ver tus propios ojos moverse en un espejo. En total, pasamos alrededor de **una hora al día** prácticamente ciegos sin notarlo.
+» Es un ejemplo de que lo que "vemos" es una construcción del cerebro, no una grabación directa.
+6: Los pulmones tienen cientos de millones de **alvéolos**, pequeños sacos donde el oxígeno pasa a la sangre. Si los extendieras todos, cubrirían unos **70 metros cuadrados**, más o menos media cancha de tenis individual.
+Esa superficie tan grande permite intercambiar oxígeno y dióxido de carbono muy rápido. Las paredes de los alvéolos son finísimas, de menos de una milésima de milímetro. Por eso el **tabaco** y la contaminación hacen tanto daño: dañan esa superficie delicada y reducen la capacidad de respirar.
+» No fumar y hacer ejercicio aeróbico son las mejores formas de conservar la capacidad pulmonar.
+5: Tu cerebro pesa alrededor de un **2 %** de tu cuerpo, pero consume cerca del **20 %** de la energía que gastas en reposo, unos 20 vatios, como una bombilla de bajo consumo.
+La mayor parte de esa energía no se usa para "pensar mucho", sino para mantener las neuronas listas para enviar señales. Por eso el cerebro necesita un suministro constante de glucosa y oxígeno: unos minutos sin ellos bastan para causar daños. En los niños, el cerebro llega a consumir casi la mitad de la energía del cuerpo.
+» Dormir bien y comer de forma regular ayuda a que el cerebro funcione mejor.
+4: Por la mañana eres alrededor de **1 cm más alto** que por la noche. Durante el día, la gravedad comprime los **discos intervertebrales**, que funcionan como cojines entre las vértebras y pierden un poco de agua.
+Al tumbarte a dormir, la presión desaparece y los discos se rehidratan. Con la edad, los discos pierden agua de forma permanente, y por eso las personas mayores suelen medir algo menos que de jóvenes.
+» Si alguna vez te mides para algo oficial, hazlo a la misma hora: la diferencia se nota.
+3: Si pusieras en fila todos tus **vasos sanguíneos** (arterias, venas y capilares), sumarían decenas de miles de kilómetros. Se suele decir que unos 100.000 km, suficiente para dar más de **dos vueltas a la Tierra**, aunque las estimaciones varían.
+La mayor parte son **capilares**, tan finos que los glóbulos rojos pasan de uno en uno. Esa red llega a casi todas las células del cuerpo, porque ninguna puede estar lejos de un vaso que le lleve oxígeno. Las únicas excepciones son tejidos como la córnea del ojo, que se nutre de otra forma.
+» Cuidar la tensión arterial protege esta red enorme; la hipertensión daña sobre todo los vasos pequeños.
+2: Tu **corazón** late unas **100.000 veces al día** y unos 3.000 millones de veces en una vida larga. En cada latido bombea unos 70 mililitros de sangre: más de 7.000 litros al día.
+Empieza a latir hacia la **sexta semana** de embarazo y no se detiene. Tiene su propio marcapasos natural, el **nódulo sinusal**, que genera los impulsos eléctricos, por eso un corazón trasplantado puede latir aunque sus nervios estén cortados.
+» El ejercicio regular fortalece el corazón y reduce su frecuencia en reposo, lo que suele indicar buena forma física.
+1: Tu **médula ósea**, en el interior de huesos como la pelvis y el esternón, fabrica unos **2 a 3 millones de glóbulos rojos por segundo**.
+Cada glóbulo rojo vive unos **120 días** y luego se recicla en el bazo y el hígado; el hierro se reutiliza para fabricar otros nuevos. Además de glóbulos rojos, la médula produce glóbulos blancos para defenderte y plaquetas para coagular la sangre. Por eso los trasplantes de médula pueden curar algunas leucemias.
+» Donar sangre es seguro porque tu cuerpo repone esas células en pocas semanas.
+? ¿Por qué el estómago no se digiere a sí mismo? | Porque se protege con una capa de moco y renueva su revestimiento cada pocos días.
+? ¿Por qué somos más altos por la mañana? | Porque los discos de la columna se descomprimen y rehidratan mientras dormimos.
+? ¿Cuánta energía consume el cerebro? | Cerca del 20 % de la energía del cuerpo en reposo.
+? ¿Cuántos glóbulos rojos fabricamos? | Unos 2 o 3 millones por segundo.
++ Nobel Prize: Physiology or Medicine 2005 | https://www.nobelprize.org/prizes/medicine/2005/summary/
++ Bushdid et al. (2014). Humans can discriminate more than 1 trillion olfactory stimuli. Science | https://doi.org/10.1126/science.1249168
++ MedlinePlus: Médula ósea | https://medlineplus.gov/spanish/bonemarrowdiseases.html
++ Wikipedia: Supresión sacádica | https://en.wikipedia.org/wiki/Saccadic_masking
++ NIH: How the heart works | https://www.nhlbi.nih.gov/health/heart
+
+=005 historia
+La historia está llena de coincidencias de fechas y mitos que repetimos sin saber de dónde vienen. Algunas verdades suenan tan raras que parecen inventadas.
+Estos diez datos te ayudarán a ordenar mejor el pasado y a desmontar algunos tópicos muy extendidos.
+10: **Cleopatra VII** nació hacia el año **69 a. C.**, y la **Gran Pirámide** de Guiza se terminó hacia el **2560 a. C.** Cuando ella nació, la pirámide ya tenía unos **2.500 años**. Desde Cleopatra hasta la llegada a la Luna en 1969 pasaron unos **2.040 años**.
+Esto muestra lo larguísima que fue la historia del antiguo Egipto: duró unos 3.000 años. Para Cleopatra, las pirámides eran monumentos antiquísimos, igual que para nosotros. Además, ella no era de origen egipcio: pertenecía a la dinastía **ptolemaica**, de ascendencia griega, y fue de las pocas de su familia que aprendió la lengua egipcia.
+» Nos ayuda a no meter en el mismo saco a todo el "mundo antiguo": entre sus épocas hubo miles de años.
+9: En **Oxford** ya se enseñaba en **1096**, y la universidad creció rápidamente a partir de 1167. **Tenochtitlan**, la capital del Imperio azteca, se fundó hacia **1325**, y la alianza que formó el imperio llegó en **1428**.
+Es decir, Oxford ya llevaba más de dos siglos funcionando cuando nacieron los aztecas como potencia. Otras universidades, como la de **Bolonia** (1088), son aún más antiguas. En otras partes del mundo había centros de estudio incluso anteriores, como Al Qarawiyyin en Fez (Marruecos).
+» Las fechas "sueltas" engañan: poner acontecimientos en paralelo cambia nuestra idea del pasado.
+8: **Napoleón Bonaparte** medía alrededor de **1,69 m**, una estatura normal para un francés de su época. El mito de que era bajito tiene varias causas.
+Una es la confusión de **unidades**: las pulgadas francesas eran más largas que las inglesas, así que "5 pies y 2 pulgadas" francesas se interpretó como una estatura menor. Otra es la **propaganda** británica, que lo caricaturizaba como un hombrecillo rabioso. Además, solía rodearse de su guardia imperial, formada por soldados especialmente altos.
+» Muchos "datos" históricos son en realidad propaganda de la época repetida durante siglos.
+7: Los **vikingos** no llevaban cascos con cuernos a la batalla. Los cascos vikingos conservados, como el de **Gjermundbu** (Noruega), son redondos y sin adornos: unos cuernos habrían sido un estorbo en el combate.
+La imagen del vikingo con cuernos la popularizó el diseñador de vestuario **Carl Emil Doepler** para la ópera ***El anillo del nibelungo*** de Wagner, en **1876**. Después la copiaron ilustradores, cómics y películas. Sí existen cascos con cuernos más antiguos en el norte de Europa, pero eran objetos ceremoniales de la Edad del Bronce.
+» Muchas imágenes que asociamos al pasado vienen del arte del siglo XIX, no de la historia real.
+6: Los romanos usaban un **hormigón** con **ceniza volcánica** (puzolana) y cal. Estructuras como el **Panteón** de Roma, con su cúpula de casi 2.000 años, siguen en pie.
+Un estudio de 2023 descubrió que ese hormigón se **"autorreparaba"**: tenía pequeños grumos de cal que, al entrar agua por una grieta, se disolvían y volvían a cristalizar, sellándola. En los diques marinos, el agua del mar incluso formaba minerales que lo reforzaban con el tiempo.
+» Los ingenieros estudian el hormigón romano para crear materiales más duraderos y con menos emisiones de CO₂.
+5: El **Imperio romano de Occidente** cayó en el año **476**, pero el de **Oriente**, con capital en Constantinopla, sobrevivió casi **mil años más**, hasta **1453**, cuando los otomanos tomaron la ciudad.
+Sus habitantes se llamaban a sí mismos **romanos**; el nombre "bizantino" lo inventaron historiadores posteriores. Durante siglos fue una de las potencias más ricas del mundo y conservó muchos textos clásicos griegos que luego llegaron a Europa occidental.
+» La "caída de Roma" no fue un final repentino: la mitad del imperio siguió existiendo casi hasta la época de Colón.
+4: La mayoría de los mamuts lanudos desaparecieron hace unos 10.000 años, pero una pequeña población sobrevivió en la **isla de Wrangel**, en el océano Ártico, hasta hace unos **4.000 años**.
+Para entonces, los egipcios ya habían construido las pirámides de Guiza (hacia el 2500 a. C.). Esos últimos mamuts vivieron aislados y, según estudios genéticos, acumularon mutaciones dañinas por la falta de diversidad. Su final pudo llegar por algún suceso repentino, como un cambio del clima o una enfermedad.
+» Muestra cómo las poblaciones pequeñas y aisladas son muy vulnerables a la extinción.
+3: En julio de **1518**, en **Estrasburgo**, una mujer empezó a bailar en la calle y no paró durante días. En semanas se le unieron decenas de personas, según las crónicas, que bailaban hasta caer agotadas.
+Las autoridades, creyendo que el remedio era bailar más, llegaron a contratar músicos y preparar escenarios. La causa sigue sin estar clara. La hipótesis más aceptada es una **enfermedad psicógena colectiva**, provocada por el estrés, el hambre y las creencias religiosas de una población que vivía una época muy dura.
+» Es un ejemplo histórico de cómo el estrés colectivo puede provocar síntomas físicos reales.
+2: El **3 de abril de 1973**, **Martin Cooper**, de Motorola, hizo la primera llamada desde un teléfono móvil en una calle de Nueva York. El prototipo, el **DynaTAC**, pesaba alrededor de **1 kilo** y medía unos 25 cm.
+Su batería permitía hablar unos **30 minutos** y tardaba unas 10 horas en cargarse. El primer modelo comercial llegó en 1983 y costaba unos 4.000 dólares de la época. En 50 años, los teléfonos han pasado de ladrillos a ordenadores de bolsillo.
+» Ayuda a poner en perspectiva lo rápido que ha cambiado la tecnología en una sola vida humana.
+1: El **27 de agosto de 1896**, el Reino Unido y el sultanato de **Zanzíbar** libraron una guerra que duró unos **38 a 45 minutos**, según la fuente.
+El detonante fue la llegada al poder de un sultán que los británicos no aceptaban. Tras un ultimátum, la flota británica bombardeó el palacio, que quedó en llamas, y el sultán huyó. Hubo unos 500 muertos en el bando de Zanzíbar y un marinero británico herido. Es la guerra más corta registrada.
+» Incluso una guerra de minutos puede tener consecuencias graves: cambió el gobierno de todo un país.
+? ¿Cleopatra vivió más cerca de la Luna que de las pirámides? | Sí: nació unos 2.500 años después de la Gran Pirámide y unos 2.040 años antes de la llegada a la Luna.
+? ¿Napoleón era bajo? | No, medía alrededor de 1,69 m, normal para su época.
+? ¿Los vikingos llevaban cascos con cuernos? | No. Esa imagen viene del vestuario de una ópera de Wagner de 1876.
+? ¿Cuál fue la guerra más corta? | La anglo-zanzibariana de 1896, que duró menos de 45 minutos.
++ Wikipedia: Cleopatra | https://es.wikipedia.org/wiki/Cleopatra
++ Seymour et al. (2023). Hot mixing: mechanistic insights into the durability of ancient Roman concrete. Science Advances | https://doi.org/10.1126/sciadv.add1602
++ Wikipedia: Epidemia de baile de 1518 | https://es.wikipedia.org/wiki/Epidemia_de_baile_de_1518
++ Wikipedia: Guerra anglo-zanzibariana | https://es.wikipedia.org/wiki/Guerra_anglo-zanzibariana
++ Rogers y Slatkin (2017). Excess of genomic defects in a woolly mammoth on Wrangel island. PLoS Genetics | https://doi.org/10.1371/journal.pgen.1006601

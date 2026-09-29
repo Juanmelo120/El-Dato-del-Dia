@@ -6,4 +6,5 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://eldatodeldia.com',
   integrations: [mdx(), sitemap()],
+  build: { inlineStylesheets: 'always' },
 });

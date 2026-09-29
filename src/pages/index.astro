@@ -10,8 +10,7 @@ const hoy = datos.find((d) => d.data.numero === SITE.datoDeHoy) ?? datos[0];
 const resto = datos.filter((d) => d !== hoy);
 const destacados = resto.slice(0, 3);
 const fecha = hoy?.data.date.toLocaleDateString('es', { weekday: 'long', day: 'numeric', month: 'long' });
-const catsUsadas = new Set(datos.map((d) => d.data.category)).size;
-const fuentes = datos.reduce((n, d) => n + d.data.sources.length, 0);
+const index = datos.map((d) => ({ id: d.id, n: d.data.numero, t: d.data.title, h: d.data.hook, c: d.data.category, s: d.data.slides.map((x) => x.titulo).join(' ') }));
 const cats = Object.entries(CATEGORIES);
 const pasos = [
   { icon: 'search', t: 'Investigar', d: 'Cada dato parte de una pregunta y se rastrea hasta su origen: estudios, museos, agencias científicas.' },
@@ -32,14 +31,15 @@ const pasos = [
           <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Ver en TikTok <Icon name="arrow-up-right" size={16} /></a>
         </div>
       </div>
-      <div class="orb" aria-hidden="true">
-        <div class="ring"></div>
-        <div class="ring ring--2"></div>
-        <div class="orb-img" data-parallax="14"><img src="/perfil.png" alt="" width="440" height="440" /></div>
-        <span class="float f1" data-parallax="-24">?</span>
-        <span class="float f2" data-parallax="-18">!</span>
-        <span class="float f3" data-parallax="-30"><Icon name="sparkles" size={20} /></span>
-      </div>
+      <aside class="peek" data-reveal style="--i:2" aria-label="Qué vas a encontrar en este dato">
+        <p class="peek-h">En este dato</p>
+        <ol>
+          {hoy.data.slides.slice(0, 5).map((s) => (
+            <li><a href={`/datos/${hoy.id}#${s.id}`}><span class="num">{String(s.n).padStart(2, '0')}</span>{s.titulo}</a></li>
+          ))}
+        </ol>
+        <a class="peek-more" href={`/datos/${hoy.id}`}>Y {Math.max(hoy.data.slides.length - 5, 0)} más, explicados paso a paso <Icon name="arrow-right" size={15} /></a>
+      </aside>
     </section>
   )}
 
@@ -50,19 +50,8 @@ const pasos = [
   </div>
 
   <section class="container block">
-    <div class="head2">
-      <div>
-        <p class="eyebrow" data-reveal>Los datos, medidos</p>
-        <h2 data-reveal style="--i:1">Curiosidad con <span class="gold">fuentes</span>.</h2>
-      </div>
-      <p class="muted side" data-reveal style="--i:2">Del carrusel de TikTok a la historia completa: cada dato tiene su artículo, su contexto y las fuentes para comprobarlo.</p>
-    </div>
-    <div class="stats">
-      <div class="stat stat--gold" data-reveal><span class="big num" data-count={datos.length}>{datos.length}</span><span>datos explicados a fondo</span></div>
-      <div class="stat" data-reveal style="--i:1"><span class="big num" data-count={catsUsadas}>{catsUsadas}</span><span>temas distintos, de la historia al espacio</span></div>
-      <div class="stat" data-reveal style="--i:2"><span class="big num" data-count={fuentes}>{fuentes}</span><span>fuentes citadas y enlazadas</span></div>
-      <div class="stat stat--cyan" data-reveal style="--i:3"><span class="big num">1</span><span>dato nuevo cada día en {SITE.tiktokHandle}</span></div>
-    </div>
+    <p class="eyebrow" data-reveal>Para empezar</p>
+    <h2 class="h-arch" data-reveal style="--i:1">Tres historias que suelen sorprender</h2>
 
     {destacados.length > 0 && (
       <div class="cards">
@@ -80,9 +69,6 @@ const pasos = [
     )}
   </section>
 
-  <nav class="container cats" aria-label="Explorar por categoría">
-    {cats.map(([slug, c], i) => <a class="tag" href={`/categoria/${slug}`} data-reveal style={`--i:${i}`}><Icon name={c.icon} size={15} />{c.name}</a>)}
-  </nav>
 
   <AdSlot slot="" />
 
@@ -118,7 +104,6 @@ const pasos = [
       </div>
       <div class="phone" aria-hidden="true" data-parallax="8">
         <div class="phone-screen">
-          <img src="/perfil.png" alt="" width="260" height="260" />
           <p class="phone-q">¿Sabías que…?</p>
           <p class="phone-h">{hoy?.data.hook}</p>
           <span class="phone-cta">La historia completa, en el link del perfil</span>
@@ -127,24 +112,67 @@ const pasos = [
     </div>
   </section>
 
-  {resto.length > 0 && (
-    <section class="container">
-      <p class="eyebrow" data-reveal>Archivo</p>
-      <h2 class="h-arch" data-reveal style="--i:1">Todos los datos</h2>
-      <DatoList datos={resto.slice(0, 24)} />
-      {resto.length > 24 && <p class="more"><a class="btn btn--ghost" href="/tiktok">Ver los {datos.length} datos <Icon name="arrow-right" size={16} /></a></p>}
-    </section>
-  )}
+  <section class="container finder" id="buscar">
+    <p class="eyebrow" data-reveal>Encuentra tu dato</p>
+    <h2 class="h-arch" data-reveal style="--i:1">¿Qué te apetece leer hoy?</h2>
+    <input id="q" type="search" inputmode="search" placeholder="Busca por tema, palabra o número del video" autocomplete="off" aria-label="Buscar dato" />
+    <div class="chips" role="group" aria-label="Filtrar por categoría">
+      <button type="button" class="chip" data-cat="" aria-pressed="true">Todas</button>
+      {cats.map(([slug, c]) => <button type="button" class="chip" data-cat={slug} aria-pressed="false"><Icon name={c.icon} size={14} />{c.name}</button>)}
+    </div>
+    <ul id="list" class="flist">
+      {index.map((d) => (
+        <li data-n={d.n} data-c={d.c} data-s={`${d.n} ${d.t} ${d.h} ${d.s}`.toLowerCase()}>
+          <a href={`/datos/${d.id}`}><span class="num">{String(d.n).padStart(3, '0')}</span><span class="ft"><strong>{d.t}</strong><span class="muted">{d.h}</span></span><span class="fc muted">{CATEGORIES[d.c].name}</span></a>
+        </li>
+      ))}
+    </ul>
+    <p id="more" class="more"><button type="button" class="btn btn--ghost" id="moreBtn">Ver más datos</button></p>
+    <p id="empty" class="muted" hidden>No encontramos ese dato. Prueba con otra palabra o elige otra categoría.</p>
+  </section>
 
   <section class="container habit" data-reveal>
     <h2>La curiosidad también puede ser un <span class="gold">hábito</span>.</h2>
     <p class="muted">Un dato al día. Diez segundos en TikTok, cinco minutos aquí.</p>
     <div class="actions center">
-      <a class="btn btn--marker" href="/tiktok"><Icon name="search" size={16} />Busca el dato que viste</a>
+      <a class="btn btn--marker" href="#buscar"><Icon name="search" size={16} />Busca el dato que viste</a>
       <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Seguir {SITE.tiktokHandle}</a>
     </div>
   </section>
 </Base>
+<script>
+  function setupFinder() {
+    const q = document.getElementById('q') as HTMLInputElement | null;
+    if (!q) return;
+    const items = [...document.querySelectorAll<HTMLLIElement>('#list li')];
+    const chips = [...document.querySelectorAll<HTMLButtonElement>('.chip')];
+    const empty = document.getElementById('empty')!, more = document.getElementById('more')!;
+    let cat = '', limit = 30;
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace('#', '').trim();
+    const draw = () => {
+      const v = norm(q.value);
+      let shown = 0, match = 0;
+      for (const li of items) {
+        const ok = (!cat || li.dataset.c === cat) && (!v || (/^\d+$/.test(v) ? li.dataset.n === String(Number(v)) : norm(li.dataset.s!).includes(v)));
+        if (ok) match++;
+        li.hidden = !ok || shown >= limit;
+        if (!li.hidden) shown++;
+      }
+      empty.hidden = match > 0;
+      more.hidden = match <= limit;
+    };
+    q.addEventListener('input', () => { limit = 30; draw(); });
+    chips.forEach((b) => b.addEventListener('click', () => {
+      cat = b.dataset.cat || ''; limit = 30;
+      chips.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      draw();
+    }));
+    document.getElementById('moreBtn')!.addEventListener('click', () => { limit += 30; draw(); });
+    const h = location.hash.slice(1);
+    if (h && chips.some((b) => b.dataset.cat === h)) chips.find((b) => b.dataset.cat === h)!.click(); else draw();
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setupFinder); else setupFinder();
+</script>
 <style>
   .hero { display: grid; grid-template-columns: 1.15fr .85fr; gap: 48px; align-items: center; padding-top: clamp(40px, 8vw, 104px); padding-bottom: clamp(48px, 7vw, 96px); }
   .stamp { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin: 0 0 22px; font-size: 14px; }
@@ -156,9 +184,6 @@ const pasos = [
   .actions { display: flex; gap: 12px; flex-wrap: wrap; }
   .actions.center { justify-content: center; }
 
-  .orb { position: relative; aspect-ratio: 1; width: min(100%, 460px); justify-self: center; }
-  .orb-img { position: absolute; inset: 12%; border-radius: 50%; transition: transform 600ms var(--ease-out); }
-  .orb-img img { width: 100%; height: 100%; border-radius: 50%; object-fit: cover; box-shadow: 0 0 80px -10px color-mix(in srgb, var(--magenta) 70%, transparent), 0 0 140px -20px color-mix(in srgb, var(--cyan) 50%, transparent); animation: float 7s ease-in-out infinite; }
   .ring { position: absolute; inset: 4%; border-radius: 50%; border: 1px dashed color-mix(in srgb, var(--cyan) 50%, transparent); animation: spin 40s linear infinite; }
   .ring--2 { inset: 0; border: 1px solid transparent; background: conic-gradient(from 0deg, var(--magenta), transparent 30%, var(--marker) 50%, transparent 70%, var(--cyan)) border-box; -webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; animation-duration: 18s; animation-direction: reverse; opacity: .8; }
   .float { position: absolute; display: grid; place-items: center; width: 52px; height: 52px; border-radius: 16px; background: var(--surface); box-shadow: var(--glow); font: 800 26px/1 var(--font-display); transition: transform 700ms var(--ease-out); }
@@ -198,7 +223,6 @@ const pasos = [
     .card:hover .card-go :global(.icon) { transform: translateX(4px); }
   }
 
-  .cats { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 32px; }
 
   .trust { margin-top: 48px; padding: clamp(64px, 9vw, 112px) 0; background: var(--bg-2); border-block: 1px solid var(--line); }
   .steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
@@ -222,6 +246,29 @@ const pasos = [
   .phone-cta { font-size: 11px; color: var(--muted); animation: pulse 2.4s ease-in-out infinite; }
 
   .h-arch { margin: 0 0 24px; }
+  .peek { padding: 26px; border-radius: var(--radius); background: linear-gradient(180deg, var(--surface-2), var(--surface)); box-shadow: inset 0 0 0 1px var(--line); }
+  .peek-h { margin: 0 0 14px; font: 600 13px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--cyan); }
+  .peek ol { list-style: none; margin: 0; padding: 0; display: grid; }
+  .peek li a { display: flex; gap: 14px; padding: 12px 0; border-top: 1px solid var(--line); text-decoration: none; color: var(--ink); font-weight: 500; line-height: 1.35; }
+  .peek li a:hover { color: var(--marker); }
+  .peek li .num { color: var(--marker); flex: none; }
+  .peek-more { display: inline-flex; align-items: center; gap: 6px; margin-top: 14px; color: var(--cyan); font-weight: 600; font-size: 14px; text-decoration: none; }
+  .finder { scroll-margin-top: 130px; }
+  .finder input { width: 100%; margin: 0 0 16px; padding: 18px 20px; font: 500 18px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+  .finder input:focus { outline: none; border-color: var(--marker); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--ink-2); font: 500 14px var(--font-body); cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--marker); color: var(--marker-ink); border-color: var(--marker); }
+  .chip:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .flist { list-style: none; margin: 0; padding: 0; border-bottom: 1px solid var(--line); }
+  .flist a { display: grid; grid-template-columns: 52px 1fr auto; gap: 16px; align-items: baseline; padding: 16px 4px; border-top: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+  .flist a:hover strong { color: var(--marker); }
+  .flist .num { color: var(--muted); }
+  .ft { display: grid; gap: 4px; min-width: 0; }
+  .ft strong { font-weight: 600; font-size: 17px; line-height: 1.3; }
+  .ft .muted { font-size: 15px; }
+  .fc { font-size: 13px; white-space: nowrap; }
+  @media (max-width: 600px) { .flist a { grid-template-columns: 40px 1fr; } .fc { display: none; } }
   .more { margin: 28px 0 0; }
   section.container > .eyebrow:first-child { margin-top: clamp(64px, 9vw, 112px); }
 
@@ -231,8 +278,7 @@ const pasos = [
 
   @media (max-width: 960px) {
     .hero { grid-template-columns: 1fr; }
-    .orb { width: min(80%, 360px); order: -1; }
-    .stats, .steps { grid-template-columns: repeat(2, 1fr); }
+      .stats, .steps { grid-template-columns: repeat(2, 1fr); }
     .cards { grid-template-columns: 1fr; }
     .card { min-height: 0; }
     .head2 { grid-template-columns: 1fr; }

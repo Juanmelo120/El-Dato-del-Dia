@@ -38,7 +38,7 @@ const index = datos.map((d) => ({ id: d.id, n: d.data.numero, t: d.data.title, h
       empty.hidden = shown > 0;
     });
   }
-  document.addEventListener('astro:page-load', setup);
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup); else setup();
 </script>
 <style>
   .wrap { max-width: 640px; padding-top: clamp(40px, 8vw, 88px); }

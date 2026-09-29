@@ -35,7 +35,7 @@ def q(t):
 
 
 def leer_articulos():
-    arts, cur = {}, None
+    arts, cur, dato = {}, None, None
     for f in sorted(glob.glob(os.path.join(RAIZ, 'contenido/articulos/*.txt'))):
         for linea in open(f, encoding='utf-8'):
             l = linea.strip()
@@ -44,6 +44,7 @@ def leer_articulos():
             if l.startswith('='):
                 num, cat = l[1:].split()
                 cur = arts[int(num)] = {'cat': cat, 'intro': [], 'datos': {}, 'faq': [], 'src': []}
+                dato = None
             elif l.startswith('?'):
                 p, r = l[1:].split('|', 1)
                 cur['faq'].append((p.strip(), r.strip()))
@@ -52,7 +53,12 @@ def leer_articulos():
                 cur['src'].append((t.strip(), u.strip()))
             elif re.match(r'^\d+:', l):
                 n, txt = l.split(':', 1)
-                cur['datos'][int(n)] = txt.strip()
+                dato = int(n)
+                cur['datos'][dato] = txt.strip()
+            elif l.startswith('»'):
+                cur['datos'][dato] += '\n\n<p class="why"><strong>Por qué importa.</strong> ' + l[1:].strip() + '</p>'
+            elif dato is not None:
+                cur['datos'][dato] += '\n\n' + l
             else:
                 cur['intro'].append(l)
     return arts

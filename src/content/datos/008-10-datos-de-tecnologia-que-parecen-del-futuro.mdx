@@ -17,64 +17,114 @@ slides:
   - { n: 2, id: "dato-2", titulo: "El código QR se inventó para fábricas de coches", gancho: "Lo creó la empresa japonesa Denso Wave en 1994." }
   - { n: 1, id: "dato-1", titulo: "Tu móvil tiene más potencia que los superordenadores de los 80", gancho: "Y lo usas para ver videos de gatos. ¿Qué harías con ese poder?" }
 faq:
-  - q: "¿Cuál fue el primer bug informático?"
-    a: "Una polilla hallada en 1947 en un relé del ordenador Harvard Mark II."
+  - q: "¿De dónde viene la palabra \"bug\"?"
+    a: "Se usaba en ingeniería antes, pero se hizo famosa en 1947 por una polilla atrapada en un ordenador."
   - q: "¿Por qué el GPS necesita la relatividad?"
-    a: "Porque sus relojes se desfasan unos 38 microsegundos al día y, sin corregirlo, el error sería de kilómetros."
+    a: "Porque sin corregir los efectos relativistas sus relojes acumularían un error de unos 10 km al día."
+  - q: "¿Internet funciona por satélite?"
+    a: "Casi todo el tráfico internacional viaja por cables submarinos."
+  - q: "¿Qué significa QR?"
+    a: "Quick Response, respuesta rápida."
 sources:
+  - title: "Smithsonian: Grace Hopper's bug"
+    url: "https://americanhistory.si.edu/"
+  - title: "Denso Wave: History of QR Code"
+    url: "https://www.qrcode.com/en/history/"
+  - title: "TeleGeography: Submarine cable map"
+    url: "https://www.submarinecablemap.com/"
   - title: "Wikipedia: Mecanismo de Anticitera"
-    url: "https://es.wikipedia.org/wiki/M%C3%A1quina_de_Anticitera"
-  - title: "Wikipedia: Código QR"
-    url: "https://es.wikipedia.org/wiki/C%C3%B3digo_QR"
-  - title: "Wikipedia: Cable submarino"
-    url: "https://es.wikipedia.org/wiki/Cable_submarino"
+    url: "https://es.wikipedia.org/wiki/Mecanismo_de_Anticitera"
   - title: "Wikipedia: Trojan Room coffee pot"
-    url: "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot"
+    url: "https://es.wikipedia.org/wiki/Trojan_Room_coffee_pot"
+  - title: "Ohio State University: GPS and relativity"
+    url: "https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps.html"
 ---
 
-La tecnología que usamos a diario tiene orígenes sorprendentes: polillas, cafeteras y fábricas de coches. Estos 10 datos cuentan su historia.
+La tecnología que usamos cada día tiene orígenes sorprendentes: polillas, cafeteras y fábricas de coches. Detrás de cada invento hay historias que explican cómo llegamos hasta aquí.
+
+Estos diez datos repasan momentos clave de la informática y las comunicaciones, y lo que significan hoy.
 
 <h2 id="dato-10"><span class="n">DATO 10</span>El primer "bug" informático fue una polilla real</h2>
 
-En 1947, los técnicos del ordenador **Harvard Mark II** encontraron una polilla atrapada en un relé y la pegaron en el cuaderno con la nota "primer caso real de bug encontrado". La palabra *bug* ya se usaba para fallos técnicos, pero esta anécdota, asociada a Grace Hopper, la hizo famosa.
+El **9 de septiembre de 1947**, el equipo del ordenador **Harvard Mark II** encontró una **polilla** atrapada en un relé que hacía fallar la máquina. La pegaron en el cuaderno de registro con la nota: "Primer caso real de *bug* encontrado".
+
+La palabra *bug* (bicho) ya se usaba en ingeniería para hablar de fallos desde tiempos de **Edison**, pero esta anécdota la hizo famosa en informática. Se asocia a **Grace Hopper**, pionera de la programación, que la contaba a menudo. El cuaderno, con la polilla, se conserva en el Museo Nacional de Historia Estadounidense.
+
+<p class="why"><strong>Por qué importa.</strong> Hoy "depurar" (*debug*) un programa, buscar y corregir errores, es una parte esencial del trabajo de cualquier programador.</p>
 
 <h2 id="dato-9"><span class="n">DATO 9</span>El ordenador del Apolo 11 tenía mucha menos memoria que un móvil</h2>
 
-El **Apollo Guidance Computer** tenía unos **4 KB de memoria RAM** y 72 KB de memoria de solo lectura. Aun así guio a las naves a la Luna. Cualquier móvil actual tiene millones de veces más memoria y potencia.
+El **ordenador de guiado del Apolo 11** tenía unos **4 KB de memoria RAM** y unos 72 KB de memoria de solo lectura, donde estaba el programa. Un móvil actual tiene millones de veces más.
+
+Su programa se fabricaba **tejiendo a mano** hilos de cobre a través de pequeños anillos magnéticos: un hilo que pasaba por el anillo era un 1, y uno que lo rodeaba, un 0. Lo hacían sobre todo mujeres de una fábrica textil. Durante el alunizaje, el ordenador dio alarmas por sobrecarga, pero su software, dirigido por **Margaret Hamilton**, supo priorizar las tareas vitales.
+
+<p class="why"><strong>Por qué importa.</strong> Demuestra que un buen diseño de software puede compensar un hardware muy limitado.</p>
 
 <h2 id="dato-8"><span class="n">DATO 8</span>El primer disco duro de IBM pesaba más de una tonelada</h2>
 
-El **IBM 350**, el primer disco duro comercial (1956), guardaba unos **5 MB** en 50 discos de 60 cm. Pesaba alrededor de una tonelada y se alquilaba por miles de dólares al mes.
+En **1956**, IBM presentó el **RAMAC 305**, con el primer **disco duro** comercial. Pesaba alrededor de **una tonelada**, ocupaba casi como un armario grande y guardaba unos **5 megabytes**, una sola canción en MP3.
+
+Tenía 50 discos de 60 cm que giraban a 1.200 revoluciones por minuto, y se alquilaba por unos 3.200 dólares al mes. Hoy una tarjeta de memoria del tamaño de una uña guarda cientos de miles de veces más.
+
+<p class="why"><strong>Por qué importa.</strong> La miniaturización del almacenamiento es lo que hizo posibles los móviles, las cámaras digitales y la nube.</p>
 
 <h2 id="dato-7"><span class="n">DATO 7</span>La primera webcam vigilaba una cafetera</h2>
 
-En 1991, en el laboratorio de informática de la Universidad de **Cambridge**, montaron una cámara apuntando a la cafetera para no ir en vano. En 1993 la conectaron a la web: se considera la **primera webcam**. La cafetera se subastó en 2001.
+En **1991**, en el laboratorio de informática de la **Universidad de Cambridge**, los investigadores tenían que bajar varios pisos para comprobar si quedaba café en la cafetera común. Así que apuntaron una cámara hacia ella y conectaron la imagen a la red interna.
+
+En **1993** la pusieron en internet: fue una de las primeras **webcams** del mundo, la **Trojan Room coffee pot**. Recibió millones de visitas de todo el mundo hasta que se apagó en 2001. La cafetera se subastó después por casi 5.000 libras.
+
+<p class="why"><strong>Por qué importa.</strong> Un problema cotidiano, no quedarse sin café, dio origen a una tecnología que hoy usamos a diario.</p>
 
 <h2 id="dato-6"><span class="n">DATO 6</span>Existe un ordenador de 2.000 años</h2>
 
-El **mecanismo de Anticitera**, hallado en un naufragio griego en 1901, tiene unos 2.100 años. Con decenas de engranajes de bronce calculaba posiciones del Sol y la Luna, fases lunares y eclipses. Se considera el primer "ordenador" analógico conocido.
+En **1901**, unos buceadores encontraron en un naufragio junto a la isla griega de **Anticitera** un bloque de bronce corroído con engranajes. Es el **mecanismo de Anticitera**, fabricado hacia el siglo II a. C.
+
+Con más de 30 engranajes, calculaba la posición del Sol y la Luna, las fases lunares, los **eclipses** e incluso las fechas de los Juegos Olímpicos. Se considera el primer ordenador analógico conocido: no se conoce nada comparable hasta los relojes astronómicos medievales, más de mil años después.
+
+<p class="why"><strong>Por qué importa.</strong> Muestra que el conocimiento técnico del mundo antiguo era mucho más avanzado de lo que solemos creer.</p>
 
 <Ad />
 
 <h2 id="dato-5"><span class="n">DATO 5</span>El GPS tiene que corregir la relatividad de Einstein</h2>
 
-Los relojes de los satélites **GPS** van más rápido que en tierra por estar en un campo gravitatorio más débil (relatividad general) y más lento por moverse rápido (relatividad especial). El efecto neto es de unos **38 microsegundos al día**, que acumularían errores de unos **10 km diarios** si no se corrigieran.
+Los satélites del **GPS** llevan **relojes atómicos** y giran a unos 20.000 km de altura, moviéndose muy rápido. Según la **relatividad de Einstein**, su velocidad hace que sus relojes vayan más lentos, y la gravedad más débil allá arriba hace que vayan más rápidos.
+
+El efecto neto es que se adelantan unos **38 microsegundos al día**. Parece poco, pero como el GPS calcula tu posición a partir del tiempo que tarda la señal, sin corregirlo el error crecería unos **10 km al día**. Los relojes se ajustan antes del lanzamiento para compensarlo.
+
+<p class="why"><strong>Por qué importa.</strong> Cada vez que usas un mapa en el móvil estás usando la teoría de la relatividad sin saberlo.</p>
 
 <h2 id="dato-4"><span class="n">DATO 4</span>La mayor parte de internet viaja por cables bajo el mar</h2>
 
-Más del **95 % del tráfico internacional** de datos viaja por **cables de fibra óptica submarinos**, no por satélites. Hay cientos de ellos cruzando los océanos, algunos de más de 20.000 km.
+Más del **95 %** del tráfico internacional de internet viaja por **cables submarinos** de fibra óptica, no por satélites. Hay cientos de cables que suman más de **1 millón de km** por el fondo del mar.
+
+Son más finos de lo que parece, en alta mar apenas como una manguera de jardín, y transportan datos con luz a velocidades enormes. Los satélites se usan sobre todo en zonas remotas, porque tienen más retraso y menos capacidad. Cada año hay averías causadas por anclas de barcos, redes de pesca y hasta mordiscos de tiburones.
+
+<p class="why"><strong>Por qué importa.</strong> Proteger estos cables es clave: de ellos depende buena parte de la economía y las comunicaciones mundiales.</p>
 
 <h2 id="dato-3"><span class="n">DATO 3</span>El primer SMS decía "Merry Christmas"</h2>
 
-El primer SMS lo envió el ingeniero Neil Papworth el **3 de diciembre de 1992**: desde un ordenador escribió "Merry Christmas" al móvil de un directivo de Vodafone.
+El **3 de diciembre de 1992**, el ingeniero **Neil Papworth** envió desde un ordenador el primer **SMS** a un móvil de un directivo de Vodafone. El mensaje decía "**Merry Christmas**".
+
+El destinatario no pudo responder porque los móviles aún no permitían escribir mensajes. El límite de **160 caracteres** lo propuso antes el ingeniero Friedhelm Hillebrand, que comprobó que la mayoría de postales y télex cabían en ese espacio. En 2021 el primer SMS se subastó como NFT.
+
+<p class="why"><strong>Por qué importa.</strong> Aquel límite de caracteres influyó en la forma de escribir de toda una generación y en redes como Twitter.</p>
 
 <h2 id="dato-2"><span class="n">DATO 2</span>El código QR se inventó para fábricas de coches</h2>
 
-El **código QR** lo creó Masahiro Hara en **Denso Wave**, filial de Toyota, en **1994**, para seguir piezas en las fábricas. Puede leerse aunque esté dañado gracias a su corrección de errores.
+El **código QR** lo inventó en **1994** el ingeniero **Masahiro Hara** en **Denso Wave**, una empresa del grupo Toyota. Servía para seguir las piezas en las fábricas de coches, porque el código de barras guardaba pocos datos.
+
+QR significa "**Quick Response**" (respuesta rápida). Sus tres cuadrados de las esquinas permiten leerlo desde cualquier ángulo, y gracias a la corrección de errores funciona aunque falte una parte. Denso Wave no cobró por su uso, lo que ayudó a que se extendiera por todo el mundo.
+
+<p class="why"><strong>Por qué importa.</strong> Hoy se usa para pagar, ver menús o validar billetes, muy lejos de las fábricas para las que se creó.</p>
 
 <h2 id="dato-1"><span class="n">DATO 1</span>Tu móvil tiene más potencia que los superordenadores de los 80</h2>
 
-Un móvil moderno realiza billones de operaciones por segundo. El **Cray-2** de 1985, uno de los superordenadores más potentes de su época, rondaba los 2 gigaflops, muy por debajo de cualquier smartphone actual.
+El **Cray-2**, uno de los superordenadores más potentes de mediados de los 80, alcanzaba unos 2 **gigaflops** (mil millones de operaciones por segundo). Un **móvil moderno** supera con creces esa potencia.
+
+Además, aquel superordenador ocupaba una sala, necesitaba refrigeración líquida y costaba millones de dólares. Hoy esa capacidad cabe en el bolsillo y funciona con batería. La **ley de Moore**, que predijo que el número de transistores en un chip se duplicaría cada dos años, se cumplió durante décadas.
+
+<p class="why"><strong>Por qué importa.</strong> Ese salto explica por qué hoy podemos hacer fotos, traducir idiomas o usar inteligencia artificial desde un teléfono.</p>
 
 ## Resumen de los 10 datos
 

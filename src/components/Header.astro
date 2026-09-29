@@ -9,26 +9,25 @@ const path = Astro.url.pathname;
       <img src="/perfil.png" alt="" width="36" height="36" class="avatar" />
       <span><span class="gold">El Dato</span> <span class="cyan">del Día</span></span>
     </a>
-    <nav aria-label="Categorías">
-      {Object.entries(CATEGORIES).slice(0, 5).map(([slug, c]) => (
-        <a href={`/categoria/${slug}`} aria-current={path.startsWith(`/categoria/${slug}`) ? 'page' : undefined}>{c.name}</a>
-      ))}
-    </nav>
-    <a href="/tiktok" class="btn btn--marker btn--sm"><Icon name="search" size={16} />Buscar dato</a>
+    <a href="/#buscar" class="btn btn--marker btn--sm"><Icon name="search" size={16} />Buscar dato</a>
   </div>
+  <nav class="container cats" aria-label="Categorías">
+    {Object.entries(CATEGORIES).map(([slug, c]) => (
+      <a href={`/categoria/${slug}`} aria-current={path.startsWith(`/categoria/${slug}`) ? 'page' : undefined}><Icon name={c.icon} size={15} />{c.name}</a>
+    ))}
+  </nav>
 </header>
 <style>
-  .header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 78%, transparent); backdrop-filter: saturate(1.6) blur(14px); -webkit-backdrop-filter: saturate(1.6) blur(14px); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
-  .bar { display: flex; align-items: center; gap: 28px; height: 68px; }
+  .header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 82%, transparent); backdrop-filter: saturate(1.6) blur(14px); -webkit-backdrop-filter: saturate(1.6) blur(14px); border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: 20px; height: 64px; }
   .logo { display: flex; align-items: center; gap: 10px; font: 800 19px/1 var(--font-display); letter-spacing: -0.03em; text-decoration: none; white-space: nowrap; }
-  .avatar { border-radius: 50%; box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--magenta), 0 0 18px color-mix(in srgb, var(--magenta) 60%, transparent); transition: transform 400ms var(--ease-out); }
-  @media (hover: hover) and (pointer: fine) { .logo:hover .avatar { transform: rotate(-8deg) scale(1.06); } }
-  nav { display: flex; gap: 24px; margin-left: auto; font-size: 15px; }
-  nav a { text-decoration: none; color: var(--muted); transition: color 150ms ease; position: relative; }
-  nav a::after { content: ''; position: absolute; left: 0; right: 0; bottom: -6px; height: 2px; border-radius: 2px; background: var(--marker); transform: scaleX(0); transform-origin: left; transition: transform 250ms var(--ease-out); }
-  nav a:hover, nav a[aria-current] { color: var(--ink); }
-  nav a:hover::after, nav a[aria-current]::after { transform: scaleX(1); }
+  .avatar { width: 36px; height: 36px; object-fit: cover; border-radius: 50%; box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--magenta); }
+  .cats { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; padding-bottom: 10px; font-size: 14px; }
+  .cats::-webkit-scrollbar { display: none; }
+  .cats a { flex: none; display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: 999px; text-decoration: none; color: var(--muted); transition: color 150ms ease, background-color 150ms ease; }
+  .cats a:hover { color: var(--ink); background: var(--surface); }
+  .cats a[aria-current] { color: var(--marker-ink); background: var(--marker); }
+  @media (min-width: 1100px) { .cats { flex-wrap: wrap; justify-content: space-between; gap: 0; } .cats a { padding: 7px 9px; } .cats a :global(.icon) { display: none; } }
   .btn--sm { padding: 10px 16px; font-size: 14px; }
-  @media (max-width: 900px) { nav { display: none; } .btn--sm { margin-left: auto; } }
   @media (max-width: 400px) { .logo { font-size: 17px; } .btn--sm { padding: 10px 12px; } }
 </style>

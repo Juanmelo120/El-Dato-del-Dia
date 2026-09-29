@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import { ClientRouter } from 'astro:transitions';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import CookieBanner from '../components/CookieBanner.astro';
@@ -54,7 +53,6 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   {SITE.gaId && <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaId}`}></script>}
   {SITE.gaId && <script is:inline define:vars={{ id: SITE.gaId }}>gtag('js', new Date()); gtag('config', id);</script>}
   {SITE.adsenseClient && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>}
-  <ClientRouter />
   <Motion />
 </head>
 <body>

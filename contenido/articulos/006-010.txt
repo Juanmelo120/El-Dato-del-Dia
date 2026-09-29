@@ -1,0 +1,216 @@
+=006 ciencia
+Hay fenómenos que parecen trucos de magia: agua que hierve y se congela a la vez, líquidos que trepan por las paredes o metales que recuerdan su forma. Todos tienen una explicación científica.
+En estos diez datos te contamos qué ocurre en cada caso, por qué pasa y dónde se aprovecha en la vida real.
+10: En algunas condiciones, el **agua caliente** puede congelarse **antes** que la fría. Se llama **efecto Mpemba**, por Erasto Mpemba, un estudiante de Tanzania que lo notó en 1963 preparando helado en clase. Aristóteles ya había descrito algo parecido hace más de 2.000 años.
+No ocurre siempre, y los científicos aún debaten por qué pasa cuando pasa. Entre las explicaciones propuestas están la **evaporación** (el agua caliente pierde masa y se enfría antes), las **corrientes internas** que reparten el frío, los gases disueltos o el contacto con el congelador. Algunos experimentos cuidadosos ni siquiera logran reproducirlo, lo que lo hace aún más curioso.
+» Muestra que incluso algo tan cotidiano como congelar agua aún guarda preguntas abiertas para la física.
+9: Es un mito muy extendido que el vidrio es un líquido que fluye muy despacio y que por eso las **ventanas medievales** son más gruesas abajo. En realidad, el vidrio a temperatura ambiente es un **sólido amorfo**: sus átomos están desordenados como en un líquido, pero no fluyen de forma apreciable.
+Los cálculos indican que harían falta muchísimo más tiempo que la edad del universo para que el vidrio de una ventana se deformara de forma visible. Las ventanas antiguas son irregulares porque se fabricaban con técnicas que no daban un grosor uniforme, y los cristaleros solían colocar la parte más gruesa abajo, aunque a veces la ponían arriba.
+» Es un buen ejemplo de un "dato" que se repite en clases y libros sin comprobarlo.
+8: Los plátanos contienen **potasio**, y una pequeña parte del potasio natural es **potasio-40**, un isótopo radiactivo. Por eso un plátano es ligeramente radiactivo.
+La dosis es minúscula: comer un plátano expone a una radiación mucho menor que un vuelo en avión o una radiografía. Además, el cuerpo mantiene constante su nivel de potasio y expulsa el exceso. Tendrías que comer decenas de millones de plátanos a la vez para recibir una dosis peligrosa. De ahí nació la "**dosis equivalente a un plátano**", una unidad informal para explicar la radiación.
+» Recuerda que la radiación está en todas partes en pequeñas dosis: lo que importa es la cantidad.
+7: Por debajo de unos **−271 °C**, el **helio-4** se convierte en un **superfluido**, un estado en el que fluye sin ninguna fricción. En ese estado puede formar una capa finísima que **trepa por las paredes** del recipiente y se escapa por el borde.
+También puede atravesar poros tan pequeños que ningún líquido normal pasaría, y si lo pones a girar, sigue girando indefinidamente. Este comportamiento solo se explica con la **física cuántica**: a esas temperaturas, los átomos se comportan como una sola "onda" colectiva.
+» El helio superfluido se usa para enfriar imanes superconductores, como los del acelerador de partículas del CERN.
+6: En la Tierra, las llamas suben porque el aire caliente es menos denso y asciende, arrastrando la llama hacia arriba. En la **microgravedad** de la Estación Espacial Internacional no hay "arriba", así que la llama se convierte en una **esfera** que suele verse **azulada**.
+Sin esa corriente, el oxígeno llega a la llama solo lentamente, por difusión, y la combustión es más limpia, con menos hollín amarillo. En experimentos de la NASA se han observado incluso "**llamas frías**", que siguen ardiendo a temperaturas mucho más bajas de lo normal.
+» Estudiar el fuego en el espacio es clave para la seguridad de los astronautas y para diseñar motores más eficientes.
+5: Un **rayo** calienta el aire por el que pasa hasta unos **30.000 °C** en una fracción de segundo. La superficie del **Sol** está a unos **5.500 °C**, así que el rayo es unas **cinco veces** más caliente.
+Ese calentamiento brutal hace que el aire se expanda de golpe, a velocidad supersónica, y produce una onda de choque: el **trueno**. Como la luz llega casi al instante y el sonido viaja a unos 340 metros por segundo, puedes calcular la distancia de una tormenta contando los segundos entre el relámpago y el trueno y dividiendo entre tres para obtener los kilómetros.
+» Si oyes el trueno menos de 30 segundos después del relámpago, la tormenta está lo bastante cerca como para ponerte a cubierto.
+4: El sonido es una vibración que viaja más rápido cuanto más juntas están las partículas del medio. En el aire va a unos **343 m/s**; en el agua, a unos **1.480 m/s**, más de **cuatro veces** más rápido. En el acero supera los 5.000 m/s.
+Además, en el agua los sonidos graves pierden muy poca energía. Algunas ballenas, como el rorcual común, emiten sonidos que pueden viajar **cientos de kilómetros**. Existe incluso una capa del océano, el **canal SOFAR**, donde el sonido queda "atrapado" y viaja distancias enormes.
+» Es la base del sonar, que usan barcos, submarinos y científicos para cartografiar el fondo marino.
+3: El **oro** es el metal más **maleable**: se puede aplastar hasta formar láminas de apenas una diezmilésima de milímetro, mucho más finas que un cabello. Con un solo gramo se puede cubrir alrededor de **un metro cuadrado**.
+Una lámina tan fina se vuelve **translúcida** y deja pasar luz verdosa. Por eso el **pan de oro** se ha usado desde la Antigüedad para dorar marcos, retablos, cúpulas y hasta postres. También se usa en los visores de los astronautas: una capa de oro refleja la radiación solar sin impedir la visión.
+» Las propiedades del oro, que no se oxida y conduce bien la electricidad, lo hacen útil también en electrónica.
+2: El **nitinol**, una aleación de níquel y titanio, es un **material con memoria de forma**: lo puedes doblar en frío y, al calentarlo, **vuelve solo** a la forma que se le "enseñó" al fabricarlo.
+Funciona porque su estructura cristalina cambia entre dos fases según la temperatura. También es **superelástico**: se deforma mucho y recupera su forma sin romperse. Se usa en **stents** que se abren dentro de las arterias al calentarse con el cuerpo, en ortodoncia, en monturas de gafas irrompibles y en piezas de aviones y satélites.
+» Los stents de nitinol han permitido tratar arterias bloqueadas con operaciones mucho menos invasivas.
+1: El **punto triple** es la combinación exacta de presión y temperatura en la que una sustancia puede existir a la vez como **sólido, líquido y gas**. Para el agua ocurre a **0,01 °C** y a una presión muy baja, de unos **611 pascales** (un 0,6 % de la presión atmosférica).
+En un laboratorio se puede ver cómo el agua **hierve y se congela** al mismo tiempo en un mismo recipiente. Durante décadas, el punto triple del agua sirvió para definir la escala de temperatura Kelvin, la que usan los científicos.
+» Entender los cambios de estado es clave para cosas cotidianas como la cocina a presión o la liofilización de alimentos.
+? ¿Qué es el efecto Mpemba? | Que el agua caliente pueda congelarse antes que la fría en ciertas condiciones. Aún se debate por qué.
+? ¿Es el vidrio un líquido? | No, es un sólido amorfo. Las ventanas antiguas son irregulares por cómo se fabricaban.
+? ¿Son peligrosos los plátanos por su radiactividad? | No: la dosis es minúscula y el cuerpo mantiene constante su nivel de potasio.
+? ¿Cómo calcular a qué distancia está una tormenta? | Cuenta los segundos entre el relámpago y el trueno y divide entre tres para obtener los kilómetros.
++ Wikipedia: Efecto Mpemba | https://es.wikipedia.org/wiki/Efecto_Mpemba
++ Zanotto (1998). Do cathedral glasses flow? American Journal of Physics | https://doi.org/10.1119/1.18898
++ NASA: Flame Extinguishment Experiment | https://www.nasa.gov/
++ NOAA: Lightning safety | https://www.weather.gov/safety/lightning
++ Wikipedia: Nitinol | https://es.wikipedia.org/wiki/Nitinol
++ Wikipedia: Punto triple | https://es.wikipedia.org/wiki/Punto_triple
+
+=007 mente
+Tu cerebro no es una cámara que graba el mundo tal cual: rellena huecos, reescribe recuerdos y se engaña a sí mismo. Conocer sus trucos ayuda a entender por qué pensamos como pensamos.
+Estos diez datos explican fenómenos que seguro has vivido, qué dice la psicología sobre ellos y cómo sacarles partido en tu día a día.
+10: En cada ojo tienes un **punto ciego**, la zona donde el nervio óptico sale de la retina. Ahí no hay células que detecten la luz, así que no ves nada.
+No lo notas porque tu cerebro **rellena** el hueco con lo que hay alrededor y porque el otro ojo cubre esa zona. Puedes comprobarlo: dibuja una cruz y un punto separados unos 8 cm en un papel, tápate el ojo izquierdo, mira la cruz con el derecho y acércate despacio. En cierto momento, el punto desaparecerá.
+» Lo que percibes es una reconstrucción del cerebro: no todo lo que "ves" está realmente ahí.
+9: La memoria no funciona como un archivo que se abre y se cierra. Cada vez que **recuerdas algo, lo reconstruyes**, y en ese proceso el recuerdo puede cambiar: se mezclan detalles, se añaden cosas o se pierden otras.
+La psicóloga **Elizabeth Loftus** demostró que con preguntas sugerentes se pueden implantar recuerdos falsos. En un experimento, parte de los participantes llegaron a "recordar" haberse perdido de niños en un centro comercial, algo que nunca ocurrió. Por eso los testimonios de testigos, aunque sean sinceros, pueden ser poco fiables.
+» Si quieres recordar algo con exactitud, escríbelo cuanto antes: tu memoria lo irá modificando.
+8: En los años 20, la psicóloga **Bluma Zeigarnik** observó que los camareros recordaban muy bien los pedidos pendientes, pero los olvidaban en cuanto los cobraban. En sus experimentos, la gente recordaba mejor las tareas **interrumpidas** que las terminadas.
+Se llama **efecto Zeigarnik**: una tarea sin acabar genera una especie de "tensión" que la mantiene activa en la mente. Por eso las series terminan los capítulos en suspenso. Estudios posteriores muestran que no siempre ocurre, pero el efecto se usa mucho en productividad.
+» Si te cuesta empezar algo, comienza aunque sea un poco: tu mente tenderá a volver a ello para terminarlo.
+7: No puedes hacerte **cosquillas** a ti mismo, o casi no. Cuando mueves tu mano, el cerebro, sobre todo el **cerebelo**, **predice** exactamente qué vas a sentir y reduce la sensación.
+Las cosquillas funcionan en parte por la **sorpresa**: si no sabes cuándo y dónde te van a tocar, la sensación es más intensa. En experimentos con un robot que movía una pluma con un pequeño retraso respecto al movimiento de la persona, las cosquillas "propias" empezaban a funcionar un poco más.
+» Este mecanismo de predicción ayuda al cerebro a distinguir entre lo que haces tú y lo que viene de fuera.
+6: Esa canción que no se te va de la cabeza tiene nombre: **gusano auditivo** (*earworm*). Casi todo el mundo los sufre, y suelen ser fragmentos cortos y repetitivos, con melodías sencillas o con algún giro inesperado.
+Estudios indican que aparecen más cuando has escuchado la canción hace poco, cuando estás cansado o cuando tu mente divaga. Para quitártelo, algunas investigaciones sugieren **mascar chicle** (interfiere con la "voz interior" que repite la canción) o escuchar la canción **entera**, para "cerrarla".
+» Es un ejemplo de cómo el cerebro repite en bucle lo que no termina de procesar.
+5: Tomar muchas decisiones seguidas puede agotarte. Se ha observado que, tras una larga serie de elecciones, las personas tienden a elegir la **opción por defecto**, a posponer o a decidir peor: es la **fatiga de decisión**.
+Un estudio famoso con jueces de libertad condicional encontró que concedían más libertades al principio de la jornada y tras los descansos. Ese estudio se ha discutido mucho y la idea de que la fuerza de voluntad se "gasta" no se ha confirmado del todo. Aun así, organizar el día ayuda.
+» Deja las decisiones importantes para cuando estés descansado y automatiza las pequeñas, como qué desayunar.
+4: Ver **caras** donde no las hay, en un enchufe, en las nubes o en la parte delantera de un coche, se llama **pareidolia**. Casi todo el mundo lo experimenta.
+Ocurre porque el cerebro está especializado en detectar caras muy rápido: una zona llamada **área fusiforme** se activa incluso con dos puntos y una línea. Desde el punto de vista evolutivo, es mejor "ver" una cara que no existe que no ver a alguien que sí está. Los estudios muestran que estas caras falsas hasta nos parecen tener emociones.
+» Explica por qué vemos figuras en las nubes, en Marte o en una tostada.
+3: Solemos creer que los demás se fijan en nuestros errores y en nuestro aspecto mucho más de lo que realmente lo hacen. Es el **efecto foco** (*spotlight effect*).
+En un experimento de 2000, unos estudiantes entraron en una sala con una camiseta vergonzosa. Creían que la mitad de sus compañeros lo notaría, pero en realidad solo lo notó alrededor de una cuarta parte. Cada uno está más pendiente de sí mismo que de los demás.
+» Saberlo puede quitar presión: la mayoría de la gente está demasiado ocupada pensando en sí misma.
+2: Entras a la cocina y no recuerdas qué ibas a buscar. Estudios de la Universidad de Notre Dame mostraron que **cruzar una puerta** aumenta la probabilidad de olvidar lo que ibas a hacer.
+La explicación es que el cerebro organiza la memoria por **episodios**, y una puerta funciona como un "límite de evento": al cambiar de espacio, cierra el episodio anterior y empieza uno nuevo. Lo que planeaste en la otra habitación queda menos accesible. Volver al sitio donde lo pensaste suele ayudar a recordarlo.
+» Si olvidas a qué ibas, vuelve a la habitación anterior: el contexto ayuda a recuperar el recuerdo.
+1: El **déjà vu** es la sensación de haber vivido ya un momento que en realidad es nuevo. Lo experimenta alrededor de dos tercios de las personas, sobre todo jóvenes y personas cansadas o estresadas.
+Una de las explicaciones más aceptadas es que es un pequeño **fallo en la sensación de familiaridad**: una zona del cerebro señala "esto me suena" sin que haya un recuerdo real detrás. Algunos estudios lo relacionan con el lóbulo temporal, y en algunas personas con epilepsia aparece antes de una crisis. En general, es algo normal e inofensivo.
+» Suele ser un signo de que tu sistema de memoria está comprobando si algo es nuevo o conocido.
+? ¿Por qué no vemos el punto ciego? | Porque el cerebro rellena el hueco con lo que hay alrededor y el otro ojo lo cubre.
+? ¿Se pueden crear recuerdos falsos? | Sí. Elizabeth Loftus demostró que preguntas sugerentes pueden implantar recuerdos que nunca ocurrieron.
+? ¿Por qué no puedo hacerme cosquillas? | Porque el cerebro predice lo que vas a sentir y reduce la sensación.
+? ¿Qué es la pareidolia? | Ver caras u otras formas conocidas donde no las hay.
++ Loftus y Pickrell (1995). The formation of false memories. Psychiatric Annals | https://doi.org/10.3928/0048-5713-19951201-07
++ Blakemore et al. (1998). Central cancellation of self-produced tickle sensation. Nature Neuroscience | https://doi.org/10.1038/2870
++ Gilovich et al. (2000). The spotlight effect in social judgment. JPSP | https://doi.org/10.1037/0022-3514.78.2.211
++ Radvansky et al. (2011). Walking through doorways causes forgetting. Quarterly Journal of Experimental Psychology | https://doi.org/10.1080/17470218.2011.571267
++ Wikipedia: Efecto Zeigarnik | https://es.wikipedia.org/wiki/Efecto_Zeigarnik
+
+=008 tecnologia
+La tecnología que usamos cada día tiene orígenes sorprendentes: polillas, cafeteras y fábricas de coches. Detrás de cada invento hay historias que explican cómo llegamos hasta aquí.
+Estos diez datos repasan momentos clave de la informática y las comunicaciones, y lo que significan hoy.
+10: El **9 de septiembre de 1947**, el equipo del ordenador **Harvard Mark II** encontró una **polilla** atrapada en un relé que hacía fallar la máquina. La pegaron en el cuaderno de registro con la nota: "Primer caso real de *bug* encontrado".
+La palabra *bug* (bicho) ya se usaba en ingeniería para hablar de fallos desde tiempos de **Edison**, pero esta anécdota la hizo famosa en informática. Se asocia a **Grace Hopper**, pionera de la programación, que la contaba a menudo. El cuaderno, con la polilla, se conserva en el Museo Nacional de Historia Estadounidense.
+» Hoy "depurar" (*debug*) un programa, buscar y corregir errores, es una parte esencial del trabajo de cualquier programador.
+9: El **ordenador de guiado del Apolo 11** tenía unos **4 KB de memoria RAM** y unos 72 KB de memoria de solo lectura, donde estaba el programa. Un móvil actual tiene millones de veces más.
+Su programa se fabricaba **tejiendo a mano** hilos de cobre a través de pequeños anillos magnéticos: un hilo que pasaba por el anillo era un 1, y uno que lo rodeaba, un 0. Lo hacían sobre todo mujeres de una fábrica textil. Durante el alunizaje, el ordenador dio alarmas por sobrecarga, pero su software, dirigido por **Margaret Hamilton**, supo priorizar las tareas vitales.
+» Demuestra que un buen diseño de software puede compensar un hardware muy limitado.
+8: En **1956**, IBM presentó el **RAMAC 305**, con el primer **disco duro** comercial. Pesaba alrededor de **una tonelada**, ocupaba casi como un armario grande y guardaba unos **5 megabytes**, una sola canción en MP3.
+Tenía 50 discos de 60 cm que giraban a 1.200 revoluciones por minuto, y se alquilaba por unos 3.200 dólares al mes. Hoy una tarjeta de memoria del tamaño de una uña guarda cientos de miles de veces más.
+» La miniaturización del almacenamiento es lo que hizo posibles los móviles, las cámaras digitales y la nube.
+7: En **1991**, en el laboratorio de informática de la **Universidad de Cambridge**, los investigadores tenían que bajar varios pisos para comprobar si quedaba café en la cafetera común. Así que apuntaron una cámara hacia ella y conectaron la imagen a la red interna.
+En **1993** la pusieron en internet: fue una de las primeras **webcams** del mundo, la **Trojan Room coffee pot**. Recibió millones de visitas de todo el mundo hasta que se apagó en 2001. La cafetera se subastó después por casi 5.000 libras.
+» Un problema cotidiano, no quedarse sin café, dio origen a una tecnología que hoy usamos a diario.
+6: En **1901**, unos buceadores encontraron en un naufragio junto a la isla griega de **Anticitera** un bloque de bronce corroído con engranajes. Es el **mecanismo de Anticitera**, fabricado hacia el siglo II a. C.
+Con más de 30 engranajes, calculaba la posición del Sol y la Luna, las fases lunares, los **eclipses** e incluso las fechas de los Juegos Olímpicos. Se considera el primer ordenador analógico conocido: no se conoce nada comparable hasta los relojes astronómicos medievales, más de mil años después.
+» Muestra que el conocimiento técnico del mundo antiguo era mucho más avanzado de lo que solemos creer.
+5: Los satélites del **GPS** llevan **relojes atómicos** y giran a unos 20.000 km de altura, moviéndose muy rápido. Según la **relatividad de Einstein**, su velocidad hace que sus relojes vayan más lentos, y la gravedad más débil allá arriba hace que vayan más rápidos.
+El efecto neto es que se adelantan unos **38 microsegundos al día**. Parece poco, pero como el GPS calcula tu posición a partir del tiempo que tarda la señal, sin corregirlo el error crecería unos **10 km al día**. Los relojes se ajustan antes del lanzamiento para compensarlo.
+» Cada vez que usas un mapa en el móvil estás usando la teoría de la relatividad sin saberlo.
+4: Más del **95 %** del tráfico internacional de internet viaja por **cables submarinos** de fibra óptica, no por satélites. Hay cientos de cables que suman más de **1 millón de km** por el fondo del mar.
+Son más finos de lo que parece, en alta mar apenas como una manguera de jardín, y transportan datos con luz a velocidades enormes. Los satélites se usan sobre todo en zonas remotas, porque tienen más retraso y menos capacidad. Cada año hay averías causadas por anclas de barcos, redes de pesca y hasta mordiscos de tiburones.
+» Proteger estos cables es clave: de ellos depende buena parte de la economía y las comunicaciones mundiales.
+3: El **3 de diciembre de 1992**, el ingeniero **Neil Papworth** envió desde un ordenador el primer **SMS** a un móvil de un directivo de Vodafone. El mensaje decía "**Merry Christmas**".
+El destinatario no pudo responder porque los móviles aún no permitían escribir mensajes. El límite de **160 caracteres** lo propuso antes el ingeniero Friedhelm Hillebrand, que comprobó que la mayoría de postales y télex cabían en ese espacio. En 2021 el primer SMS se subastó como NFT.
+» Aquel límite de caracteres influyó en la forma de escribir de toda una generación y en redes como Twitter.
+2: El **código QR** lo inventó en **1994** el ingeniero **Masahiro Hara** en **Denso Wave**, una empresa del grupo Toyota. Servía para seguir las piezas en las fábricas de coches, porque el código de barras guardaba pocos datos.
+QR significa "**Quick Response**" (respuesta rápida). Sus tres cuadrados de las esquinas permiten leerlo desde cualquier ángulo, y gracias a la corrección de errores funciona aunque falte una parte. Denso Wave no cobró por su uso, lo que ayudó a que se extendiera por todo el mundo.
+» Hoy se usa para pagar, ver menús o validar billetes, muy lejos de las fábricas para las que se creó.
+1: El **Cray-2**, uno de los superordenadores más potentes de mediados de los 80, alcanzaba unos 2 **gigaflops** (mil millones de operaciones por segundo). Un **móvil moderno** supera con creces esa potencia.
+Además, aquel superordenador ocupaba una sala, necesitaba refrigeración líquida y costaba millones de dólares. Hoy esa capacidad cabe en el bolsillo y funciona con batería. La **ley de Moore**, que predijo que el número de transistores en un chip se duplicaría cada dos años, se cumplió durante décadas.
+» Ese salto explica por qué hoy podemos hacer fotos, traducir idiomas o usar inteligencia artificial desde un teléfono.
+? ¿De dónde viene la palabra "bug"? | Se usaba en ingeniería antes, pero se hizo famosa en 1947 por una polilla atrapada en un ordenador.
+? ¿Por qué el GPS necesita la relatividad? | Porque sin corregir los efectos relativistas sus relojes acumularían un error de unos 10 km al día.
+? ¿Internet funciona por satélite? | Casi todo el tráfico internacional viaja por cables submarinos.
+? ¿Qué significa QR? | Quick Response, respuesta rápida.
++ Smithsonian: Grace Hopper's bug | https://americanhistory.si.edu/
++ Denso Wave: History of QR Code | https://www.qrcode.com/en/history/
++ TeleGeography: Submarine cable map | https://www.submarinecablemap.com/
++ Wikipedia: Mecanismo de Anticitera | https://es.wikipedia.org/wiki/Mecanismo_de_Anticitera
++ Wikipedia: Trojan Room coffee pot | https://es.wikipedia.org/wiki/Trojan_Room_coffee_pot
++ Ohio State University: GPS and relativity | https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps.html
+
+=009 geografia
+La Tierra tiene lugares que parecen de otro planeta: lagos que petrifican animales, cascadas de color sangre y piedras que se mueven solas. Todo tiene una explicación, aunque a veces costó décadas encontrarla.
+Estos diez datos recorren fenómenos naturales extraordinarios y lo que nos dicen sobre cómo funciona el planeta.
+10: El **lago Natron**, en Tanzania, tiene un agua muy **alcalina**, con un pH que puede superar 10,5, y temperaturas de hasta unos 40 °C. Las aves que mueren en él quedan cubiertas de sales y se conservan como si fueran de piedra.
+El fotógrafo Nick Brandt hizo famosas unas imágenes de estos animales "calcificados", aunque él mismo los colocó en posturas para las fotos. El lago no los mata al instante; simplemente preserva los cuerpos. Curiosamente, es también el principal lugar de cría del **flamenco enano**: la mayoría de depredadores no pueden acercarse a sus nidos.
+» Muestra que lugares hostiles para casi todos pueden ser refugio para especies especializadas.
+9: El **desierto de Atacama**, en Chile, es el desierto no polar más seco del mundo. En algunas zonas del interior hay estaciones meteorológicas que durante **décadas** apenas han registrado lluvia.
+Está entre dos cordilleras que bloquean la humedad, y la corriente fría de Humboldt, frente a la costa, evita que se formen nubes de lluvia. Su suelo es tan parecido al de **Marte** que la NASA prueba allí sus robots. Aun así, cuando llueve con fuerza, algunas zonas se cubren de flores: es el **desierto florido**.
+» Su cielo seco y despejado lo convierte en uno de los mejores lugares del mundo para los grandes telescopios.
+8: En la Antártida, del glaciar Taylor brota un agua de color **rojo sangre**: son las **Cataratas de Sangre**. Durante un siglo se pensó que el color venía de algas.
+En realidad, el agua procede de un lago salado atrapado bajo el hielo desde hace más de un millón de años, rico en **hierro**. Al salir y tocar el aire, el hierro se **oxida**, como cuando se oxida un clavo, y tiñe el hielo de rojo. En ese agua, sin luz y casi sin oxígeno, viven bacterias que sobreviven gracias a la química del hierro y del azufre.
+» Estas bacterias interesan a la NASA para imaginar cómo podría haber vida bajo el hielo de otros mundos.
+7: En la desembocadura del río Catatumbo, en el **lago de Maracaibo** (Venezuela), se producen tormentas eléctricas casi todas las noches durante gran parte del año. Es el **relámpago del Catatumbo**.
+Allí se registran hasta unos **250 rayos por kilómetro cuadrado al año**, la mayor densidad del planeta. Se forma porque los vientos cálidos del lago chocan con el aire frío que baja de los Andes, creando nubes de tormenta a diario. Se ve a tanta distancia que los marineros lo usaban como faro, por eso lo llamaban el "faro de Maracaibo".
+» Estudiar este fenómeno ayuda a entender cómo el relieve y el agua generan tormentas.
+6: En **Racetrack Playa**, en el Valle de la Muerte (EE. UU.), hay piedras que dejan largos surcos en el suelo, como si se hubieran movido solas. Durante décadas fue un misterio, porque nadie las había visto moverse.
+En **2014**, unos investigadores lo filmaron por fin. En invierno, el lecho seco se cubre de una fina capa de agua que se congela por la noche. Al salir el sol, el hielo se rompe en placas finas, y un viento suave las empuja, arrastrando las piedras unos metros por minuto. Algunas pesan cientos de kilos.
+» Es un ejemplo de cómo un misterio "imposible" se resolvió con paciencia, cámaras y GPS.
+5: El **Himalaya** se formó cuando la placa de la **India** chocó con la de **Eurasia**, hace unos 50 millones de años, y el choque continúa. Por eso el **Everest** sigue elevándose unos **milímetros al año**, aunque la erosión y los terremotos lo recortan en parte.
+En **2020**, China y Nepal fijaron su altura en **8.848,86 metros**. Un estudio de 2024 sugirió además que un río cercano, al erosionar un valle, ha aligerado la corteza y ha contribuido a que el Everest se eleve un poco más.
+» Las mismas fuerzas que levantan el Himalaya causan los terremotos de la región, como el de Nepal de 2015.
+4: Hace entre unos **14.500 y 5.000 años**, el **Sahara** era verde: tenía lagos, ríos, sabanas y animales como hipopótamos, elefantes y jirafas. Se le conoce como el **Periodo Húmedo Africano**.
+Se debió a pequeños cambios en la inclinación y la órbita de la Tierra, que reforzaron los monzones sobre el norte de África. En pleno desierto se han hallado **pinturas rupestres** de nadadores y ganado, como en la "Cueva de los Nadadores" de Egipto. Cuando el clima cambió, el desierto avanzó y muchas poblaciones emigraron hacia el Nilo.
+» Nos recuerda que el clima de la Tierra cambia, y que esos cambios han movido a pueblos enteros.
+3: La Tierra no es una esfera perfecta: al girar, se **ensancha en el ecuador** y se aplana en los polos. El diámetro ecuatorial es unos **43 km mayor** que el polar.
+Por eso el punto más alejado del centro de la Tierra no es la cima del Everest, sino la del volcán **Chimborazo**, en Ecuador, que está casi sobre la línea ecuatorial. Además, por este abultamiento, la gravedad es algo menor en el ecuador que en los polos.
+» Estos detalles importan para lanzar satélites y para que el GPS calcule tu posición con precisión.
+2: El **núcleo interno** de la Tierra es una bola sólida de hierro y níquel, a más de 5.000 km de profundidad. Su temperatura ronda los **5.200 °C**, parecida a la de la superficie del **Sol**.
+Es sólido pese al calor porque la **presión** allí es millones de veces la atmosférica. A su alrededor, el **núcleo externo** es líquido, y el movimiento de ese metal fundido genera el **campo magnético** de la Tierra, que nos protege del viento solar.
+» Sin ese campo magnético, la radiación del Sol erosionaría la atmósfera, como parece que le pasó a Marte.
+1: Los **continentes** se mueven sobre las placas tectónicas a unos **2 a 5 centímetros al año**, más o menos lo que crecen tus uñas. El Atlántico, por ejemplo, se ensancha cada año.
+Hace unos 300 millones de años, los continentes estaban unidos en un supercontinente llamado **Pangea**. Dentro de unos 200 o 250 millones de años podrían volver a juntarse en uno nuevo, al que algunos científicos llaman **Pangea Última**. Hoy el movimiento se mide con precisión gracias al GPS.
+» El movimiento de las placas explica dónde hay terremotos, volcanes y montañas.
+? ¿Por qué las Cataratas de Sangre son rojas? | Por el hierro de un lago salado bajo el hielo, que se oxida al tocar el aire.
+? ¿Cómo se mueven las piedras del Valle de la Muerte? | Placas finas de hielo empujadas por el viento las arrastran.
+? ¿Fue verde el Sahara? | Sí, hace entre unos 14.500 y 5.000 años tuvo lagos, ríos y sabanas.
+? ¿A qué velocidad se mueven los continentes? | Unos 2 a 5 centímetros al año.
++ Norris et al. (2014). Sliding rocks on Racetrack Playa. PLoS ONE | https://doi.org/10.1371/journal.pone.0105948
++ NASA Earth Observatory: Blood Falls | https://earthobservatory.nasa.gov/
++ NASA: Catatumbo lightning | https://earthobservatory.nasa.gov/
++ Wikipedia: Periodo Húmedo Africano | https://es.wikipedia.org/wiki/Periodo_h%C3%BAmedo_africano
++ USGS: Plate tectonics | https://www.usgs.gov/programs/earthquake-hazards
+
+=010 comida
+Lo que comemos cada día guarda sorpresas: frutas que no son lo que parecen, especias carísimas y alimentos que duran milenios. Conocer su historia cambia la forma de mirar la despensa.
+Estos diez datos explican el porqué de cada curiosidad y te dejan algún consejo práctico para la cocina.
+10: En **botánica**, una **baya** es un fruto carnoso que se forma a partir de un solo ovario de la flor y lleva las semillas dentro. Según esa definición, el **plátano**, el tomate, la uva, la berenjena e incluso el **aguacate** son bayas.
+La **fresa**, en cambio, no lo es: su parte roja es el receptáculo de la flor, y los verdaderos frutos son esos "puntitos" de la superficie, cada uno un fruto seco llamado aquenio. Lo mismo pasa con las frambuesas y las moras, que son frutos compuestos. La cocina y la botánica simplemente usan las palabras de forma distinta.
+» Es un buen ejemplo de que las categorías de cocina no siempre coinciden con las científicas.
+9: El **chocolate blanco** se hace con **manteca de cacao**, azúcar y leche, pero **sin sólidos de cacao**, que son los que dan el color marrón y el sabor intenso al chocolate.
+La manteca de cacao es la grasa del grano de cacao, de color crema. Por eso el chocolate blanco apenas tiene teobromina ni cafeína. En la Unión Europea, para llamarse chocolate blanco debe tener al menos un **20 % de manteca de cacao**. Se comercializó por primera vez en Suiza en los años 30.
+» Si buscas los antioxidantes del cacao, el chocolate negro con alto porcentaje es mejor opción.
+8: Las primeras zanahorias cultivadas, en Asia central, eran **moradas**, amarillas o blancas. La zanahoria **naranja** se hizo popular en los **Países Bajos** hacia el siglo XVII.
+Una leyenda dice que la seleccionaron en honor a la **Casa de Orange**, la familia real neerlandesa, pero probablemente se debió a que crecía bien y tenía buen sabor. Su color viene del **betacaroteno**, que el cuerpo convierte en vitamina A. Hoy se pueden volver a encontrar zanahorias moradas en muchos mercados.
+» El betacaroteno de la zanahoria es importante para la vista y la piel; se absorbe mejor si la comes cocinada y con algo de aceite.
+7: En la década de **1830**, el médico estadounidense **John Cooke Bennett** promocionaba el **kétchup de tomate** como remedio para la indigestión, la diarrea y otros males. Llegaron a venderse píldoras de extracto de tomate.
+Pronto surgieron vendedores que exageraban sus beneficios y el negocio se desprestigió. Además, el kétchup original no era de tomate: la palabra podría venir de una **salsa de pescado fermentado** del sudeste asiático, que los británicos adaptaron con setas, nueces u ostras antes de usar tomate.
+» Muchos alimentos se vendieron como medicina antes de convertirse en productos comunes, como la Coca-Cola.
+6: El **cacahuete** no es un fruto seco como la nuez o la almendra: es una **legumbre**, pariente de los guisantes y las lentejas. Crece en vainas **bajo tierra**: la flor se entierra después de ser polinizada y allí se desarrolla el fruto.
+Por eso también se le llama maní. Aunque botánicamente no es un fruto seco, en nutrición y alergias se trata aparte: la **alergia al cacahuete** es una de las más frecuentes y puede ser grave, y no siempre coincide con la alergia a otros frutos secos.
+» Si tienes alergia a los frutos secos, consulta: el cacahuete es un alérgeno distinto que se evalúa por separado.
+5: El **wasabi** auténtico es la raíz rallada de ***Wasabia japonica***, una planta difícil de cultivar que necesita agua fría y corriente. Es tan caro que la mayoría de restaurantes fuera de Japón sirven una mezcla de **rábano picante**, mostaza y colorante verde.
+El wasabi real tiene un sabor más suave y fresco, y pierde su aroma a los pocos minutos de rallarlo, por eso se ralla justo antes de servir, tradicionalmente con piel de tiburón. Tanto el wasabi como el rábano picante contienen compuestos que pican en la nariz más que en la boca.
+» Si ves wasabi en tubo, mira la etiqueta: muchas veces contiene muy poco wasabi real o ninguno.
+4: Una manzana **flota** en el agua porque alrededor del **25 %** de su volumen es **aire**, atrapado entre sus células. Eso la hace menos densa que el agua.
+De ahí viene el juego tradicional de Halloween de atrapar manzanas en un barreño con la boca. En cambio, las **peras** suelen hundirse, porque son más densas. El aire de la manzana también explica su textura crujiente y por qué se oxida tan rápido al cortarla.
+» Para que no se ponga marrón tras cortarla, rocíala con unas gotas de limón: su ácido frena la oxidación.
+3: La **vainilla** es el fruto de una orquídea originaria de México. Fuera de su tierra, no tiene los insectos que la polinizan, así que cada flor se **poliniza a mano** en el breve plazo en que está abierta.
+El método lo descubrió en **1841** **Edmond Albius**, un joven esclavo de 12 años de la isla de Reunión, con una pequeña varilla. Después, las vainas se curan durante meses. Todo ese trabajo la convierte en una de las especias más caras, solo por detrás del **azafrán**. La mayoría del sabor a "vainilla" de los productos es **vainillina** sintética.
+» Por eso la vainilla natural es cara, y conviene leer la etiqueta: "aroma de vainilla" no es lo mismo que vainilla.
+2: En botánica, el **aguacate** es una **baya** de una sola semilla, porque se forma a partir de un solo ovario y tiene la pulpa carnosa. Se originó en México y Centroamérica, y su nombre viene del náhuatl *ahuacatl*.
+Una curiosidad: su semilla es tan grande que los animales que la dispersaban eran seguramente **megafauna** ya extinta, como perezosos gigantes. El aguacate aporta grasas insaturadas saludables, fibra y potasio, pero también muchas calorías.
+» Para madurar un aguacate más rápido, guárdalo en una bolsa de papel con un plátano: el etileno acelera el proceso.
+1: En tumbas del antiguo **Egipto** se han encontrado vasijas con **miel** de miles de años que, según los arqueólogos, seguía siendo comestible.
+La miel dura tanto porque tiene muy **poca agua** (en torno al 17 %) y mucho azúcar, lo que deshidrata a los microbios. Además es **ácida** y contiene pequeñas cantidades de **peróxido de hidrógeno**, que producen las enzimas de las abejas. Si se cristaliza, no está estropeada: basta con calentarla suavemente al baño maría.
+» Guarda la miel bien cerrada: si absorbe humedad del aire, puede fermentar. Y no se debe dar a bebés menores de un año.
+? ¿El plátano es una baya? | En botánica, sí: se forma de un solo ovario y lleva las semillas dentro. La fresa, en cambio, no lo es.
+? ¿Por qué el chocolate blanco es blanco? | Porque no lleva sólidos de cacao, solo manteca de cacao, azúcar y leche.
+? ¿Por qué la vainilla es tan cara? | Porque sus flores se polinizan a mano y las vainas se curan durante meses.
+? ¿Se estropea la miel? | Casi nunca, si se guarda bien cerrada: tiene poca agua, es ácida y frena a los microbios.
++ Wikipedia: Baya | https://es.wikipedia.org/wiki/Baya
++ Wikipedia: Edmond Albius | https://es.wikipedia.org/wiki/Edmond_Albius
++ Smithsonian: The history of ketchup | https://www.smithsonianmag.com/
++ Smithsonian: Why honey never spoils | https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/
++ AECOSAN: Alergia a los frutos secos y cacahuete | https://www.aesan.gob.es/

@@ -115,7 +115,10 @@ if (d.faq.length) jsonLd.push({
   .slides-track span:last-child { font-size: 14px; line-height: 1.45; color: var(--ink-2); }
   .slides-track a:active { transform: scale(0.97); }
   @media (hover: hover) and (pointer: fine) { .slides-track a:hover { transform: translateY(-4px); box-shadow: inset 0 0 0 1px var(--magenta), 0 18px 40px -20px var(--magenta); } }
-  .prose :global(h2) { scroll-margin-top: 96px; }
+  .prose :global(.why) { margin: 20px 0 8px; padding: 14px 18px; border-radius: 12px; background: color-mix(in srgb, var(--cyan) 9%, transparent); border: 1px solid color-mix(in srgb, var(--cyan) 30%, transparent); font-size: 16.5px; line-height: 1.6; }
+  .prose :global(.why strong) { color: var(--cyan); }
+  .prose :global(h2 ~ h2) { margin-top: 56px; }
+  .prose :global(h2) { scroll-margin-top: 140px; }
   .prose :global(h2 .n) { display: block; font: 600 14px/1 var(--font-mono); color: var(--cyan); letter-spacing: .08em; margin-bottom: 10px; }
   .prose :global(.corr) { margin: 24px 0; padding: 16px 18px; border-radius: 12px; background: color-mix(in srgb, var(--marker) 10%, transparent); box-shadow: inset 3px 0 0 var(--marker); font-size: 16px; }
   .video { display: flex; justify-content: center; margin: 40px auto; }
