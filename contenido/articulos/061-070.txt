@@ -1,0 +1,179 @@
+=061 animales
+Velocidades de coche deportivo, navegación estelar y vidas de dos siglos: estos animales tienen récords que nadie espera.
+10: El **guepardo** puede pasar de 0 a unos 100 km/h en alrededor de **3 segundos**. Su columna flexible y sus garras semirretráctiles le dan agarre como unos tacos. Solo mantiene la velocidad máxima unos cientos de metros.
+9: Un estudio de 2013 mostró que el **escarabajo pelotero** africano usa la franja de la **Vía Láctea** para rodar su bola en línea recta. Es el primer animal en el que se demostró este tipo de orientación.
+8: Una **cucaracha** decapitada puede vivir **días o semanas**: respira por pequeños orificios del cuerpo (espiráculos) y su sistema nervioso está repartido. Muere por deshidratación al no poder beber.
+7: El **elefante marino del sur** puede bucear a más de 1.500–2.000 metros y aguantar más de **una hora** sin respirar, gracias a la enorme cantidad de sangre y mioglobina que almacena oxígeno.
+6: La **pulga** salta hasta unas 100 veces su longitud gracias a una proteína elástica, la **resilina**, que funciona como un muelle.
+5: Los **chimpancés** son en torno a 1,3–1,5 veces más fuertes que un humano de su peso, según un estudio de 2017. Sus músculos tienen más fibras rápidas.
+4: El **avestruz** corre a unos **70 km/h** y mantiene una velocidad alta durante kilómetros. Da zancadas de hasta 5 metros.
+3: El **charrán ártico** viaja del Ártico a la Antártida y vuelve cada año: hasta unos **70.000–90.000 km**. Ve más horas de luz que cualquier otro animal.
+2: Análisis de proteínas del ojo y restos de arpones antiguos en su cuerpo indican que la **ballena de Groenlandia** puede superar los **200 años**.
+1: Al lanzarse en picado, el **halcón peregrino** supera los **320 km/h**. Es el animal más rápido registrado.
+? ¿Cuál es el animal más rápido? | El halcón peregrino en picado, a más de 320 km/h.
+? ¿Cuánto vive una ballena de Groenlandia? | Más de 200 años.
++ Dacke et al. (2013). Dung beetles use the Milky Way for orientation. Current Biology | https://doi.org/10.1016/j.cub.2012.12.034
++ Wikipedia: Falco peregrinus | https://es.wikipedia.org/wiki/Falco_peregrinus
++ Wikipedia: Balaena mysticetus | https://es.wikipedia.org/wiki/Balaena_mysticetus
+
+=062 espacio
+Agujeros negros fotografiados, estrellas que giran cientos de veces por segundo y galaxias que chocarán: estos son los 10 datos.
+10: En el centro de la Vía Láctea hay un agujero negro supermasivo, **Sagitario A\***, con unos **4 millones de masas solares**. Reinhard Genzel y Andrea Ghez ganaron el Nobel de Física 2020 por demostrarlo.
+9: En 2019, el **Event Horizon Telescope** publicó la primera imagen de un agujero negro: el de la galaxia **M87**. En 2022 publicó la de Sagitario A\*.
+8: Los **púlsares** son estrellas de neutrones que giran rapidísimo y emiten haces de radio. Algunos giran más de 700 veces por segundo.
+7: **Betelgeuse** es una supergigante roja al final de su vida. Explotará como supernova en algún momento de los próximos 100.000 años.
+6: La **Vía Láctea** mide unos 100.000 años luz y contiene entre 100.000 y 400.000 millones de estrellas.
+5: El parpadeo de las estrellas lo causa la **turbulencia atmosférica**. En el espacio brillan fijas, por eso los telescopios en órbita ven mejor.
+4: Las **enanas marrones** son "estrellas fallidas". La más fría conocida, WISE 0855, está bajo 0 °C.
+3: Los **planetas errantes** no orbitan ninguna estrella: fueron expulsados de sus sistemas. Podría haber miles de millones en la galaxia.
+2: El Sol tarda unos **230 millones de años** en dar una vuelta a la galaxia. La última vez que estuvo donde ahora, empezaban los dinosaurios.
+1: La galaxia de **Andrómeda** se acerca a unos 110 km/s. Dentro de unos **4.500 millones de años** se fusionará con la Vía Láctea. Las estrellas casi no chocarán: hay mucho espacio entre ellas.
+? ¿Cuál fue la primera foto de un agujero negro? | La del agujero negro de la galaxia M87, publicada en 2019.
+? ¿Chocará Andrómeda con la Vía Láctea? | Sí, dentro de unos 4.500 millones de años.
++ Event Horizon Telescope | https://eventhorizontelescope.org/
++ Nobel Prize: Física 2020 | https://www.nobelprize.org/prizes/physics/2020/summary/
++ Wikipedia: Betelgeuse | https://es.wikipedia.org/wiki/Betelgeuse
+
+=063 naturaleza
+El océano tiene cifras que parecen inventadas: olas de 25 metros, tsunamis como aviones y mareas causadas por la Luna.
+10: El **Pacífico** cubre unos **165 millones de km²**, más que toda la tierra firme del planeta junta (unos 149 millones).
+9: La mayor parte de la actividad volcánica de la Tierra ocurre **bajo el mar**, en las dorsales oceánicas.
+8: En **Nazaré** (Portugal), un cañón submarino concentra la energía de las olas. Se han surfeado olas de más de **26 metros**.
+7: El **mar Rojo** tiene alrededor de un 4 % de sal: pocas lluvias, mucha evaporación y ningún gran río.
+6: El océano ha absorbido cerca de **un cuarto** del CO₂ emitido por los humanos. Esto frena el calentamiento, pero acidifica el agua.
+5: En mar abierto, un **tsunami** puede ir a más de **700–800 km/h**. Al llegar a la costa frena y crece en altura.
+4: La sal baja el punto de congelación: el agua de mar se congela a unos **−1,9 °C**.
+3: Las **tortugas marinas** usan el campo magnético terrestre para volver a desovar a la zona donde nacieron.
+2: Según la NOAA, gran parte del océano profundo sigue **sin explorar** directamente.
+1: Las **mareas** las produce la gravedad de la Luna, y en menor medida del Sol. La mayoría de costas tienen dos pleamares al día.
+? ¿Qué causa las mareas? | La gravedad de la Luna y, en menor medida, del Sol.
+? ¿A qué temperatura se congela el agua de mar? | A unos −1,9 °C, por la sal.
++ NOAA Ocean Service: Tides | https://oceanservice.noaa.gov/facts/tides.html
++ Wikipedia: Océano Pacífico | https://es.wikipedia.org/wiki/Oc%C3%A9ano_Pac%C3%ADfico
++ Wikipedia: Nazaré | https://es.wikipedia.org/wiki/Nazar%C3%A9_(Portugal)
+
+=064 cuerpo-humano
+El cerebro es el órgano más complejo conocido. Estos 10 datos lo muestran.
+10: Un cerebro humano tiene unos **86.000 millones de neuronas**, según el método de Suzana Herculano-Houzel, y cientos de billones de conexiones.
+9: El cerebro es en torno a un **75 % agua**. De su peso seco, cerca del **60 % es grasa**, sobre todo en la mielina.
+8: En las fibras nerviosas más rápidas, cubiertas de mielina, las señales viajan a más de **100 m/s** (unos 400 km/h).
+7: La **neuroplasticidad** permite que el cerebro cree conexiones nuevas durante toda la vida, al aprender o recuperarse de lesiones.
+6: Una teoría propone que **bostezar** ayuda a enfriar el cerebro al introducir aire y aumentar el riego sanguíneo.
+5: Las vías nerviosas se cruzan: el hemisferio **izquierdo** controla el lado **derecho** del cuerpo y viceversa.
+4: La deshidratación leve afecta a la atención y la memoria. Estudios con resonancia muestran pequeños cambios en el volumen cerebral.
+3: El cerebro del **cachalote** pesa unos **8 kg**, el más grande del reino animal. El humano pesa unos 1,3–1,4 kg.
+2: En la **fase REM** ocurren los sueños más vívidos. El cuerpo bloquea los músculos para que no los "actúes".
+1: El **sistema glinfático**, descubierto en 2012, drena desechos del cerebro, sobre todo durante el sueño.
+? ¿Cuántas neuronas tiene el cerebro? | Unos 86.000 millones.
+? ¿Por qué no nos movemos al soñar? | Porque en la fase REM el cuerpo bloquea los músculos.
++ Wikipedia: Sistema glinfático | https://es.wikipedia.org/wiki/Sistema_glinf%C3%A1tico
++ Wikipedia: Neuroplasticidad | https://es.wikipedia.org/wiki/Neuroplasticidad
++ Herculano-Houzel (2009). The human brain in numbers. Frontiers in Human Neuroscience | https://doi.org/10.3389/neuro.09.031.2009
+
+=065 historia
+Muchas cosas que usamos cada día vienen de civilizaciones antiguas. Estos son 10 ejemplos.
+10: Los egipcios usaban **kohl** alrededor de los ojos. Un estudio de 2010 sugirió que sus compuestos de plomo estimulaban defensas contra infecciones oculares.
+9: Los romanos calentaban termas y villas con el **hipocausto**: aire caliente de un horno circulaba bajo el suelo elevado.
+8: Los **babilonios** contaban en **base 60**. De ahí vienen los 60 minutos de la hora y los 360 grados del círculo.
+7: Los **mayas** usaban el **cero** en su sistema de numeración hacia el siglo IV, de forma independiente a la India.
+6: En China se usaban piedras magnéticas para la adivinación; hacia el siglo XI la **brújula** se usaba para navegar.
+5: En el siglo I, **Herón de Alejandría** describió la **eolípila**, una esfera que giraba impulsada por vapor.
+4: Los **yakhchal** persas eran cúpulas de adobe que conservaban hielo en pleno desierto.
+3: Los **sumerios** desarrollaron la escritura **cuneiforme** hacia el 3200 a. C., sobre tablillas de arcilla.
+2: En Mesopotamia se hacía **jabón** hacia el 2800 a. C., mezclando grasas con cenizas.
+1: El alfabeto latino viene del **fenicio**, adaptado por los griegos (que añadieron vocales) y luego por los etruscos y romanos.
+? ¿Por qué una hora tiene 60 minutos? | Por el sistema en base 60 de los babilonios.
+? ¿De dónde viene nuestro alfabeto? | Del fenicio, a través del griego y el latín.
++ Wikipedia: Sistema sexagesimal | https://es.wikipedia.org/wiki/Sistema_sexagesimal
++ Wikipedia: Yakhchal | https://es.wikipedia.org/wiki/Yakhchal
++ Wikipedia: Alfabeto fenicio | https://es.wikipedia.org/wiki/Alfabeto_fenicio
+
+=066 ciencia
+La química parece magia cuando ves metales que se derriten en la mano o sólidos que son casi aire.
+10: El **galio** funde a **29,8 °C**: se derrite en la palma de la mano. Se usa en electrónica.
+9: El **mercurio** es el único metal líquido a temperatura ambiente estándar. El galio y el cesio funden un poco por encima.
+8: El **sodio** reacciona violentamente con el agua: libera hidrógeno y calor, que puede encenderlo.
+7: El **aerogel** puede ser más de un 99 % aire. La NASA lo usó para atrapar polvo de cometa en la misión Stardust.
+6: El **hielo seco** es CO₂ sólido a −78,5 °C. No se derrite: pasa directamente a gas (**sublimación**).
+5: El **bicarbonato** (base) reacciona con el **vinagre** (ácido) y libera CO₂: por eso hace espuma.
+4: El hierro se oxida con **agua y oxígeno**. La sal del mar acelera la corrosión.
+3: El **oro** es tan poco reactivo que no se oxida. Objetos de oro de hace miles de años siguen brillando.
+2: El **helio** es mucho menos denso que el aire. Además, es un recurso escaso en la Tierra.
+1: El carbono, el oxígeno y otros elementos de tu cuerpo se formaron dentro de **estrellas** que explotaron hace miles de millones de años.
+? ¿Por qué el galio se derrite en la mano? | Porque funde a 29,8 °C, menos que la temperatura corporal.
+? ¿Somos polvo de estrellas? | Sí: muchos de nuestros átomos se formaron en estrellas.
++ Wikipedia: Galio | https://es.wikipedia.org/wiki/Galio
++ Wikipedia: Aerogel | https://es.wikipedia.org/wiki/Aerogel
++ Wikipedia: Nucleosíntesis estelar | https://es.wikipedia.org/wiki/Nucleos%C3%ADntesis_estelar
+
+=067 mente
+Los sesgos cognitivos son atajos mentales que nos engañan. Conocerlos ayuda a decidir mejor.
+10: El **sesgo de confirmación** nos hace buscar y recordar la información que confirma lo que ya pensamos.
+9: Según Kahneman y Tversky, perder algo duele aproximadamente el doble de lo que alegra ganarlo: **aversión a la pérdida**.
+8: La mayoría de conductores cree conducir mejor que la media. Es la **superioridad ilusoria**.
+7: En el **efecto ancla**, una primera cifra condiciona las estimaciones posteriores, incluso si es aleatoria.
+6: El **sesgo de negatividad** hace que las experiencias malas pesen más que las buenas.
+5: El **sesgo retrospectivo** hace creer que "ya sabíamos" lo que iba a pasar.
+4: La **falacia del costo hundido** nos hace seguir invirtiendo en algo solo porque ya gastamos en ello.
+3: En un estudio de 2011, las personas valoraban más los muebles que ellas mismas montaban: el **efecto IKEA**.
+2: El **efecto halo** hace que una cualidad positiva (como el atractivo) influya en cómo juzgamos otras.
+1: El **principio de escasez**, descrito por Robert Cialdini, hace que valoremos más lo que parece limitado.
+? ¿Qué es el sesgo de confirmación? | La tendencia a buscar información que confirma lo que ya creemos.
+? ¿Qué es el efecto IKEA? | Valorar más lo que hemos construido nosotros mismos.
++ Wikipedia: Sesgo cognitivo | https://es.wikipedia.org/wiki/Sesgo_cognitivo
++ Wikipedia: Aversión a la pérdida | https://es.wikipedia.org/wiki/Aversi%C3%B3n_a_la_p%C3%A9rdida
++ Wikipedia: Efecto IKEA | https://es.wikipedia.org/wiki/Efecto_IKEA
+
+=068 tecnologia
+Los robots y la inteligencia artificial tienen más historia de lo que parece. Estos son 10 datos.
+10: **Unimate**, el primer robot industrial, empezó a trabajar en 1961 en una planta de General Motors en Nueva Jersey, manipulando piezas calientes.
+9: Los **rovers** de Marte, como Curiosity y Perseverance, son robots que exploran con cierta autonomía porque las órdenes tardan minutos en llegar.
+8: Muchos robots aspiradores crean **mapas** de la casa con cámaras o sensores láser (LIDAR).
+7: El término ***inteligencia artificial*** se usó en la propuesta de la conferencia de **Dartmouth** de 1956, organizada por John McCarthy y otros.
+6: Los coches autónomos combinan **cámaras, radar y LIDAR** para percibir su entorno.
+5: Robots como el sistema **Da Vinci** permiten a los cirujanos operar con gran precisión mediante brazos controlados a distancia.
+4: Hay robots que imitan animales, como perros robóticos para inspecciones o peces robóticos para estudiar el mar.
+3: Empresas usan **drones** que disparan cápsulas con semillas para reforestar zonas difíciles.
+2: En 2018, un robot del MIT resolvió el **cubo de Rubik** en unos 0,38 segundos.
+1: En 1997, el ordenador **Deep Blue** de IBM venció al campeón mundial **Garri Kaspárov** en una partida a seis juegos.
+? ¿Cuándo nació el término inteligencia artificial? | En la conferencia de Dartmouth de 1956.
+? ¿Qué ordenador venció a Kaspárov? | Deep Blue, de IBM, en 1997.
++ Wikipedia: Unimate | https://es.wikipedia.org/wiki/Unimate
++ Wikipedia: Deep Blue | https://es.wikipedia.org/wiki/Deep_Blue_(computadora)
++ Wikipedia: Conferencia de Dartmouth | https://es.wikipedia.org/wiki/Conferencia_de_Dartmouth
+
+=069 geografia
+El clima de la Tierra produce fenómenos que parecen imposibles: nieve en el desierto, lluvias de peces y nubes con forma de ola.
+10: En **Ain Sefra** (Argelia), a las puertas del Sahara, ha nevado varias veces, como en 1979, 2016, 2018 y 2022.
+9: La temperatura más baja medida en la superficie es **−89,2 °C**, en la estación **Vostok** (Antártida), en 1983.
+8: El **Valle de la Muerte** registró **56,7 °C** en 1913. Algunos expertos dudan de esa medición, pero sigue siendo el récord oficial.
+7: En 2010, en Dakota del Sur, cayó un granizo de **20 cm** de diámetro, récord de EE. UU.
+6: Los tornados más violentos pueden tener vientos de más de **400 km/h**, los más fuertes medidos en la superficie terrestre.
+5: Las nubes **Kelvin-Helmholtz** parecen olas rompiendo. Se forman cuando dos capas de aire se mueven a distinta velocidad.
+4: El polvo del **Sahara** cruza el Atlántico y llega al Caribe y la Amazonía.
+3: El **Empire State** recibe unos 20–25 rayos al año.
+2: En el **desierto del Namib**, la niebla costera aporta agua a plantas y escarabajos que la recogen con su cuerpo.
+1: Las **trombas marinas** pueden aspirar peces o ranas y soltarlos kilómetros después. Hay registros históricos de "lluvias de peces".
+? ¿Puede nevar en el Sahara? | Sí, ha ocurrido varias veces en Ain Sefra, Argelia.
+? ¿Puede caer un rayo dos veces en el mismo sitio? | Sí; el Empire State recibe unos 20–25 al año.
++ Organización Meteorológica Mundial: Archivo de extremos | https://wmo.asu.edu/
++ Wikipedia: Lluvia de animales | https://es.wikipedia.org/wiki/Lluvia_de_animales
++ Wikipedia: Inestabilidad de Kelvin-Helmholtz | https://es.wikipedia.org/wiki/Inestabilidad_de_Kelvin-Helmholtz
+
+=070 comida
+Detrás de alimentos famosos hay leyendas, farmacias y hasta viajes espaciales.
+10: Según una leyenda, el pastor etíope **Kaldi** vio que sus cabras se ponían muy activas tras comer frutos de un arbusto: el café. Los primeros registros fiables del café son del siglo XV en Yemen.
+9: El **croissant** se inspira en el **kipferl** austriaco. En París, panaderos vieneses lo popularizaron en el siglo XIX.
+8: En 1943, en Piedras Negras (México), **Ignacio "Nacho" Anaya** improvisó tortillas fritas con queso y jalapeños para unas clientas: los **nachos**.
+7: En 1886, el farmacéutico **John Pemberton** creó en Atlanta un jarabe que luego se convirtió en **Coca-Cola**.
+6: En Perú se hallaron restos de **maíz reventado** de hace más de 6.000 años.
+5: Los **cucuruchos** de helado se popularizaron en la Exposición Universal de San Luis de 1904, aunque existían antes.
+4: En 2005, en Lajia (China), se encontraron **fideos de mijo** de unos 4.000 años bajo un cuenco sellado.
+3: La **sandía** tiene alrededor de un **92 % de agua**.
+2: En 1928, **Otto Rohwedder** vendió en Chillicothe (Misuri) el primer pan cortado en rebanadas a máquina.
+1: En 1961, **Yuri Gagarin** comió puré de carne y chocolate en tubos durante su vuelo.
+? ¿Quién inventó los nachos? | Ignacio "Nacho" Anaya, en 1943 en Piedras Negras, México.
+? ¿Dónde se inventó la Coca-Cola? | En una farmacia de Atlanta, en 1886.
++ Wikipedia: Nachos | https://es.wikipedia.org/wiki/Nachos
++ Wikipedia: Kipferl | https://es.wikipedia.org/wiki/Kipferl
++ Wikipedia: Fideos de Lajia | https://en.wikipedia.org/wiki/Lajia
