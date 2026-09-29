@@ -1,22 +1,3 @@
-=016 historia
-Algunos misterios siguen abiertos a pesar de la ciencia moderna. Otros se resolvieron… y la respuesta fue igual de curiosa.
-10: Los grandes bloques de **Stonehenge** (sarsens) vienen de unos 25 km, pero las "piedras azules" llegaron desde las colinas **Preseli, en Gales**, a más de 200 km. En 2024 se supo que la Piedra del Altar vino de Escocia, a más de 700 km. Cómo las transportaron sigue discutiéndose.
-9: El 15 de agosto de 1977, el radiotelescopio Big Ear (Ohio) captó una señal intensa de **72 segundos**. El astrónomo Jerry Ehman escribió "Wow!" en la impresión. Nunca se repitió y su origen sigue sin aclararse.
-8: En 1587 se fundó la colonia inglesa de **Roanoke**. Cuando el gobernador John White volvió en 1590, no había nadie. Solo quedaba "CROATOAN" tallado en un poste. Una teoría es que se unieron a pueblos nativos cercanos.
-7: Las **líneas de Nazca**, en Perú, son figuras de animales y geometrías trazadas hace unos 2.000 años. Muchas se aprecian mejor desde el aire o colinas cercanas. Probablemente tenían un propósito ritual.
-6: En 1997 la NOAA registró el **Bloop**, un sonido muy potente en el Pacífico. Se especuló con un animal gigante, pero luego se relacionó con **icebergs rompiéndose** en la Antártida.
-5: En 1872 se encontró el bergantín **Mary Celeste** navegando a la deriva sin tripulación, con carga y provisiones casi intactas. El bote salvavidas faltaba. Nunca se supo qué pasó.
-4: En 1959 murieron nueve excursionistas en los montes Urales (**paso Dyatlov**). Salieron de la tienda en plena noche con poca ropa. En 2021 un estudio propuso que una **avalancha** pudo causarlo, aunque sigue habiendo debate.
-3: El **mecanismo de Anticitera**, rescatado en 1901, era un aparato de engranajes griego. Durante décadas nadie entendió qué hacía hasta que tomografías revelaron que calculaba posiciones celestes y eclipses.
-2: **Kryptos** es una escultura instalada en 1990 en la sede de la CIA. Contiene cuatro mensajes cifrados. Tres se resolvieron en los años 90, pero el cuarto (K4) sigue sin descifrarse, pese a las pistas de su autor, Jim Sanborn.
-1: El **manuscrito Voynich**, datado en el siglo XV por radiocarbono, está escrito en un alfabeto desconocido y lleno de ilustraciones de plantas y astronomía. Criptógrafos de todo el mundo lo han intentado sin éxito.
-? ¿Qué fue la señal Wow!? | Una señal de radio de 72 segundos captada en 1977 que nunca se repitió; su origen sigue sin conocerse.
-? ¿Se ha descifrado el manuscrito Voynich? | No. Su escritura y su idioma siguen siendo un misterio.
-+ Wikipedia: Señal Wow! | https://es.wikipedia.org/wiki/Se%C3%B1al_Wow!
-+ Wikipedia: Manuscrito Voynich | https://es.wikipedia.org/wiki/Manuscrito_Voynich
-+ Wikipedia: Colonia de Roanoke | https://es.wikipedia.org/wiki/Colonia_de_Roanoke
-+ Wikipedia: Kryptos | https://es.wikipedia.org/wiki/Kryptos
-
 =017 cultura
 Detrás de las películas más famosas hay trucos de sonido, riesgos que hoy serían impensables y récords curiosos. Estos son los 10 datos del carrusel.
 10: En 1895, los hermanos **Lumière** proyectaron en París películas de unos **50 segundos**, como *La salida de los obreros de la fábrica*. Ya antes, en 1888, Louis Le Prince filmó *La escena del jardín de Roundhay*, de apenas 2 segundos.
