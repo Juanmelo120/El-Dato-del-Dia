@@ -1,21 +1,3 @@
-=021 animales
-Hay animales que duermen de la mano, que tienen mejores amigos o que sobreviven al vacío del espacio. Estos 10 datos lo explican.
-10: Las **nutrias marinas** descansan flotando boca arriba. Para no separarse con la corriente, a veces se toman de las patas o se enrollan en algas gigantes (kelp), que actúan como ancla. Las madres llevan a sus crías sobre el pecho.
-9: Un estudio de la Universidad de Northampton (2013) midió que las vacas separadas de su compañera preferida mostraban **más estrés** (ritmo cardiaco y cortisol) que cuando estaban juntas. Las vacas son animales sociales que forman vínculos estables.
-8: Los **colibríes** pueden volar hacia atrás, de lado y quedarse quietos en el aire gracias a que sus alas giran en el hombro y generan sustentación en ambos sentidos del aleteo. Baten las alas entre 50 y 80 veces por segundo según la especie.
-7: El **pingüino emperador** macho incuba el huevo sobre sus patas durante unos **dos meses** del invierno antártico, sin comer. Contando el viaje a la colonia y el cortejo, puede ayunar unos 4 meses y perder casi la mitad de su peso.
-6: Las jirafas adultas en libertad duermen poco, a menudo en siestas de pocos minutos, y muchas veces de pie. Estudios en cautiverio registraron algo más de **4 horas** al día. Tumbarse las hace vulnerables a los depredadores.
-5: Los flamencos nacen grisáceos. Su color rosa viene de los **carotenoides** de las algas y pequeños crustáceos que comen. En zoológicos se añaden pigmentos a su dieta para que no pierdan el color.
-4: Las **cabras** y otros herbívoros tienen pupilas horizontales y rectangulares. Les dan un campo de visión panorámico para vigilar depredadores, y sus ojos giran para mantener la pupila horizontal aunque bajen la cabeza a pastar.
-3: Un estudio de 1996 en Australia observó que las **huellas dactilares de los koalas** son tan parecidas a las humanas que costaría distinguirlas incluso al microscopio. Es un caso de evolución convergente: les ayudan a agarrar ramas y hojas.
-2: Los **perezosos** pueden aguantar la respiración hasta unos **40 minutos** reduciendo su ritmo cardiaco. Un delfín suele sumergirse alrededor de 10 minutos. Los perezosos son, además, buenos nadadores.
-1: Los **tardígrados**, animales de menos de 1 mm, pueden entrar en un estado de deshidratación llamado criptobiosis. En 2007, la misión europea FOTON-M3 expuso algunos al **vacío y la radiación del espacio**: parte sobrevivió y se reprodujo después.
-? ¿Por qué los flamencos son rosas? | Por los carotenoides de las algas y crustáceos que comen.
-? ¿Qué es un tardígrado? | Un animal microscópico capaz de sobrevivir a condiciones extremas, incluso al vacío del espacio.
-+ Wikipedia: Tardigrada | https://es.wikipedia.org/wiki/Tardigrada
-+ Wikipedia: Enhydra lutris | https://es.wikipedia.org/wiki/Enhydra_lutris
-+ Wikipedia: Aptenodytes forsteri | https://es.wikipedia.org/wiki/Aptenodytes_forsteri
-
 =022 espacio
 El cosmos guarda secretos que parecen inventados: lluvias de vidrio, estrellas gigantescas y un olor muy particular. Estos son los 10 datos, explicados.
 10: Sin gravedad, las lágrimas no caen: se acumulan en una bola que se pega al ojo. El astronauta Chris Hadfield lo mostró en la Estación Espacial. Además pueden escocer, así que se secan con una toalla.
