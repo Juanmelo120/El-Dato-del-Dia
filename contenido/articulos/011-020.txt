@@ -1,21 +1,3 @@
-=013 geografia
-Los mapas engañan más de lo que crees: países que parecen pequeños son gigantes y hay fronteras que atraviesan salones. Estos 10 datos lo demuestran.
-10: Rusia se extiende casi 10.000 km de oeste a este y usa **11 husos horarios**. Cuando en Kaliningrado amanece, en Kamchatka ya es de noche. Es el país más grande del mundo, con más de 17 millones de km².
-9: Canadá tiene más de **2 millones de lagos**, la mayoría pequeños, formados por la acción de los glaciares. Se estima que alberga más de la mitad de los lagos del planeta.
-8: La proyección de **Mercator**, muy usada en mapas escolares, agranda las zonas cercanas a los polos. África mide unos **30 millones de km²**, y en ella cabrían EE. UU., China, India y gran parte de Europa juntos.
-7: **Lesoto** está totalmente rodeado por Sudáfrica. Hay otros dos casos: el **Vaticano** y **San Marino**, ambos rodeados por Italia. Lesoto además tiene todo su territorio por encima de 1.000 metros de altitud.
-6: Australia mide unos **4.000 km** de este a oeste. El diámetro de la Luna es de unos **3.474 km**. La comparación se hizo viral gracias a la Agencia Espacial Australiana.
-5: **La Paz** es la sede del gobierno boliviano, a unos **3.600 metros**, la más alta del mundo. La capital constitucional es Sucre, algo más baja.
-4: El Amazonas atraviesa selva de difícil acceso, cambia su cauce y tiene riberas inestables. Como la mayoría de su recorrido pasa por zonas con pocas carreteras, **ningún puente cruza su curso principal**.
-3: En **Four Corners** se encuentran Arizona, Colorado, Nuevo México y Utah. Un monumento marca el punto, y puedes tocar los cuatro estados a la vez con manos y pies.
-2: Contando sus territorios de ultramar (Polinesia, Guayana, Reunión, Nueva Caledonia…), **Francia** abarca **12 husos horarios**, más que ningún otro país.
-1: **Baarle-Hertog** (Bélgica) y **Baarle-Nassau** (Países Bajos) forman un rompecabezas de enclaves. La frontera cruza calles, cafeterías y casas. La nacionalidad de cada casa depende de dónde está su puerta principal.
-? ¿Por qué Groenlandia parece tan grande en los mapas? | Por la proyección de Mercator, que agranda las zonas cercanas a los polos.
-? ¿Qué países están totalmente rodeados por otro? | Lesoto (por Sudáfrica), el Vaticano y San Marino (por Italia).
-+ Wikipedia: Proyección de Mercator | https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Mercator
-+ Wikipedia: Baarle-Hertog | https://es.wikipedia.org/wiki/Baarle-Hertog
-+ Wikipedia: Four Corners | https://es.wikipedia.org/wiki/Four_Corners
-
 =014 tecnologia
 Muchos de los grandes inventos nacieron por accidente, por un error o por mirar con curiosidad algo cotidiano. Estos son los 10 del carrusel.
 10: En 1945, el ingeniero **Percy Spencer** trabajaba con magnetrones de radar en Raytheon y notó que una barrita de chocolate se había derretido en su bolsillo. Probó con palomitas y un huevo. En 1947 salió el primer microondas comercial: medía casi 1,8 m.
