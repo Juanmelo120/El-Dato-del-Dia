@@ -1,0 +1,179 @@
+=471 cultura
+Museos y coleccionistas guardan tesoros de récord. Estos son 10.
+10: El **Louvre** es el museo más visitado del mundo: unos **9 millones** de visitantes al año.
+9: El **Hermitage** de San Petersburgo tiene más de **3 millones** de piezas y unos **gatos** que lo protegen de los ratones desde el siglo XVIII.
+8: El **Museo Británico** tiene unos **8 millones** de objetos, pero solo expone alrededor del **1 %**.
+7: Una coleccionista estadounidense tiene más de **9.000 patitos de goma**, récord Guinness.
+6: La **NASA** guarda unos **382 kg** de rocas y polvo lunar traídos por las misiones **Apolo**.
+5: Hay coleccionistas de **bolsas de mareo** de aviones con miles de ejemplares distintos.
+4: El **Museo de Historia Natural de Londres** tiene unos **80 millones** de especímenes, algunos recogidos por **Darwin**.
+3: El **Museo del Oro** de Bogotá tiene unas **34.000** piezas: la mayor colección de orfebrería prehispánica.
+2: El **Museo del Prado** tiene más de **8.000 pinturas**, pero expone unas 1.300.
+1: El **Smithsonian** reúne unos **155 millones** de objetos: el mayor complejo de museos del mundo.
+? ¿Cuál es el museo más visitado? | El Louvre.
+? ¿Por qué hay gatos en el Hermitage? | Lo protegen de los ratones desde el siglo XVIII.
++ Smithsonian Institution | https://www.si.edu/
++ Wikipedia: Gatos del Hermitage | https://en.wikipedia.org/wiki/Hermitage_cats
++ Banco de la República: Museo del Oro | https://www.banrepcultural.org/bogota/museo-del-oro
+
+=472 cultura
+Cada cultura tiene sus reglas en la mesa. Estas son 10.
+10: En **Japón**, **sorber** los fideos es de buena educación: muestra que te gustan.
+9: En **Italia**, el **cappuccino** se toma por la mañana, casi nunca después de comer.
+8: En **Tailandia** se come con **cuchara**, y el tenedor solo sirve para empujar la comida.
+7: En **Etiopía** se come de un plato compartido con **injera**, un pan esponjoso.
+6: En **Corea** no se levanta el cuenco de arroz de la mesa para comer.
+5: En **Georgia**, los brindis los dirige un **tamada**, un maestro de ceremonias.
+4: En **China**, dejar algo de comida en el plato indica que te dieron **suficiente**.
+3: En **Francia**, el **pan** se deja directamente sobre la mesa, no en el plato.
+2: En **Rusia** no se brinda con **agua**: se considera de mala suerte.
+1: En la **India**, se come con la **mano derecha**; la izquierda se considera impura.
+? ¿Por qué se sorben los fideos en Japón? | Muestra que te gustan.
+? ¿Quién dirige los brindis en Georgia? | El tamada.
++ Wikipedia: Tamada | https://en.wikipedia.org/wiki/Tamada
++ Wikipedia: Injera | https://es.wikipedia.org/wiki/Injera
++ Wikipedia: Etiqueta en la mesa | https://es.wikipedia.org/wiki/Modales_en_la_mesa
+
+=473 comida
+El desayuno cambia muchísimo según el país. Estos son 10.
+10: En **Japón**, el desayuno tradicional lleva **arroz**, **pescado** y **sopa de miso**.
+9: En **Turquía**, el ***kahvaltı*** puede tener decenas de platos: quesos, aceitunas, huevos, miel y más.
+8: En **Colombia** se desayuna **changua**, una sopa de leche con huevo y pan.
+7: El **desayuno inglés completo** lleva huevos, bacon, salchichas y **alubias** en salsa de tomate.
+6: El famoso **desayuno israelí** tipo bufé nació en los **kibutz**.
+5: En **México** se desayunan **chilaquiles**: totopos con salsa, queso y crema.
+4: En **Egipto** se desayuna **ful medames**, un guiso de habas.
+3: En **Australia** se unta **Vegemite**, un extracto de levadura muy salado.
+2: En **Islandia** se toma **skyr**, un lácteo espeso y muy proteico.
+1: En **Vietnam** se desayuna **pho**, una sopa caliente de fideos con hierbas.
+? ¿Qué es el Vegemite? | Un extracto de levadura salado que se unta en Australia.
+? ¿Qué se desayuna en Vietnam? | Sopa pho.
++ Wikipedia: Vegemite | https://es.wikipedia.org/wiki/Vegemite
++ Wikipedia: Changua | https://es.wikipedia.org/wiki/Changua
++ Wikipedia: Pho | https://es.wikipedia.org/wiki/Ph%E1%BB%9F
+
+=474 comida
+Algunas bebidas tradicionales tienen orígenes sorprendentes. Estas son 10.
+10: El **mate** se comparte en una sola calabaza que pasa de mano en mano en Argentina, Uruguay y Paraguay.
+9: En los Andes, la **chicha** de maíz se hacía **masticando** el maíz: la saliva iniciaba la fermentación.
+8: El **sake** se hace con arroz y **koji**, un hongo que convierte el almidón en azúcar.
+7: El **kvas** ruso se hace fermentando **pan** de centeno.
+6: El **pulque**, hecho con savia de **agave**, era una bebida sagrada para los aztecas.
+5: El **café de olla** mexicano lleva **piloncillo** y **canela** y se hace en olla de barro.
+4: La **horchata** valenciana se hace con **chufa**, un pequeño tubérculo.
+3: El **lassi** indio se hace con **yogur** y puede ser dulce o salado.
+2: El **tepache** mexicano se hace fermentando la **cáscara de piña**.
+1: El **chai masala** mezcla té con **canela**, **cardamomo**, **jengibre** y leche.
+? ¿De qué se hace la horchata? | De chufa.
+? ¿Cómo se fermentaba la chicha? | Masticando el maíz.
++ Wikipedia: Chicha | https://es.wikipedia.org/wiki/Chicha
++ Wikipedia: Pulque | https://es.wikipedia.org/wiki/Pulque
++ Wikipedia: Horchata de chufa | https://es.wikipedia.org/wiki/Horchata_de_chufa
+
+=475 comida
+Los postres también tienen historia y polémica. Estos son 10.
+10: El **alfajor** llegó a España con los árabes y de ahí viajó a América.
+9: El **brigadeiro** brasileño lleva el nombre del **brigadier Eduardo Gomes**, candidato presidencial en 1945.
+8: El **baklava** tiene decenas de capas de masa **filo** con frutos secos y almíbar.
+7: Australia y Nueva Zelanda se disputan la **pavlova**, bautizada en honor a la bailarina rusa **Anna Pávlova**.
+6: El **tres leches** es un bizcocho empapado en tres tipos de leche, típico de Latinoamérica.
+5: El **mochi** japonés se hace golpeando arroz cocido con grandes **mazos**.
+4: Los catalanes defienden que la **crema catalana** es anterior a la *crème brûlée* francesa.
+3: El **gulab jamun** indio son bolitas fritas bañadas en **almíbar**.
+2: Dos pastelerías de Viena se disputaron en los **tribunales** el nombre de la **tarta Sacher** durante años.
+1: El **curanto** chileno se cocina en un **hoyo** en la tierra, con piedras calientes y hojas de nalca.
+? ¿Por qué hubo un juicio por la tarta Sacher? | Dos pastelerías vienesas se disputaban el nombre.
+? ¿De dónde viene el nombre del brigadeiro? | Del brigadier Eduardo Gomes.
++ Wikipedia: Tarta Sacher | https://es.wikipedia.org/wiki/Tarta_Sacher
++ Wikipedia: Brigadeiro | https://es.wikipedia.org/wiki/Brigadeiro
++ Wikipedia: Curanto | https://es.wikipedia.org/wiki/Curanto
+
+=476 comida
+Antes de la nevera, había mil formas de conservar la comida. Estas son 10.
+10: Los incas hacían **chuño**: papas **liofilizadas** con el frío de la noche y el sol del día, que duraban años.
+9: La **sal** curaba el **jamón** siglos antes de las neveras.
+8: Los vikingos secaban **bacalao** al viento: el *stockfish* dura años.
+7: El **pemmican**, carne seca con grasa, era el alimento de viaje de pueblos nativos y exploradores.
+6: Los **huevos centenarios** chinos se conservan semanas en una mezcla de arcilla, ceniza, sal y cal.
+5: El **surströmming** sueco es arenque fermentado tan oloroso que se abre al aire libre.
+4: El **escabeche**, de origen árabe, conserva con **vinagre**.
+3: Los pueblos del **Ártico** guardaban carne en el **permafrost**, un congelador natural.
+2: El **confitado** conserva la carne, como el pato, cubierta de su propia **grasa**.
+1: Los romanos traían **nieve** de las montañas para enfriar bebidas y postres.
+? ¿Qué es el chuño? | Papa liofilizada de los Andes.
+? ¿Por qué el surströmming se abre al aire libre? | Por su olor tan fuerte.
++ Wikipedia: Chuño | https://es.wikipedia.org/wiki/Chu%C3%B1o
++ Wikipedia: Surströmming | https://es.wikipedia.org/wiki/Surstr%C3%B6mming
++ Wikipedia: Pemmican | https://es.wikipedia.org/wiki/Pemmican
+
+=477 comida
+Muchas técnicas de cocina tienen miles de años. Estas son 10.
+10: La **nixtamalización**, cocer el maíz con **cal**, lo hace más nutritivo. Se usa en Mesoamérica desde hace unos 3.000 años.
+9: El **tandoor** es un horno de barro que alcanza más de 400 °C.
+8: La **paella** se hace en una sartén ancha y plana para que el arroz quede en una **capa fina**.
+7: El **ahumado** conserva y da sabor, y se usa desde la prehistoria.
+6: La **olla de barro** cocina lento y reparte bien el calor en los guisos.
+5: Los romanos ponían **garum**, una salsa de pescado fermentado, en casi todo.
+4: En Japón se cocina sobre **piedra** caliente: el ***ishiyaki***.
+3: Los aztecas cocinaban tortillas en el **comal**, una plancha de barro.
+2: Los **portugueses** llevaron la técnica de la **tempura** a Japón en el siglo XVI.
+1: Antes de la cerámica, se hervía agua echando **piedras calientes** en recipientes de piel o madera.
+? ¿Quién llevó la tempura a Japón? | Los portugueses.
+? ¿Qué es la nixtamalización? | Cocer el maíz con cal.
++ Wikipedia: Nixtamalización | https://es.wikipedia.org/wiki/Nixtamalizaci%C3%B3n
++ Wikipedia: Garum | https://es.wikipedia.org/wiki/Garum
++ Wikipedia: Tempura | https://es.wikipedia.org/wiki/Tempura
+
+=478 comida
+Los utensilios de cocina tienen historias inesperadas. Estas son 10.
+10: El **tenedor** tardó siglos en aceptarse en Europa: se veía como un lujo exagerado.
+9: Los **palillos** chinos se usan desde hace unos **3.000 años** o más.
+8: El **molcajete** mexicano se talla en **piedra volcánica**.
+7: El **wok** permite cocinar a fuego muy alto y rápido.
+6: El **mortero** se usaba ya en el antiguo **Egipto**.
+5: En **1679**, **Denis Papin** presentó el "digestor", antecesor de la **olla a presión**.
+4: El **rallador** se inventó en **Francia** en el siglo XVI para rallar **queso**.
+3: El **pelador Rex** suizo es de **1947** y casi no ha cambiado.
+2: Según la tradición, el **cardenal Richelieu** mandó redondear la punta de los **cuchillos de mesa**.
+1: Existen **gafas para cortar cebolla** que evitan que los gases lleguen a los ojos.
+? ¿Quién inventó la olla a presión? | Denis Papin, en 1679.
+? ¿Por qué los cuchillos de mesa tienen punta redonda? | Se atribuye a una orden de Richelieu.
++ Wikipedia: Denis Papin | https://es.wikipedia.org/wiki/Denis_Papin
++ Wikipedia: Pelador Rex | https://en.wikipedia.org/wiki/Rex_peeler
++ Wikipedia: Tenedor | https://es.wikipedia.org/wiki/Tenedor
+
+=479 comida
+Los mercados de comida son el alma de muchas ciudades. Estos son 10.
+10: El mercado de **Rungis**, junto a París, es el mayor mercado mayorista de alimentos frescos del mundo.
+9: El mercado de **Chatuchak** (Bangkok) tiene unos **15.000 puestos** y abre los fines de semana.
+8: El **Borough Market** de Londres tiene registros desde el siglo XIII.
+7: El **mercado de pescado de Bergen** (Noruega) existe desde la Edad Media.
+6: Hernán Cortés escribió que el mercado de **Tlatelolco** era más grande que el de Salamanca y reunía a miles de personas.
+5: El **Mercado de San Miguel** de Madrid, de hierro y cristal, abrió en **1916**.
+4: En el mercado de **Noryangjin** (Seúl) eliges el pescado vivo y te lo cocinan en el piso de arriba.
+3: El **Mercado Central de Valencia**, modernista, tiene unos **8.000 m²**.
+2: El mercado **Nishiki**, "la cocina de Kioto", tiene más de **400 años**.
+1: La **Boqueria** de Barcelona tiene registros desde **1217**, cuando era un mercado al aire libre.
+? ¿Cuál es el mayor mercado de alimentos del mundo? | Rungis, junto a París.
+? ¿Desde cuándo existe la Boqueria? | Hay registros desde 1217.
++ Wikipedia: Mercado de Rungis | https://es.wikipedia.org/wiki/Mercado_internacional_de_Rungis
++ Wikipedia: Mercado de La Boquería | https://es.wikipedia.org/wiki/Mercado_de_La_Boquer%C3%ADa
++ Wikipedia: Mercado de Chatuchak | https://es.wikipedia.org/wiki/Mercado_de_Chatuchak
+
+=480 comida
+La fermentación convierte alimentos en otros nuevos. Estos son 10 datos.
+10: En Corea hay **neveras especiales para el kimchi** que controlan su fermentación.
+9: El **natto** japonés, soja fermentada con bacterias, forma **hilos** pegajosos.
+8: La **kombucha** se hace con una "**madre**" gelatinosa, un cultivo de bacterias y levaduras.
+7: El **kéfir** nació en el **Cáucaso**, con granos que parecen pequeñas coliflores.
+6: Algunos **misos** fermentan durante **años**.
+5: La **salsa de soja** tradicional fermenta meses con trigo, sal y el hongo koji.
+4: El **tempeh** indonesio es un pastel de soja fermentada con un hongo.
+3: El **té pu-erh** chino se añeja como el vino; algunos tienen décadas.
+2: El **vinagre** nace cuando unas bacterias convierten el alcohol del vino en **ácido acético**.
+1: El **hákarl** islandés es **tiburón** fermentado y secado durante meses. Huele intensamente a amoníaco.
+? ¿Cómo se hace el vinagre? | Unas bacterias convierten el alcohol en ácido acético.
+? ¿Qué es el hákarl? | Tiburón fermentado de Islandia.
++ Wikipedia: Hákarl | https://es.wikipedia.org/wiki/H%C3%A1karl
++ Wikipedia: Natto | https://es.wikipedia.org/wiki/Natt%C5%8D
++ Wikipedia: Kéfir | https://es.wikipedia.org/wiki/K%C3%A9fir
