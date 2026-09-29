@@ -11200,8 +11200,8 @@
   "gancho": "El número 1 está en las alcantarillas.",
   "datos": [
    {
-    "titular": "Las abejas usan hexágonos",
-    "gancho": "Ahorran cera.",
+    "titular": "Una moneda de 50 peniques no es redonda pero rueda",
+    "gancho": "Es un heptágono de anchura constante.",
     "n": 10
    },
    {
@@ -11235,13 +11235,13 @@
     "n": 4
    },
    {
-    "titular": "Las huellas de las ruedas de bici forman curvas",
-    "gancho": "Como matemáticas.",
+    "titular": "El triángulo de Reuleaux rueda sin ser un círculo",
+    "gancho": "Se usa para taladrar agujeros casi cuadrados.",
     "n": 3
    },
    {
-    "titular": "Los estadios usan parábolas",
-    "gancho": "Para la vista.",
+    "titular": "Los chorros de agua de una fuente dibujan parábolas",
+    "gancho": "Igual que un balón lanzado.",
     "n": 2
    },
    {

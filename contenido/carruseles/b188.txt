@@ -65,15 +65,15 @@ El 142.857 es cíclico | Multiplicado por 2 a 6 repite sus cifras.
 El número de Graham es gigantesco | No cabe en el universo escrito.
 La sucesión de Fibonacci aparece en girasoles | Sus semillas forman espirales de esos números. ¿Lo sabías?
 #194|=|=|El número 1 está en las alcantarillas.
-Las abejas usan hexágonos | Ahorran cera.
+Una moneda de 50 peniques no es redonda pero rueda | Es un heptágono de anchura constante.
 Las ruedas son círculos por eficiencia | Mantienen la misma altura.
 Las pelotas de fútbol clásicas tienen hexágonos y pentágonos | 20 y 12.
 Los triángulos hacen fuertes los puentes | No se deforman.
 Las latas son cilíndricas | Soportan mejor la presión.
 Las tuercas son hexagonales | Se agarran fácil desde muchos ángulos.
 Una hoja A4 doblada por la mitad mantiene su forma | Su proporción es raíz de 2.
-Las huellas de las ruedas de bici forman curvas | Como matemáticas.
-Los estadios usan parábolas | Para la vista.
+El triángulo de Reuleaux rueda sin ser un círculo | Se usa para taladrar agujeros casi cuadrados.
+Los chorros de agua de una fuente dibujan parábolas | Igual que un balón lanzado.
 Las tapas de alcantarilla son redondas | Así no pueden caerse por el agujero. ¿Lo pensaste?
 #195|=|=|El número 1 está en tus pulmones.
 El brócoli romanesco es un fractal | Cada parte repite el todo.

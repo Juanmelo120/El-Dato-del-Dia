@@ -1,0 +1,179 @@
+=191 ciencia
+Medir parece sencillo, pero las unidades esconden historias muy raras. Estos son 10 datos.
+10: Antes del sistema métrico, el **pie**, la **vara** o la **libra** cambiaban de una ciudad a otra, lo que complicaba mucho el comercio.
+9: En 1791, Francia definió el **metro** como la diezmillonésima parte de la distancia del polo norte al ecuador, medida sobre el meridiano de París.
+8: Desde 1983, el metro es la distancia que recorre la luz en el vacío en **1/299.792.458 de segundo**.
+7: **James Watt** creó el **caballo de fuerza** para comparar sus máquinas de vapor con los caballos a los que iban a sustituir.
+6: Un **año luz** es una distancia: unos **9,46 billones de km**, lo que recorre la luz en un año.
+5: La **milla náutica** (1.852 m) corresponde aproximadamente a un minuto de arco de latitud, lo que la hace muy práctica para navegar con cartas.
+4: Hasta **2019**, el kilogramo fue un cilindro de platino e iridio guardado cerca de París. Hoy se define con la **constante de Planck**.
+3: En 1958, estudiantes del MIT midieron el puente Harvard con su compañero **Oliver Smoot** (1,70 m): mide 364,4 smoots "más una oreja".
+2: El **quilate** viene del griego *keration*, la semilla del **algarrobo**, que se usaba como pesa. Hoy equivale a 0,2 gramos.
+1: La **dosis equivalente a un plátano** es una unidad informal: el potasio-40 del plátano emite una radiación diminuta que sirve de comparación.
+? ¿Cómo se define hoy el metro? | Como la distancia que recorre la luz en 1/299.792.458 de segundo.
+? ¿Qué es un smoot? | Una unidad en broma del MIT: 1,70 m, la altura de Oliver Smoot.
++ BIPM: Sistema Internacional de Unidades | https://www.bipm.org/en/measurement-units
++ Wikipedia: Smoot | https://es.wikipedia.org/wiki/Smoot
++ Wikipedia: Dosis equivalente a un plátano | https://es.wikipedia.org/wiki/Dosis_equivalente_a_una_banana
+
+=192 ciencia
+Un pequeño error de medida puede hundir un barco o perder una nave espacial. Estos son 10 casos reales.
+10: **Colón** usó un tamaño de la Tierra demasiado pequeño y una Asia demasiado ancha. Por eso creyó que Asia estaba cerca navegando hacia el oeste.
+9: Según el segundo oficial **David Blair**, la llave del armario de los prismáticos del **Titanic** se quedó en tierra porque lo cambiaron de barco a última hora.
+8: En 1983, un Boeing 767 de Air Canada se quedó sin combustible porque se calculó en **libras en vez de kilos**. Planeó hasta Gimli y aterrizó: el **Gimli Glider**.
+7: La **Torre de Pisa** empezó a inclinarse durante su construcción (1173) por un terreno blando y poco profundo.
+6: El espejo del **Hubble** (1990) tenía un error de unas **2 micras** en su curvatura. En 1993 unos astronautas instalaron óptica correctora.
+5: El buque sueco **Vasa** se hundió en su viaje inaugural (1628). Los arqueólogos hallaron reglas de dos tipos de pies distintos, lo que pudo causar su asimetría.
+4: En 1991, un misil **Patriot** falló al interceptar un Scud en Dhahran porque su reloj acumuló un error de redondeo de **0,34 segundos**. Murieron 28 soldados.
+3: En 1996, el **Ariane 5** explotó a los 37 segundos: un número demasiado grande no cupo en una variable de **16 bits**.
+2: El **Big Ben** se ajusta añadiendo o quitando **peniques** en su péndulo: cada moneda cambia su ritmo unos 0,4 segundos al día.
+1: En 1999 se perdió el **Mars Climate Orbiter**: un equipo usó unidades inglesas (libras-fuerza) y otro métricas (newtons). Costó unos 125 millones de dólares.
+? ¿Por qué se perdió el Mars Climate Orbiter? | Por mezclar unidades inglesas y métricas.
+? ¿Qué fue el Gimli Glider? | Un avión que se quedó sin combustible por confundir libras y kilos en 1983.
++ NASA: Mars Climate Orbiter | https://science.nasa.gov/mission/mars-climate-orbiter/
++ Wikipedia: Vuelo 143 de Air Canada | https://es.wikipedia.org/wiki/Vuelo_143_de_Air_Canada
++ Wikipedia: Vuelo 501 del Ariane 5 | https://es.wikipedia.org/wiki/Vuelo_501_del_Ariane_5
+
+=193 ciencia
+Algunos números tienen propiedades que parecen trucos de magia. Estos son 10.
+10: El **cero** como número se desarrolló en la **India** (Brahmagupta, siglo VII) y llegó a Europa a través de matemáticos árabes, gracias a textos como los de **Fibonacci** (1202).
+9: **Pi** tiene infinitos decimales sin patrón. En 2024 se calcularon más de **200 billones** de cifras.
+8: En encuestas online como la de Alex Bellos, el **7** sale como el número favorito más votado.
+7: Un **número primo** solo se divide entre 1 y sí mismo. **Euclides** demostró hace más de 2.000 años que hay infinitos.
+6: El **6** es un número perfecto: sus divisores 1, 2 y 3 suman 6. El siguiente es el 28.
+5: **1729** es el menor número que se escribe como suma de dos cubos de dos maneras: 1³+12³ y 9³+10³. Ramanujan lo señaló cuando Hardy dijo que era aburrido.
+4: Si multiplicas cualquier número entero por 9 y sumas sus cifras una y otra vez hasta quedarte con una, siempre sale **9**.
+3: **142.857** × 2, 3, 4, 5 o 6 da las mismas cifras en otro orden. Y ×7 da 999.999.
+2: El **número de Graham** es tan grande que ni siquiera cabría escribiendo una cifra en cada átomo del universo observable.
+1: Las semillas del **girasol** forman espirales que suelen ser números de **Fibonacci** consecutivos, como 34 y 55.
+? ¿Por qué es especial el 1729? | Es el menor número que es suma de dos cubos de dos maneras distintas.
+? ¿Qué es un número perfecto? | Uno igual a la suma de sus divisores, como 6 o 28.
++ Wikipedia: 1729 (número) | https://es.wikipedia.org/wiki/1729_(n%C3%BAmero)
++ Wikipedia: Número de Graham | https://es.wikipedia.org/wiki/N%C3%BAmero_de_Graham
++ Wikipedia: 142857 | https://es.wikipedia.org/wiki/142857
+
+=194 ciencia
+La geometría está en tu bolsillo, en la cocina y en la calle. Estos son 10 datos.
+10: La moneda británica de **50 peniques** es un heptágono con lados curvos. Tiene **anchura constante**, así que funciona en las máquinas que la hacen rodar.
+9: Una rueda circular mantiene el eje siempre a la **misma altura**, así que el vehículo avanza sin botes.
+8: El balón clásico **Telstar** (1970) tiene **20 hexágonos y 12 pentágonos**: la forma de un icosaedro truncado.
+7: El **triángulo** es la única figura que no se deforma si sus lados no cambian. Por eso aparece en puentes y torres.
+6: El **cilindro** reparte bien la presión de las bebidas con gas y se fabrica con poco material.
+5: Las **tuercas hexagonales** se agarran desde muchos ángulos con una llave, incluso en espacios estrechos.
+4: En las hojas **ISO** (A4, A3…), el lado largo mide el corto por **√2**. Al doblar una por la mitad, la mitad tiene la misma forma.
+3: El **triángulo de Reuleaux** también tiene anchura constante. Con él se hacen brocas que perforan agujeros casi cuadrados.
+2: El agua de una fuente o un balón lanzado dibujan una **parábola** por la gravedad (sin contar el aire).
+1: Una tapa **redonda** no cae por su agujero, se mueve rodando y no hay que orientarla para colocarla.
+? ¿Por qué las tapas de alcantarilla son redondas? | Porque un círculo no cae por un agujero algo más pequeño.
+? ¿Qué tiene de especial el A4? | Su proporción √2 se mantiene al doblarlo.
++ Wikipedia: Triángulo de Reuleaux | https://es.wikipedia.org/wiki/Tri%C3%A1ngulo_de_Reuleaux
++ Wikipedia: ISO 216 | https://es.wikipedia.org/wiki/ISO_216
++ Wikipedia: Curva de anchura constante | https://es.wikipedia.org/wiki/Curva_de_anchura_constante
+
+=195 ciencia
+Un fractal es una forma que repite su patrón a distintas escalas. La naturaleza está llena de ellos. Estos son 10.
+10: En el **romanesco**, cada cogollo es una pequeña copia de toda la pieza, en espirales.
+9: Mandelbrot planteó en 1967 que la **costa de Gran Bretaña** mide más cuanto más pequeña es la regla, es la **paradoja de la costa**.
+8: Cada hoja de un **helecho** se parece a la planta entera. Se puede imitar con el "helecho de Barnsley".
+7: Los **rayos** se ramifican en patrones parecidos a los de las **figuras de Lichtenberg**.
+6: El **conjunto de Mandelbrot** tiene un borde tan complejo que revela detalles nuevos a cualquier ampliación.
+5: Vistas desde el aire, las **cuencas de los ríos** forman ramificaciones que se repiten a varias escalas.
+4: Los **copos de nieve** tienen ramas que recuerdan a la **curva de Koch**, un fractal matemático clásico.
+3: Los **paisajes de los videojuegos** y del cine se generan a menudo con algoritmos fractales.
+2: Las **nubes** mantienen un aspecto similar a distintas escalas, por eso cuesta calcular su tamaño a simple vista.
+1: Los **bronquios** y los **vasos sanguíneos** se ramifican como fractales: así los pulmones tienen una superficie de unos 70 m² en poco espacio.
+? ¿Qué es un fractal? | Una forma que repite su patrón a distintas escalas.
+? ¿Cuánto mide la costa de un país? | Depende de la escala: es la paradoja de la costa.
++ Wikipedia: Fractal | https://es.wikipedia.org/wiki/Fractal
++ Wikipedia: Conjunto de Mandelbrot | https://es.wikipedia.org/wiki/Conjunto_de_Mandelbrot
++ Mandelbrot (1967). How Long Is the Coast of Britain? Science | https://doi.org/10.1126/science.156.3775.636
+
+=196 ciencia
+La simetría está en seres vivos, edificios y leyes del universo. Estos son 10 datos.
+10: La **mariposa** tiene **simetría bilateral**: un lado es el reflejo del otro, como la mayoría de animales.
+9: La **estrella de mar** adulta tiene **simetría radial** de cinco brazos, aunque su larva es bilateral.
+8: Los **cristales** son simétricos porque sus átomos se ordenan en estructuras que se repiten.
+7: El **Taj Mahal** es casi perfectamente simétrico. La excepción es el cenotafio de **Shah Jahan**, añadido junto al de su esposa.
+6: Muchas flores son simétricas; varios estudios indican que los **abejorros** prefieren las flores más simétricas.
+5: Los **palíndromos** se leen igual al derecho y al revés: "reconocer" o "anita lava la tina".
+4: Letras como **A, H, O, T, M** son simétricas en vertical; **B, C, D, E** lo son en horizontal.
+3: El universo tiene más **materia** que **antimateria**, una asimetría que la física aún no explica del todo.
+2: Solo existen **17 tipos** de mosaicos periódicos en el plano: los **grupos de papel pintado**. Muchos aparecen en la Alhambra.
+1: Ninguna cara es perfectamente simétrica, y estudios muestran que una cara hecha simétrica por ordenador suele parecer extraña.
+? ¿Cuántos tipos de mosaicos simétricos hay? | 17, los grupos de papel pintado.
+? ¿Por qué el Taj Mahal no es simétrico del todo? | Por el cenotafio de Shah Jahan.
++ Wikipedia: Grupo de papel pintado | https://es.wikipedia.org/wiki/Grupo_de_papel_pintado
++ Wikipedia: Asimetría bariónica | https://es.wikipedia.org/wiki/Asimetr%C3%ADa_bari%C3%B3nica
++ Wikipedia: Taj Mahal | https://es.wikipedia.org/wiki/Taj_Mahal
+
+=197 ciencia
+Las paradojas desafían la intuición y han hecho avanzar la matemática. Estas son 10.
+10: **Zenón de Elea** decía que Aquiles nunca alcanzaría a la tortuga. Las sumas infinitas explicaron que la distancia total es finita.
+9: "Esta frase es falsa": si es verdad, es falsa, y si es falsa, es verdad. Es la **paradoja del mentiroso**.
+8: En el **problema de Monty Hall**, cambiar de puerta gana **2 de cada 3 veces**.
+7: Con **23 personas**, hay más de un 50 % de probabilidad de que dos cumplan años el mismo día.
+6: La **paradoja de Simpson**: una tendencia puede invertirse al juntar grupos, como ocurrió con las admisiones de Berkeley en 1973.
+5: **Bertrand Russell** planteó: el barbero afeita a todos los que no se afeitan a sí mismos. ¿Quién afeita al barbero?
+4: El teorema de **Banach-Tarski** (1924) demuestra que una esfera se puede dividir en piezas y recomponer en **dos esferas** iguales. Solo es posible en teoría.
+3: La **paradoja sorites**: si quitas un grano a un montón, sigue siendo un montón. ¿Cuándo deja de serlo?
+2: **Galileo** notó que hay tantos cuadrados perfectos como números naturales, aunque parezca que hay menos.
+1: El **hotel de Hilbert** tiene infinitas habitaciones ocupadas, pero si cada huésped se mueve a la habitación siguiente, queda libre la primera.
+? ¿Conviene cambiar de puerta en Monty Hall? | Sí: ganas 2 de cada 3 veces.
+? ¿Cuántas personas hacen falta para que dos compartan cumpleaños con un 50 %? | 23.
++ Wikipedia: Problema de Monty Hall | https://es.wikipedia.org/wiki/Problema_de_Monty_Hall
++ Wikipedia: Paradoja del hotel de Hilbert | https://es.wikipedia.org/wiki/Paradoja_del_Grand_Hotel_de_Hilbert
++ Wikipedia: Paradoja de Banach-Tarski | https://es.wikipedia.org/wiki/Paradoja_de_Banach-Tarski
+
+=198 ciencia
+Nuestra intuición falla con la probabilidad. Estos son 10 datos.
+10: En EE. UU., la probabilidad de que te caiga un rayo en un año es de alrededor de 1 entre 1 millón. Ganar el Powerball es 1 entre 292 millones.
+9: Hay **52!** (unos 8×10⁶⁷) órdenes posibles de una baraja. Es probable que ningún mazo bien barajado se haya repetido.
+8: Un estudio de 2023 con 350.000 lanzamientos halló que la moneda cae del **lado inicial** un **50,8 %** de las veces.
+7: Los dados de casino tienen **aristas afiladas** y agujeros rellenos para que ninguna cara pese más.
+6: La **falacia del jugador** es creer que un resultado "ya toca". En Montecarlo (1913) salió negro 26 veces seguidas.
+5: El cubo de Rubik tiene **43 trillones** de posiciones, y desde 2010 se sabe que todas se resuelven en **20 movimientos o menos**.
+4: Por kilómetro recorrido, viajar en **coche** es mucho más peligroso que en **avión** comercial.
+3: 10 caras seguidas tienen una probabilidad de 1 entre **1.024**. Lanzando mucho, acaba pasando.
+2: Pequeños frenazos pueden crear **atascos fantasma** sin causa aparente, como mostró un experimento japonés en 2008.
+1: Acertar 6 números de 49 es 1 entre **13.983.816**.
+? ¿Cuántas posiciones tiene un cubo de Rubik? | Unos 43 trillones.
+? ¿La moneda es 50/50? | Casi: cae del lado inicial un 50,8 % de las veces.
++ Bartoš et al. (2023). Fair coins tend to land on the same side they started | https://arxiv.org/abs/2310.04153
++ Cube20: God's Number is 20 | https://www.cube20.org/
++ Wikipedia: Falacia del jugador | https://es.wikipedia.org/wiki/Falacia_del_apostador
+
+=199 ciencia
+La estadística bien usada informa, mal usada engaña. Estos son 10 datos.
+10: Como algunas personas tienen menos de dos piernas, la media queda por debajo de 2. Casi todos tienen "más piernas que la media".
+9: La **paradoja de la amistad** (Feld, 1991): de media, tus amigos tienen más amigos que tú, porque las personas populares aparecen en más listas.
+8: El **principio de Pareto** dice que el 80 % de los efectos suele venir del 20 % de las causas. Es una regla aproximada.
+7: Con una muestra bien elegida de **1.000 personas**, el margen de error es de un **±3 %**, sea el país grande o pequeño.
+6: Según la **ley de Benford**, el 1 es la primera cifra en un 30 % de los datos reales. Se usa para detectar fraudes contables.
+5: Los helados y los ahogamientos suben juntos en verano, pero la causa común es el **calor**: correlación no es causalidad.
+4: Si un millonario entra en un bar, la **media** de riqueza se dispara, aunque nadie más se haya hecho rico.
+3: En la Segunda Guerra Mundial, **Abraham Wald** propuso reforzar los aviones donde los que volvían **no** tenían agujeros: el **sesgo de supervivencia**.
+2: En 1936, la revista *Literary Digest* encuestó a 2 millones de personas y falló la elección presidencial por su **muestra sesgada**.
+1: En sueldos, unos pocos salarios altos suben la **media**; la **mediana** refleja mejor lo que cobra una persona típica.
+? ¿Qué es el sesgo de supervivencia? | Sacar conclusiones solo de los casos que "sobrevivieron".
+? ¿Qué dice la ley de Benford? | Que el 1 es la primera cifra en un 30 % de los datos.
++ Wikipedia: Ley de Benford | https://es.wikipedia.org/wiki/Ley_de_Benford
++ Wikipedia: Sesgo de supervivencia | https://es.wikipedia.org/wiki/Sesgo_del_superviviente
++ Wikipedia: Paradoja de la amistad | https://es.wikipedia.org/wiki/Paradoja_de_la_amistad
+
+=200 ciencia
+Algunos acertijos tardaron siglos en resolverse. Estos son 10.
+10: En 1736, **Euler** demostró que no se podían cruzar los siete **puentes de Königsberg** una sola vez cada uno. Así nació la **teoría de grafos**.
+9: En 1882, **Lindemann** probó que pi es trascendente, por lo que es imposible hacer la **cuadratura del círculo** con regla y compás.
+8: El acertijo del **lobo, la cabra y la col** aparece en textos de **Alcuino de York** del siglo VIII.
+7: **Édouard Lucas** inventó la **Torre de Hanói** en 1883 con una leyenda: al mover 64 discos, el mundo acabaría. Harían falta 2⁶⁴−1 movimientos.
+6: El problema de las **ocho reinas** (1848) tiene **92 soluciones**.
+5: El **teorema de los cuatro colores** lo demostraron Appel y Haken en 1976 con ayuda de un ordenador.
+4: En 1900, **David Hilbert** presentó **23 problemas** que marcaron la matemática del siglo XX. Algunos siguen abiertos.
+3: **Grigori Perelman** publicó entre 2002 y 2003 la demostración de la **conjetura de Poincaré**.
+2: El **problema de Basilea**: en 1734, **Euler** mostró que 1 + 1/4 + 1/9 + 1/16… suma **π²/6**.
+1: **Fermat** escribió en 1637 que tenía una prueba que no cabía en el margen. **Andrew Wiles** lo demostró en 1994, 358 años después.
+? ¿Quién demostró el último teorema de Fermat? | Andrew Wiles, en 1994.
+? ¿Cuántas soluciones tienen las ocho reinas? | 92.
++ Wikipedia: Problema de los puentes de Königsberg | https://es.wikipedia.org/wiki/Problema_de_los_puentes_de_K%C3%B6nigsberg
++ Wikipedia: Problemas de Hilbert | https://es.wikipedia.org/wiki/Problemas_de_Hilbert
++ Wikipedia: Último teorema de Fermat | https://es.wikipedia.org/wiki/%C3%9Altimo_teorema_de_Fermat
