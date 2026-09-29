@@ -6,7 +6,8 @@ import Icon from '../components/Icon.astro';
 import { getDatos } from '../lib';
 import { SITE, CATEGORIES } from '../config';
 const datos = await getDatos();
-const [hoy, ...resto] = datos;
+const hoy = datos.find((d) => d.data.numero === SITE.datoDeHoy) ?? datos[0];
+const resto = datos.filter((d) => d !== hoy);
 const destacados = resto.slice(0, 3);
 const fecha = hoy?.data.date.toLocaleDateString('es', { weekday: 'long', day: 'numeric', month: 'long' });
 const catsUsadas = new Set(datos.map((d) => d.data.category)).size;
@@ -130,7 +131,8 @@ const pasos = [
     <section class="container">
       <p class="eyebrow" data-reveal>Archivo</p>
       <h2 class="h-arch" data-reveal style="--i:1">Todos los datos</h2>
-      <DatoList datos={resto} />
+      <DatoList datos={resto.slice(0, 24)} />
+      {resto.length > 24 && <p class="more"><a class="btn btn--ghost" href="/tiktok">Ver los {datos.length} datos <Icon name="arrow-right" size={16} /></a></p>}
     </section>
   )}
 
@@ -220,6 +222,7 @@ const pasos = [
   .phone-cta { font-size: 11px; color: var(--muted); animation: pulse 2.4s ease-in-out infinite; }
 
   .h-arch { margin: 0 0 24px; }
+  .more { margin: 28px 0 0; }
   section.container > .eyebrow:first-child { margin-top: clamp(64px, 9vw, 112px); }
 
   .habit { text-align: center; padding-top: clamp(80px, 10vw, 128px); }
