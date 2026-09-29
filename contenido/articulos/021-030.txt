@@ -1,21 +1,3 @@
-=028 tecnologia
-Muchas tecnologías cotidianas tienen nombres y orígenes inesperados: reyes vikingos, actrices de Hollywood y obras de teatro.
-10: El nombre **Bluetooth** viene del rey danés **Harald "Diente Azul"**, que unificó tribus en el siglo X. El logo combina sus iniciales en runas.
-9: En los años 60, **Douglas Engelbart** creó el primer ratón: una caja de madera con dos ruedas metálicas y un botón. Lo presentó en 1968.
-8: En 1958, el físico **William Higinbotham** creó *Tennis for Two* en un osciloscopio para una jornada de puertas abiertas. Es uno de los primeros videojuegos.
-7: En 1942, la actriz **Hedy Lamarr** y el compositor George Antheil patentaron un sistema de **salto de frecuencia** para guiar torpedos. Tecnologías como el Bluetooth usan técnicas relacionadas.
-6: En **1978**, Gary Thuerk envió un anuncio de ordenadores a unos 400 usuarios de ARPANET. Se considera el primer spam.
-5: La palabra **robot** apareció en la obra *R.U.R.* (1920) de Karel Čapek; la sugirió su hermano Josef. Viene del checo *robota*, trabajo forzado.
-4: El teclado **QWERTY** lo diseñó Christopher Sholes en los años 1870 para máquinas de escribir. Suele decirse que evitaba atascos; los historiadores también apuntan a necesidades de los telegrafistas.
-3: En 1975, el ingeniero de Kodak **Steven Sasson** creó la primera cámara digital: pesaba unos 3,6 kg, tomaba imágenes de 0,01 megapíxeles y tardaba 23 segundos en guardarlas en una cinta.
-2: **Larry Tesler**, en Xerox PARC, impulsó comandos como cortar, copiar y pegar en los 70. Deshacer se volvió estándar en los ordenadores personales.
-1: El **IBM Simon** (1994) tenía pantalla táctil, correo, calendario y fax. Se considera el primer smartphone.
-? ¿Por qué se llama Bluetooth? | Por el rey vikingo Harald "Diente Azul", que unificó tribus danesas.
-? ¿Cuál fue el primer smartphone? | El IBM Simon, de 1994.
-+ Wikipedia: Bluetooth | https://es.wikipedia.org/wiki/Bluetooth
-+ Wikipedia: Hedy Lamarr | https://es.wikipedia.org/wiki/Hedy_Lamarr
-+ Wikipedia: IBM Simon | https://es.wikipedia.org/wiki/IBM_Simon
-
 =029 geografia
 Hay lugares en la Tierra que parecen de otro planeta: lagos rosas, fuego azul y espejos gigantes.
 10: El **mar Muerto** tiene más de un **30 % de sal**, casi diez veces más que el océano. Su densidad hace que flotes sin esfuerzo.
