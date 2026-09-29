@@ -12244,13 +12244,13 @@
   "gancho": "El número 1 está al revés.",
   "datos": [
    {
-    "titular": "Los mapas agrandan los países lejos del ecuador",
-    "gancho": "Es la proyección de Mercator.",
+    "titular": "Hay mapas que se pliegan con un solo tirón",
+    "gancho": "El pliegue Miura se ideó para paneles solares espaciales.",
     "n": 10
    },
    {
-    "titular": "África es 14 veces más grande que Groenlandia",
-    "gancho": "Pero en muchos mapas parecen similares.",
+    "titular": "Uno de los mapas más usados lo dibujan voluntarios",
+    "gancho": "OpenStreetMap, como una Wikipedia de mapas.",
     "n": 9
    },
    {
@@ -12342,8 +12342,8 @@
     "n": 3
    },
    {
-    "titular": "Los polinesios tenían mapas de palos",
-    "gancho": "Mostraban corrientes y oleaje.",
+    "titular": "En las islas Marshall había mapas de palos",
+    "gancho": "Mostraban el oleaje entre islas.",
     "n": 2
    },
    {
