@@ -1,0 +1,179 @@
+=091 cultura
+Usamos expresiones cada día sin saber de dónde vienen. Estas 10 tienen historias curiosas.
+10: Según la tradición, en una batalla del siglo XIII un caballero se desvió por los **cerros de Úbeda** y llegó tarde, cuando la ciudad ya se había tomado. Hoy "irse por los cerros de Úbeda" es divagar.
+9: En el **boxeo**, el entrenador lanzaba la toalla al ring para detener el combate y evitar más daño a su boxeador. De ahí "tirar la toalla": rendirse.
+8: "**Meter la pata**" tiene varias explicaciones populares; una la relaciona con animales que caían en trampas. No hay una teoría demostrada.
+7: Los aspirantes a caballero **velaban las armas** toda la noche antes de su nombramiento, y la tradición dice que vestían de blanco. De ahí "pasar la noche en blanco", sin dormir.
+6: La **blanca** fue una moneda castellana de vellón de muy poco valor. Quien estaba "sin blanca" no tenía ni la moneda más pequeña.
+5: Una historia, discutida, cuenta que el almirante **Nelson** se llevó el catalejo a su ojo ciego para no ver una señal de retirada. En español decimos "hacer la vista gorda".
+4: Un **cero a la izquierda** de un número no cambia su valor: "007" vale lo mismo que "7". Así describimos a quien no cuenta.
+3: En la Antigüedad se coronaba con **laurel** a los vencedores. "Dormirse en los laureles" es descuidarse tras un éxito.
+2: En el Madrid del siglo XVIII, el paseo de la Castellana tenía cinco pinos muy separados. El **quinto** quedaba lejísimos del centro.
+1: Los cuadrilleros de la **Santa Hermandad**, que vestían mangas verdes, tenían fama de llegar tarde a los delitos. De ahí "a buenas horas, mangas verdes".
+? ¿De dónde viene "tirar la toalla"? | Del boxeo: el entrenador lanzaba la toalla para detener el combate.
+? ¿Qué significa estar sin blanca? | No tener dinero; la blanca era una moneda de muy poco valor.
++ Centro Virtual Cervantes: Refranero multilingüe | https://cvc.cervantes.es/lengua/refranero/
++ Wikipedia: Santa Hermandad | https://es.wikipedia.org/wiki/Santa_Hermandad
++ Wikipedia: Blanca (moneda) | https://es.wikipedia.org/wiki/Blanca_(moneda)
+
+=092 historia
+A lo largo de la historia se ha pagado con cacao, té, clavos y hasta queso. Estas son 10 formas curiosas.
+10: Los mexicas usaban **semillas de cacao** como moneda para compras pequeñas. Existían incluso falsificaciones rellenas de barro.
+9: El **denario** romano de plata fue la moneda principal durante siglos. Su nombre dio origen a *dinero* en español.
+8: En Mongolia, Tíbet y Siberia se usaban **ladrillos de té prensado** como dinero hasta el siglo XX.
+7: En el siglo XVIII, marineros europeos intercambiaban **clavos de hierro** en Tahití, donde el metal era muy valioso.
+6: En Norteamérica, las **pieles de castor** servían de unidad de cambio en el comercio con la Compañía de la Bahía de Hudson.
+5: En China, entre los siglos VII y III a. C., circularon monedas de bronce con forma de **cuchillo** y de **pala**.
+4: En asedios y crisis se emitieron **monedas de cuero**, como en Leiden en 1574.
+3: En campos de prisioneros de la Segunda Guerra Mundial, los **cigarrillos** funcionaron como moneda.
+2: Tras la Primera Guerra Mundial, varias ciudades alemanas emitieron **billetes de emergencia** (*Notgeld*) de madera, tela o cuero.
+1: El banco italiano **Credem** acepta ruedas de **parmesano** como garantía de préstamos y las guarda madurando en sus almacenes.
+? ¿De dónde viene la palabra dinero? | Del denario, la moneda de plata romana.
+? ¿Se puede pedir un préstamo con queso? | En Italia, el banco Credem acepta parmesano como garantía.
++ Wikipedia: Denario | https://es.wikipedia.org/wiki/Denario
++ Wikipedia: Notgeld | https://es.wikipedia.org/wiki/Notgeld
++ Wikipedia: Ladrillo de té | https://es.wikipedia.org/wiki/T%C3%A9_prensado
+
+=093 geografia
+Ríos y lagos del mundo guardan récords y rarezas. Estos son 10.
+10: El **lago Superior** es el lago de agua dulce más grande por superficie: unos 82.000 km².
+9: El **río Congo** supera los **220 metros** de profundidad en algunos tramos, el más profundo conocido.
+8: El **Titicaca**, a unos 3.812 metros, es el lago navegable por grandes barcos más alto del mundo.
+7: El **Danubio** atraviesa o bordea **10 países**, más que ningún otro río, y pasa por cuatro capitales.
+6: En el **Lago de las Medusas** (Palaos), millones de medusas doradas perdieron casi todo su poder urticante al vivir aisladas.
+5: El **lago Retba** (Senegal) es rosa por el alga *Dunaliella salina*. Allí se extrae sal a mano.
+4: El **río Tinto** (Huelva) es rojo por el hierro disuelto de milenios de minería. La NASA lo estudia por su parecido con Marte.
+3: El **lago Natron** es tan alcalino que pocos depredadores se acercan, por eso los **flamencos enanos** crían allí.
+2: En 1969, ingenieros de EE. UU. desviaron el agua de las **cataratas Americanas** del Niágara durante meses para estudiar la erosión.
+1: Antes del levantamiento de los Andes, el **Amazonas** fluía hacia el **oeste**, hacia el Pacífico. Hace unos 10 millones de años cambió de sentido.
+? ¿Qué río cruza más países? | El Danubio, con 10.
+? ¿Por qué el río Tinto es rojo? | Por el hierro disuelto de la actividad minera y natural.
++ Wikipedia: Lago Superior | https://es.wikipedia.org/wiki/Lago_Superior
++ Wikipedia: Río Tinto | https://es.wikipedia.org/wiki/R%C3%ADo_Tinto
++ Wikipedia: Lago de las Medusas | https://es.wikipedia.org/wiki/Lago_de_las_Medusas
+
+=094 tecnologia
+Muchos inventos clave llevan firma femenina. Estos son 10.
+10: En 1903, **Mary Anderson** patentó el **limpiaparabrisas** tras ver a un conductor asomarse bajo la nieve.
+9: En 1886, **Josephine Cochrane** patentó un **lavavajillas** porque sus criados rompían la vajilla.
+8: En 1843, **Ada Lovelace** publicó notas sobre la máquina analítica de Babbage con un método para calcular números de Bernoulli: se considera el primer algoritmo.
+7: En 1965, **Stephanie Kwolek** creó la fibra que se convertiría en **kevlar**, cinco veces más resistente que el acero a igualdad de peso.
+6: **Grace Hopper** creó en los años 50 uno de los primeros **compiladores** y difundió la historia del "bug".
+5: **Marie Curie** ganó el Nobel de Física (1903) y el de Química (1911), la única persona premiada en dos ciencias distintas.
+4: En 1908, **Melitta Bentz** perforó un recipiente y usó papel secante de su hijo: inventó el **filtro de café**.
+3: **Hedy Lamarr** coinventó un sistema de **salto de frecuencia** en 1942.
+2: **Margaret Knight** creó en 1868 una máquina para fabricar **bolsas de papel de fondo plano**.
+1: **Tu Youyou** descubrió la **artemisinina** a partir de un remedio chino antiguo. Ganó el Nobel de Medicina en 2015; ha salvado millones de vidas de la malaria.
+? ¿Quién inventó el limpiaparabrisas? | Mary Anderson, en 1903.
+? ¿Quién descubrió la artemisinina? | Tu Youyou, Nobel de Medicina en 2015.
++ Wikipedia: Mary Anderson | https://es.wikipedia.org/wiki/Mary_Anderson_(inventora)
++ Wikipedia: Stephanie Kwolek | https://es.wikipedia.org/wiki/Stephanie_Kwolek
++ Nobel Prize: Tu Youyou | https://www.nobelprize.org/prizes/medicine/2015/tu/facts/
+
+=095 naturaleza
+Los insectos son los animales más numerosos y diversos del planeta. Estos son 10 datos.
+10: Hay más de **un millón de especies** de insectos descritas, y se estima que podrían existir entre 5 y 10 millones.
+9: Las **libélulas** tienen ojos compuestos con unas 30.000 unidades que cubren casi todo su campo de visión.
+8: Las **hormigas** pueden levantar objetos de muchas veces su peso gracias a su pequeño tamaño y la estructura del cuello.
+7: Los **grillos** tienen tímpanos en las patas delanteras.
+6: Las **cigarras periódicas** de Norteamérica pasan 13 o 17 años bajo tierra y emergen todas a la vez.
+5: Una **mariquita** puede comer miles de pulgones en su vida. Se usan como control biológico de plagas.
+4: Las polillas usarían la luz lejana para orientarse; las bombillas las desorientan. Un estudio de 2024 sugiere que inclinan la espalda hacia la luz.
+3: Los **mosquitos** detectan el CO₂ que exhalamos a decenas de metros.
+2: Las **reinas de termita** pueden vivir más de 20 años y poner miles de huevos al día.
+1: Un estudio de 2022 estimó unos **20.000 billones** de hormigas en la Tierra: unos 2,5 millones por persona.
+? ¿Cuántas hormigas hay en el mundo? | Unos 20.000 billones, según un estudio de 2022.
+? ¿Dónde tienen los oídos los grillos? | En las patas delanteras.
++ Schultheiss et al. (2022). The abundance, biomass, and distribution of ants on Earth. PNAS | https://doi.org/10.1073/pnas.2201550119
++ Wikipedia: Magicicada | https://es.wikipedia.org/wiki/Magicicada
++ Wikipedia: Insecta | https://es.wikipedia.org/wiki/Insecta
+
+=096 historia
+Algunos objetos antiguos siguen siendo enigmas; otros resultaron ser falsificaciones. Estos son 10.
+10: El **disco de Nebra**, de bronce con incrustaciones de oro, tiene unos 3.600 años y muestra el Sol, la Luna y las Pléyades.
+9: Las **calaveras de cristal** atribuidas a culturas precolombinas se tallaron con herramientas modernas en el siglo XIX.
+8: La **Sábana Santa de Turín** fue datada por radiocarbono en 1988 entre 1260 y 1390. El debate continúa.
+7: El **disco de Festo** (Creta, hacia 1700 a. C.) tiene 241 signos estampados en espiral. No se ha descifrado.
+6: El **códice Rohonc**, hallado en Hungría, tiene unas 450 páginas en una escritura desconocida.
+5: El **cubo de Salzburgo**, un objeto metálico hallado en carbón en 1885, se considera hoy un objeto industrial.
+4: La **copa de Licurgo** (siglo IV) es verde con luz reflejada y roja al trasluz, por nanopartículas de oro y plata.
+3: El **martillo de London** (Texas) está atrapado en roca, pero es moderno: la roca se formó alrededor.
+2: En 2021, análisis de la tinta del **Mapa de Vinlandia** confirmaron que era una falsificación del siglo XX.
+1: La **batería de Bagdad**, hallada en 1936, es una vasija con cilindro de cobre y barra de hierro. La mayoría de arqueólogos cree que servía para guardar pergaminos.
+? ¿Qué es la batería de Bagdad? | Una vasija antigua con cobre y hierro; probablemente guardaba pergaminos.
+? ¿Por qué cambia de color la copa de Licurgo? | Por nanopartículas de oro y plata en el vidrio.
++ Wikipedia: Disco celeste de Nebra | https://es.wikipedia.org/wiki/Disco_celeste_de_Nebra
++ Wikipedia: Copa de Licurgo | https://es.wikipedia.org/wiki/Copa_de_Licurgo
++ Wikipedia: Pila de Bagdad | https://es.wikipedia.org/wiki/Pila_de_Bagdad
+
+=097 cultura
+El cine tiene récords curiosos: películas de 85 horas, actores con mil papeles y Óscar históricos.
+10: ***Avatar*** (2009) supera los **2.900 millones** de dólares en taquilla mundial.
+9: El **Universo Cinematográfico de Marvel** es la saga más taquillera, con más de 30.000 millones.
+8: El actor telugú **Brahmanandam** tiene más de 1.000 películas, récord Guinness en 2010.
+7: Algunas producciones recientes habrían costado cerca de **400 millones** de dólares, aunque las cifras oficiales rara vez se publican.
+6: **Tatum O'Neal** ganó el Óscar con 10 años por *Luna de papel* (1973), en la ceremonia de 1974.
+5: ***Ben-Hur***, ***Titanic*** y ***El retorno del rey*** comparten el récord de **11 Óscar**.
+4: India produce más películas que ningún otro país: más de 1.500 al año en varios idiomas.
+3: ***El cantante de jazz*** (1927) fue el primer largometraje con diálogos sincronizados.
+2: En 1905 abrió en Pittsburgh el **Nickelodeon**, un cine permanente que cobraba **5 centavos** (un *nickel*).
+1: ***Logistics*** (2012), película sueca, dura **857 horas** (35 días) y sigue un podómetro en su viaje de vuelta a China.
+? ¿Cuál es la película más taquillera? | Avatar, con más de 2.900 millones de dólares.
+? ¿Qué películas tienen más Óscar? | Ben-Hur, Titanic y El retorno del rey, con 11.
++ Box Office Mojo | https://www.boxofficemojo.com/
++ Wikipedia: El cantante de jazz | https://es.wikipedia.org/wiki/El_cantante_de_jazz
++ Wikipedia: Nickelodeon (cine) | https://es.wikipedia.org/wiki/Nickelodeon_(cine)
+
+=098 cultura
+Detrás de las canciones más famosas hay sueños, desodorantes y pianos blancos. Estos son 10 datos.
+10: ***Bohemian Rhapsody*** (1975) dura casi 6 minutos, mezcla balada, ópera y rock y no tiene estribillo.
+9: ***Despacito*** fue el vídeo más visto de YouTube entre 2017 y 2020, hasta que lo superó *Baby Shark*.
+8: **John Lennon** compuso ***Imagine*** en 1971 en un piano blanco en su casa de Tittenhurst Park.
+7: Una amiga escribió en una pared que Kurt Cobain "olía a Teen Spirit", una marca de desodorante. Él no lo sabía.
+6: El tema de ***Tiburón***, de John Williams, se basa en dos notas que alternan, mi y fa.
+5: ***Macarena*** estuvo **14 semanas** en el número 1 de EE. UU. en 1996.
+4: El himno de la **Champions League** (1992) es un arreglo de Tony Britten basado en *Zadok the Priest* de Händel.
+3: Paul McCartney soñó con su madre, **Mary**, que le decía "let it be" en un momento difícil.
+2: ***Hey Jude*** (1968) dura unos **7 minutos** y fue número 1 en varios países.
+1: McCartney despertó con la melodía de ***Yesterday*** en la cabeza en 1965. Temió haberla copiado y preguntó a otros músicos.
+? ¿Yesterday nació en un sueño? | Sí, Paul McCartney despertó con la melodía en 1965.
+? ¿En qué se basa el himno de la Champions? | En Zadok the Priest, de Händel.
++ Wikipedia: Yesterday | https://es.wikipedia.org/wiki/Yesterday
++ Wikipedia: Bohemian Rhapsody | https://es.wikipedia.org/wiki/Bohemian_Rhapsody
++ Wikipedia: Himno de la Liga de Campeones de la UEFA | https://es.wikipedia.org/wiki/Himno_de_la_Liga_de_Campeones_de_la_UEFA
+
+=099 deportes
+Los Juegos Olímpicos tienen curiosidades históricas: medallas de plata dorada, palomas y espejos.
+10: Pierre de Coubertin diseñó los **anillos** en 1913. Representan los cinco continentes habitados; sus colores y el fondo blanco aparecen en todas las banderas de la época.
+9: Las **medallas de oro** son sobre todo de plata, con al menos 6 gramos de oro, según las normas del COI.
+8: En **París 1900** se disputó tiro con **palomas vivas**. Fue la única vez que se mataron animales en una prueba olímpica.
+7: El **tira y afloja** fue olímpico de 1900 a 1920.
+6: Los Juegos de **1916**, **1940** y **1944** se cancelaron por las guerras mundiales.
+5: El primer campeón olímpico moderno fue **James Connolly** (EE. UU.) en triple salto, en Atenas 1896.
+4: Los primeros Juegos de Invierno fueron en **Chamonix**, en **1924**.
+3: El **maratón** no existía en los Juegos antiguos: se creó en 1896 inspirado en la leyenda de Filípides.
+2: **Estados Unidos** lidera el medallero histórico de los Juegos de Verano con más de 2.600 medallas.
+1: La **llama olímpica** se enciende en Olimpia con un espejo parabólico que concentra la luz del Sol.
+? ¿Las medallas de oro son de oro? | No: son de plata con un baño de al menos 6 g de oro.
+? ¿Cómo se enciende la llama olímpica? | Con un espejo parabólico que concentra la luz del Sol en Olimpia.
++ Olympics.com | https://www.olympics.com/es/
++ Wikipedia: Anillos olímpicos | https://es.wikipedia.org/wiki/Anillos_ol%C3%ADmpicos
++ Wikipedia: Llama olímpica | https://es.wikipedia.org/wiki/Llama_ol%C3%ADmpica
+
+=100 tecnologia
+La ciberseguridad empieza por conocer los riesgos. Estos 10 datos te ayudan.
+10: **Creeper** (1971) se considera el primer virus o gusano: saltaba entre ordenadores de ARPANET y mostraba "I'm the creeper, catch me if you can".
+9: ***Phishing*** viene de *fishing* (pescar): los atacantes "pescan" contraseñas con mensajes falsos.
+8: La mayoría de ataques empiezan con **correos de phishing** o engaños a personas, según informes del sector.
+7: Una contraseña larga, como una frase de varias palabras, es mucho más difícil de adivinar que una corta con símbolos.
+6: La **verificación en dos pasos** bloquea la gran mayoría de ataques automatizados a cuentas, según Microsoft y Google.
+5: Los hackers de **sombrero blanco** buscan fallos con permiso para que se arreglen.
+4: En redes **wifi públicas** sin cifrar, un atacante podría ver o manipular datos. Mejor usar conexiones seguras.
+3: Los programas de **recompensas por fallos** (*bug bounties*) pagan desde cientos hasta millones de dólares.
+2: En 2000, el gusano **ILOVEYOU** se propagó por correo e infectó a decenas de millones de ordenadores.
+1: Cualquiera puede caer en una estafa digital. Revisar enlaces, desconfiar de urgencias y usar un gestor de contraseñas reduce el riesgo.
+? ¿Qué es el phishing? | Un engaño para robar datos haciéndose pasar por alguien de confianza.
+? ¿Sirve la verificación en dos pasos? | Sí, bloquea la gran mayoría de ataques automatizados.
++ INCIBE (Instituto Nacional de Ciberseguridad) | https://www.incibe.es/
++ Wikipedia: Creeper (virus) | https://es.wikipedia.org/wiki/Creeper_(virus)
++ Wikipedia: ILOVEYOU | https://es.wikipedia.org/wiki/ILOVEYOU

@@ -5226,8 +5226,8 @@
   "gancho": "El número 1 habla de unos guardias que llegaban tarde.",
   "datos": [
    {
-    "titular": "\"Estar en las nubes\" viene de la distracción",
-    "gancho": "Es tener la mente lejos.",
+    "titular": "\"Irse por los cerros de Úbeda\" tiene origen histórico",
+    "gancho": "Se atribuye a un caballero que se entretuvo allí durante una batalla.",
     "n": 10
    },
    {
@@ -5241,13 +5241,13 @@
     "n": 8
    },
    {
-    "titular": "\"Quedarse en blanco\" es no recordar nada",
-    "gancho": "Como una hoja sin escribir.",
+    "titular": "\"Pasar la noche en blanco\" viene de los caballeros",
+    "gancho": "Velaban sus armas toda la noche antes de ser armados.",
     "n": 7
    },
    {
-    "titular": "\"Costar un ojo de la cara\"",
-    "gancho": "Se asocia a algo muy valioso.",
+    "titular": "\"Estar sin blanca\" viene de una moneda",
+    "gancho": "La blanca era una moneda de muy poco valor.",
     "n": 6
    },
    {
@@ -5571,7 +5571,7 @@
   "n": 97,
   "tema": "Cine",
   "titulo": "10 récords del cine que no conocías",
-  "gancho": "El número 1 dura más de 85 horas.",
+  "gancho": "El número 1 dura 35 días.",
   "datos": [
    {
     "titular": "La película más taquillera es \"Avatar\"",
@@ -5619,8 +5619,8 @@
     "n": 2
    },
    {
-    "titular": "La película más larga dura más de 85 horas",
-    "gancho": "\"Logistics\", de 2012. ¿La verías completa?",
+    "titular": "La película más larga dura 857 horas",
+    "gancho": "\"Logistics\" (2012) dura unos 35 días. ¿La verías completa?",
     "n": 1
    }
   ]
