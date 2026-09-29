@@ -101,7 +101,7 @@ El WABOT-2 leía partituras y tocaba el órgano | En 1984. ¿Te lo imaginas?
 Los autómatas de Herón abrían puertas de templos | Con fuego y agua.
 En China había un carro que siempre apuntaba al sur | Sin imán.
 Los autómatas de Karakuri servían té | En Japón.
-El caballero de Leonardo movía brazos | Con poleas.
+El Tigre de Tipu ataca a un soldado y ruge | Un autómata indio del siglo XVIII.
 En el siglo XIII se dibujó un ángel que seguía al sol | Villard de Honnecourt diseñó autómatas.
 El flautista de Vaucanson tocaba música real | En 1737.
 Los pájaros cantores mecánicos | Cajas de música.
@@ -140,7 +140,7 @@ Bajar al metro de Park Pobedy tarda unos 3 minutos | En Moscú.
 En el metro de Washington hay escaleras de 70 metros | En la estación Wheaton.
 Hay escaleras mecánicas en calles | Medellín.
 Los peldaños se "esconden" al llegar | Se aplanan.
-La escalera mecánica más larga de metro está en San Petersburgo | Unos 137 metros. ¿Te marearías?
+Existen escaleras mecánicas en espiral | Mitsubishi las fabrica desde 1985. ¿Te marearías?
 #289|=|=|El número 1 se inspiró en una máquina de chocolate.
 El primer PIN tenía seis cifras | Se redujo a cuatro.
 Algunos cajeros tienen braille | Para ciegos.
@@ -148,7 +148,7 @@ Hay cajeros de bitcoin | En varias ciudades.
 En la Antártida hay un cajero | En la base McMurdo.
 Hay cajeros que venden oro | En Dubái.
 Los cajeros tienen cámaras | Por seguridad.
-El cajero más alto está en Pakistán | A 4.600 m.
+El cajero más alto está en Pakistán | A unos 4.700 m.
 El primer cajero leía cheques con carbono radiactivo | Una marca especial identificaba al cliente.
 Hay cajeros que te reconocen por la palma de la mano | Biometría en lugar de PIN.
 El inventor del cajero se inspiró en una máquina de chocolate | John Shepherd-Barron pensó: ¿por qué no dinero? ¿Lo sabías?
@@ -158,7 +158,7 @@ Se patentó en 1952 | Pero tardó décadas.
 Las barras codifican números | No precios.
 El código de barras de un producto dice su país de registro | Las primeras cifras indican el prefijo del país.
 Hay códigos de barras en abejas | Para estudiarlas.
-Los libros tienen ISBN en barras | Desde los 70.
+Los hospitales usan códigos de barras | En pulseras y medicinas para evitar errores.
 Los QR son códigos 2D | Guardan más.
 Las cajas escanean millones al día | En todo el mundo.
 Los escáneres usan láser | Leen reflejos.
