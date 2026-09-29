@@ -1,22 +1,3 @@
-=015 naturaleza
-La naturaleza guarda estrategias que parecen de ciencia ficción: bosques que son un solo ser, flores que apestan a propósito y playas que brillan de noche.
-10: Las raíces de muchos árboles se asocian con hongos formando **micorrizas**. Estas redes intercambian agua y nutrientes, y algunos estudios sugieren que pueden transportar recursos entre árboles. La idea de un "internet del bosque" es popular, pero su alcance real **aún se debate** entre científicos.
-9: **Pando**, en Utah, parece un bosque de unos 47.000 álamos temblones, pero todos comparten un mismo sistema de raíces: es un **solo organismo** clonal. Pesa unas 6.000 toneladas y podría tener miles de años.
-8: Algunas especies de bambú, como *Phyllostachys edulis*, pueden crecer **casi un metro en un día** en condiciones ideales. No crecen como los árboles: sus tallos alargan segmentos ya formados.
-7: La **flor cadáver** (*Amorphophallus titanum*) huele a carne podrida para atraer moscas y escarabajos que la polinizan. Florece muy pocas veces y durante solo uno o dos días.
-6: Algunos pinos tienen piñas **serótinas**, selladas con resina, que solo se abren con el calor de un incendio. Así sus semillas caen sobre suelo limpio y rico en cenizas.
-5: En la bahía Shark (Australia) se descubrió en 2022 que una pradera de ***Posidonia australis*** es una sola planta clonal que se extiende unos **180 km**. Podría tener unos 4.500 años.
-4: Los análisis genéticos muestran que los **hongos están más emparentados con los animales** que con las plantas. Ambos pertenecen al grupo de los opistocontos. Por eso muchos medicamentos antifúngicos también afectan nuestras células.
-3: En las Grandes Montañas Humeantes (EE. UU.), la especie *Photinus carolinus* sincroniza sus destellos: miles de luciérnagas se encienden y apagan casi a la vez durante unas semanas al año.
-2: Los **pinos de Bristlecone** (*Pinus longaeva*) de California pueden superar los **4.800 años**. El ejemplar conocido como "Matusalén" ronda esa edad, y su ubicación exacta se mantiene en secreto para protegerlo.
-1: En playas como las de Maldivas o Puerto Rico, el mar brilla azul por la noche. Lo producen algas microscópicas (dinoflagelados) que emiten luz al agitarse el agua: **bioluminiscencia**.
-? ¿Qué es Pando? | Un bosque de álamos en Utah que en realidad es un solo organismo clonal.
-? ¿Por qué brilla el mar de noche? | Por dinoflagelados que producen luz (bioluminiscencia) al agitarse el agua.
-+ Wikipedia: Pando (árbol) | https://es.wikipedia.org/wiki/Pando_(%C3%A1rbol)
-+ Wikipedia: Amorphophallus titanum | https://es.wikipedia.org/wiki/Amorphophallus_titanum
-+ Wikipedia: Micorriza | https://es.wikipedia.org/wiki/Micorriza
-+ Edgeloe et al. (2022). Extensive polyploid clonality in a seagrass meadow. Proceedings of the Royal Society B | https://doi.org/10.1098/rspb.2022.0538
-
 =016 historia
 Algunos misterios siguen abiertos a pesar de la ciencia moderna. Otros se resolvieron… y la respuesta fue igual de curiosa.
 10: Los grandes bloques de **Stonehenge** (sarsens) vienen de unos 25 km, pero las "piedras azules" llegaron desde las colinas **Preseli, en Gales**, a más de 200 km. En 2024 se supo que la Piedra del Altar vino de Escocia, a más de 700 km. Cómo las transportaron sigue discutiéndose.
