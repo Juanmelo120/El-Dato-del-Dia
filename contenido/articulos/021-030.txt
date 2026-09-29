@@ -1,21 +1,3 @@
-=022 espacio
-El cosmos guarda secretos que parecen inventados: lluvias de vidrio, estrellas gigantescas y un olor muy particular. Estos son los 10 datos, explicados.
-10: Sin gravedad, las lágrimas no caen: se acumulan en una bola que se pega al ojo. El astronauta Chris Hadfield lo mostró en la Estación Espacial. Además pueden escocer, así que se secan con una toalla.
-9: **HD 189733b** es un planeta gigante gaseoso a unos 64 años luz. Su atmósfera contendría partículas de silicato (vidrio) y vientos de unos **8.700 km/h** que harían "llover vidrio" de lado. Su color azul lo midió el telescopio Hubble.
-8: **UY Scuti** es una hipergigante roja cuyo radio se estima en cientos de veces el del Sol. En su volumen cabrían miles de millones de soles. El título de "estrella más grande" cambia con nuevas mediciones.
-7: El Sol contiene alrededor del **99,86 %** de toda la masa del sistema solar. Júpiter concentra la mayor parte del resto.
-6: Hay en torno a **10²²–10²⁴ estrellas** en el universo observable, según distintas estimaciones. Las playas y desiertos de la Tierra tendrían del orden de 10¹⁸–10¹⁹ granos de arena. Son cálculos aproximados, pero la diferencia es enorme.
-5: Mercurio gira 3 veces sobre sí mismo por cada 2 vueltas al Sol. Como resultado, **un día solar** (de mediodía a mediodía) dura unos **176 días terrestres**, el doble de su año (88 días).
-4: La **Voyager 1**, lanzada en 1977, está a más de 24.000 millones de km. En 2012 cruzó la heliopausa y entró en el espacio interestelar. Sus señales tardan más de 22 horas en llegar.
-3: Plutón mide unos **2.377 km** de diámetro, menos que la Luna (3.474 km). En 2006 la Unión Astronómica Internacional lo reclasificó como planeta enano porque no ha "limpiado" su órbita.
-2: El universo se expande en todas direcciones: desde cualquier galaxia, las demás parecen alejarse. Por eso **no hay un centro** del que partió todo.
-1: Astronautas describen el olor que queda en los trajes tras una caminata espacial como **metal caliente**, filete chamuscado o humo de soldadura. Se atribuye a átomos de oxígeno muy reactivos que se pegan a los trajes.
-? ¿Plutón es más pequeño que la Luna? | Sí: mide unos 2.377 km frente a los 3.474 km de la Luna.
-? ¿A qué huele el espacio? | Los astronautas lo describen como metal caliente o filete chamuscado.
-+ NASA: Voyager | https://science.nasa.gov/mission/voyager/
-+ Wikipedia: HD 189733 b | https://es.wikipedia.org/wiki/HD_189733_b
-+ Wikipedia: UY Scuti | https://es.wikipedia.org/wiki/UY_Scuti
-
 =023 naturaleza
 El mar esconde animales longevos, lagos submarinos y hasta una medusa que rejuvenece. Estos son los 10 datos.
 10: Los corales negros de las profundidades crecen lentísimo. Análisis de radiocarbono en Hawái dataron una colonia de *Leiopathes* en **más de 4.000 años**, de los animales más longevos conocidos.
