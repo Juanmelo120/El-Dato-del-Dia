@@ -1,21 +1,3 @@
-=034 tecnologia
-Los objetos más cotidianos tienen historias sorprendentes: leyendas de restaurante, pastelerías y mucho ingenio.
-10: La leyenda dice que en 1853 el chef George Crum cortó papas finísimas para molestar a un cliente que se quejaba, y nacieron las papas fritas. Pero hay recetas similares anteriores: **los historiadores la consideran un mito**.
-9: En 1839, **Charles Goodyear** mezcló caucho con azufre y lo calentó: nació el **caucho vulcanizado**, resistente al frío y al calor. Hizo posibles los neumáticos y las suelas de zapatillas.
-8: En 1857, Joseph Gayetty vendió en EE. UU. el primer papel higiénico comercial. Antes se usaban hojas, musgo, mazorcas, esponjas en un palo (en Roma) o piedras.
-7: El clip moderno de doble vuelta, el **Gem**, apareció a finales del siglo XIX. En 1899 William Middlebrook patentó una máquina para fabricarlo, y su forma casi no ha cambiado.
-6: Whitcomb Judson presentó un cierre en 1893, pero no funcionaba bien. En 1913 Gideon Sundback creó la **cremallera** moderna, que se popularizó en ropa hacia los años 30.
-5: En los años 1860, **Thomas Adams** intentó convertir el chicle (savia del árbol del zapote) en caucho. Fracasó, pero lo vendió como goma de mascar.
-4: En la China del siglo XII los jueces usaban cristales de **cuarzo ahumado** para ocultar sus expresiones.
-3: Las tijeras de resorte existían en Egipto hacia el **1500 a. C.** Las de pivote central, como las actuales, se atribuyen a los romanos.
-2: Los **paraguas** aparecen en relieves de Egipto y Asiria de hace unos 3.000 años, sobre todo como sombrillas para nobles.
-1: Estudiantes de Yale lanzaban los **moldes vacíos** de la Frisbie Pie Company. En 1957 la empresa Wham-O comercializó el disco con el nombre **Frisbee**.
-? ¿Quién inventó el chicle? | Thomas Adams lo comercializó en el siglo XIX tras fracasar al intentar hacer caucho.
-? ¿De dónde viene el nombre frisbee? | De la Frisbie Pie Company, cuyos moldes lanzaban los estudiantes.
-+ Wikipedia: Vulcanización | https://es.wikipedia.org/wiki/Vulcanizaci%C3%B3n
-+ Wikipedia: Frisbee | https://es.wikipedia.org/wiki/Frisbee
-+ Wikipedia: Cremallera | https://es.wikipedia.org/wiki/Cremallera_(ropa)
-
 =035 naturaleza
 La naturaleza lleva millones de años perfeccionando soluciones. Estos 10 datos muestran algunas de las mejores.
 10: En otoño, los árboles dejan de producir **clorofila**. El verde desaparece y aparecen los **carotenoides** amarillos y naranjas, que siempre estuvieron ahí. Los rojos (antocianinas) sí se producen en otoño.
