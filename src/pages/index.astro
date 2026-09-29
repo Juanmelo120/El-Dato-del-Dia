@@ -104,6 +104,7 @@ const pasos = [
       </div>
       <div class="phone" aria-hidden="true" data-parallax="8">
         <div class="phone-screen">
+          <img class="phone-logo" src="/perfil.png" alt="El Dato del Día" width="120" height="120" />
           <p class="phone-q">¿Sabías que…?</p>
           <p class="phone-h">{hoy?.data.hook}</p>
           <span class="phone-cta">La historia completa, en el link del perfil</span>
@@ -240,6 +241,7 @@ const pasos = [
   .promo-card .btn { background: var(--marker-ink); color: #fff; }
   .phone { justify-self: center; width: min(100%, 280px); aspect-ratio: 9 / 18; padding: 10px; border-radius: 40px; background: #120a2e; box-shadow: 0 40px 80px -30px #5a1a00aa; transform: rotate(4deg); transition: transform 700ms var(--ease-out); }
   .phone-screen { height: 100%; border-radius: 32px; background: radial-gradient(circle at 50% 20%, #3b1f8f, var(--bg) 70%); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 24px 18px; text-align: center; color: var(--ink); }
+  .phone-screen .phone-logo { width: min(48%, 120px); height: auto; aspect-ratio: 1; object-fit: cover; }
   .phone-screen img { width: 58%; border-radius: 50%; box-shadow: 0 0 40px color-mix(in srgb, var(--magenta) 70%, transparent); }
   .phone-q { margin: 0; font: 700 14px/1 var(--font-mono); color: var(--cyan) !important; }
   .phone-h { margin: 0 !important; font: 800 18px/1.2 var(--font-display) !important; color: var(--marker) !important; }
