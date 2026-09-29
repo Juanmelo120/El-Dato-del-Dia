@@ -1,0 +1,30 @@
+---
+import { SITE, CATEGORIES } from '../config';
+const path = Astro.url.pathname;
+---
+<header class="header">
+  <div class="container bar">
+    <a href="/" class="logo" aria-label={SITE.name}>
+      <span class="mark">D</span>
+      <span>El Dato <em>del Día</em></span>
+    </a>
+    <nav aria-label="Categorías">
+      {Object.entries(CATEGORIES).slice(0, 5).map(([slug, c]) => (
+        <a href={`/categoria/${slug}`} aria-current={path.startsWith(`/categoria/${slug}`) ? 'page' : undefined}>{c.name}</a>
+      ))}
+    </nav>
+    <a href="/tiktok" class="btn btn--sm">Buscar dato</a>
+  </div>
+</header>
+<style>
+  .header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 85%, transparent); backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid var(--line); }
+  .bar { display: flex; align-items: center; gap: 24px; height: 64px; }
+  .logo { display: flex; align-items: center; gap: 10px; font: 700 18px/1 var(--font-display); text-decoration: none; letter-spacing: -0.02em; }
+  .logo em { font-style: italic; color: var(--accent); }
+  .mark { width: 32px; height: 32px; border-radius: 9px; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font-size: 18px; transform: rotate(-6deg); }
+  nav { display: flex; gap: 20px; margin-left: auto; font-size: 15px; }
+  nav a { text-decoration: none; color: var(--muted); transition: color 150ms var(--ease-out); }
+  nav a:hover, nav a[aria-current] { color: var(--ink); }
+  .btn--sm { padding: 10px 14px; font-size: 14px; }
+  @media (max-width: 860px) { nav { display: none; } .btn--sm { margin-left: auto; } }
+</style>

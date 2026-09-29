@@ -1,0 +1,8 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../config';
+---
+<Page title="Contacto" description="Escríbenos: sugerencias de datos, correcciones o colaboraciones.">
+  <p>¿Tienes un dato que quieras que investiguemos, encontraste un error o quieres colaborar con nosotros?</p>
+  <p>Escríbenos a <a href={`mailto:${SITE.email}`}>{SITE.email}</a> o mándanos un mensaje en <a href={SITE.tiktok} target="_blank" rel="noopener">TikTok</a>.</p>
+</Page>

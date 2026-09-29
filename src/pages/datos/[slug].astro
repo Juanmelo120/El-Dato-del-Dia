@@ -1,0 +1,99 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Card from '../../components/Card.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getDatos, readingTime } from '../../lib';
+import { SITE, CATEGORIES } from '../../config';
+
+export async function getStaticPaths() {
+  const datos = await getDatos();
+  return datos.map((dato) => ({ params: { slug: dato.id }, props: { dato, datos } }));
+}
+const { dato, datos } = Astro.props;
+const { Content } = await render(dato);
+const d = dato.data;
+const cat = CATEGORIES[d.category];
+const related = [
+  ...datos.filter((x) => x.id !== dato.id && x.data.category === d.category),
+  ...datos.filter((x) => x.id !== dato.id && x.data.category !== d.category),
+].slice(0, 3);
+const fecha = d.date.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'numeric' });
+const url = new URL(`/datos/${dato.id}`, Astro.site).href;
+const jsonLd: object[] = [{
+  '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
+  datePublished: d.date.toISOString(), mainEntityOfPage: url,
+  author: { '@type': 'Organization', name: SITE.name }, publisher: { '@type': 'Organization', name: SITE.name },
+}];
+if (d.faq.length) jsonLd.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd}>
+  <article class="container">
+    <header class="head">
+      <a class="badge" href={`/categoria/${d.category}`}>{cat.emoji} {cat.name}</a>
+      <h1 transition:name={`t-${dato.id}`}>{d.title}</h1>
+      <p class="meta muted"><span class="num">Dato #{d.numero}</span> · {fecha} · {readingTime(dato.body)} min de lectura</p>
+      <p class="hook">“{d.hook}”</p>
+    </header>
+
+    {d.tiktokId && (
+      <div class="video">
+        <iframe src={`https://www.tiktok.com/embed/v2/${d.tiktokId}`} title="Video de TikTok" loading="lazy" allow="encrypted-media" allowfullscreen></iframe>
+      </div>
+    )}
+
+    <div class="prose"><Content components={{ Ad: AdSlot }} /></div>
+
+    <AdSlot slot="" />
+
+    {d.faq.length > 0 && (
+      <section class="prose faq">
+        <h2>Preguntas frecuentes</h2>
+        {d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+      </section>
+    )}
+
+    {d.sources.length > 0 && (
+      <section class="prose sources">
+        <h2>Fuentes</h2>
+        <ol>{d.sources.map((s) => <li><a href={s.url} target="_blank" rel="noopener nofollow">{s.title}</a></li>)}</ol>
+      </section>
+    )}
+
+    <aside class="cta">
+      <p><strong>¿Te gustó este dato?</strong> Cada día publicamos uno nuevo en TikTok.</p>
+      <a class="btn" href={SITE.tiktok} target="_blank" rel="noopener">Seguir en TikTok</a>
+    </aside>
+  </article>
+
+  {related.length > 0 && (
+    <section class="container">
+      <h2 class="rel">Si te gustó, también te va a volar la cabeza…</h2>
+      <div class="grid">{related.map((r) => <Card dato={r} />)}</div>
+    </section>
+  )}
+</Base>
+<style>
+  .head, .prose, .video, .cta { max-width: var(--prose); margin-left: auto; margin-right: auto; }
+  .head { padding-top: 48px; }
+  h1 { font-size: clamp(34px, 6vw, 54px); margin: 16px 0 12px; }
+  .meta { font-size: 14px; margin: 0; }
+  .hook { font: 600 italic 22px/1.4 var(--font-display); border-left: 3px solid var(--accent); padding-left: 16px; margin: 28px 0; }
+  .video { display: flex; justify-content: center; margin: 32px auto; }
+  .video iframe { width: 325px; height: 740px; border: 0; border-radius: var(--radius); }
+  .prose { font-size: 18px; line-height: 1.75; }
+  .prose :global(h2) { font-size: 30px; margin: 48px 0 12px; }
+  .prose :global(h3) { font-size: 22px; margin: 32px 0 8px; }
+  .prose :global(a) { color: var(--accent); }
+  .prose :global(blockquote) { margin: 32px 0; padding: 20px 24px; background: var(--accent-soft); border-radius: var(--radius); }
+  .prose :global(blockquote p) { margin: 0; }
+  .faq details { border-bottom: 1px solid var(--line); padding: 14px 0; }
+  .faq summary { cursor: pointer; font-weight: 600; }
+  .sources { font-size: 15px; }
+  .cta { margin-top: 48px; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+  .cta p { margin: 0; }
+  .rel { font-size: 28px; margin: 64px 0 20px; }
+</style>

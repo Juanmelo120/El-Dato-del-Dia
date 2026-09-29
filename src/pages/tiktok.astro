@@ -1,0 +1,53 @@
+---
+// Página del "link en bio": rápida, pensada para móvil y con buscador por número.
+import Base from '../layouts/Base.astro';
+import { getDatos } from '../lib';
+const datos = await getDatos();
+const index = datos.map((d) => ({ id: d.id, n: d.data.numero, t: d.data.title, h: d.data.hook }));
+---
+<Base title="Busca el dato del video" description="¿Viste un dato en TikTok? Escribe su número o una palabra y lee la historia completa.">
+  <section class="container wrap">
+    <p class="eyebrow">Vienes de TikTok 👋</p>
+    <h1>¿Qué dato viste?</h1>
+    <p class="muted">Escribe el número que aparece en el video o una palabra clave.</p>
+    <input id="q" type="search" inputmode="search" placeholder="Ej: 12 o flamencos" autocomplete="off" aria-label="Buscar dato" />
+    <ul id="list" class="list">
+      {index.map((d) => (
+        <li data-n={d.n} data-s={`${d.n} ${d.t} ${d.h}`.toLowerCase()}>
+          <a href={`/datos/${d.id}`}><span class="num">#{d.n}</span><span>{d.t}</span></a>
+        </li>
+      ))}
+    </ul>
+    <p id="empty" class="muted" hidden>No encontramos ese dato todavía. ¡Pronto estará!</p>
+  </section>
+</Base>
+<script>
+  function setup() {
+    const q = document.getElementById('q') as HTMLInputElement | null;
+    if (!q) return;
+    const items = [...document.querySelectorAll<HTMLLIElement>('#list li')];
+    const empty = document.getElementById('empty')!;
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace('#', '').trim();
+    q.addEventListener('input', () => {
+      const v = norm(q.value);
+      let shown = 0;
+      for (const li of items) {
+        const ok = !v || (/^\d+$/.test(v) ? li.dataset.n === v : norm(li.dataset.s!).includes(v));
+        li.hidden = !ok;
+        if (ok) shown++;
+      }
+      empty.hidden = shown > 0;
+    });
+  }
+  document.addEventListener('astro:page-load', setup);
+</script>
+<style>
+  .wrap { max-width: 640px; padding-top: 48px; }
+  h1 { font-size: clamp(36px, 8vw, 52px); margin: 8px 0; }
+  input { width: 100%; margin: 20px 0; padding: 16px 18px; font: 500 18px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+  input:focus { outline: 2px solid var(--accent); border-color: transparent; }
+  .list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  .list a { display: flex; gap: 14px; align-items: baseline; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; font-weight: 500; transition: transform 160ms var(--ease-out); }
+  .list a:active { transform: scale(0.98); }
+  .list .num { color: var(--accent); min-width: 44px; }
+</style>

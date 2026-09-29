@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { getDatos } from '../lib';
+import { SITE, CATEGORIES } from '../config';
+const datos = await getDatos();
+const [hoy, ...resto] = datos;
+---
+<Base jsonLd={[{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: Astro.site?.href }]}>
+  <section class="container hero">
+    <p class="eyebrow">El dato de hoy</p>
+    {hoy && (
+      <a href={`/datos/${hoy.id}`} class="today">
+        <span class="big num">#{hoy.data.numero}</span>
+        <div>
+          <h1>{hoy.data.title}</h1>
+          <p class="lead muted">{hoy.data.description}</p>
+          <span class="btn">Leer la historia completa</span>
+        </div>
+      </a>
+    )}
+  </section>
+
+  <section class="container">
+    <div class="cats">
+      {Object.entries(CATEGORIES).map(([slug, c]) => <a class="badge" href={`/categoria/${slug}`}>{c.emoji} {c.name}</a>)}
+    </div>
+  </section>
+
+  <AdSlot slot="" />
+
+  <section class="container">
+    <h2>Últimos datos</h2>
+    <div class="grid">{resto.map((d) => <Card dato={d} />)}</div>
+  </section>
+</Base>
+<style>
+  .hero { padding: 56px 16px 32px; }
+  .today { display: grid; grid-template-columns: auto 1fr; gap: 32px; align-items: start; text-decoration: none; margin-top: 12px; }
+  .big { font-size: clamp(64px, 12vw, 148px); line-height: .85; color: var(--accent); letter-spacing: -0.04em; }
+  h1 { font-size: clamp(34px, 5.5vw, 60px); margin: 0 0 16px; }
+  .lead { font-size: 19px; max-width: 60ch; margin: 0 0 24px; }
+  .cats { display: flex; flex-wrap: wrap; gap: 8px; }
+  h2 { font-size: 30px; margin: 48px 0 20px; }
+  @media (max-width: 640px) { .today { grid-template-columns: 1fr; gap: 8px; } }
+</style>

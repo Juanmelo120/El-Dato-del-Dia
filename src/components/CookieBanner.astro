@@ -1,0 +1,32 @@
+<div id="cookie-banner" class="cookie" role="dialog" aria-label="Aviso de cookies" hidden transition:persist>
+  <p>Usamos cookies para analizar el tráfico y mostrar anuncios. <a href="/cookies">Más información</a></p>
+  <div class="actions">
+    <button class="ghost" data-choice="denied">Rechazar</button>
+    <button class="btn" data-choice="granted">Aceptar</button>
+  </div>
+</div>
+<script is:inline>
+  (function () {
+    var el = document.getElementById('cookie-banner');
+    var saved = null;
+    try { saved = localStorage.getItem('cookie-consent'); } catch (e) {}
+    if (!saved) el.hidden = false;
+    el.addEventListener('click', function (e) {
+      var choice = e.target.getAttribute && e.target.getAttribute('data-choice');
+      if (!choice) return;
+      try { localStorage.setItem('cookie-consent', choice); } catch (e) {}
+      var v = choice === 'granted' ? 'granted' : 'denied';
+      gtag('consent', 'update', { ad_storage: v, ad_user_data: v, ad_personalization: v, analytics_storage: v });
+      el.hidden = true;
+    });
+  })();
+</script>
+<style>
+  .cookie { position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 50; max-width: 560px; margin: 0 auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 12px 40px rgb(0 0 0 / .12); padding: 16px; display: flex; gap: 16px; align-items: center; font-size: 14px; animation: rise 300ms var(--ease-out); }
+  .cookie[hidden] { display: none; }
+  .cookie p { margin: 0; }
+  .actions { display: flex; gap: 8px; flex-shrink: 0; }
+  .ghost { background: none; border: 1px solid var(--line); color: var(--ink); border-radius: 999px; padding: 12px 16px; font: 500 14px var(--font-body); cursor: pointer; }
+  @keyframes rise { from { opacity: 0; transform: translateY(12px); } }
+  @media (max-width: 520px) { .cookie { flex-direction: column; align-items: stretch; } .actions > * { flex: 1; justify-content: center; } }
+</style>

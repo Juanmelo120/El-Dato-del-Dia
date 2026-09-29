@@ -1,0 +1,11 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../config';
+---
+<Page title="Sobre nosotros" description="Quiénes somos y cómo investigamos cada dato de El Dato del Día.">
+  <p><strong>{SITE.name}</strong> nació en TikTok con una idea sencilla: compartir cada día un dato que te haga decir "¿en serio?".</p>
+  <p>En 60 segundos solo cabe la sorpresa. Aquí contamos la historia completa: de dónde sale el dato, por qué ocurre, qué dicen los científicos e historiadores y qué otras curiosidades lo rodean.</p>
+  <h2>Cómo trabajamos</h2>
+  <p>Cada artículo se basa en fuentes verificables (estudios, enciclopedias, museos, agencias científicas) que citamos al final. Si encuentras un error, escríbenos a <a href={`mailto:${SITE.email}`}>{SITE.email}</a> y lo corregimos.</p>
+  <!-- TODO: añade tu nombre, foto y una breve biografía. Google valora saber quién está detrás del contenido. -->
+</Page>

@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import Card from '../../components/Card.astro';
+import { getDatos } from '../../lib';
+import { CATEGORIES } from '../../config';
+
+export async function getStaticPaths() {
+  const datos = await getDatos();
+  return Object.keys(CATEGORIES).map((cat) => ({
+    params: { cat },
+    props: { datos: datos.filter((d) => d.data.category === cat) },
+  }));
+}
+const { cat } = Astro.params;
+const { datos } = Astro.props;
+const c = CATEGORIES[cat];
+---
+<Base title={`Datos curiosos de ${c.name}`} description={`Los datos curiosos más sorprendentes de ${c.name.toLowerCase()}, explicados a fondo.`}>
+  <section class="container">
+    <p class="eyebrow" style="margin-top:48px">Categoría</p>
+    <h1 style="font-size:clamp(36px,6vw,56px);margin:8px 0 32px">{c.emoji} {c.name}</h1>
+    {datos.length ? <div class="grid">{datos.map((d) => <Card dato={d} />)}</div> : <p class="muted">Muy pronto habrá datos en esta categoría.</p>}
+  </section>
+</Base>

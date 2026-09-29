@@ -1,0 +1,36 @@
+---
+import { SITE, CATEGORIES } from '../config';
+const year = new Date().getFullYear();
+---
+<footer class="footer">
+  <div class="container cols">
+    <div>
+      <p class="brand">{SITE.name}</p>
+      <p class="muted">{SITE.tagline}</p>
+      <a class="btn" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok</a>
+    </div>
+    <div>
+      <p class="h">Categorías</p>
+      {Object.entries(CATEGORIES).map(([slug, c]) => <a href={`/categoria/${slug}`}>{c.name}</a>)}
+    </div>
+    <div>
+      <p class="h">El sitio</p>
+      <a href="/sobre-nosotros">Sobre nosotros</a>
+      <a href="/contacto">Contacto</a>
+      <a href="/privacidad">Política de privacidad</a>
+      <a href="/cookies">Política de cookies</a>
+      <a href="/terminos">Términos y condiciones</a>
+    </div>
+  </div>
+  <p class="container muted copy">© {year} {SITE.name}. Todos los derechos reservados.</p>
+</footer>
+<style>
+  .footer { border-top: 1px solid var(--line); margin-top: 96px; padding: 48px 0 24px; font-size: 15px; }
+  .cols { display: grid; gap: 32px; grid-template-columns: 2fr 1fr 1fr; }
+  .cols a:not(.btn) { display: block; text-decoration: none; color: var(--muted); padding: 4px 0; }
+  .cols a:not(.btn):hover { color: var(--ink); }
+  .brand { font: 700 22px/1 var(--font-display); margin: 0 0 8px; }
+  .h { font-weight: 600; margin: 0 0 8px; }
+  .copy { font-size: 13px; margin-top: 40px; }
+  @media (max-width: 720px) { .cols { grid-template-columns: 1fr 1fr; } .cols > :first-child { grid-column: 1 / -1; } }
+</style>
