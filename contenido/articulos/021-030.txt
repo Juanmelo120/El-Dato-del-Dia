@@ -1,21 +1,3 @@
-=029 geografia
-Hay lugares en la Tierra que parecen de otro planeta: lagos rosas, fuego azul y espejos gigantes.
-10: El **mar Muerto** tiene más de un **30 % de sal**, casi diez veces más que el océano. Su densidad hace que flotes sin esfuerzo.
-9: El **lago Hillier**, en Australia, es rosa por microalgas (*Dunaliella salina*) y bacterias que producen pigmentos. Su color no cambia aunque lo pongas en un vaso.
-8: En **Kawah Ijen** (Indonesia), el gas sulfuroso arde al salir y produce llamas **azules**. El azufre líquido también arde y fluye como "lava azul".
-7: El cráter de **Darvaza** (Turkmenistán) arde desde **1971**. Se dice que geólogos lo prendieron para quemar el gas, pero el origen exacto está poco documentado.
-6: **Papakōlea** (Hawái) tiene arena verde por el **olivino**, un mineral de rocas volcánicas.
-5: Las **Montañas Arcoíris** de Zhangye (China) muestran franjas de colores formadas por capas de arenisca con minerales distintos.
-4: El **Tsingy de Bemaraha**, en Madagascar, es un bosque de agujas de caliza tan afiladas que en malgache significa "donde no se puede caminar descalzo".
-3: **Caño Cristales**, en Colombia, se tiñe de rojo, amarillo, verde, azul y negro entre julio y noviembre por una planta acuática llamada *Macarenia clavigera*.
-2: En la **cueva de los Cristales** de Naica (México) hay cristales de yeso de más de 10 metros. Hace mucho calor: unos 50 °C.
-1: En época de lluvias, una fina capa de agua cubre el **salar de Uyuni** (Bolivia), el mayor del mundo, y refleja el cielo como un espejo.
-? ¿Por qué el lago Hillier es rosa? | Por microalgas y bacterias que producen pigmentos.
-? ¿Qué es la puerta del infierno? | El cráter de gas de Darvaza, en Turkmenistán, que arde desde 1971.
-+ Wikipedia: Lago Hillier | https://es.wikipedia.org/wiki/Lago_Hillier
-+ Wikipedia: Cráter de Darvaza | https://es.wikipedia.org/wiki/Cr%C3%A1ter_de_Darvaza
-+ Wikipedia: Caño Cristales | https://es.wikipedia.org/wiki/Ca%C3%B1o_Cristales
-
 =030 comida
 Los alimentos más comunes tienen historias sorprendentes. Estos son los 10 datos del carrusel.
 10: Una planta de **piña** tarda entre 18 y 24 meses en producir su primer fruto, y normalmente da uno por planta a la vez. La piña es un fruto compuesto: muchas flores fusionadas.
