@@ -1,0 +1,19 @@
+---
+import Base from './Base.astro';
+interface Props { title: string; description?: string; }
+const { title, description } = Astro.props;
+---
+<Base title={title} description={description}>
+  <article class="container page">
+    <h1>{title}</h1>
+    <slot />
+  </article>
+</Base>
+<style>
+  .page { max-width: 720px; padding-top: clamp(40px, 7vw, 80px); font-size: 17px; }
+  h1 { font-size: clamp(34px, 6vw, 48px); margin: 0 0 24px; }
+  .page :global(h2) { font-size: 24px; margin: 36px 0 8px; }
+  .page :global(a) { color: var(--ink); text-decoration-color: var(--marker); text-decoration-thickness: 3px; }
+  .page { color: var(--ink-2); }
+  .page :global(h1), .page :global(h2), .page :global(strong) { color: var(--ink); }
+</style>

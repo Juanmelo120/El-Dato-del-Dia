@@ -1,0 +1,179 @@
+=291 cultura
+Las etiquetas que ignoras cada día dan mucha información. Estas son 10.
+10: Los símbolos de lavado de la ropa siguen un sistema internacional (**GINETEX/ISO 3758**): tina, triángulo, cuadrado, plancha y círculo.
+9: El número dentro del triángulo de reciclaje indica el **tipo de plástico**, del **1** (PET) al **7** (otros).
+8: Las pegatinas de la fruta llevan un código **PLU** de 4 o 5 cifras que identifica la variedad en la caja.
+7: En ese sistema, un código de 5 cifras que empieza por **9** indica que la fruta es **ecológica**.
+6: Las latas llevan grabado en el fondo el **lote** y la **fecha** de fabricación.
+5: Las etiquetas **RFID** tienen una antena diminuta y se leen por **radio**, sin necesidad de verlas.
+4: En la UE, el primer número del código del huevo indica la cría: **0** ecológica, **1** campera, **2** suelo y **3** jaula.
+3: En algunas marcas de pan de EE. UU., el color del cierre de plástico indica el **día** en que se horneó.
+2: Las etiquetas de vino indican la **denominación de origen**, que garantiza la región y el método.
+1: El dibujo de un **bote abierto** con "**12M**" indica que el cosmético dura 12 meses después de abrirlo.
+? ¿Qué significa un 0 en el código del huevo? | Que es de producción ecológica.
+? ¿Qué es el código PLU? | El número de la pegatina de la fruta que identifica la variedad.
++ IFPS: PLU codes | https://www.ifpsglobal.com/PLU-Codes
++ Comisión Europea: Marcado de huevos | https://agriculture.ec.europa.eu/farming/animal-products/eggs_es
++ Wikipedia: Símbolos de lavado | https://es.wikipedia.org/wiki/S%C3%ADmbolos_de_lavado
+
+=292 tecnologia
+Los envases que tiramos cada día tienen historias sorprendentes. Estos son 10 datos.
+10: En **1871**, **Albert Jones** patentó el **cartón ondulado** para proteger botellas de vidrio.
+9: El ingeniero sueco **Sten Gustaf Thulin** diseñó la **bolsa de plástico** en 1959 como alternativa **reutilizable** a las de papel.
+8: El primer **Tetra Pak** (1952) tenía forma de **tetraedro**, de ahí su nombre.
+7: El **huevo Kinder** lleva dentro una cápsula amarilla de plástico que separa el juguete del chocolate.
+6: **Fredric Baur**, que diseñó el tubo de **Pringles**, pidió que parte de sus cenizas se enterraran en uno. Su familia lo cumplió en 2008.
+5: Las bolsas de patatas fritas llevan **nitrógeno**: protege las patatas de golpes y evita que se pongan rancias.
+4: Los **blísters** protegen cada pastilla del aire, la luz y la humedad.
+3: En **1911**, el editor **Joseph Coyle** inventó la **caja de huevos** tras ver una discusión entre un hotelero y un granjero por huevos rotos.
+2: En **1888**, **Marvin Stone** patentó la **pajita de papel**, enrollando tiras de papel en un lápiz.
+1: Las **Ooho** son cápsulas de agua envueltas en una membrana comestible de **algas** que se pueden comer.
+? ¿Por qué las bolsas de patatas tienen aire? | Es nitrógeno: protege y conserva las patatas.
+? ¿Quién pidió ser enterrado en un tubo de Pringles? | Su diseñador, Fredric Baur.
++ Wikipedia: Tetra Pak | https://es.wikipedia.org/wiki/Tetra_Pak
++ Wikipedia: Fredric Baur | https://en.wikipedia.org/wiki/Fredric_J._Baur
++ Wikipedia: Cartón ondulado | https://es.wikipedia.org/wiki/Cart%C3%B3n_ondulado
+
+=293 cultura
+Las botellas guardan historias de vino antiguo, mensajes y diseño. Estas son 10.
+10: El vidrio **verde** o ámbar protege el vino de la **luz**, que puede estropear su sabor.
+9: El vidrio se puede reciclar **infinitas veces** sin perder calidad.
+8: La **botella de Espira** (Alemania), de hace unos **1.650 años**, es la botella de vino más antigua que no se ha abierto.
+7: En 2018, en Australia se encontró un **mensaje en una botella** lanzado desde un barco alemán **132 años** antes.
+6: Una botella de cava o champán soporta unas **6 atmósferas**, unas tres veces la presión de un neumático de coche.
+5: El **fondo hundido** de las botellas de vino les da resistencia y ayuda a recoger los posos.
+4: En **1973**, **Nathaniel Wyeth**, de DuPont, patentó la **botella de PET** para bebidas con gas.
+3: La **botella de Klein** es una superficie matemática sin interior ni exterior. En 3D solo se puede representar atravesándose a sí misma.
+2: Las botellas de **leche de vidrio** se devolvían y reutilizaban. El lechero las recogía en la puerta.
+1: En 1915, se pidió a los diseñadores de la botella **Coca-Cola** que se reconociera **a oscuras** e incluso **rota** en el suelo.
+? ¿Cuál es la botella de vino más antigua sin abrir? | La de Espira, de hace unos 1.650 años.
+? ¿Por qué el vino va en botellas verdes? | El color protege el vino de la luz.
++ Wikipedia: Botella de vino de Espira | https://es.wikipedia.org/wiki/Botella_de_vino_de_Espira
++ Wikipedia: Botella de Klein | https://es.wikipedia.org/wiki/Botella_de_Klein
++ Coca-Cola: History of the contour bottle | https://www.coca-colacompany.com/
+
+=294 tecnologia
+Una lata es una pequeña obra de ingeniería. Estos son 10 datos.
+10: Las primeras anillas se **arrancaban** y ensuciaban las calles. En 1975 llegó la lengüeta que queda unida.
+9: Una lata de refresco de aluminio vacía pesa unos **13 a 15 gramos**.
+8: Por dentro, las latas llevan un **recubrimiento** fino que evita que la bebida toque el metal.
+7: El fondo de las latas es **cóncavo** para aguantar la **presión** del gas.
+6: En 1795, Napoleón ofreció un premio por un método para conservar comida. **Nicolas Appert** lo ganó con **frascos de vidrio** sellados y hervidos.
+5: La pared de una lata mide alrededor de **0,1 mm**, como una hoja de papel.
+4: Las latas de conserva se **esterilizan** con calor después de cerrarlas.
+3: La **tapa** es más gruesa que los lados para aguantar la presión.
+2: En **1962**, **Andy Warhol** expuso ***32 latas de sopa Campbell***, una por cada sabor que vendía la marca.
+1: Una lata de aluminio reciclada puede volver a la tienda como lata nueva en unos **60 días**.
+? ¿Por qué el fondo de la lata es cóncavo? | Para aguantar la presión del gas.
+? ¿Cuánto tarda en reciclarse una lata? | Puede volver a la tienda en unos 60 días.
++ Aluminum Association: Recycling | https://www.aluminum.org/recycling
++ Wikipedia: Nicolas Appert | https://es.wikipedia.org/wiki/Nicolas_Appert
++ MoMA: Campbell's Soup Cans | https://www.moma.org/collection/works/79809
+
+=295 tecnologia
+Tapones y cierres parecen detalles, pero tienen mucho ingenio. Estos son 10 datos.
+10: El **corcho** es la corteza del **alcornoque**. Se retira cada 9 años sin talar el árbol.
+9: El **tapón de rosca** en vinos evita el "**sabor a corcho**" causado por un compuesto llamado TCA.
+8: Desde **julio de 2024**, en la UE los tapones de las botellas de plástico deben quedar **unidos** al envase.
+7: Los **tapones de goma** de laboratorio se usan desde el siglo XIX, tras la vulcanización del caucho.
+6: Las **ollas a presión** tienen **válvulas** que liberan vapor si la presión sube demasiado.
+5: Las bolsas **Ziploc** con cierre de presión llegaron al mercado en **1968**.
+4: Las **tetinas** de biberón tienen agujeros finos para controlar el flujo de leche.
+3: El **sacacorchos** se inspiró en el **sacabalas**, una herramienta para sacar balas atascadas en los mosquetes.
+2: El tapón de champán puede salir a unos **40 km/h** o más.
+1: **William Painter** inventó la **chapa** en **1892**. Tenía 24 pliegues; hoy lo habitual son **21**.
+? ¿Cuántos pliegues tiene una chapa? | Hoy lo habitual son 21.
+? ¿De dónde sale el corcho? | De la corteza del alcornoque.
++ Wikipedia: Chapa (tapón) | https://es.wikipedia.org/wiki/Chapa_(tap%C3%B3n)
++ Directiva (UE) 2019/904 sobre plásticos de un solo uso | https://eur-lex.europa.eu/eli/dir/2019/904/oj
++ Wikipedia: Sacacorchos | https://es.wikipedia.org/wiki/Sacacorchos
+
+=296 ciencia
+Los materiales que te rodean tienen historias sorprendentes. Estos son 10.
+10: El **hormigón** es el material más usado del mundo después del **agua**.
+9: La **arena** es un recurso escaso: la del desierto tiene granos demasiado redondos para hacer hormigón.
+8: La **baquelita** (1907), de **Leo Baekeland**, fue el primer plástico totalmente sintético.
+7: El **caucho natural** viene del látex del árbol ***Hevea brasiliensis***.
+6: El **poliestireno expandido** (porexpán) es aproximadamente un **98 % aire**.
+5: El **PVC** es uno de los plásticos más fabricados. Está en tuberías, ventanas, suelos y cables.
+4: El **linóleo** se hace con **aceite de linaza**, harina de madera y corcho. Es biodegradable.
+3: La **madera** es mucho más resistente a lo largo de la fibra que a lo ancho.
+2: El **nailon** se presentó en 1939 y se hizo famoso con las **medias**, que se agotaron en horas.
+1: El **papel de aluminio** se llama a veces "papel de estaño" porque antes se hacía de estaño. Hoy es de aluminio.
+? ¿Por qué no sirve la arena del desierto? | Sus granos son demasiado redondos para el hormigón.
+? ¿Cuál fue el primer plástico sintético? | La baquelita, en 1907.
++ Wikipedia: Baquelita | https://es.wikipedia.org/wiki/Baquelita
++ UNEP: Sand and sustainability | https://www.unep.org/resources/report/sand-and-sustainability-10-strategic-recommendations-avert-crisis
++ Wikipedia: Poliestireno expandido | https://es.wikipedia.org/wiki/Poliestireno_expandido
+
+=297 ciencia
+El vidrio parece simple, pero es un material fascinante. Estos son 10 datos.
+10: El vidrio se hace sobre todo con **arena de sílice** fundida a unos 1.700 °C, con sosa y cal.
+9: La **obsidiana** es un vidrio natural que se forma cuando la lava se enfría muy rápido.
+8: Los vidrieros de **Murano** (Venecia) guardan técnicas de siglos. En la Edad Media no podían salir de la isla.
+7: Las **lágrimas del príncipe Rupert** aguantan martillazos en la cabeza, pero estallan en polvo si rompes su cola.
+6: El **vidrio del desierto libio** tiene unos **29 millones** de años. Un escarabajo de un pectoral de **Tutankamón** está tallado en él.
+5: Las lentes de gafas eran de **vidrio**. Hoy son casi siempre de plástico, más ligero y seguro.
+4: El **vidrio templado** se rompe en trozos pequeños y romos, lo que es más seguro.
+3: El **borosilicato**, como el Pyrex original, aguanta cambios bruscos de temperatura.
+2: La **fibra óptica** es de vidrio muy puro y transporta información en forma de luz.
+1: El **vidrio antibalas** combina capas de vidrio y **policarbonato** que absorben el impacto.
+? ¿Qué son las lágrimas del príncipe Rupert? | Gotas de vidrio que aguantan golpes pero estallan si rompes la cola.
+? ¿Qué es la obsidiana? | Un vidrio volcánico natural.
++ Wikipedia: Lágrima de Batavia | https://es.wikipedia.org/wiki/L%C3%A1grima_de_Batavia
++ Wikipedia: Vidrio del desierto libio | https://es.wikipedia.org/wiki/Vidrio_del_desierto_libio
++ Corning Museum of Glass | https://www.cmog.org/
+
+=298 cultura
+La cerámica acompaña al ser humano desde hace miles de años. Estos son 10 datos.
+10: En la cueva de **Xianrendong** (China) se hallaron fragmentos de cerámica de unos **20.000 años**.
+9: La **porcelana** se inventó en China. Europa no supo fabricarla hasta 1708, en **Meissen**.
+8: El **kintsugi** japonés repara la cerámica rota con laca y **oro**, mostrando las grietas en lugar de ocultarlas.
+7: Las **tejas árabes** son curvas para canalizar el agua de lluvia.
+6: En Portugal, los **azulejos** decoran fachadas, iglesias y estaciones, y a menudo cuentan historias.
+5: La **talavera** de Puebla y Tlaxcala (México) y la de Talavera de la Reina (España) es Patrimonio Inmaterial de la UNESCO desde 2019.
+4: Los **ladrillos** son cerámica: arcilla moldeada y cocida en un horno.
+3: El **transbordador espacial** llevaba unas **24.000 losetas** cerámicas que lo protegían del calor al volver a la Tierra.
+2: La **cerámica técnica** se usa en frenos, motores y cuchillos muy afilados.
+1: Los **guerreros de terracota** de Xi'an son más de **8.000**, y cada uno tiene un **rostro distinto**.
+? ¿Qué es el kintsugi? | El arte japonés de reparar cerámica con oro.
+? ¿Cuándo aprendió Europa a hacer porcelana? | En 1708, en Meissen.
++ UNESCO: Talavera | https://ich.unesco.org/es/RL/procesos-artesanales-para-la-elaboracion-de-la-talavera-de-puebla-y-tlaxcala-mexico-y-de-la-ceramica-de-talavera-de-la-reina-y-el-puente-del-arzobispo-espana-01462
++ Wikipedia: Kintsugi | https://es.wikipedia.org/wiki/Kintsugi
++ Wikipedia: Guerreros de terracota | https://es.wikipedia.org/wiki/Guerreros_de_terracota
+
+=299 cultura
+El papel es tan común que olvidamos lo curioso que es. Estos son 10 datos.
+10: Según estimaciones clásicas, reciclar una tonelada de papel ahorra unos **17 árboles**.
+9: El **papiro** no es papel: son tiras del tallo de la planta prensadas en capas cruzadas.
+8: El **pergamino** se hace con **piel** de animal, como cabra, oveja o ternera.
+7: El "**papel de arroz**" asiático suele hacerse con otras plantas, como la médula del árbol del papel de arroz.
+6: El papel se puede reciclar unas **5 a 7 veces**, porque sus fibras se acortan cada vez.
+5: El **origami** es el arte japonés de plegar papel sin cortes ni pegamento.
+4: El **washi** japonés, hecho con fibras largas de plantas, puede durar **siglos**. Es Patrimonio Inmaterial de la UNESCO.
+3: En **Sri Lanka** se fabrica papel con **excremento de elefante**, que tiene mucha fibra vegetal.
+2: El **papel térmico** de los tickets se oscurece con el calor, sin tinta.
+1: Se decía que el papel no se podía doblar más de 7 u 8 veces. En **2002**, la estudiante **Britney Gallivan** lo dobló **12 veces**.
+? ¿Cuántas veces se puede doblar un papel? | Britney Gallivan lo dobló 12 veces en 2002.
+? ¿El papiro es papel? | No, son tiras de planta prensadas.
++ Wikipedia: Britney Gallivan | https://en.wikipedia.org/wiki/Britney_Gallivan
++ UNESCO: Washi | https://ich.unesco.org/es/RL/el-washi-artesania-del-papel-tradicional-japones-01001
++ Wikipedia: Papiro | https://es.wikipedia.org/wiki/Papiro
+
+=300 tecnologia
+El cartón es más fuerte y versátil de lo que parece. Estos son 10 datos.
+10: Se han diseñado **drones de cartón**, como el APSARA, para llevar ayuda humanitaria en un solo viaje.
+9: En Europa, más del **80 %** de los envases de papel y cartón se reciclan.
+8: Hay **muebles de cartón** que aguantan el peso de varias personas.
+7: En **Christchurch** (Nueva Zelanda), tras el terremoto de 2011, **Shigeru Ban** construyó una **catedral de cartón**.
+6: El **cartón piedra** se usa en las **Fallas** de Valencia y en carnavales.
+5: En 2007, **Shigeru Ban** construyó un **puente de tubos de cartón** junto al Pont du Gard (Francia).
+4: El israelí **Izhar Gafni** diseñó una **bicicleta de cartón** reciclado.
+3: Los **ataúdes de cartón** son una alternativa ecológica.
+2: Existen **tiendas de campaña de cartón** para festivales, que después se reciclan.
+1: **Shigeru Ban** construye **refugios** con tubos de cartón tras desastres, como el terremoto de Kobe (1995).
+? ¿Existe una catedral de cartón? | Sí, en Christchurch, Nueva Zelanda.
+? ¿Quién es Shigeru Ban? | Un arquitecto japonés famoso por construir con tubos de cartón.
++ Wikipedia: Shigeru Ban | https://es.wikipedia.org/wiki/Shigeru_Ban
++ Wikipedia: Catedral de cartón | https://es.wikipedia.org/wiki/Catedral_de_Cart%C3%B3n
++ Eurostat: Packaging waste statistics | https://ec.europa.eu/eurostat/statistics-explained/index.php/Packaging_waste_statistics

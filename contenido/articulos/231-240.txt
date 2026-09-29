@@ -1,0 +1,179 @@
+=231 cultura
+Las torres son miradores, defensas y récords. Estas son 10 con historias sorprendentes.
+10: Entre 1990 y 2001, los ingenieros retiraron tierra bajo la **Torre de Pisa** y la enderezaron unos **40 cm**, sin dejar de estar inclinada.
+9: La **CN Tower** de Toronto tiene un **suelo de cristal** a **342 metros** de altura que aguanta el peso de varios hipopótamos.
+8: Según el viajero Evliya Çelebi, en el siglo XVII **Hezârfen Ahmet Çelebi** planeó desde la **Torre Gálata** y cruzó el Bósforo. No hay pruebas de que ocurriera.
+7: La **Torre de Londres** tuvo durante siglos una **casa de fieras** con leones y un **oso polar** que pescaba en el Támesis.
+6: En la Edad Media, **Bolonia** tuvo casi **cien torres**: las familias ricas competían por la más alta. Hoy quedan unas 20.
+5: La **Torre de Belém**, de principios del siglo XVI, defendía la entrada de **Lisboa** por el río **Tajo**.
+4: La **Space Needle** de Seattle se construyó en unos **400 días** para la Exposición Universal de **1962**.
+3: La **Torre de Tokio** (1958) mide **333 metros**, algo más que la Torre Eiffel, en la que se inspiró.
+2: La **Torre Azadi** de Teherán (1971) está hecha con unos **8.000 bloques** de piedra con formas distintas.
+1: En verano, el hierro de la **Torre Eiffel** se dilata con el calor y la torre crece hasta unos **15 cm**.
+? ¿Se enderezó la Torre de Pisa? | Sí, unos 40 cm entre 1990 y 2001, aunque sigue inclinada.
+? ¿Por qué crece la Torre Eiffel en verano? | El hierro se dilata con el calor.
++ Wikipedia: Torre de Pisa | https://es.wikipedia.org/wiki/Torre_de_Pisa
++ Torre Eiffel: sitio oficial | https://www.toureiffel.paris/es
++ Wikipedia: Casa de fieras de la Torre de Londres | https://en.wikipedia.org/wiki/Royal_Menagerie
+
+=232 tecnologia
+Para cada invento de éxito hay muchos que fracasaron. Estos son 10 con historias sorprendentes.
+10: Las **Google Glass** despertaron quejas por privacidad y su precio de 1.500 dólares. La versión para el público se retiró en **2015**.
+9: El **Segway** (2001) prometía cambiar las ciudades, pero vendió mucho menos de lo esperado y dejó de fabricarse en **2020**.
+8: En 1985, Coca-Cola cambió su receta con la **New Coke**. Tras miles de quejas, la original volvió **79 días** después.
+7: **Betamax**, de Sony, tenía para muchos mejor imagen, pero perdió ante el **VHS**, que grababa más tiempo y era más barato.
+6: La **Virtual Boy** de Nintendo (1995) mostraba solo rojo y negro y provocaba dolores de cabeza. Vendió unas 770.000 unidades.
+5: Ford lanzó el **Edsel** en 1957 con mucho bombo, y perdió unos **250 millones** de dólares de la época.
+4: En los años 80, **Colgate** vendió comidas congeladas, que hoy se recuerdan en el **Museo del Fracaso**.
+3: El **Apple Newton** (1993) era una PDA con reconocimiento de escritura que fallaba a menudo. Apple lo retiró en 1998.
+2: El **Sinclair C5** (1985) era un triciclo eléctrico que vendió unas **14.000** unidades antes de que la empresa quebrara.
+1: El **Juicero** exprimía bolsas de zumo por unos **400 dólares**. En 2017, un periodista mostró que se exprimían igual con las manos.
+? ¿Cuánto duró la New Coke? | 79 días, antes de volver la receta original.
+? ¿Qué pasó con el Juicero? | Se descubrió que sus bolsas se exprimían igual a mano.
++ Museum of Failure | https://museumoffailure.com/
++ Wikipedia: New Coke | https://es.wikipedia.org/wiki/New_Coke
++ Wikipedia: Virtual Boy | https://es.wikipedia.org/wiki/Virtual_Boy
+
+=233 tecnologia
+Algunos inventos llegaron décadas antes de que el mundo estuviera preparado. Estos son 10.
+10: En los años 1830 ya había **vehículos eléctricos** rudimentarios, décadas antes del coche de gasolina de Benz (1886).
+9: En **1843**, el escocés **Alexander Bain** patentó un sistema de transmisión de imágenes, antecesor del **fax**. El teléfono llegaría en 1876.
+8: **Nikola Tesla** soñaba con transmitir energía e información sin cables. Construyó la **torre Wardenclyffe** para lograrlo, pero no la terminó.
+7: En **1927**, AT&T hizo una demostración de **televisión** con voz entre Washington y Nueva York, en la que habló Herbert Hoover.
+6: París tuvo un **correo neumático** entre 1866 y 1984: las cartas viajaban en tubos por debajo de la ciudad.
+5: El **Turtle** (1775–1776), un submarino de madera para una persona, intentó atacar un barco británico en Nueva York.
+4: Hacia 1495, **Leonardo da Vinci** diseñó un **caballero mecánico** que se sentaba y movía los brazos con poleas.
+3: **Vitruvio** describió un **odómetro** romano: una rueda que dejaba caer una piedra en una caja cada milla.
+2: **Charles Babbage** diseñó en 1837 la **máquina analítica**, un ordenador mecánico programable que nunca llegó a construirse.
+1: En **1900**, **Ferdinand Porsche** presentó el **Lohner-Porsche**, con motores eléctricos en las ruedas. Una versión posterior fue híbrida.
+? ¿Qué inventó Alexander Bain? | Un antecesor del fax, en 1843.
+? ¿Qué fue la máquina analítica? | Un ordenador mecánico diseñado por Babbage en 1837.
++ Wikipedia: Máquina analítica | https://es.wikipedia.org/wiki/M%C3%A1quina_anal%C3%ADtica
++ Wikipedia: Lohner-Porsche | https://es.wikipedia.org/wiki/Lohner-Porsche
++ Wikipedia: Correo neumático | https://es.wikipedia.org/wiki/Correo_neum%C3%A1tico
+
+=234 tecnologia
+Los ingenieros han probado ideas que parecen de ciencia ficción. Estos son 10 prototipos extraños.
+10: El **Amphicar** (1961) era un coche anfibio de serie. Se fabricaron unas 3.800 unidades.
+9: El **Avrocar**, desarrollado en Canadá para EE. UU. en los años 50, era un **platillo volador** que no pasó de un metro de altura.
+8: Se han probado varias **bicicletas voladoras** con hélices o alas, aunque ninguna se ha usado a diario.
+7: El **Dymaxion** (1933) de **Buckminster Fuller** era un coche con forma de gota y **tres ruedas**.
+6: El **Tsar Tank** ruso (1915) tenía dos ruedas delanteras de unos **9 metros**. En las pruebas se quedó atascado en el barro.
+5: En los años 50, EE. UU. hizo volar el **NB-36H** con un reactor nuclear a bordo para probar el blindaje. Nunca propulsó el avión.
+4: Entre 1963 y 1964, **Chrysler** prestó a 203 familias un coche con **motor de turbina** que funcionaba con gasolina, diésel e incluso tequila.
+3: Hubo varios intentos de **helicóptero personal** en forma de mochila, pero eran inestables.
+2: El **Ford Nucleon** (1958) era una maqueta de coche con un **pequeño reactor nuclear** atrás. Nunca se construyó.
+1: El **Taylor Aerocar** (1949) podía volar o circular plegando sus alas como un remolque. Se fabricaron **seis**.
+? ¿Existió un coche volador? | Sí, el Taylor Aerocar: se fabricaron seis.
+? ¿Hubo un coche nuclear? | Solo una maqueta: el Ford Nucleon.
++ Wikipedia: Taylor Aerocar | https://es.wikipedia.org/wiki/Taylor_Aerocar
++ Wikipedia: Tanque Tsar | https://es.wikipedia.org/wiki/Tanque_Tsar
++ Wikipedia: Amphicar | https://es.wikipedia.org/wiki/Amphicar
+
+=235 tecnologia
+Mucho antes de los ordenadores, hubo máquinas que parecían mágicas. Estas son 10.
+10: El **pato de Vaucanson** (1739) parecía comer y digerir, pero los excrementos estaban preparados de antemano.
+9: El **telar de Jacquard** (1804) tejía patrones con **tarjetas perforadas**, que luego inspiraron a Babbage y a los primeros ordenadores.
+8: **Blaise Pascal** creó en **1642** la **pascalina**, una calculadora mecánica que sumaba y restaba, para ayudar a su padre recaudador.
+7: El **Turco** (1770) parecía un autómata que jugaba al ajedrez. En realidad, un maestro ajedrecista se escondía dentro. Jugó contra Napoleón.
+6: La patente de **James Watt** de **1769** añadió un condensador separado que hizo la máquina de vapor mucho más eficiente.
+5: En la Edad Media, los **molinos de agua** movían martillos para golpear hierro, batir tela o hacer papel.
+4: La **prensa de tornillo** se usaba para exprimir **aceitunas y uvas** siglos antes de que Gutenberg la adaptara para imprimir.
+3: El **astrolabio** permitía medir la altura de las estrellas, calcular la hora y orientarse.
+2: **Al-Jazari** describió en 1206 un **reloj del elefante** con autómatas que se movían cada media hora.
+1: **El Escritor**, de **Pierre Jaquet-Droz** (hacia 1770), escribe con pluma un texto de hasta 40 letras. Todavía funciona en Neuchâtel.
+? ¿Era real el Turco ajedrecista? | No: un jugador se escondía dentro.
+? ¿Qué inspiró las tarjetas perforadas? | El telar de Jacquard.
++ Wikipedia: El Turco | https://es.wikipedia.org/wiki/El_Turco
++ Wikipedia: Autómatas de Jaquet-Droz | https://es.wikipedia.org/wiki/Aut%C3%B3matas_de_Jaquet-Droz
++ Wikipedia: Telar de Jacquard | https://es.wikipedia.org/wiki/Telar_de_Jacquard
+
+=236 historia
+Las herramientas antiguas muestran cuánto ingenio había sin motores. Estos son 10 datos.
+10: Los romanos subían bloques con **grúas de rueda**: una rueda enorme dentro de la que caminaban personas, como un hámster.
+9: Una pintura egipcia muestra a un hombre echando **agua delante de un trineo**. En 2014, físicos demostraron que la arena mojada reduce el rozamiento a la mitad.
+8: Los **percutores de piedra**, antecesores del martillo, están entre las herramientas más antiguas.
+7: Las **tijeras de esquilar** con muelle se usaban ya en la **Edad del Hierro**.
+6: Los **clavos romanos** de hierro forjado eran valiosos. En el fuerte escocés de Inchtuthil se enterraron casi **900.000** para que no los usara el enemigo.
+5: Algunos investigadores creen que los vikingos usaban "**piedras solares**" como la calcita para localizar el sol con cielo nublado. Es una hipótesis.
+4: En Egipto se usaban **sierras de cobre** con arena como abrasivo para cortar piedra.
+3: Las primeras **brújulas** chinas y europeas eran agujas magnetizadas que flotaban en agua sobre un trocito de corcho o madera.
+2: Los **inuit** tallaban **marfil** y hueso para hacer arpones, agujas y gafas de nieve.
+1: En **Lomekwi** (Kenia) se hallaron herramientas de piedra de **3,3 millones** de años, anteriores a nuestro género *Homo*.
+? ¿Cuáles son las herramientas más antiguas? | Las de Lomekwi, Kenia: 3,3 millones de años.
+? ¿Por qué los egipcios mojaban la arena? | Reduce el rozamiento del trineo a la mitad.
++ Harmand et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3. Nature | https://doi.org/10.1038/nature14464
++ Fall et al. (2014). Sliding Friction on Wet and Dry Sand. Physical Review Letters | https://doi.org/10.1103/PhysRevLett.112.175502
++ Wikipedia: Piedra solar | https://es.wikipedia.org/wiki/Piedra_solar
+
+=237 cultura
+Los objetos de casa esconden detalles que nadie nos explicó. Estos son 10.
+10: Muchas tapas de **bolígrafo** tienen un **agujero** para que pase el aire si un niño se la traga.
+9: El **bolsillo pequeño** de los vaqueros se añadió para guardar el **reloj de bolsillo**.
+8: La punta de plástico de los cordones se llama **herrete** y evita que se deshilachen.
+7: Algunos cepillos tienen **cerdas indicadoras** que pierden el color con el uso y avisan de cuándo cambiarlo.
+6: Las **tijeras para zurdos** tienen las hojas invertidas, para que el zurdo vea la línea de corte.
+5: Según la historia, en **1903** **Albert Parkhouse** dobló un alambre para colgar su abrigo porque no había ganchos: nació la **percha**.
+4: La camisa de mujer suele abrocharse a la izquierda. Una teoría dice que las criadas vestían a las damas; no hay una explicación definitiva.
+3: Las **cucharas de madera** son de los utensilios de cocina más antiguos.
+2: En el antiguo **Egipto** y en **China** se usaban **reposacabezas** de piedra, madera o cerámica.
+1: El **agujero del mango** de las ollas sirve para colgarlas, y a menudo también para **apoyar la cuchara**.
+? ¿Por qué las tapas de bolígrafo tienen un agujero? | Para que pase el aire si alguien la traga.
+? ¿Para qué es el bolsillo pequeño de los vaqueros? | Para el reloj de bolsillo.
++ Wikipedia: Herrete | https://es.wikipedia.org/wiki/Herrete
++ Levi Strauss & Co.: The watch pocket | https://www.levistrauss.com/
++ Wikipedia: Percha | https://es.wikipedia.org/wiki/Percha
+
+=238 tecnologia
+Los electrodomésticos de tu casa tienen historias muy antiguas. Estas son 10.
+10: En **1913**, la **DOMELRE** de Chicago fue la primera nevera eléctrica doméstica que se comercializó. Costaba casi lo mismo que un coche.
+9: En **1908**, la **Thor** fue una de las primeras lavadoras eléctricas vendidas. Tenía rodillos para escurrir la ropa.
+8: **Charles Strite** patentó en **1919** la tostadora que **expulsa** el pan sola.
+7: En **1926**, la empresa Eldec lanzó la primera **plancha de vapor** eléctrica. Antes se rociaba la ropa con agua.
+6: Los **hornos eléctricos** se popularizaron en los años 30, cuando la electricidad llegó a más hogares.
+5: **Mr. Coffee** (1972) llevó la cafetera eléctrica de goteo a los hogares estadounidenses.
+4: Las primeras **batidoras eléctricas** comerciales aparecieron a principios del siglo XX para bares y panaderías.
+3: Los primeros **secadores de pelo** (1920) eran pesados y lentos, y en los salones se usaban grandes secadores de casco.
+2: En **1967**, el **Amana Radarange** fue el primer microondas de cocina popular. Costaba unos **495 dólares**, una fortuna para la época.
+1: En **1901**, **Hubert Cecil Booth** creó una aspiradora motorizada en un carro tirado por **caballos**. Se aparcaba fuera de la casa y metía el tubo por la ventana.
+? ¿Cómo era la primera aspiradora? | Un carro tirado por caballos con una manguera que entraba por la ventana.
+? ¿Quién inventó la tostadora que expulsa el pan? | Charles Strite, en 1919.
++ Wikipedia: Aspiradora | https://es.wikipedia.org/wiki/Aspiradora
++ Wikipedia: Tostadora | https://es.wikipedia.org/wiki/Tostadora
++ Wikipedia: Frigorífico | https://es.wikipedia.org/wiki/Frigor%C3%ADfico
+
+=239 cultura
+Los niños llevan milenios jugando. Estos son 10 datos de juguetes antiguos.
+10: Un vaso griego de hacia el **500 a. C.** muestra a un joven jugando con un **yoyó**.
+9: **Lego** viene del danés ***leg godt***, "juega bien". La empresa nació en 1932 haciendo juguetes de madera.
+8: El **osito de peluche** se llama *teddy bear* por el presidente **Theodore "Teddy" Roosevelt**, que en 1902 se negó a disparar a un oso atado.
+7: Se han encontrado **canicas** en tumbas de Egipto y en yacimientos de hace miles de años.
+6: **Ernő Rubik** inventó su cubo en **1974** para explicar a sus alumnos cómo mover piezas en el espacio.
+5: El nombre completo de **Barbie** es **Barbara Millicent Roberts**. Se lanzó en **1959**.
+4: El **monopatín** nació en California en los años 50, cuando unos surfistas pusieron ruedas de patín bajo tablas de madera.
+3: La primera **matrioska** se talló en Rusia en **1890**, inspirada en muñecas japonesas.
+2: Los **soldaditos de plomo** se popularizaron en Europa en el siglo XVIII.
+1: Las **pelotas** se usan en juegos desde hace unos **5.000 años**, y algunas de las muñecas más antiguas conocidas son egipcias.
+? ¿Qué significa Lego? | Viene del danés "leg godt", "juega bien".
+? ¿Por qué se llama teddy bear el osito? | Por el presidente Theodore "Teddy" Roosevelt.
++ Wikipedia: Yoyó | https://es.wikipedia.org/wiki/Yoy%C3%B3
++ Wikipedia: Oso de peluche | https://es.wikipedia.org/wiki/Oso_de_peluche
++ Wikipedia: Matrioska | https://es.wikipedia.org/wiki/Matrioska
+
+=240 cultura
+Algunos juguetes marcaron a generaciones enteras. Estos son 10.
+10: El **Tamagotchi** (1996) vendió millones de unidades en su primer año. Si no la cuidabas, la mascota virtual "moría".
+9: Una **Game Boy** quemada en un bombardeo de la **Guerra del Golfo** siguió funcionando y se exhibió en la tienda de Nintendo en Nueva York.
+8: Mattel afirma haber fabricado más **Hot Wheels** (más de 8.000 millones) que coches reales se han hecho.
+7: El **Monopoly** viene de ***The Landlord's Game*** (1904), de **Elizabeth Magie**, que quería mostrar los abusos de los terratenientes.
+6: El arquitecto en paro **Alfred Butts** creó el **Scrabble** durante la **Gran Depresión**.
+5: **Mr. Potato** fue el primer juguete anunciado en televisión en EE. UU. (1952). Al principio solo traía las piezas: la patata la ponías tú.
+4: En 1983, **Chris Wiggs** creó **Polly Pocket** para su hija dentro de una **polvera**.
+3: Los **Transformers** (1984) unieron dos líneas japonesas de **Takara**: Diaclone y Micro Change.
+2: En 1966, el **Twister** fue criticado como "sexo en caja". Se hizo famoso cuando Johnny Carson lo jugó en televisión.
+1: Los **Beanie Babies** desataron una fiebre de coleccionismo en los 90. Algunos se revendían por miles de dólares, y luego muchos perdieron su valor.
+? ¿Quién inventó el Monopoly? | Su origen es The Landlord's Game, de Elizabeth Magie.
+? ¿Qué hacía especial a Mr. Potato? | Fue el primer juguete anunciado en televisión.
++ Wikipedia: The Landlord's Game | https://es.wikipedia.org/wiki/The_Landlord%27s_Game
++ Wikipedia: Tamagotchi | https://es.wikipedia.org/wiki/Tamagotchi
++ Wikipedia: Mr. Potato Head | https://es.wikipedia.org/wiki/Mr._Potato_Head

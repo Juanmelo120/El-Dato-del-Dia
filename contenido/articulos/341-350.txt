@@ -1,0 +1,179 @@
+=341 mente
+El cerebro calcula el tamaño comparando, y por eso se equivoca. Estas son 10 ilusiones de tamaño.
+10: En la **ilusión de Ebbinghaus**, un círculo rodeado de círculos grandes parece más pequeño que uno igual rodeado de pequeños.
+9: En la **ilusión de Ponzo**, dos líneas convergentes, como unas vías, hacen que un objeto parezca más grande cuanto más "lejos" está.
+8: Se dice que las **rayas horizontales** ensanchan, pero un estudio de 2008 encontró que pueden hacer parecer más delgado.
+7: En un **plato grande**, la misma ración parece más pequeña: es el **efecto Delboeuf**.
+6: Un **vaso alto y estrecho** parece contener más que uno bajo y ancho con el mismo volumen.
+5: Un avión a unos **10 km** de altura parece ir lento, aunque vuela a unos 900 km/h.
+4: Como esperamos que un coche tenga cierto tamaño, un **coche de juguete** en una foto puede parecer uno real y lejano.
+3: Fotografiar a alguien desde **abajo** lo hace parecer más alto.
+2: Los **espejos** hacen que una habitación parezca el doble de grande.
+1: En ***El Señor de los Anillos***, Peter Jackson usó **perspectiva forzada**: los hobbits se colocaban más lejos de la cámara que Gandalf.
+? ¿Qué es el efecto Delboeuf? | La misma ración parece más pequeña en un plato grande.
+? ¿Cómo hicieron pequeños a los hobbits? | Con perspectiva forzada, colocándolos más lejos de la cámara.
++ Wikipedia: Ilusión de Ebbinghaus | https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_Ebbinghaus
++ Wikipedia: Ilusión de Ponzo | https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_Ponzo
++ Wikipedia: Perspectiva forzada | https://es.wikipedia.org/wiki/Perspectiva_forzada
+
+=342 mente
+La atención es limitada, y es fácil engañarla. Estos son 10 datos.
+10: La memoria de trabajo solo mantiene unos **4 elementos** a la vez, según estudios recientes.
+9: Un estudio de 2017 encontró que tener el **móvil sobre la mesa**, aunque esté apagado, reduce el rendimiento en tareas mentales.
+8: El **efecto cóctel** hace que oigas tu **nombre** en medio de una fiesta ruidosa.
+7: Se suele decir que la atención cae a los **20 minutos**, aunque los expertos discuten ese número: depende mucho de la tarea.
+6: Los colores **llamativos**, como el rojo y el amarillo, atraen la mirada antes que otros.
+5: Las **caras** captan la atención antes que los objetos, incluso en bebés recién nacidos.
+4: Cuando te concentras, **parpadeas menos**, por eso los ojos se secan frente a la pantalla.
+3: Los anuncios usan **movimiento** porque el cerebro reacciona automáticamente a él.
+2: Un ruido inesperado hace girar la cabeza: es el **reflejo de orientación**.
+1: En el experimento del **gorila invisible** (1999), la mitad de las personas no vio a un gorila cruzar la escena mientras contaban pases de balón.
+? ¿Qué es el efecto cóctel? | Oír tu nombre en medio del ruido.
+? ¿Qué demostró el gorila invisible? | Que no vemos lo que no esperamos si estamos concentrados.
++ Simons y Chabris (1999). Gorillas in our midst | https://doi.org/10.1068/p281059
++ Wikipedia: Efecto cóctel | https://es.wikipedia.org/wiki/Efecto_c%C3%B3ctel
++ Ward et al. (2017). Brain Drain. JACR | https://doi.org/10.1086/691462
+
+=343 mente
+La memoria no es una grabadora: tiene trucos y límites. Estos son 10 datos.
+10: En 1956, **George Miller** propuso que la memoria a corto plazo guarda unos **7 ± 2** elementos.
+9: **Ebbinghaus** descubrió la **curva del olvido**: olvidamos mucho en las primeras horas y luego más despacio.
+8: **Agrupar** información ayuda a recordarla. Por eso los números de teléfono se dicen por bloques.
+7: Las personas con **hipertimesia** recuerdan con detalle casi cada día de su vida.
+6: Lo que nos **emociona** se recuerda mejor, porque la **amígdala** refuerza el recuerdo.
+5: Varios estudios sugieren que tomar notas **a mano** ayuda a recordar más que teclear.
+4: El **palacio de la memoria** consiste en colocar lo que quieres recordar en lugares imaginarios de un edificio conocido.
+3: Si sabemos que algo está en internet, tendemos a recordar dónde buscarlo más que el dato: es el **efecto Google**.
+2: Los **taxistas de Londres** memorizan unas 25.000 calles y tienen el **hipocampo** posterior más grande de lo normal.
+1: El récord Guinness de memorizar **decimales de pi** supera los **70.000** dígitos.
+? ¿Qué es la hipertimesia? | Recordar con detalle casi cada día de la vida.
+? ¿Qué es el efecto Google? | Recordar dónde buscar algo más que el dato en sí.
++ Maguire et al. (2000). Navigation-related structural change in the hippocampi of taxi drivers. PNAS | https://doi.org/10.1073/pnas.070039597
++ Wikipedia: Curva del olvido | https://es.wikipedia.org/wiki/Curva_del_olvido
++ Wikipedia: Hipertimesia | https://es.wikipedia.org/wiki/Hipertimesia
+
+=344 mente
+El cerebro rellena huecos y a veces se equivoca. Estos son 10 datos.
+10: Tu **nariz** está siempre en tu campo de visión, pero el cerebro la ignora.
+9: Puedes leer frases con las letras de las palabras desordenadas si la primera y la última están en su sitio, sobre todo en palabras cortas.
+8: Con la **ceguera al cambio**, no notamos grandes cambios en una escena si hay una breve interrupción.
+7: Es fácil "oír" voces en el **ruido blanco**: el cerebro busca patrones aunque no los haya.
+6: En el **efecto McGurk**, ver unos labios decir "ga" mientras suena "ba" hace que oigas "da".
+5: La sensación de que **alguien te mira** por la espalda no se confirma en los estudios controlados.
+4: En la **ilusión de la mano de goma**, si acarician a la vez tu mano oculta y una falsa, sientes la falsa como tuya.
+3: Muchas personas no notan una palabra repetida como "el el" en un texto: el cerebro lee lo que espera.
+2: El tiempo parece ir más rápido con la **edad**, en parte porque vivimos menos experiencias nuevas.
+1: Muchas personas amputadas sienten su miembro ausente: es el **miembro fantasma**. Se trata con terapia de espejo.
+? ¿Qué es el efecto McGurk? | Lo que ves en los labios cambia el sonido que oyes.
+? ¿Qué es el miembro fantasma? | Sentir un miembro amputado.
++ Wikipedia: Efecto McGurk | https://es.wikipedia.org/wiki/Efecto_McGurk
++ Wikipedia: Ilusión de la mano de goma | https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_la_mano_de_goma
++ Wikipedia: Miembro fantasma | https://es.wikipedia.org/wiki/Miembro_fantasma
+
+=345 mente
+Dormir es un misterio con descubrimientos sorprendentes. Estos son 10 datos.
+10: Las **sacudidas** al quedarte dormido se llaman **mioclonías hípnicas**. Son normales.
+9: **Mendeléiev** contó que vio en sueños cómo ordenar los elementos de la **tabla periódica**, en 1869.
+8: **August Kekulé** dijo que soñó con una **serpiente que se mordía la cola** y así imaginó el anillo del **benceno**.
+7: Al dormir, las **ratas** "repiten" los laberintos que recorrieron: sus neuronas del hipocampo se activan en el mismo orden.
+6: Los recién nacidos pasan alrededor de la **mitad** de su sueño en fase **REM**; los adultos, un **20-25 %**.
+5: Soñar que **se caen los dientes** es uno de los sueños más comunes en muchas culturas.
+4: Un estudio de 2008 encontró que quienes crecieron con **televisión en blanco y negro** dicen soñar más en blanco y negro.
+3: El **sonambulismo** es más frecuente en niños y suele desaparecer con la edad.
+2: Los **perros** mueven las patas y gimen dormidos, y parecen soñar como nosotros.
+1: **Otto Loewi** soñó con un experimento para demostrar la transmisión química entre nervios, lo hizo esa misma noche y ganó el **Nobel de Medicina** en 1936.
+? ¿Qué son las sacudidas al dormirse? | Mioclonías hípnicas, algo normal.
+? ¿Quién ganó el Nobel gracias a un sueño? | Otto Loewi, en 1936.
++ Wikipedia: Otto Loewi | https://es.wikipedia.org/wiki/Otto_Loewi
++ Wikipedia: Sacudida hípnica | https://es.wikipedia.org/wiki/Mioclon%C3%ADa_h%C3%ADpnica
++ Murzyn (2008). Do we only dream in colour? Consciousness and Cognition | https://doi.org/10.1016/j.concog.2008.09.002
+
+=346 mente
+Gran parte de lo que hacemos es automático. Estos son 10 datos sobre hábitos.
+10: Un estudio de 2016 contó que la gente toca su **móvil** unas **2.600 veces** al día de media.
+9: Según investigaciones de **Wendy Wood**, cerca del **43 %** de lo que hacemos cada día es por hábito.
+8: Morderse las uñas se llama **onicofagia** y es muy común en niños y adolescentes.
+7: Casi todo el mundo **cruza los brazos** siempre de la misma forma. Al hacerlo al revés se siente raro.
+6: Tendemos a sentarnos siempre en el **mismo sitio**, en clase, en el trabajo o en la mesa.
+5: Muchas personas se despiertan poco **antes de la alarma**: el cuerpo aprende el horario.
+4: El médico **Donald Unger** se crujió los nudillos de **una sola mano** durante 60 años y no vio artritis en ninguna. Ganó un Ig Nobel.
+3: **Hablar solo** puede ayudar a concentrarse y a encontrar cosas, según algunos estudios.
+2: Un estudio observó que las personas se tocan la **cara** unas **23 veces por hora**.
+1: Un estudio de 2009 halló que crear un hábito tarda de media **66 días**, no 21, aunque varía mucho según la persona.
+? ¿Cuánto tarda en formarse un hábito? | De media 66 días, según un estudio de 2009.
+? ¿Crujirse los nudillos causa artritis? | No hay pruebas de que lo haga.
++ Lally et al. (2009). How are habits formed. Eur. J. Soc. Psychol. | https://doi.org/10.1002/ejsp.674
++ Improbable Research: Ig Nobel 2009 | https://improbable.com/ig/
++ Wikipedia: Onicofagia | https://es.wikipedia.org/wiki/Onicofagia
+
+=347 mente
+Nos comportamos distinto en grupo. Estos son 10 datos.
+10: La **distancia personal** cambia según la cultura: en unos países se habla mucho más cerca que en otros.
+9: Imitamos sin querer los gestos de quien nos cae bien: es el **efecto camaleón**.
+8: En los experimentos de **Tajfel**, las personas formaban grupos por criterios absurdos, como preferir un pintor, y favorecían a su grupo.
+7: En el **experimento de Asch** (años 50), muchas personas daban una respuesta claramente falsa para coincidir con el grupo.
+6: El antropólogo **Robin Dunbar** propuso que mantenemos unas **150** relaciones estables.
+5: La gente **camina más rápido** en las ciudades grandes, según estudios que midieron el paso en decenas de países.
+4: Tendemos a **devolver favores**: es la **reciprocidad**.
+3: Nos fiamos más de alguien con **uniforme**, por la sensación de autoridad.
+2: Las **filas** tienen reglas no escritas. Colarse genera mucho enfado incluso si el retraso es pequeño.
+1: Cuanta **más gente** presencia una emergencia, menos probable es que alguien ayude: es el **efecto espectador**.
+? ¿Qué es el número de Dunbar? | Unas 150 relaciones estables.
+? ¿Qué es el efecto espectador? | Cuanta más gente mira, menos ayuda cada uno.
++ Wikipedia: Experimento de Asch | https://es.wikipedia.org/wiki/Experimento_de_Asch
++ Wikipedia: Número de Dunbar | https://es.wikipedia.org/wiki/N%C3%BAmero_de_Dunbar
++ Wikipedia: Efecto espectador | https://es.wikipedia.org/wiki/Efecto_espectador
+
+=348 mente
+El cuerpo comunica aunque no hables, pero hay que interpretarlo con cuidado. Estos son 10 datos.
+10: **Cruzar los brazos** no siempre es defensa: a veces es comodidad o frío.
+9: Algunos expertos dicen que los **pies** tienden a apuntar hacia lo que nos interesa, aunque no es una regla fija.
+8: Las **pupilas** se dilatan de forma involuntaria ante algo que nos interesa o nos gusta.
+7: En una sonrisa **sincera**, la de **Duchenne**, se arrugan los ojos. En una forzada, solo se mueve la boca.
+6: Al saludar a alguien conocido, alzamos las **cejas** una fracción de segundo: el "**flash de cejas**".
+5: Tocarse el **cuello** puede indicar nervios o incomodidad, aunque depende del contexto.
+4: Una **postura** recta hace que los demás te perciban con más seguridad.
+3: El **contacto visual** varía por cultura: en Japón se mantiene menos que en España.
+2: Los **gestos** al hablar ayudan también a quien habla a pensar y encontrar palabras.
+1: Las personas **ciegas de nacimiento** hacen las mismas expresiones de alegría o miedo, lo que sugiere que son universales.
+? ¿Qué es la sonrisa de Duchenne? | Una sonrisa sincera que arruga los ojos.
+? ¿Son universales las expresiones? | Las básicas parecen serlo: las hacen incluso personas ciegas de nacimiento.
++ Wikipedia: Sonrisa de Duchenne | https://es.wikipedia.org/wiki/Sonrisa_de_Duchenne
++ Matsumoto y Willingham (2009). Spontaneous facial expressions of emotion of congenitally blind individuals. JPSP | https://doi.org/10.1037/a0014037
++ Wikipedia: Lenguaje corporal | https://es.wikipedia.org/wiki/Lenguaje_corporal
+
+=349 cultura
+Un gesto puede significar cosas opuestas según el país. Estos son 10.
+10: El **pulgar arriba** es ofensivo en algunas zonas de **Oriente Medio** y África occidental.
+9: En **Brasil**, el gesto de "OK" con los dedos se considera un **insulto**.
+8: En **Bulgaria**, mover la cabeza arriba y abajo significa "**no**", y de lado a lado, "**sí**".
+7: Se cree que mostrar la **mano abierta** al saludar servía para enseñar que no llevabas armas.
+6: El número de **besos** al saludar varía: uno, dos, tres o ninguno según el país y la región.
+5: En Japón, la **reverencia** se inclina más cuanto más respeto se quiere mostrar.
+4: El **choque de cinco** (*high five*) se popularizó a finales de los años 70 en el béisbol estadounidense.
+3: **Cruzar los dedos** para la suerte se relaciona con la cruz cristiana.
+2: El gesto de "**llámame**" con el pulgar y el meñique imita un teléfono. Para muchos jóvenes ya no se parece a nada.
+1: En la **India**, mover la cabeza de lado a lado puede significar "**sí**" o "de acuerdo", algo que confunde a muchos visitantes.
+? ¿Qué significa asentir en Bulgaria? | "No".
+? ¿Cuándo nació el choque de cinco? | Se popularizó a finales de los 70.
++ Wikipedia: Choca esos cinco | https://es.wikipedia.org/wiki/Choca_esos_cinco
++ Wikipedia: Gesto | https://es.wikipedia.org/wiki/Gesto
++ Wikipedia: Movimiento de cabeza indio | https://en.wikipedia.org/wiki/Head_bobble
+
+=350 mente
+La risa es más social que graciosa. Estos son 10 datos.
+10: El psicólogo **Robert Provine** observó que reímos unas **30 veces** más en compañía que a solas.
+9: Las **ratas** "ríen" en **ultrasonido** (unos 50 kHz) cuando les hacen cosquillas.
+8: Los **simios** también ríen: jadean con la boca abierta mientras juegan.
+7: La risa es **contagiosa**. Por eso las series usan **risas enlatadas**.
+6: Reír libera **endorfinas** y puede aumentar la tolerancia al dolor.
+5: Provine vio que la mayoría de risas no siguen a un chiste, sino a frases normales de conversación.
+4: Los **bebés** empiezan a reír hacia los **3 o 4 meses**, mucho antes de hablar.
+3: En **1922**, el ***OKeh Laughing Record***, un disco de gente riéndose, fue un éxito de ventas.
+2: El **yoga de la risa**, creado en la India en 1995, consiste en reír a propósito en grupo.
+1: En **1962**, una **epidemia de risa** empezó en una escuela de **Tanganica** (hoy Tanzania). Duró meses y cerró varias escuelas.
+? ¿Cuánto más reímos en compañía? | Unas 30 veces más.
+? ¿Hubo una epidemia de risa? | Sí, en Tanganica en 1962.
++ Wikipedia: Epidemia de risa de Tanganica | https://es.wikipedia.org/wiki/Epidemia_de_risa_de_Tanganica
++ Panksepp y Burgdorf (2003). "Laughing" rats and the evolutionary antecedents of human joy? | https://doi.org/10.1016/S0031-9384(03)00159-8
++ Wikipedia: Risa | https://es.wikipedia.org/wiki/Risa

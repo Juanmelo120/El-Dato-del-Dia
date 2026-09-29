@@ -1,0 +1,179 @@
+=331 ciencia
+El sonido rebota y crea efectos sorprendentes. Estos son 10 datos de eco y acústica.
+10: **Vitruvio** describió vasijas de bronce colocadas bajo las gradas de los teatros para **resonar** y reforzar la voz de los actores.
+9: Un **aplauso** frente a la pirámide de **Kukulcán** (Chichén Itzá) devuelve un eco que recuerda el canto del **quetzal**.
+8: Los **murciélagos** emiten sonidos agudos y escuchan el **eco** para "ver" en la oscuridad: es la **ecolocalización**.
+7: En la **galería de los susurros** de la catedral de **San Pablo** (Londres), un susurro junto a la pared se oye al otro lado de la cúpula.
+6: El **teatro de Epidauro** (Grecia) tiene una acústica tan buena que se oye una moneda caer desde las últimas filas.
+5: Se decía que el **graznido de un pato no tiene eco**. Un estudio de 2003 demostró que sí lo tiene.
+4: Los estudios de grabación usan **espuma** y paneles que absorben el sonido y evitan el eco.
+3: En los **cañones** y valles, el eco puede rebotar en varias paredes y repetirse.
+2: Las **ecografías** usan **ultrasonidos** que rebotan dentro del cuerpo para formar una imagen.
+1: En **Inchindown** (Escocia), un antiguo depósito de combustible, el eco de un disparo duró unos **112 segundos**: récord de reverberación.
+? ¿Dónde está el eco más largo del mundo? | En Inchindown, Escocia: unos 112 segundos.
+? ¿Tiene eco el graznido de un pato? | Sí, es un mito que no.
++ Wikipedia: Inchindown | https://en.wikipedia.org/wiki/Inchindown_oil_tanks
++ Wikipedia: Galería de los susurros | https://es.wikipedia.org/wiki/Galer%C3%ADa_de_los_susurros
++ Wikipedia: Ecolocalización | https://es.wikipedia.org/wiki/Ecolocalizaci%C3%B3n
+
+=332 ciencia
+La electricidad estática aparece en tu pelo, tu ropa y las nubes. Estos son 10 datos.
+10: Al caminar sobre moqueta acumulas carga, y al tocar un pomo de metal se descarga con un **calambre**.
+9: Al frotar un **globo** con el pelo, se carga y se pega a la pared o al pelo.
+8: El pelo se **eriza** con estática porque cada pelo tiene la misma carga y se **repelen**.
+7: En las gasolineras se recomienda tocar metal antes de repostar para evitar **chispas** de estática.
+6: Los camiones de combustible usan cables o cadenas a **tierra** para descargar la estática.
+5: La estática es peor en **invierno**, porque el aire seco no deja que la carga se disipe.
+4: Las **fotocopiadoras** e impresoras láser usan la estática para pegar el **tóner** al papel.
+3: Una descarga de estática puede **dañar** componentes de un ordenador. Por eso se usan pulseras antiestáticas.
+2: Los **rayos** son una descarga de estática gigante entre nubes o entre la nube y el suelo.
+1: En 2008 se demostró que al despegar **cinta adhesiva** en el **vacío** se emiten **rayos X**, suficientes para hacer una radiografía de un dedo.
+? ¿Por qué hay más estática en invierno? | Porque el aire es más seco.
+? ¿Puede la cinta adhesiva emitir rayos X? | Sí, al despegarla en el vacío.
++ Camara et al. (2008). Correlation between nanosecond X-ray flashes and stick–slip friction in peeling tape. Nature | https://doi.org/10.1038/nature07378
++ Wikipedia: Electricidad estática | https://es.wikipedia.org/wiki/Electricidad_est%C3%A1tica
++ Wikipedia: Triboluminiscencia | https://es.wikipedia.org/wiki/Triboluminiscencia
+
+=333 ciencia
+El magnetismo trabaja a tu alrededor sin que lo veas. Estos son 10 ejemplos.
+10: Tu **móvil** tiene un **magnetómetro** diminuto que funciona como brújula.
+9: Muchas **tarjetas de hotel** con banda magnética se pueden desmagnetizar con un imán fuerte.
+8: En una **cocina de inducción**, un campo magnético calienta directamente la **olla**. La placa se calienta poco.
+7: Los **detectores de metales** crean un campo magnético que induce corrientes en los objetos metálicos.
+6: Las **tortugas marinas** usan el campo magnético terrestre para volver a la playa donde nacieron.
+5: Los **cargadores inalámbricos** transmiten energía por **inducción** magnética.
+4: El campo magnético de la Tierra es de unos 50 microteslas: unas **100 veces** más débil que un imán de nevera.
+3: Las **auroras** siguen las líneas del campo magnético, por eso aparecen cerca de los polos.
+2: Muchos **trenes de juguete** de madera se enganchan con pequeños imanes.
+1: El **polo norte magnético** se desplaza hacia **Siberia**. En algunos años llegó a moverse unos **50 km**.
+? ¿Cómo calienta una cocina de inducción? | Con un campo magnético que calienta la olla directamente.
+? ¿Se mueve el polo norte magnético? | Sí, se desplaza hacia Siberia.
++ NOAA: World Magnetic Model | https://www.ncei.noaa.gov/products/world-magnetic-model
++ Wikipedia: Cocina de inducción | https://es.wikipedia.org/wiki/Cocina_de_inducci%C3%B3n
++ Wikipedia: Magnetómetro | https://es.wikipedia.org/wiki/Magnet%C3%B3metro
+
+=334 ciencia
+La óptica está en tu cocina, tu coche y tu ventana. Estos son 10 ejemplos.
+10: Una **cuchara** te muestra **al revés** por el lado cóncavo y al derecho por el convexo.
+9: Un **lápiz** parece roto en un vaso de agua por la **refracción**: la luz cambia de dirección al pasar del agua al aire.
+8: Las **gotas** de agua actúan como pequeñas **lupas**.
+7: Los **ojos de gato** de las carreteras son **retrorreflectores**: devuelven la luz justo hacia el coche.
+6: Las **gafas 3D** usan filtros para que cada ojo vea una imagen distinta.
+5: Los **CD** muestran colores de arcoíris por la **difracción** de la luz en sus surcos diminutos.
+4: Las **pompas de jabón** tienen colores por la **interferencia** de la luz en su capa finísima.
+3: Las **gafas polarizadas** bloquean la luz que vibra en una dirección y eliminan reflejos del agua.
+2: La **mirilla** de una puerta es una lente **gran angular** que muestra todo el rellano.
+1: Una **botella de agua** al sol puede concentrar la luz como una lupa y causar un **incendio**.
+? ¿Por qué parece roto un lápiz en el agua? | Por la refracción de la luz.
+? ¿Por qué brillan los ojos de gato? | Son retrorreflectores: devuelven la luz a su origen.
++ Wikipedia: Refracción | https://es.wikipedia.org/wiki/Refracci%C3%B3n
++ Wikipedia: Retrorreflector | https://es.wikipedia.org/wiki/Retrorreflector
++ Wikipedia: Ojo de gato (carretera) | https://es.wikipedia.org/wiki/Ojo_de_gato_(carretera)
+
+=335 ciencia
+Lentes y espejos tienen curiosidades que desafían la intuición. Estas son 10.
+10: Un espejo no invierte izquierda y derecha: invierte **delante y detrás**.
+9: La **Galería de los Espejos** de Versalles (1684) tiene **357 espejos**. En su época eran carísimos.
+8: Los retrovisores son **convexos**: muestran más campo, pero los objetos parecen más lejos. Por eso el aviso "están más cerca de lo que parecen".
+7: Los espejos de los grandes telescopios se pulen con precisión de **nanómetros**.
+6: Los "**espejos de interrogatorio**" solo funcionan si un lado está mucho más **oscuro** que el otro.
+5: Hacia 1508, **Leonardo da Vinci** describió cómo sumergir el ojo en agua cambia la visión, idea precursora de las **lentillas**.
+4: En el siglo XI se usaban **piedras de lectura**: lupas de cristal que se apoyaban sobre el texto.
+3: El objetivo de una cámara combina **muchas lentes** para corregir distorsiones y colores.
+2: Los primeros espejos eran de **obsidiana** pulida (Anatolia, hace 8.000 años) y después de **bronce**.
+1: El **telescopio James Webb** tiene **18 espejos hexagonales** de berilio cubiertos de una capa finísima de **oro**.
+? ¿Qué invierte un espejo? | Delante y detrás, no izquierda y derecha.
+? ¿Por qué los espejos del James Webb son de oro? | El oro refleja muy bien el infrarrojo.
++ NASA: Webb mirrors | https://science.nasa.gov/mission/webb/mirrors/
++ Wikipedia: Galería de los Espejos | https://es.wikipedia.org/wiki/Galer%C3%ADa_de_los_Espejos
++ Wikipedia: Piedra de lectura | https://es.wikipedia.org/wiki/Piedra_de_lectura
+
+=336 ciencia
+Un prisma revela los colores escondidos en la luz. Estos son 10 datos.
+10: En 1666, **Isaac Newton** usó un **prisma** para mostrar que la luz blanca está formada por colores.
+9: Con un **segundo prisma**, Newton volvió a juntar los colores en luz blanca.
+8: Los **diamantes** brillan con colores por su alta **dispersión**: separan la luz como un prisma.
+7: La portada de ***The Dark Side of the Moon*** (1973) de **Pink Floyd** muestra un prisma que descompone la luz.
+6: Los **prismáticos** llevan prismas que **enderezan** la imagen y acortan el aparato.
+5: Los **candelabros** de cristal crean pequeños arcoíris porque sus lágrimas funcionan como prismas.
+4: El **violeta** se desvía más que el **rojo** al atravesar un prisma: por eso los colores se separan.
+3: Los **periscopios** usan prismas o espejos para desviar la luz y ver por encima de un obstáculo.
+2: La **fibra óptica** guía la luz por **reflexión total interna**, el mismo principio de algunos prismas.
+1: Cada **gota de lluvia** separa la luz del sol como un prisma: así se forma el **arcoíris**.
+? ¿Quién demostró que la luz blanca tiene colores? | Isaac Newton, con un prisma.
+? ¿Por qué se forma el arcoíris? | Cada gota separa la luz como un prisma.
++ Wikipedia: Prisma (óptica) | https://es.wikipedia.org/wiki/Prisma_(%C3%B3ptica)
++ Wikipedia: Dispersión (física) | https://es.wikipedia.org/wiki/Dispersi%C3%B3n_(f%C3%ADsica)
++ Wikipedia: Arcoíris | https://es.wikipedia.org/wiki/Arco%C3%ADris
+
+=337 cultura
+Las sombras son arte, ciencia y hasta una forma de dar la hora. Estos son 10 datos.
+10: El **teatro de sombras chinescas** tiene más de **2.000 años** y es Patrimonio Inmaterial de la UNESCO.
+9: Con **dos luces**, tu cuerpo proyecta **dos sombras**, una por cada fuente.
+8: Una luz **pequeña** da sombras nítidas; una luz **grande** o difusa, sombras suaves.
+7: Con las **manos** se pueden proyectar figuras de animales. Hay artistas que hacen espectáculos completos.
+6: Durante un eclipse parcial, los huecos entre las hojas de un árbol proyectan pequeñas **medias lunas** en el suelo.
+5: En las fotos del **Apolo**, las sombras no son paralelas por el **relieve** y la perspectiva, no por un montaje.
+4: La sombra de un reloj de sol avanza unos **15 grados por hora** por la rotación de la Tierra.
+3: En los trópicos hay días en que el sol está en el **cénit** a mediodía y las cosas casi no tienen sombra: el "**día sin sombra**".
+2: Nueva York regula la altura de los edificios en parte para que sus **sombras** no dejen calles y parques sin sol.
+1: **Tim Noble** y **Sue Webster** apilan **basura** que, iluminada, proyecta retratos perfectos en la pared.
+? ¿Qué es el día sin sombra? | Un día en que el sol está en el cénit y casi no hay sombra.
+? ¿Cuánto se mueve la sombra de un reloj de sol? | Unos 15 grados por hora.
++ UNESCO: Teatro de sombras chino | https://ich.unesco.org/es/RL/teatro-de-sombras-chino-00421
++ Wikipedia: Tim Noble y Sue Webster | https://en.wikipedia.org/wiki/Tim_Noble_and_Sue_Webster
++ Wikipedia: Día sin sombra | https://es.wikipedia.org/wiki/D%C3%ADa_sin_sombra
+
+=338 mente
+Las ilusiones ópticas muestran cómo el cerebro interpreta lo que ve. Estas son 10.
+10: En la **ilusión de Müller-Lyer**, dos líneas iguales parecen distintas por las flechas de sus extremos.
+9: El **cubo de Necker** puede verse de dos formas, y el cerebro alterna entre ellas.
+8: El **jarrón de Rubin** se ve como un jarrón o como dos caras de perfil, según lo que mires.
+7: En la ilusión del **tablero de Adelson**, dos casillas del mismo gris parecen muy distintas por la sombra.
+6: La **Luna** parece más grande en el horizonte, pero su tamaño en el cielo es el mismo.
+5: El dibujo del **pato-conejo** (1892) puede verse como uno u otro animal.
+4: En la **ilusión de Zöllner**, líneas paralelas parecen inclinadas por las rayitas que las cruzan.
+3: Un mismo color parece distinto según el fondo: es el **contraste simultáneo**.
+2: En la **rejilla de Hermann** aparecen puntos grises en los cruces blancos que no existen.
+1: Las "**serpientes rotatorias**" de **Akiyoshi Kitaoka** parecen girar aunque la imagen está quieta.
+? ¿Por qué la Luna parece más grande en el horizonte? | Es una ilusión del cerebro, su tamaño es el mismo.
+? ¿Qué es el jarrón de Rubin? | Una imagen que se ve como un jarrón o dos caras.
++ Akiyoshi Kitaoka: Illusion pages | https://www.ritsumei.ac.jp/~akitaoka/index-e.html
++ Wikipedia: Ilusión de Müller-Lyer | https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_M%C3%BCller-Lyer
++ Wikipedia: Ilusión del tablero de Adelson | https://es.wikipedia.org/wiki/Ilusi%C3%B3n_del_tablero_de_Adelson
+
+=339 mente
+El color no está solo en los objetos: también lo crea tu cerebro. Estos son 10 datos.
+10: Los **perros** no ven en blanco y negro: distinguen tonos de **azul** y **amarillo**.
+9: El **daltonismo** afecta a un **8 %** de los hombres y a un **0,5 %** de las mujeres de origen europeo.
+8: Tu cerebro corrige el color de la luz: un papel blanco parece blanco con luz cálida o fría. Es la **constancia del color**.
+7: Algunas lenguas usan **una sola palabra** para el azul y el verde.
+6: El **marrón** no existe en el arcoíris: es **naranja oscuro** que el cerebro interpreta según el contexto.
+5: Los colores **cálidos** parecen más cercanos, y los **fríos**, más lejanos.
+4: Los **pulpos** tienen un solo tipo de fotorreceptor, pero se camuflan con colores perfectos. Aún se investiga cómo.
+3: Los **ojos claros** parecen cambiar de color con la luz y la ropa, porque su color depende de cómo dispersan la luz.
+2: El **rojo** se asocia a estimular el apetito, por eso aparece en muchas marcas de comida rápida.
+1: En **2015**, la foto de un **vestido** dividió a internet: unos lo veían azul y negro y otros blanco y dorado. Era azul y negro.
+? ¿De qué color era el vestido? | Azul y negro.
+? ¿Los perros ven en blanco y negro? | No, ven azules y amarillos.
++ Wikipedia: El vestido | https://es.wikipedia.org/wiki/El_vestido
++ Wikipedia: Daltonismo | https://es.wikipedia.org/wiki/Daltonismo
++ Wikipedia: Constancia del color | https://es.wikipedia.org/wiki/Constancia_del_color
+
+=340 mente
+Ver movimiento es una construcción del cerebro, y a veces se equivoca. Estos son 10 datos.
+10: En vídeo, las **ruedas** pueden parecer girar hacia atrás: es el **efecto estroboscópico**.
+9: El cerebro **predice** dónde estará una pelota para que puedas atraparla.
+8: Tras mirar una **cascada** un rato, las rocas quietas parecen moverse hacia arriba: es el **efecto cascada**.
+7: Los **caballos** ven casi 360 grados, pero tienen un punto ciego justo detrás de ellos.
+6: En la oscuridad, un punto de luz quieto parece moverse: es el **efecto autocinético**.
+5: La **visión periférica** detecta el movimiento mejor que los detalles o los colores.
+4: Cuando el tren de al lado arranca, a menudo parece que el tuyo se mueve: es la **vección**.
+3: Las **moscas** procesan muchas más imágenes por segundo que nosotros, así que ven nuestro movimiento "a cámara lenta".
+2: Con ciertas **luces** que parpadean, una rueda que gira rápido puede parecer quieta.
+1: El **cine** proyecta **24 imágenes fijas por segundo**, y el cerebro las une en movimiento.
+? ¿Por qué parece que tu tren se mueve cuando arranca el de al lado? | Por una ilusión llamada vección.
+? ¿Cuántas imágenes por segundo tiene el cine? | 24.
++ Wikipedia: Efecto estroboscópico | https://es.wikipedia.org/wiki/Efecto_estrobosc%C3%B3pico
++ Wikipedia: Efecto autocinético | https://es.wikipedia.org/wiki/Efecto_autocin%C3%A9tico
++ Wikipedia: Vección | https://en.wikipedia.org/wiki/Vection

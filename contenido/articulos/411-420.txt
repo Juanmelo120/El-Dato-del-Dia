@@ -1,0 +1,179 @@
+=411 animales
+Algunos mamíferos caben en la palma de la mano. Estos son 10.
+10: La **musaraña etrusca** pesa unos **2 gramos**: es uno de los mamíferos más pequeños del mundo.
+9: La **pika** no hiberna: en verano recoge montones de **hierba** para secarlos y comerlos en invierno.
+8: En la naturaleza, un **ratón de campo** suele vivir solo unos **meses**.
+7: Una **musaraña** puede comer cada día su propio **peso**, por su metabolismo rapidísimo.
+6: El **jerbo** salta largas distancias gracias a sus patas traseras, muy largas.
+5: El **tití pigmeo** es el mono más pequeño: pesa unos **100 gramos**.
+4: El **ciervo ratón** mide unos **40 cm** y es uno de los ungulados más pequeños.
+3: El **lirón enano** cabe en la palma de una mano y **hiberna** durante meses.
+2: La **musaraña elefante**, con su hocico largo, corre muy rápido entre la hojarasca.
+1: El **murciélago abejorro** de Tailandia pesa unos **2 gramos** y cabe en la yema de un dedo.
+? ¿Cuál es el mamífero más pequeño? | La musaraña etrusca y el murciélago abejorro, de unos 2 gramos.
+? ¿Cuál es el mono más pequeño? | El tití pigmeo.
++ Wikipedia: Suncus etruscus | https://es.wikipedia.org/wiki/Suncus_etruscus
++ Wikipedia: Craseonycteris thonglongyai | https://es.wikipedia.org/wiki/Craseonycteris_thonglongyai
++ Wikipedia: Cebuella pygmaea | https://es.wikipedia.org/wiki/Cebuella_pygmaea
+
+=412 animales
+Algunos mamíferos parecen hechos con piezas de otros animales. Estos son 10.
+10: El **pangolín** es el único mamífero cubierto de **escamas**.
+9: El **koala** tiene dos "pulgares" oponibles en cada mano para agarrarse a las ramas.
+8: El **topo de nariz estrellada** tiene **22 tentáculos** en la nariz, muy sensibles al tacto.
+7: La **rata topo desnuda** casi no siente ciertos dolores y rara vez tiene **cáncer**.
+6: El **armadillo de tres bandas** puede cerrarse por completo en una **bola**.
+5: El **okapi** tiene una lengua tan larga que se limpia las **orejas** con ella.
+4: El **manatí** tiene **uñas** en las aletas, como sus parientes los elefantes.
+3: Los **murciélagos** son los únicos mamíferos que **vuelan** de verdad; otros solo planean.
+2: El **tapir** tiene una trompa corta y es pariente del caballo y el rinoceronte.
+1: El **equidna** pone **huevos**, como el ornitorrinco: los dos son **monotremas**.
+? ¿Qué mamíferos ponen huevos? | El ornitorrinco y el equidna.
+? ¿Hay mamíferos con escamas? | El pangolín.
++ Wikipedia: Pholidota | https://es.wikipedia.org/wiki/Pholidota
++ Wikipedia: Heterocephalus glaber | https://es.wikipedia.org/wiki/Heterocephalus_glaber
++ Wikipedia: Condylura cristata | https://es.wikipedia.org/wiki/Condylura_cristata
+
+=413 animales
+Los roedores son el grupo de mamíferos con más especies. Estos son 10 datos.
+10: Los **dientes** de los roedores crecen toda la vida, por eso tienen que roer sin parar.
+9: El **capibara** es el roedor más grande: puede pesar unos **60 kilos**.
+8: En un experimento de 2019, unas **ratas** aprendieron a **conducir** pequeños coches para conseguir comida.
+7: Los **castores** tienen los dientes **naranjas** por el **hierro** que los endurece.
+6: Las **ardillas voladoras** planean hasta unos **90 metros** con una membrana entre las patas.
+5: Los **hámsteres** llevan comida en sus mejillas, a veces hasta la mitad de su peso.
+4: Las **ratas no pueden vomitar**: su esófago y sus músculos no lo permiten.
+3: Los **perritos de la pradera** se "besan" juntando los dientes para reconocerse.
+2: Un **puercoespín** tiene unas **30.000 púas** que se sueltan al clavarse.
+1: En Tanzania y Camboya, **ratas gigantes** entrenadas detectan **minas** por el olfato: son tan ligeras que no las activan.
+? ¿Pueden vomitar las ratas? | No.
+? ¿Cómo ayudan las ratas a detectar minas? | Con su olfato, y no las activan por su poco peso.
++ APOPO: HeroRATs | https://apopo.org/
++ Crawford et al. (2019). Enriched environment exposure accelerates rodent driving skills. Behavioural Brain Research | https://doi.org/10.1016/j.bbr.2019.112309
++ Wikipedia: Hydrochoerus hydrochaeris | https://es.wikipedia.org/wiki/Hydrochoerus_hydrochaeris
+
+=414 animales
+Los murciélagos son mucho más útiles de lo que creemos. Estos son 10 datos.
+10: Hay más de **1.400 especies** de murciélagos: alrededor de **una quinta parte** de los mamíferos.
+9: Los **zorros voladores** tienen alas de hasta **1,5 metros** de envergadura y comen fruta.
+8: Los murciélagos **no son ciegos**: muchos ven bien, además de usar el eco.
+7: Varios murciélagos polinizan el **agave**, la planta de la que se hace el **tequila**.
+6: Los **murciélagos frugívoros** dispersan semillas y ayudan a **reforestar** selvas.
+5: El **murciélago blanco hondureño** corta hojas para hacerse **tiendas** donde dormir.
+4: Algunos murciélagos del desierto comen **escorpiones** y resisten su veneno.
+3: Algunos murciélagos viven más de **40 años**, muchísimo para su tamaño.
+2: En la **cueva de Bracken** (Texas) viven unos **15 millones** de murciélagos de cola libre.
+1: El **murciélago pescador** detecta ondas en el agua y atrapa peces con las **patas**.
+? ¿Son ciegos los murciélagos? | No, es un mito.
+? ¿Qué tiene que ver el tequila con los murciélagos? | Ellos polinizan el agave.
++ Wikipedia: Chiroptera | https://es.wikipedia.org/wiki/Chiroptera
++ Wikipedia: Cueva de Bracken | https://es.wikipedia.org/wiki/Cueva_de_Bracken
++ Wikipedia: Ectophylla alba | https://es.wikipedia.org/wiki/Ectophylla_alba
+
+=415 animales
+Nuestros parientes primates tienen costumbres muy humanas. Estas son 10.
+10: Los **chimpancés** meten palitos en los termiteros para "**pescar**" termitas.
+9: Los **orangutanes** se cubren con **hojas** grandes como paraguas cuando llueve.
+8: Los **bonobos** resuelven tensiones con **abrazos** y contacto físico.
+7: La gorila **Koko** aprendió cientos de signos de una lengua de signos adaptada.
+6: Los **monos capuchinos** usan **piedras** como martillo para abrir nueces.
+5: El **mono narigudo** macho tiene una nariz enorme que amplifica sus llamadas.
+4: En Arabia se han observado **babuinos** que adoptan perros callejeros.
+3: En los **titís**, el padre y los hermanos cargan con las crías gran parte del tiempo.
+2: Los **lémures** solo viven en **Madagascar**.
+1: Los **macacos japoneses** de Jigokudani se bañan en **aguas termales** para calentarse en invierno.
+? ¿Dónde viven los lémures? | Solo en Madagascar.
+? ¿Usan herramientas los monos? | Sí, los capuchinos usan piedras como martillo.
++ Wikipedia: Macaca fuscata | https://es.wikipedia.org/wiki/Macaca_fuscata
++ Wikipedia: Koko (gorila) | https://es.wikipedia.org/wiki/Koko_(gorila)
++ Wikipedia: Nasalis larvatus | https://es.wikipedia.org/wiki/Nasalis_larvatus
+
+=416 animales
+Los felinos pequeños son cazadores increíbles. Estos son 10.
+10: El **gato de Pallas** tiene las **pupilas redondas**, no en rendija como la mayoría de gatos pequeños.
+9: El **margay** baja de los árboles **de cabeza**, porque puede girar sus tobillos 180 grados.
+8: El **yaguarundí** tiene al menos **13 sonidos**, entre ellos silbidos que parecen de pájaro.
+7: El **caracal** salta hasta unos **3 metros** para atrapar aves al vuelo.
+6: El **serval** tiene las patas más largas de los felinos en proporción a su cuerpo.
+5: El **gato pescador** nada y atrapa peces con las patas.
+4: Las **manchas** de cada **ocelote** son únicas, como una huella.
+3: El **gato de arena** tiene pelo en las plantas de las patas para no quemarse en la arena.
+2: El **gato herrumbroso** es uno de los felinos más pequeños: pesa alrededor de **1 kg**.
+1: El **gato de patas negras** caza unas **10 a 14** presas por noche. Es uno de los felinos más eficaces.
+? ¿Cuál es el felino más pequeño? | El gato herrumbroso, de alrededor de 1 kg.
+? ¿Qué felino baja de los árboles de cabeza? | El margay.
++ Wikipedia: Felis nigripes | https://es.wikipedia.org/wiki/Felis_nigripes
++ Wikipedia: Leopardus wiedii | https://es.wikipedia.org/wiki/Leopardus_wiedii
++ Wikipedia: Otocolobus manul | https://es.wikipedia.org/wiki/Otocolobus_manul
+
+=417 animales
+La familia del perro tiene miembros sorprendentes. Estos son 10.
+10: El **zorro fénec** tiene orejas enormes que le ayudan a **disipar el calor** del desierto.
+9: Un **lobo gris** puede recorrer unos **70 km** en un día buscando presas.
+8: Los **perros salvajes africanos** "votan" con **estornudos** para decidir si salen a cazar.
+7: El **zorro ártico** es blanco en invierno y marrón o gris en verano.
+6: El **coyote** se ha adaptado a vivir en ciudades como **Chicago**.
+5: El **dingo** llegó a Australia hace miles de años con navegantes asiáticos.
+4: El **lobo de crin** de Sudamérica parece un zorro subido a **zancos**.
+3: El **perro mapache** es el único cánido que **hiberna**.
+2: Los **zorros** saltan sobre sus presas bajo la nieve con más éxito cuando miran al **noreste**, quizá guiados por el campo magnético.
+1: El **perro cantor de Nueva Guinea** aúlla con tonos cambiantes, muy musicales.
+? ¿Qué cánido hiberna? | El perro mapache.
+? ¿Cómo deciden cazar los perros salvajes africanos? | "Votan" con estornudos.
++ Walker et al. (2017). Sneeze to leave: African wild dogs use variable quorum thresholds. Proc. R. Soc. B | https://doi.org/10.1098/rspb.2017.0347
++ Červený et al. (2011). Directional preference may enhance hunting accuracy in foraging foxes. Biology Letters | https://doi.org/10.1098/rsbl.2010.1145
++ Wikipedia: Chrysocyon brachyurus | https://es.wikipedia.org/wiki/Chrysocyon_brachyurus
+
+=418 animales
+Los marsupiales llevan a sus crías en una bolsa. Estos son 10 datos.
+10: Los **koalas** comen hojas de **eucalipto**, tóxicas para la mayoría de animales.
+9: La bolsa del **wombat** se abre **hacia atrás** para no llenarse de tierra al cavar.
+8: El **diablo de Tasmania** tiene una de las mordidas más fuertes en relación con su tamaño.
+7: Un **canguro rojo** puede recorrer unos **9 metros** de un salto.
+6: El **quokka** de la isla Rottnest parece estar siempre **sonriendo**.
+5: La **zarigüeya** se hace la **muerta** e incluso suelta un olor a podrido.
+4: El **petauro del azúcar** planea entre árboles con una membrana, como una ardilla voladora.
+3: El **numbat** come hasta unas **20.000 termitas** al día.
+2: El último **tilacino** o tigre de Tasmania conocido murió en un zoo en **1936**.
+1: Un **canguro** recién nacido mide como una **judía** y trepa solo hasta la bolsa de su madre.
+? ¿Por qué la bolsa del wombat mira hacia atrás? | Para no llenarse de tierra al cavar.
+? ¿Cuándo se extinguió el tigre de Tasmania? | El último conocido murió en 1936.
++ Wikipedia: Thylacinus cynocephalus | https://es.wikipedia.org/wiki/Thylacinus_cynocephalus
++ Wikipedia: Setonix brachyurus | https://es.wikipedia.org/wiki/Setonix_brachyurus
++ Wikipedia: Myrmecobius fasciatus | https://es.wikipedia.org/wiki/Myrmecobius_fasciatus
+
+=419 animales
+Algunos animales viven siglos. Estos son 10.
+10: La **hidra**, un pequeño animal de agua dulce, renueva sus células tan bien que parece **no envejecer**.
+9: Algunos **gusanos tubícolas** del fondo marino viven más de **250 años**.
+8: La carpa koi **Hanako** habría vivido **226 años**, según el análisis de sus escamas.
+7: La albatros **Wisdom** tuvo crías con más de **70 años**. Es el ave silvestre más vieja conocida.
+6: Un **pez roca de ojos ásperos** del Pacífico norte superó los **200 años**.
+5: Los **elefantes** pueden vivir unos **70 años**.
+4: Las **almejas perla de río** europeas pueden vivir más de **100 años**.
+3: Algunas **tortugas de caja** superan los **100 años**.
+2: El **esturión** puede vivir más de **150 años** y es un "fósil viviente".
+1: En 2006 se encontró en Islandia una **almeja** de **507 años**, a la que llamaron **Ming**.
+? ¿Cuál es el animal más longevo conocido? | La almeja Ming, de 507 años.
+? ¿Envejece la hidra? | Parece no hacerlo.
++ Wikipedia: Ming (almeja) | https://es.wikipedia.org/wiki/Ming_(almeja)
++ Wikipedia: Hanako (carpa) | https://es.wikipedia.org/wiki/Hanako_(pez)
++ Wikipedia: Wisdom (albatros) | https://es.wikipedia.org/wiki/Wisdom_(albatros)
+
+=420 animales
+Algunos animales regeneran partes de su cuerpo como por arte de magia. Estos son 10.
+10: Algunas **ascidias** coloniales pueden regenerar todo su cuerpo a partir de un trozo de **vaso sanguíneo**.
+9: Los **ciervos** regeneran sus **astas** cada año: es uno de los tejidos que crecen más rápido.
+8: El **pez cebra** regenera su **corazón**, y se estudia para la medicina.
+7: Los **tritones** pueden regenerar el **cristalino** del ojo incluso de adultos.
+6: Los niños pequeños pueden regenerar la **punta de un dedo** si la pierden.
+5: Muchas **medusas** regeneran tentáculos, y algunas reorganizan su cuerpo tras perder partes.
+4: El **ratón espinoso** africano cura heridas de la piel **sin cicatriz**, algo rarísimo en mamíferos.
+3: La piel humana adulta **cicatriza** en lugar de regenerarse, aunque en el feto se regenera.
+2: Las **arañas** jóvenes pueden regenerar patas perdidas en sus mudas.
+1: Si cortas una **planaria** en trozos, cada uno puede formar un gusano completo, con **cabeza** y **cerebro**.
+? ¿Qué animal regenera su corazón? | El pez cebra.
+? ¿Qué pasa si cortas una planaria? | Cada trozo forma un gusano nuevo.
++ Wikipedia: Planaria | https://es.wikipedia.org/wiki/Planaria
++ Wikipedia: Acomys | https://es.wikipedia.org/wiki/Acomys
++ Wikipedia: Pez cebra | https://es.wikipedia.org/wiki/Danio_rerio

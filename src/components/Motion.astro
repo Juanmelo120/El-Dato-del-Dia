@@ -1,0 +1,41 @@
+<script is:inline>document.documentElement.classList.add('js');</script>
+<script>
+  // Animaciones al hacer scroll: aparición escalonada, contadores y parallax suave.
+  function setup() {
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const els = document.querySelectorAll<HTMLElement>('[data-reveal]');
+    const io = new IntersectionObserver((entries) => {
+      for (const e of entries) if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); }
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.12 });
+    els.forEach((el) => io.observe(el));
+
+    document.querySelectorAll<HTMLElement>('[data-count]').forEach((el) => {
+      const to = Number(el.dataset.count);
+      if (reduce) { el.textContent = String(to); return; }
+      const cio = new IntersectionObserver(([e]) => {
+        if (!e.isIntersecting) return;
+        cio.disconnect();
+        const t0 = performance.now(), dur = 1400;
+        const tick = (t: number) => {
+          const p = Math.min(1, (t - t0) / dur), k = 1 - Math.pow(1 - p, 4);
+          el.textContent = String(Math.round(to * k));
+          if (p < 1) requestAnimationFrame(tick);
+        };
+        requestAnimationFrame(tick);
+      });
+      cio.observe(el);
+    });
+
+    const par = document.querySelectorAll<HTMLElement>('[data-parallax]');
+    if (!reduce && par.length && matchMedia('(pointer: fine)').matches) {
+      addEventListener('pointermove', (e) => {
+        const x = e.clientX / innerWidth - 0.5, y = e.clientY / innerHeight - 0.5;
+        par.forEach((p) => {
+          const s = Number(p.dataset.parallax) || 10;
+          p.style.transform = `translate3d(${x * s}px, ${y * s}px, 0)`;
+        });
+      }, { passive: true });
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup); else setup();
+</script>

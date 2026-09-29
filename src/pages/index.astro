@@ -1,0 +1,294 @@
+---
+import Base from '../layouts/Base.astro';
+import DatoList from '../components/DatoList.astro';
+import AdSlot from '../components/AdSlot.astro';
+import Icon from '../components/Icon.astro';
+import { getDatos } from '../lib';
+import { SITE, CATEGORIES } from '../config';
+const datos = await getDatos();
+const hoy = datos.find((d) => d.data.numero === SITE.datoDeHoy) ?? datos[0];
+const resto = datos.filter((d) => d !== hoy);
+const destacados = resto.slice(0, 3);
+const fecha = hoy?.data.date.toLocaleDateString('es', { weekday: 'long', day: 'numeric', month: 'long' });
+const index = datos.map((d) => ({ id: d.id, n: d.data.numero, t: d.data.title, h: d.data.hook, c: d.data.category, s: d.data.slides.map((x) => x.titulo).join(' ') }));
+const cats = Object.entries(CATEGORIES);
+const pasos = [
+  { icon: 'search', t: 'Investigar', d: 'Cada dato parte de una pregunta y se rastrea hasta su origen: estudios, museos, agencias científicas.' },
+  { icon: 'scale', t: 'Contrastar', d: 'Lo comparamos con al menos dos fuentes fiables. Si no se sostiene, no se publica.' },
+  { icon: 'pencil-line', t: 'Corregir', d: 'Si un video simplificó de más o se equivocó, el artículo lo dice y lo corrige.' },
+  { icon: 'book-open', t: 'Explicar', d: 'Contamos el porqué, el contexto y lo que casi nadie sabe, con las fuentes al final.' },
+];
+---
+<Base jsonLd={[{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: Astro.site?.href }]}>
+  {hoy && (
+    <section class="container hero">
+      <div class="hero-copy">
+        <p class="stamp" data-reveal><span class="num">Dato #{hoy.data.numero}</span><span class="muted">Hoy, {fecha}</span></p>
+        <h1 data-reveal style="--i:1"><a href={`/datos/${hoy.id}`}>{hoy.data.hook}</a></h1>
+        <p class="lead" data-reveal style="--i:2">{hoy.data.description}</p>
+        <div class="actions" data-reveal style="--i:3">
+          <a class="btn btn--marker" href={`/datos/${hoy.id}`}>Leer la historia completa <Icon name="arrow-right" size={17} /></a>
+          <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Ver en TikTok <Icon name="arrow-up-right" size={16} /></a>
+        </div>
+      </div>
+      <aside class="peek" data-reveal style="--i:2" aria-label="Qué vas a encontrar en este dato">
+        <p class="peek-h">En este dato</p>
+        <ol>
+          {hoy.data.slides.slice(0, 5).map((s) => (
+            <li><a href={`/datos/${hoy.id}#${s.id}`}><span class="num">{String(s.n).padStart(2, '0')}</span>{s.titulo}</a></li>
+          ))}
+        </ol>
+        <a class="peek-more" href={`/datos/${hoy.id}`}>Y {Math.max(hoy.data.slides.length - 5, 0)} más, explicados paso a paso <Icon name="arrow-right" size={15} /></a>
+      </aside>
+    </section>
+  )}
+
+  <div class="band" aria-hidden="true">
+    <div class="band-track">
+      {[0, 1].map(() => cats.map(([, c]) => <span><Icon name={c.icon} size={18} />{c.name}</span>))}
+    </div>
+  </div>
+
+  <section class="container block">
+    <p class="eyebrow" data-reveal>Para empezar</p>
+    <h2 class="h-arch" data-reveal style="--i:1">Tres historias que suelen sorprender</h2>
+
+    {destacados.length > 0 && (
+      <div class="cards">
+        {destacados.map((d, i) => {
+          const c = CATEGORIES[d.data.category];
+          return (
+            <a class="card" href={`/datos/${d.id}`} data-reveal style={`--i:${i}`}>
+              <span class="card-top"><span class="num">#{String(d.data.numero).padStart(3, '0')}</span><span class="cat"><Icon name={c.icon} size={14} />{c.name}</span></span>
+              <span class="card-t">{d.data.hook}</span>
+              <span class="card-go">Leer <Icon name="arrow-right" size={16} /></span>
+            </a>
+          );
+        })}
+      </div>
+    )}
+  </section>
+
+
+  <AdSlot slot="" />
+
+  <section class="trust">
+    <div class="container">
+      <div class="head2">
+        <div>
+          <p class="eyebrow" data-reveal>Nuestro método</p>
+          <h2 data-reveal style="--i:1">Confianza que se puede <span class="gold">comprobar</span>.</h2>
+        </div>
+        <p class="muted side" data-reveal style="--i:2">Un dato curioso solo vale si es verdad. Así trabajamos cada uno antes de publicarlo.</p>
+      </div>
+      <ol class="steps">
+        {pasos.map((p, i) => (
+          <li class="step" data-reveal style={`--i:${i}`}>
+            <span class="step-n num">0{i + 1}</span>
+            <Icon name={p.icon} size={26} class="step-i" />
+            <h3>{p.t}</h3>
+            <p>{p.d}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="container promo">
+    <div class="promo-card" data-reveal>
+      <div class="promo-copy">
+        <p class="eyebrow eyebrow--dark">En TikTok · {SITE.tiktokHandle}</p>
+        <h2>Primero te sorprende. Después lo entiendes.</h2>
+        <p>En TikTok ves el dato en segundos. Aquí descubres por qué es así, qué hay detrás y lo que no cabía en el carrusel.</p>
+        <a class="btn" href={SITE.tiktok} target="_blank" rel="noopener">Seguir en TikTok <Icon name="arrow-up-right" size={16} /></a>
+      </div>
+      <div class="phone" aria-hidden="true" data-parallax="8">
+        <div class="phone-screen">
+          <img class="phone-logo" src="/perfil.png" alt="El Dato del Día" width="120" height="120" />
+          <p class="phone-q">¿Sabías que…?</p>
+          <p class="phone-h">{hoy?.data.hook}</p>
+          <span class="phone-cta">La historia completa, en el link del perfil</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container finder" id="buscar">
+    <p class="eyebrow" data-reveal>Encuentra tu dato</p>
+    <h2 class="h-arch" data-reveal style="--i:1">¿Qué te apetece leer hoy?</h2>
+    <input id="q" type="search" inputmode="search" placeholder="Busca por tema, palabra o número del video" autocomplete="off" aria-label="Buscar dato" />
+    <div class="chips" role="group" aria-label="Filtrar por categoría">
+      <button type="button" class="chip" data-cat="" aria-pressed="true">Todas</button>
+      {cats.map(([slug, c]) => <button type="button" class="chip" data-cat={slug} aria-pressed="false"><Icon name={c.icon} size={14} />{c.name}</button>)}
+    </div>
+    <ul id="list" class="flist">
+      {index.map((d) => (
+        <li data-n={d.n} data-c={d.c} data-s={`${d.n} ${d.t} ${d.h} ${d.s}`.toLowerCase()}>
+          <a href={`/datos/${d.id}`}><span class="num">{String(d.n).padStart(3, '0')}</span><span class="ft"><strong>{d.t}</strong><span class="muted">{d.h}</span></span><span class="fc muted">{CATEGORIES[d.c].name}</span></a>
+        </li>
+      ))}
+    </ul>
+    <p id="more" class="more"><button type="button" class="btn btn--ghost" id="moreBtn">Ver más datos</button></p>
+    <p id="empty" class="muted" hidden>No encontramos ese dato. Prueba con otra palabra o elige otra categoría.</p>
+  </section>
+
+  <section class="container habit" data-reveal>
+    <h2>La curiosidad también puede ser un <span class="gold">hábito</span>.</h2>
+    <p class="muted">Un dato al día. Diez segundos en TikTok, cinco minutos aquí.</p>
+    <div class="actions center">
+      <a class="btn btn--marker" href="#buscar"><Icon name="search" size={16} />Busca el dato que viste</a>
+      <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Seguir {SITE.tiktokHandle}</a>
+    </div>
+  </section>
+</Base>
+<script>
+  function setupFinder() {
+    const q = document.getElementById('q') as HTMLInputElement | null;
+    if (!q) return;
+    const items = [...document.querySelectorAll<HTMLLIElement>('#list li')];
+    const chips = [...document.querySelectorAll<HTMLButtonElement>('.chip')];
+    const empty = document.getElementById('empty')!, more = document.getElementById('more')!;
+    let cat = '', limit = 30;
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace('#', '').trim();
+    const draw = () => {
+      const v = norm(q.value);
+      let shown = 0, match = 0;
+      for (const li of items) {
+        const ok = (!cat || li.dataset.c === cat) && (!v || (/^\d+$/.test(v) ? li.dataset.n === String(Number(v)) : norm(li.dataset.s!).includes(v)));
+        if (ok) match++;
+        li.hidden = !ok || shown >= limit;
+        if (!li.hidden) shown++;
+      }
+      empty.hidden = match > 0;
+      more.hidden = match <= limit;
+    };
+    q.addEventListener('input', () => { limit = 30; draw(); });
+    chips.forEach((b) => b.addEventListener('click', () => {
+      cat = b.dataset.cat || ''; limit = 30;
+      chips.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      draw();
+    }));
+    document.getElementById('moreBtn')!.addEventListener('click', () => { limit += 30; draw(); });
+    const h = location.hash.slice(1);
+    if (h && chips.some((b) => b.dataset.cat === h)) chips.find((b) => b.dataset.cat === h)!.click(); else draw();
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setupFinder); else setupFinder();
+</script>
+<style>
+  .hero { display: grid; grid-template-columns: 1.15fr .85fr; gap: 48px; align-items: center; padding-top: clamp(40px, 8vw, 104px); padding-bottom: clamp(48px, 7vw, 96px); }
+  .stamp { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin: 0 0 22px; font-size: 14px; }
+  .stamp .num { background: var(--chip); color: var(--marker); padding: 7px 11px; border-radius: 8px; font-size: 13px; box-shadow: inset 0 0 0 1px var(--line); }
+  .stamp .muted::first-letter { text-transform: uppercase; }
+  h1 { font-size: clamp(40px, 6.4vw, 84px); line-height: 1.02; margin: 0 0 24px; }
+  h1 a { text-decoration: none; background: linear-gradient(180deg, #fff 30%, #d9ccff); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .lead { font-size: clamp(18px, 1.8vw, 20px); color: var(--ink-2); max-width: 54ch; margin: 0 0 32px; }
+  .actions { display: flex; gap: 12px; flex-wrap: wrap; }
+  .actions.center { justify-content: center; }
+
+  .ring { position: absolute; inset: 4%; border-radius: 50%; border: 1px dashed color-mix(in srgb, var(--cyan) 50%, transparent); animation: spin 40s linear infinite; }
+  .ring--2 { inset: 0; border: 1px solid transparent; background: conic-gradient(from 0deg, var(--magenta), transparent 30%, var(--marker) 50%, transparent 70%, var(--cyan)) border-box; -webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; animation-duration: 18s; animation-direction: reverse; opacity: .8; }
+  .float { position: absolute; display: grid; place-items: center; width: 52px; height: 52px; border-radius: 16px; background: var(--surface); box-shadow: var(--glow); font: 800 26px/1 var(--font-display); transition: transform 700ms var(--ease-out); }
+  .f1 { top: 6%; left: 2%; color: var(--marker); }
+  .f2 { bottom: 10%; right: 0; color: var(--magenta); }
+  .f3 { top: 14%; right: 4%; color: var(--cyan); width: 44px; height: 44px; }
+
+  .band { background: linear-gradient(90deg, #ffd65c, #ffb526); color: var(--marker-ink); overflow: hidden; padding: 14px 0; transform: rotate(-1deg); margin: 8px -8px; }
+  .band-track { display: flex; gap: 40px; width: max-content; animation: marquee 32s linear infinite; font: 700 17px/1 var(--font-display); letter-spacing: -0.01em; }
+  .band-track span { display: inline-flex; align-items: center; gap: 10px; }
+
+  .block { padding-top: clamp(64px, 9vw, 120px); }
+  .head2 { display: grid; grid-template-columns: 1fr minmax(0, 380px); gap: 24px 48px; align-items: end; margin-bottom: 40px; }
+  h2 { font-size: clamp(32px, 4.6vw, 56px); margin: 0; }
+  .side { margin: 0; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .stat { display: grid; gap: 10px; align-content: start; padding: 24px; border-radius: var(--radius); background: var(--surface); box-shadow: inset 0 0 0 1px var(--line); color: var(--ink-2); font-size: 15px; }
+  .big { font-size: clamp(40px, 5vw, 60px); line-height: 1; color: var(--ink); font-weight: 600; }
+  .stat--gold { background: linear-gradient(160deg, #ffd65c, #ff9f2e); color: #3a2208; box-shadow: none; }
+  .stat--gold .big { color: var(--marker-ink); }
+  .stat--cyan .big { color: var(--cyan); }
+
+  .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 16px; }
+  .card { position: relative; display: flex; flex-direction: column; gap: 18px; min-height: 240px; padding: 24px; border-radius: var(--radius); background: linear-gradient(180deg, var(--surface-2), var(--surface)); box-shadow: inset 0 0 0 1px var(--line); text-decoration: none; overflow: hidden; transition: transform 300ms var(--ease-out), box-shadow 300ms ease; }
+  .card::before { content: ''; position: absolute; inset: auto -30% -60% auto; width: 70%; aspect-ratio: 1; border-radius: 50%; background: radial-gradient(color-mix(in srgb, var(--magenta) 40%, transparent), transparent 70%); opacity: 0; transition: opacity 400ms ease; }
+  .card-top { display: flex; justify-content: space-between; gap: 12px; font-size: 13px; color: var(--muted); }
+  .card-top .num { color: var(--marker); }
+  .cat { display: inline-flex; align-items: center; gap: 6px; }
+  .card-t { font: 700 clamp(20px, 2vw, 24px)/1.2 var(--font-display); letter-spacing: -0.02em; color: var(--ink); flex: 1; }
+  .card-go { display: inline-flex; align-items: center; gap: 6px; color: var(--cyan); font-weight: 600; font-size: 14px; }
+  .card-go :global(.icon) { transition: transform 250ms var(--ease-out); }
+  .card:active { transform: scale(0.985); }
+  @media (hover: hover) and (pointer: fine) {
+    .card:hover { transform: translateY(-4px); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--magenta) 60%, transparent), 0 24px 60px -24px color-mix(in srgb, var(--magenta) 60%, transparent); }
+    .card:hover::before { opacity: 1; }
+    .card:hover .card-go :global(.icon) { transform: translateX(4px); }
+  }
+
+
+  .trust { margin-top: 48px; padding: clamp(64px, 9vw, 112px) 0; background: var(--bg-2); border-block: 1px solid var(--line); }
+  .steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .step { position: relative; padding: 28px 24px; border-radius: var(--radius); background: var(--surface); box-shadow: inset 0 0 0 1px var(--line); }
+  .step-n { position: absolute; top: 24px; right: 24px; color: var(--muted); font-size: 13px; }
+  .step :global(.step-i) { color: var(--marker); margin-bottom: 20px; }
+  .step h3 { font-size: 22px; margin: 0 0 8px; }
+  .step p { margin: 0; color: var(--ink-2); font-size: 15px; }
+
+  .promo { padding-top: clamp(64px, 9vw, 112px); }
+  .promo-card { display: grid; grid-template-columns: 1.2fr .8fr; gap: 40px; align-items: center; padding: clamp(28px, 5vw, 64px); border-radius: 28px; background: radial-gradient(120% 140% at 0% 0%, #ffe07a, #ffb526 45%, #ff7a3d 100%); color: var(--marker-ink); overflow: hidden; }
+  .promo-card h2 { font-size: clamp(34px, 5vw, 62px); color: var(--marker-ink); margin: 0 0 16px; }
+  .promo-card p { font-size: 18px; max-width: 46ch; margin: 0 0 28px; color: #3a2208; }
+  .eyebrow--dark { color: var(--marker-ink); }
+  .promo-card .btn { background: var(--marker-ink); color: #fff; }
+  .phone { justify-self: center; width: min(100%, 280px); aspect-ratio: 9 / 18; padding: 10px; border-radius: 40px; background: #120a2e; box-shadow: 0 40px 80px -30px #5a1a00aa; transform: rotate(4deg); transition: transform 700ms var(--ease-out); }
+  .phone-screen { height: 100%; border-radius: 32px; background: radial-gradient(circle at 50% 20%, #3b1f8f, var(--bg) 70%); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 24px 18px; text-align: center; color: var(--ink); }
+  .phone-screen .phone-logo { width: min(48%, 120px); height: auto; aspect-ratio: 1; object-fit: cover; }
+  .phone-screen img { width: 58%; border-radius: 50%; box-shadow: 0 0 40px color-mix(in srgb, var(--magenta) 70%, transparent); }
+  .phone-q { margin: 0; font: 700 14px/1 var(--font-mono); color: var(--cyan) !important; }
+  .phone-h { margin: 0 !important; font: 800 18px/1.2 var(--font-display) !important; color: var(--marker) !important; }
+  .phone-cta { font-size: 11px; color: var(--muted); animation: pulse 2.4s ease-in-out infinite; }
+
+  .h-arch { margin: 0 0 24px; }
+  .peek { padding: 26px; border-radius: var(--radius); background: linear-gradient(180deg, var(--surface-2), var(--surface)); box-shadow: inset 0 0 0 1px var(--line); }
+  .peek-h { margin: 0 0 14px; font: 600 13px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--cyan); }
+  .peek ol { list-style: none; margin: 0; padding: 0; display: grid; }
+  .peek li a { display: flex; gap: 14px; padding: 12px 0; border-top: 1px solid var(--line); text-decoration: none; color: var(--ink); font-weight: 500; line-height: 1.35; }
+  .peek li a:hover { color: var(--marker); }
+  .peek li .num { color: var(--marker); flex: none; }
+  .peek-more { display: inline-flex; align-items: center; gap: 6px; margin-top: 14px; color: var(--cyan); font-weight: 600; font-size: 14px; text-decoration: none; }
+  .finder { scroll-margin-top: 130px; }
+  .finder input { width: 100%; margin: 0 0 16px; padding: 18px 20px; font: 500 18px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+  .finder input:focus { outline: none; border-color: var(--marker); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--ink-2); font: 500 14px var(--font-body); cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--marker); color: var(--marker-ink); border-color: var(--marker); }
+  .chip:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .flist { list-style: none; margin: 0; padding: 0; border-bottom: 1px solid var(--line); }
+  .flist a { display: grid; grid-template-columns: 52px 1fr auto; gap: 16px; align-items: baseline; padding: 16px 4px; border-top: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+  .flist a:hover strong { color: var(--marker); }
+  .flist .num { color: var(--muted); }
+  .ft { display: grid; gap: 4px; min-width: 0; }
+  .ft strong { font-weight: 600; font-size: 17px; line-height: 1.3; }
+  .ft .muted { font-size: 15px; }
+  .fc { font-size: 13px; white-space: nowrap; }
+  @media (max-width: 600px) { .flist a { grid-template-columns: 40px 1fr; } .fc { display: none; } }
+  .more { margin: 28px 0 0; }
+  section.container > .eyebrow:first-child { margin-top: clamp(64px, 9vw, 112px); }
+
+  .habit { text-align: center; padding-top: clamp(80px, 10vw, 128px); }
+  .habit h2 { max-width: 16ch; margin: 0 auto 16px; }
+  .habit p { margin: 0 0 28px; }
+
+  @media (max-width: 960px) {
+    .hero { grid-template-columns: 1fr; }
+      .stats, .steps { grid-template-columns: repeat(2, 1fr); }
+    .cards { grid-template-columns: 1fr; }
+    .card { min-height: 0; }
+    .head2 { grid-template-columns: 1fr; }
+    .promo-card { grid-template-columns: 1fr; }
+    .phone { width: min(70%, 240px); }
+  }
+  @media (max-width: 520px) {
+    .stats, .steps { grid-template-columns: 1fr; }
+    .actions .btn { flex: 1; justify-content: center; }
+  }
+</style>

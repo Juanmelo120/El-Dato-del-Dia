@@ -1,0 +1,179 @@
+=281 tecnologia
+El CD cambió la música y el DVD, el cine en casa. Estos son 10 datos.
+10: El primer CD fabricado en serie fue ***The Visitors*** de **ABBA**, en 1982, en una fábrica de Philips en Alemania.
+9: Un CD bien guardado puede durar **décadas**, pero el calor, la luz y los arañazos lo deterioran.
+8: Un DVD de una capa guarda **4,7 GB**, unas **siete veces** más que un CD de 700 MB.
+7: El **Blu-ray** usa un **láser azul-violeta** de longitud de onda más corta, que lee puntos más pequeños.
+6: Los arañazos en la cara de datos podían hacer que un CD **saltara**, aunque los sistemas de corrección arreglaban muchos errores.
+5: En un **CD-R**, un láser "quema" un tinte orgánico: de ahí la expresión "**quemar un CD**".
+4: Los DVD tenían **zonas** geográficas para controlar las fechas de estreno en cada mercado.
+3: Un CD gira **más rápido** cuando lee la parte interior y más despacio en la exterior, para leer los datos al mismo ritmo.
+2: Algunos CD de edición especial imitan un **vinilo**, con surcos dibujados y color negro.
+1: Los datos de un CD forman una **espiral** de más de **5 km** que el láser recorre desde el centro hacia fuera.
+? ¿Cuál fue el primer CD? | The Visitors, de ABBA, en 1982.
+? ¿Por qué se dice "quemar" un CD? | Porque un láser quema un tinte al grabarlo.
++ Wikipedia: Disco compacto | https://es.wikipedia.org/wiki/Disco_compacto
++ Wikipedia: DVD | https://es.wikipedia.org/wiki/DVD
++ Wikipedia: Blu-ray | https://es.wikipedia.org/wiki/Blu-ray
+
+=282 tecnologia
+Las impresoras esconden inventos geniales y algún secreto. Estos son 10 datos.
+10: **Gary Starkweather**, de **Xerox**, inventó la **impresora láser** en **1969**.
+9: Las **impresoras matriciales** golpeaban una cinta con pequeñas **agujas**, de ahí su ruido característico.
+8: Muchas impresoras láser en color añaden **puntos amarillos** casi invisibles que identifican la máquina y la fecha.
+7: **Chester Carlson** inventó la **xerografía** en 1938. Xerox la comercializó y su nombre se volvió sinónimo de fotocopia.
+6: Las impresoras **térmicas** de los tickets no usan tinta: el calor oscurece un papel especial.
+5: Algunas impresoras 3D imprimen **comida**, como chocolate, pasta o masa de pizza.
+4: El **papel continuo** tenía agujeros en los bordes para que la impresora lo arrastrara.
+3: Las primeras impresoras de color para casa eran **caras** y lentas.
+2: Por litro, la **tinta** de impresora puede costar más que muchos **perfumes** caros.
+1: Hay impresoras 3D que construyen la estructura de una **casa pequeña** en menos de **24 horas** de impresión.
+? ¿Quién inventó la impresora láser? | Gary Starkweather, de Xerox, en 1969.
+? ¿Qué son los puntos amarillos de las impresoras? | Marcas ocultas que identifican la máquina.
++ EFF: Printer tracking dots | https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
++ Wikipedia: Impresora láser | https://es.wikipedia.org/wiki/Impresora_l%C3%A1ser
++ Wikipedia: Chester Carlson | https://es.wikipedia.org/wiki/Chester_Carlson
+
+=283 tecnologia
+Antes del móvil, se calculaba con cuentas, reglas y engranajes. Estos son 10 datos.
+10: El **ábaco** se usa desde hace miles de años. En Japón aún se enseña el **soroban**.
+9: Los ingenieros usaron la **regla de cálculo** para multiplicar y dividir hasta los años 70.
+8: **Curt Herzstark** diseñó la **Curta**, una calculadora mecánica de bolsillo, mientras estaba preso en el campo de **Buchenwald**.
+7: Muchas **calculadoras gráficas** permitían instalar **juegos**, algo que los estudiantes descubrieron enseguida.
+6: La **Canon Pocketronic** (1970), una de las primeras de "bolsillo", pesaba cerca de **1 kg** e imprimía en papel.
+5: Las **calculadoras solares** funcionan con una pequeña celda que aprovecha incluso la luz de interior.
+4: Si escribes **5318008** y pones la calculadora al revés, se lee una palabra en inglés. Es un chiste clásico.
+3: **Gottfried Leibniz** construyó en **1694** una calculadora mecánica que multiplicaba y dividía.
+2: La **HP-35** (1972) fue la primera calculadora científica de bolsillo.
+1: Los astronautas del programa **Apolo** llevaban **reglas de cálculo** como respaldo por si fallaban los ordenadores.
+? ¿Dónde se diseñó la calculadora Curta? | En el campo de concentración de Buchenwald.
+? ¿Llevaban reglas de cálculo al espacio? | Sí, los astronautas del Apolo.
++ Wikipedia: Curta | https://es.wikipedia.org/wiki/Curta
++ Wikipedia: HP-35 | https://es.wikipedia.org/wiki/HP-35
++ Wikipedia: Regla de cálculo | https://es.wikipedia.org/wiki/Regla_de_c%C3%A1lculo
+
+=284 tecnologia
+Los robots existen desde mucho antes de la inteligencia artificial. Estos son 10 datos.
+10: **Elektro**, de Westinghouse, se presentó en la Exposición de Nueva York de **1939**. Hablaba, andaba y **fumaba** cigarrillos.
+9: **Shakey** (1966), del Instituto de Investigación de Stanford, fue el primer robot capaz de razonar sobre sus propias acciones.
+8: **WABOT-1** (1973), de la Universidad de Waseda, fue el primer robot humanoide a escala real.
+7: **ASIMO**, presentado por **Honda** en **2000**, podía andar, correr y subir escaleras.
+6: Los **robots industriales** pintan y sueldan coches desde los años 60 y 70. El pionero fue **Unimate** en 1961.
+5: En **2017**, **Arabia Saudí** concedió la ciudadanía a la robot **Sophia**, un gesto simbólico muy criticado.
+4: Los **rovers** de Marte avanzan a pocos **centímetros por segundo** para no correr riesgos.
+3: **AIBO**, el perro robot de **Sony**, salió en **1999**.
+2: **Roomba**, de iRobot, llegó en **2002** y popularizó los robots aspiradores.
+1: **WABOT-2** (1984) leía **partituras** con una cámara y tocaba un órgano electrónico.
+? ¿Cuál fue el primer robot humanoide? | WABOT-1, de 1973.
+? ¿Qué robot fumaba? | Elektro, de 1939.
++ Wikipedia: WABOT | https://en.wikipedia.org/wiki/WABOT
++ Wikipedia: Shakey el robot | https://es.wikipedia.org/wiki/Shakey_el_robot
++ Wikipedia: ASIMO | https://es.wikipedia.org/wiki/ASIMO
+
+=285 historia
+Mucho antes de la electricidad hubo máquinas que parecían vivas. Estos son 10 autómatas.
+10: **Herón de Alejandría** (siglo I) describió puertas de templo que se abrían solas con el calor de un fuego que empujaba agua.
+9: El **carro que apunta al sur** chino usaba engranajes, no imanes: una figura señalaba siempre al sur al girar.
+8: Los **karakuri** japoneses del siglo XVII incluían muñecos que **servían té** y volvían al vaciar la taza.
+7: El **Tigre de Tipu** (siglo XVIII), hecho para el sultán Tipu de Mysore, muestra un tigre atacando a un soldado británico. Tiene un órgano que imita rugidos.
+6: En el siglo XIII, **Villard de Honnecourt** dibujó un **ángel** mecánico que giraba para señalar siempre al sol.
+5: En **1737**, **Jacques de Vaucanson** construyó un **flautista** que tocaba de verdad, soplando aire con fuelles.
+4: Los **pájaros cantores** mecánicos en cajas decoradas fueron un lujo en el siglo XVIII y XIX.
+3: El autómata de **Henri Maillardet** (hacia 1800) guarda en su memoria mecánica **cuatro dibujos** y **tres poemas**. Está en Filadelfia.
+2: Algunas **casas de muñecas** victorianas tenían pequeños mecanismos y figuras que se movían.
+1: Según textos antiguos, **Arquitas de Tarento** construyó en el siglo IV a. C. una **paloma** de madera que "volaba" con aire o vapor.
+? ¿Qué hacía el autómata de Maillardet? | Dibujaba cuatro imágenes y escribía tres poemas.
+? ¿Cómo funcionaba el carro que apunta al sur? | Con engranajes, sin imanes.
++ Victoria and Albert Museum: Tipu's Tiger | https://www.vam.ac.uk/articles/tipus-tiger
++ Franklin Institute: Maillardet's Automaton | https://fi.edu/en/science-and-education/collection/maillardets-automaton
++ Wikipedia: Carro que apunta al sur | https://es.wikipedia.org/wiki/Carro_que_apunta_al_sur
+
+=286 tecnologia
+Las máquinas expendedoras venden de todo, desde chicles hasta coches. Estos son 10 datos.
+10: En **1888**, la empresa Adams instaló máquinas de **chicles** en andenes del metro de Nueva York.
+9: Existen máquinas que **amasan, hornean y sirven una pizza** en unos minutos.
+8: En Dubái y otros lugares hubo máquinas **Gold to Go** que vendían lingotes y monedas de **oro**.
+7: En Japón se venden **paraguas** en máquinas para días de lluvia inesperada.
+6: Algunas estaciones tienen máquinas de **libros** o de relatos cortos impresos gratis.
+5: En pueblos de Alemania y otros países hay máquinas con **huevos frescos**, leche y productos de granja.
+4: Las **máquinas de café** se extendieron en oficinas y fábricas en los años 50.
+3: La empresa **Carvana** tiene **torres** de cristal en EE. UU. donde recoges tu coche insertando una moneda gigante.
+2: En Francia hay máquinas de **baguettes** que venden pan recién horneado las 24 horas.
+1: Japón tiene unos **4 millones** de máquinas expendedoras: aproximadamente **una por cada 30 personas**.
+? ¿Cuántas máquinas expendedoras hay en Japón? | Unos 4 millones, una por cada 30 personas.
+? ¿Se puede comprar un coche en una máquina? | Sí, en las torres de Carvana en EE. UU.
++ Japan Vending System Manufacturers Association | https://www.jvma.or.jp/
++ Wikipedia: Máquina expendedora | https://es.wikipedia.org/wiki/M%C3%A1quina_expendedora
++ Wikipedia: Carvana | https://en.wikipedia.org/wiki/Carvana
+
+=287 tecnologia
+Los ascensores hicieron posibles las ciudades verticales. Estos son 10 datos.
+10: Los ascensores antiguos tenían un **ascensorista** que manejaba una palanca y abría las puertas.
+9: Los **paternóster** tienen cabinas abiertas que **nunca se detienen**: la gente entra y sale en marcha. Aún quedan algunos en Alemania.
+8: Los **ascensores hidráulicos** usan agua o aceite a presión para empujar un pistón.
+7: La **Casa Blanca** tiene ascensor desde **1881**.
+6: El primer **ascensor de Valparaíso** (Chile), el Concepción, se inauguró en **1883**. Hoy son monumento nacional.
+5: En **1880**, **Werner von Siemens** presentó el primer **ascensor eléctrico** en Mannheim (Alemania).
+4: Muchos ascensores antiguos tenían **puertas de tijera** de hierro, que dejaban ver el hueco.
+3: La **Rueda de Falkirk** (Escocia) sube barcos **24 metros** girando entre dos canales. Es el único ascensor de barcos giratorio del mundo.
+2: En **Luxemburgo**, el ascensor público de **Pfaffenthal** baja 71 metros por un mirador con **suelo de cristal**.
+1: Algunos **funiculares** funcionan con **agua**: el vagón de arriba llena un depósito y su peso hace subir al de abajo.
+? ¿Qué es un paternóster? | Un ascensor de cabinas abiertas que no se detienen.
+? ¿Qué es la Rueda de Falkirk? | Un ascensor giratorio para barcos en Escocia.
++ Wikipedia: Rueda de Falkirk | https://es.wikipedia.org/wiki/Rueda_de_Falkirk
++ Wikipedia: Paternóster (ascensor) | https://es.wikipedia.org/wiki/Patern%C3%B3ster_(ascensor)
++ Wikipedia: Ascensores de Valparaíso | https://es.wikipedia.org/wiki/Ascensores_de_Valpara%C3%ADso
+
+=288 tecnologia
+Las escaleras mecánicas asustaban a la gente cuando aparecieron. Estos son 10 datos.
+10: En **1896**, **Jesse Reno** instaló en **Coney Island** una rampa móvil como atracción de feria, precursora de la escalera mecánica.
+9: En **1898**, los grandes almacenes **Harrods** ofrecían **brandy** o sales a quienes se mareaban al subirla.
+8: La **Central-Mid-Levels** de **Hong Kong** es el sistema de escaleras mecánicas al aire libre más largo: unos **800 metros**.
+7: Las escaleras mecánicas tienen sensores y botones que las **detienen** si algo queda atrapado.
+6: En **Tokio**, la gente se queda a la **izquierda**, y en **Osaka**, a la **derecha**.
+5: En la estación **Park Pobedy** de Moscú, a unos 84 metros de profundidad, las escaleras de 126 metros tardan casi **3 minutos**.
+4: En la estación **Wheaton** del metro de Washington, las escaleras mecánicas miden unos **70 metros**.
+3: En la **Comuna 13** de **Medellín** se instalaron escaleras mecánicas al aire libre en 2011 para subir la ladera.
+2: Los peldaños se **aplanan** al llegar arriba y bajan por debajo para volver a empezar.
+1: **Mitsubishi** fabrica desde 1985 **escaleras mecánicas en espiral**, que se ven en algunos centros comerciales.
+? ¿Dónde está la escalera mecánica al aire libre más larga? | En Hong Kong: unos 800 metros.
+? ¿Por qué Harrods ofrecía brandy? | Para calmar a quienes se mareaban al subir.
++ Wikipedia: Escalera mecánica | https://es.wikipedia.org/wiki/Escalera_mec%C3%A1nica
++ Wikipedia: Central–Mid-Levels escalator | https://es.wikipedia.org/wiki/Escaleras_mec%C3%A1nicas_Central-Mid-Levels
++ Wikipedia: Park Pobedy (metro de Moscú) | https://es.wikipedia.org/wiki/Park_Pobedy_(metro_de_Mosc%C3%BA)
+
+=289 tecnologia
+El cajero automático parece sencillo, pero su historia es curiosa. Estos son 10 datos.
+10: **John Shepherd-Barron** pensó en un **PIN de seis cifras**, pero su esposa solo recordaba **cuatro**, y se quedaron en cuatro.
+9: Muchos cajeros tienen teclas con **braille** y salidas de audio para personas ciegas.
+8: En muchas ciudades hay **cajeros de bitcoin** para comprar o vender criptomonedas.
+7: En la base **McMurdo**, en la **Antártida**, hay cajeros automáticos.
+6: En Dubái y otras ciudades hubo cajeros que vendían **oro**.
+5: Los cajeros tienen **cámaras** para prevenir fraudes y robos.
+4: El cajero más alto del mundo está en el **paso de Khunjerab** (Pakistán), a unos **4.700 metros**.
+3: El primer cajero, instalado en Londres en 1967, leía **cheques** marcados con **carbono-14**, una sustancia ligeramente radiactiva.
+2: Algunos cajeros, sobre todo en Japón, identifican al cliente por las **venas de la palma** de la mano.
+1: **Shepherd-Barron** se inspiró en una máquina de **chocolatinas**: si vendía chocolate, ¿por qué no dinero?
+? ¿Por qué el PIN tiene cuatro cifras? | La esposa del inventor solo recordaba cuatro.
+? ¿Dónde está el cajero más alto? | En el paso de Khunjerab, Pakistán, a unos 4.700 m.
++ BBC: The man who invented the cash machine | https://www.bbc.com/news/business-38158364
++ Wikipedia: Cajero automático | https://es.wikipedia.org/wiki/Cajero_autom%C3%A1tico
++ Wikipedia: Paso de Khunjerab | https://es.wikipedia.org/wiki/Paso_de_Khunjerab
+
+=290 tecnologia
+El código de barras está en casi todo lo que compras. Estos son 10 datos.
+10: **Joseph Woodland** tuvo la idea en una playa de Miami: alargó los puntos y rayas del **Morse** dibujándolos en la **arena**.
+9: **Woodland** y **Bernard Silver** lo patentaron en **1952**, pero se empezó a usar en tiendas en los años 70.
+8: Las barras codifican **números**, no precios: el precio lo busca el ordenador de la tienda.
+7: En un código EAN, las primeras cifras indican el **país** donde se registró la empresa, no dónde se fabricó el producto.
+6: Los científicos pegan pequeños códigos en **abejas** para seguir sus movimientos con cámaras.
+5: Los **hospitales** usan códigos en pulseras y medicamentos para comprobar que cada paciente recibe lo correcto.
+4: Los **códigos QR** son bidimensionales y guardan mucha más información que los de barras.
+3: En todo el mundo se escanean **miles de millones** de códigos de barras cada día.
+2: Los escáneres leen el código con un **láser** o una cámara que detecta los reflejos de las barras blancas y negras.
+1: Lo primero que se escaneó fue un paquete de chicles **Wrigley's**, el **26 de junio de 1974**, en Troy (Ohio).
+? ¿Qué fue lo primero escaneado con código de barras? | Un paquete de chicles Wrigley's, en 1974.
+? ¿Dice el código de barras dónde se fabricó el producto? | No, dice dónde se registró la empresa.
++ GS1: History of the barcode | https://www.gs1.org/about/our-history
++ Wikipedia: Código de barras | https://es.wikipedia.org/wiki/C%C3%B3digo_de_barras
++ Smithsonian: The first barcode scan | https://www.smithsonianmag.com/

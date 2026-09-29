@@ -1,0 +1,143 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import DatoList from '../../components/DatoList.astro';
+import Icon from '../../components/Icon.astro';
+import { getDatos, readingTime } from '../../lib';
+import { SITE, CATEGORIES } from '../../config';
+
+export async function getStaticPaths() {
+  const datos = await getDatos();
+  return datos.map((dato) => ({ params: { slug: dato.id }, props: { dato, datos } }));
+}
+const { dato, datos } = Astro.props;
+const { Content } = await render(dato);
+const d = dato.data;
+const cat = CATEGORIES[d.category];
+const related = [
+  ...datos.filter((x) => x.id !== dato.id && x.data.category === d.category),
+  ...datos.filter((x) => x.id !== dato.id && x.data.category !== d.category),
+].slice(0, 3);
+const fecha = d.date.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'numeric' });
+const url = new URL(`/datos/${dato.id}`, Astro.site).href;
+const jsonLd: object[] = [{
+  '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
+  datePublished: d.date.toISOString(), mainEntityOfPage: url,
+  author: { '@type': 'Organization', name: SITE.name }, publisher: { '@type': 'Organization', name: SITE.name },
+}];
+if (d.faq.length) jsonLd.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
+---
+<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd}>
+  <article class="container">
+    <header class="head">
+      <p class="meta"><span class="num stamp">Dato #{d.numero}</span><a class="tag" href={`/categoria/${d.category}`}><Icon name={cat.icon} size={14} />{cat.name}</a></p>
+      <h1>{d.title}</h1>
+      <p class="hook"><span class="mark mark--draw">{d.hook}</span></p>
+      <p class="muted small">{fecha} · {readingTime(dato.body)} min de lectura</p>
+    </header>
+
+    {d.slides.length > 0 && (
+      <nav class="slides" aria-label="Los datos del carrusel">
+        <p class="slides-h muted">Los {d.slides.length} datos del carrusel · toca uno para ir directo</p>
+        <ol class="slides-track">
+          {d.slides.map((s, i) => (
+            <li style={`--i:${i}`}>
+              <a href={`#${s.id}`}>
+                <span class="num">{String(s.n).padStart(2, '0')}</span>
+                <strong>{s.titulo}</strong>
+                <span>{s.gancho}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    {d.tiktokId && (
+      <div class="video">
+        <iframe src={`https://www.tiktok.com/embed/v2/${d.tiktokId}`} title="Video de TikTok" loading="lazy" allow="encrypted-media" allowfullscreen></iframe>
+      </div>
+    )}
+
+    <div class="prose"><Content components={{ Ad: AdSlot }} /></div>
+
+    <AdSlot slot="" />
+
+    {d.faq.length > 0 && (
+      <section class="prose faq">
+        <h2>Preguntas frecuentes</h2>
+        {d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+      </section>
+    )}
+
+    {d.sources.length > 0 && (
+      <section class="prose sources">
+        <h2>Fuentes</h2>
+        <ol>{d.sources.map((s) => <li><a href={s.url} target="_blank" rel="noopener nofollow">{s.title}</a></li>)}</ol>
+      </section>
+    )}
+
+    <aside class="cta">
+      <p><strong>¿Te gustó este dato?</strong> Cada día publicamos uno nuevo en TikTok.</p>
+      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Seguir en TikTok <Icon name="arrow-up-right" size={16} /></a>
+    </aside>
+  </article>
+
+  {related.length > 0 && (
+    <section class="container">
+      <h2 class="rel">Sigue leyendo</h2>
+      <DatoList datos={related} />
+    </section>
+  )}
+</Base>
+<style>
+  .head, .prose, .video, .cta { max-width: var(--prose); margin-left: auto; margin-right: auto; }
+  .head { padding-top: clamp(40px, 7vw, 80px); }
+  .meta { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 0; }
+  .stamp { background: var(--chip); color: var(--marker); padding: 7px 10px; border-radius: 8px; font-size: 13px; box-shadow: inset 0 0 0 1px var(--line); }
+  .head > * { animation: rise 700ms var(--ease-out) both; }
+  .head > :nth-child(2) { animation-delay: 80ms; } .head > :nth-child(3) { animation-delay: 160ms; } .head > :nth-child(4) { animation-delay: 240ms; }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px); filter: blur(4px); } }
+  h1 { font-size: clamp(36px, 6vw, 60px); margin: 24px 0 20px; }
+  .hook { font: 600 clamp(20px, 2.6vw, 24px)/1.45 var(--font-display); letter-spacing: -0.01em; margin: 0 0 20px; }
+  .small { font-size: 14px; margin: 0 0 8px; }
+  .slides { margin: 40px 0 0; }
+  .slides-h { max-width: var(--prose); margin: 0 auto 12px; font-size: 14px; }
+  .slides-track { list-style: none; margin: 0 -16px; padding: 4px 16px 16px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(200px, 230px); gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+  .slides-track li { scroll-snap-align: start; animation: rise 600ms var(--ease-out) both; animation-delay: calc(200ms + var(--i) * 50ms); }
+  .slides-track a { display: flex; flex-direction: column; gap: 10px; height: 100%; aspect-ratio: 9 / 13; padding: 18px; border-radius: var(--radius); text-decoration: none; background: radial-gradient(120% 90% at 100% 0%, color-mix(in srgb, var(--violet) 35%, transparent), transparent 60%), var(--surface); box-shadow: inset 0 0 0 1px var(--line); transition: transform 250ms var(--ease-out), box-shadow 250ms ease; }
+  .slides-track .num { font-size: 32px; color: var(--marker); line-height: 1; }
+  .slides-track strong { font: 700 18px/1.2 var(--font-display); letter-spacing: -0.02em; color: var(--ink); }
+  .slides-track span:last-child { font-size: 14px; line-height: 1.45; color: var(--ink-2); }
+  .slides-track a:active { transform: scale(0.97); }
+  @media (hover: hover) and (pointer: fine) { .slides-track a:hover { transform: translateY(-4px); box-shadow: inset 0 0 0 1px var(--magenta), 0 18px 40px -20px var(--magenta); } }
+  .prose :global(.why) { margin: 20px 0 8px; padding: 14px 18px; border-radius: 12px; background: color-mix(in srgb, var(--cyan) 9%, transparent); border: 1px solid color-mix(in srgb, var(--cyan) 30%, transparent); font-size: 16.5px; line-height: 1.6; }
+  .prose :global(.why strong) { color: var(--cyan); }
+  .prose :global(h2 ~ h2) { margin-top: 56px; }
+  .prose :global(h2) { scroll-margin-top: 140px; }
+  .prose :global(h2 .n) { display: block; font: 600 14px/1 var(--font-mono); color: var(--cyan); letter-spacing: .08em; margin-bottom: 10px; }
+  .prose :global(.corr) { margin: 24px 0; padding: 16px 18px; border-radius: 12px; background: color-mix(in srgb, var(--marker) 10%, transparent); box-shadow: inset 3px 0 0 var(--marker); font-size: 16px; }
+  .video { display: flex; justify-content: center; margin: 40px auto; }
+  .video iframe { width: 325px; height: 740px; border: 0; border-radius: var(--radius); }
+  .prose { font-size: 18.5px; line-height: 1.75; color: var(--ink-2); margin-top: 40px; }
+  .prose :global(strong) { color: var(--ink); font-weight: 600; }
+  .prose :global(h2) { font-size: clamp(26px, 3.4vw, 32px); color: var(--ink); margin: 56px 0 14px; }
+  .prose :global(h3) { font-size: 22px; color: var(--ink); margin: 36px 0 10px; }
+  .prose :global(a) { color: var(--ink); text-decoration-color: var(--marker); text-decoration-thickness: 3px; }
+  .prose :global(blockquote) { margin: 40px 0; padding: 0; font: 700 clamp(22px, 3vw, 27px)/1.35 var(--font-display); letter-spacing: -0.02em; color: var(--ink); }
+  .prose :global(blockquote p) { margin: 0; }
+  .prose :global(blockquote p)::before { content: ''; display: block; width: 40px; height: 6px; margin-bottom: 16px; border-radius: 3px; background: var(--marker); }
+  .prose :global(ul) { padding-left: 1.2em; }
+  .prose :global(li::marker) { color: var(--muted); }
+  .faq details { border-bottom: 1px solid var(--line); padding: 16px 0; }
+  .faq summary { cursor: pointer; font-weight: 600; color: var(--ink); }
+  .faq summary::marker { color: var(--muted); }
+  .sources { font-size: 15px; }
+  .cta { margin-top: 56px; padding: 24px; border-radius: var(--radius); background: linear-gradient(135deg, var(--surface-2), var(--surface)); box-shadow: var(--glow); color: var(--ink); display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+  .cta p { margin: 0; }
+  .rel { font-size: clamp(26px, 3.4vw, 34px); margin: 80px 0 24px; }
+</style>

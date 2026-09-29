@@ -1,0 +1,35 @@
+=039 deportes
+Los deportes más populares tienen curiosidades que casi nadie conoce: trofeos robados, golf lunar y reglas de taberna.
+10: La FIFA tiene más de 200 federaciones miembro. Se calcula que miles de millones de personas siguen el fútbol, el deporte más popular del mundo.
+9: Durante siglos los balones se hacían con **vejigas de cerdo** infladas, a veces cubiertas de cuero. Charles Goodyear diseñó un balón de caucho vulcanizado en 1855.
+8: La copa **Jules Rimet** fue robada en 1966 en Inglaterra (la encontró un perro llamado Pickles) y otra vez en **1983** en Brasil. Nunca apareció; se cree que la fundieron.
+7: En 1971, el astronauta **Alan Shepard** (Apolo 14) golpeó dos pelotas de golf en la Luna con un palo improvisado.
+6: En los Juegos Olímpicos de la antigua Grecia los atletas competían **desnudos**. La palabra "gimnasio" viene del griego *gymnós*, desnudo.
+5: El **Tour de Francia** recorre unos **3.300–3.500 km** en 21 etapas durante tres semanas.
+4: Los discos de **hockey** se congelan antes del partido para que reboten menos y se deslicen mejor.
+3: Un partido de **críquet** de prueba puede durar cinco días y terminar en empate.
+2: El **sumo** tiene raíces en rituales sintoístas de hace más de 1.500 años.
+1: El 26 de octubre de **1863**, en la taberna Freemasons' de Londres, se fundó la Football Association y se escribieron las primeras reglas del fútbol moderno.
+? ¿Dónde se escribieron las reglas del fútbol? | En la taberna Freemasons' de Londres, en 1863.
+? ¿Qué pasó con la Copa Jules Rimet? | Fue robada en 1983 en Brasil y nunca se recuperó.
++ Wikipedia: Copa Jules Rimet | https://es.wikipedia.org/wiki/Copa_Jules_Rimet
++ Wikipedia: The Football Association | https://es.wikipedia.org/wiki/The_Football_Association
++ Wikipedia: Apolo 14 | https://es.wikipedia.org/wiki/Apolo_14
+
+=040 tecnologia
+Internet está lleno de historias que parecen inventadas, desde nombres descartados hasta el peso de todos los datos.
+10: El 21 de marzo de 2006, **Jack Dorsey** publicó "just setting up my twttr", el primer tuit. En 2021 se vendió como NFT por 2,9 millones de dólares.
+9: El error **404** es un código HTTP que indica que el servidor no encontró la página. Hay una leyenda sobre una sala 404 del CERN, pero es falsa.
+8: Larry Page y Sergey Brin llamaron **BackRub** a su buscador en 1996. Luego eligieron Google, de *googol* (un 1 seguido de 100 ceros).
+7: El primer banner se publicó en 1994 en HotWired, de AT&T. Un 44 % de quienes lo vieron hizo clic.
+6: A YouTube se suben más de **500 horas** de vídeo cada minuto, según datos de la propia empresa.
+5: La "nube" son **centros de datos** con miles de servidores, cables y sistemas de refrigeración.
+4: **reCAPTCHA** usaba palabras escaneadas que los ordenadores no leían; al resolverlas, los usuarios ayudaban a digitalizar libros y periódicos.
+3: Los vídeos de **gatos** se convirtieron en un fenómeno cultural en internet; hubo incluso un festival de vídeos de gatos en Minneapolis.
+2: En 2007, **Chris Messina** propuso usar la almohadilla (#) para agrupar temas en Twitter.
+1: En 2006, el físico **Russell Seitz** estimó que la masa de los electrones que almacenan los datos de internet sería de unos 50 gramos, lo que pesa una fresa. Es un cálculo teórico y aproximado.
+? ¿Por qué Google se llama así? | Viene de googol, un 1 seguido de 100 ceros.
+? ¿Qué es la nube? | Centros de datos con miles de servidores.
++ Wikipedia: Error 404 | https://es.wikipedia.org/wiki/Error_404
++ Wikipedia: ReCAPTCHA | https://es.wikipedia.org/wiki/ReCAPTCHA
++ Wikipedia: Hashtag | https://es.wikipedia.org/wiki/Hashtag

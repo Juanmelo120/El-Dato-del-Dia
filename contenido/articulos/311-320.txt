@@ -1,0 +1,179 @@
+=311 ciencia
+La electricidad está en todo lo que usas, y en ti. Estos son 10 datos.
+10: Una **patata** con un clavo de zinc y una moneda de cobre funciona como **pila**. Con varias se enciende un LED.
+9: Un **rayo** lleva energía para tostar unas **100.000 rebanadas** de pan, pero dura una fracción de segundo.
+8: En el mundo hay **15 tipos** de enchufe, identificados con letras de la A a la N.
+7: La corriente alterna de casa cambia de sentido **50 veces por segundo** en Europa y **60** en gran parte de América.
+6: Las aves en un cable no se electrocutan porque no tocan otro cable ni el suelo: la corriente no pasa por ellas.
+5: La **señal** eléctrica viaja casi a la velocidad de la luz, pero los **electrones** se mueven apenas milímetros por segundo.
+4: Un **cargador** enchufado sin móvil consume un poco: es el **consumo en espera**.
+3: Una bombilla **LED** gasta alrededor de un **80 %** menos que una incandescente para dar la misma luz.
+2: Un cargador de móvil básico da **5 voltios**, frente a los 230 del enchufe europeo.
+1: El **cerebro** consume unos **20 vatios**, como una bombilla tenue, y sus neuronas se comunican con impulsos eléctricos.
+? ¿Por qué no se electrocutan los pájaros en los cables? | No cierran el circuito.
+? ¿Cuánta energía usa el cerebro? | Unos 20 vatios.
++ IEC: World plugs | https://www.iec.ch/world-plugs
++ Wikipedia: Corriente alterna | https://es.wikipedia.org/wiki/Corriente_alterna
++ U.S. Department of Energy: LED lighting | https://www.energy.gov/energysaver/led-lighting
+
+=312 ciencia
+Los imanes más potentes aceleran partículas, separan basura y hasta viven en vacas. Estos son 10 datos.
+10: El **Gran Colisionador de Hadrones** del CERN usa imanes superconductores enfriados a **−271 °C**.
+9: El **National High Magnetic Field Laboratory** de Florida tiene un imán de **45 teslas**, casi un millón de veces el campo de la Tierra.
+8: Las grúas de **chatarra** usan **electroimanes** que levantan coches enteros y los sueltan al cortar la corriente.
+7: Los generadores de muchos **aerogeneradores** usan imanes de **neodimio** que pesan toneladas.
+6: Los ganaderos dan a las **vacas** un **imán** que se queda en su estómago y atrapa clavos y alambres tragados al pastar.
+5: Los **frenos magnéticos** frenan montañas rusas y trenes sin tocar las ruedas, mediante corrientes de Foucault.
+4: En las plantas de **reciclaje**, imanes separan latas de acero y otros metales de la basura.
+3: El **campo magnético** de la Tierra desvía el **viento solar** y protege la atmósfera.
+2: En la **protonterapia**, imanes guían protones a gran velocidad para atacar tumores con precisión.
+1: Los **magnetares** son estrellas de neutrones con campos magnéticos hasta **mil billones** de veces el de la Tierra.
+? ¿Por qué se da un imán a las vacas? | Para atrapar clavos y alambres que tragan.
+? ¿Cuál es el imán más potente del universo? | Los magnetares, un tipo de estrella de neutrones.
++ National MagLab | https://nationalmaglab.org/
++ CERN: The Large Hadron Collider | https://home.cern/science/accelerators/large-hadron-collider
++ Wikipedia: Magnetar | https://es.wikipedia.org/wiki/Magnetar
+
+=313 tecnologia
+Las baterías mueven móviles, coches y sondas espaciales. Estos son 10 datos.
+10: La batería de muchos coches eléctricos pesa unos **400 a 600 kg**.
+9: Las baterías de **litio** sufren menos si se mantienen entre el **20 % y el 80 %** de carga.
+8: Con **frío**, las reacciones químicas se ralentizan y la batería rinde menos: por eso el móvil se apaga en la nieve.
+7: Las baterías de **sodio**, un componente de la sal, son más baratas y no necesitan litio.
+6: **Gaston Planté** inventó la batería de **plomo-ácido** en **1859**. Aún arranca muchos coches.
+5: Una batería **hinchada** es peligrosa: puede incendiarse, así que hay que dejar de usarla.
+4: Las **centrales de bombeo** son "baterías de agua": suben agua a un embalse y la sueltan para generar electricidad cuando hace falta.
+3: Las **baterías nucleares** (RTG) dan energía durante décadas a sondas como las **Voyager**.
+2: Las baterías de litio se **reciclan** para recuperar litio, cobalto y níquel.
+1: **Alessandro Volta** llamó a su pila de 1800 "**órgano eléctrico artificial**", inspirado en el **pez torpedo**.
+? ¿Qué inspiró la pila de Volta? | El órgano eléctrico del pez torpedo.
+? ¿Por qué el móvil se apaga con frío? | El frío ralentiza las reacciones químicas de la batería.
++ Wikipedia: Pila voltaica | https://es.wikipedia.org/wiki/Pila_voltaica
++ Battery University | https://batteryuniversity.com/
++ Wikipedia: Central hidroeléctrica reversible | https://es.wikipedia.org/wiki/Central_hidroel%C3%A9ctrica_reversible
+
+=314 tecnologia
+Las pilas parecen todas iguales, pero no lo son. Estos son 10 datos.
+10: Las pilas **AA** y **AAA** alcalinas dan el mismo voltaje, **1,5 V**. Las grandes solo guardan más energía.
+9: Las **pilas de botón** son peligrosas si las traga un niño: pueden quemar el esófago en dos horas.
+8: Muchas pilas de **9 V** llevan dentro **seis** pilas pequeñas de 1,5 V.
+7: Las pilas **alcalinas** duran más que las de zinc-carbono.
+6: Las pilas **recargables** pierden carga poco a poco aunque no se usen: es la **autodescarga**.
+5: Las pilas deben ir a un **punto de reciclaje**, porque contienen metales que contaminan.
+4: La pila **D** es la más grande de las comunes; se usaba en linternas y radios.
+3: Las pilas de **litio** funcionan mejor que las alcalinas en el **frío**.
+2: Las **pilas de combustible** combinan **hidrógeno** y oxígeno, y producen electricidad y agua.
+1: La **Campana Eléctrica de Oxford** suena casi sin parar desde **1840** con una pila seca original, aunque hoy apenas se oye.
+? ¿Por qué son peligrosas las pilas de botón? | Si se tragan, pueden quemar el esófago.
+? ¿Qué pila lleva sonando desde 1840? | La de la Campana Eléctrica de Oxford.
++ Wikipedia: Campana Eléctrica de Oxford | https://es.wikipedia.org/wiki/Campana_el%C3%A9ctrica_de_Oxford
++ Wikipedia: Pila de combustible | https://es.wikipedia.org/wiki/Pila_de_combustible
++ Wikipedia: Pila de botón | https://es.wikipedia.org/wiki/Pila_de_bot%C3%B3n
+
+=315 tecnologia
+Hay motores diminutos por todas partes, incluso en las bacterias. Estos son 10 datos.
+10: El motor de un **cepillo de dientes eléctrico** puede generar decenas de miles de movimientos por minuto.
+9: El móvil **vibra** gracias a un pequeño motor con un **peso descentrado**, o a un motor lineal.
+8: Los **drones** usan motores **sin escobillas**, más eficientes y duraderos.
+7: Los relojes de cuarzo con agujas tienen un **motor paso a paso** que mueve la aguja cada segundo.
+6: Los **discos duros** giran a unas **5.400 o 7.200** revoluciones por minuto.
+5: Los **ventiladores** de un ordenador son pequeños motores que evitan que se caliente.
+4: Las **lentes** de las cámaras tienen motores para **enfocar** automáticamente.
+3: El **motor Stirling** funciona con una diferencia de temperatura: algunos modelos giran sobre una **taza de café** caliente.
+2: El **flagelo** de muchas bacterias gira como una hélice gracias a un motor de proteínas.
+1: El **Premio Nobel de Química 2016** fue para los creadores de **motores moleculares**, máquinas del tamaño de una molécula.
+? ¿Por qué vibra el móvil? | Por un pequeño motor con un peso descentrado.
+? ¿Qué premió el Nobel de Química 2016? | Los motores moleculares.
++ Nobel Prize: Chemistry 2016 | https://www.nobelprize.org/prizes/chemistry/2016/summary/
++ Wikipedia: Motor Stirling | https://es.wikipedia.org/wiki/Motor_Stirling
++ Wikipedia: Flagelo bacteriano | https://es.wikipedia.org/wiki/Flagelo_bacteriano
+
+=316 tecnologia
+Los engranajes transforman el movimiento. Estos son 10 datos.
+10: Las **bicicletas** usan platos y piñones para cambiar la relación entre fuerza y velocidad.
+9: Un reloj mecánico puede tener **decenas** de ruedas dentadas muy precisas.
+8: **Arquímedes** estudió los engranajes en el siglo III a. C.
+7: Los **engranajes helicoidales** tienen dientes inclinados y hacen menos ruido.
+6: Los **molinos** usaban grandes engranajes de **madera**.
+5: La **caja de cambios** de un coche cambia la relación entre la velocidad del motor y la de las ruedas.
+4: El **tornillo sin fin** mueve un engranaje, pero el engranaje no puede mover el tornillo. Por eso sirve para bloquear.
+3: Los **engranajes planetarios** son muy compactos y están en las cajas de cambio automáticas.
+2: El **sacacorchos de alas** usa una **cremallera**: un engranaje recto que sube al bajar las alas.
+1: En 2013 se descubrió que la ninfa del insecto ***Issus*** tiene **engranajes** en las patas que sincronizan su salto.
+? ¿Hay engranajes en la naturaleza? | Sí, en las patas del insecto Issus.
+? ¿Qué tiene de especial el tornillo sin fin? | El engranaje no puede mover al tornillo.
++ Burrows y Sutton (2013). Interacting gears synchronize propulsive leg movements in a jumping insect. Science | https://doi.org/10.1126/science.1240284
++ Wikipedia: Engranaje | https://es.wikipedia.org/wiki/Engranaje
++ Wikipedia: Tornillo sin fin | https://es.wikipedia.org/wiki/Tornillo_sin_fin
+
+=317 ciencia
+Las palancas son una de las máquinas más simples y útiles. Estos son 10 ejemplos.
+10: Unas **tijeras** son dos palancas unidas por un punto de apoyo.
+9: Un **balancín** es una palanca de **primer grado**: el apoyo está entre la fuerza y la carga.
+8: Una **carretilla** es de **segundo grado**: la carga está entre el apoyo (la rueda) y la fuerza.
+7: Una **caña de pescar** es de **tercer grado**: la fuerza está entre el apoyo y la carga.
+6: Tu **antebrazo** es una palanca: el **codo** es el punto de apoyo y el bíceps tira de él.
+5: Un **abrebotellas** multiplica la fuerza de tu mano para levantar la chapa.
+4: Las **grúas torre** equilibran la carga con **bloques de hormigón** en el otro brazo.
+3: Los **remos** son palancas que empujan el agua para mover el barco.
+2: Tu **mandíbula** es una palanca: las **muelas** están más cerca del apoyo y aprietan con más fuerza.
+1: Según la tradición, **Arquímedes** dijo: "**Dadme un punto de apoyo y moveré el mundo**".
+? ¿Qué tipo de palanca es una carretilla? | De segundo grado.
+? ¿Por qué las muelas aprietan más? | Están más cerca del punto de apoyo de la mandíbula.
++ Wikipedia: Palanca | https://es.wikipedia.org/wiki/Palanca
++ Wikipedia: Arquímedes | https://es.wikipedia.org/wiki/Arqu%C3%ADmedes
++ Khan Academy: Simple machines | https://www.khanacademy.org/
+
+=318 ciencia
+Una polea parece poca cosa, pero multiplica la fuerza. Estos son 10 datos.
+10: Una polea fija **cambia la dirección** de la fuerza: tiras hacia abajo para subir algo.
+9: Un **polipasto** combina varias poleas y reduce la fuerza necesaria.
+8: Las **grúas** usan poleas para levantar cargas enormes.
+7: Los **ascensores** usan poleas y un **contrapeso** que equilibra la cabina.
+6: Muchas **persianas** se suben con una cinta que pasa por una polea.
+5: Los **pozos** antiguos tenían una polea para sacar el cubo de agua.
+4: Los **veleros** tienen muchas poleas, llamadas **motones**, para manejar las velas.
+3: Las **máquinas de gimnasio** usan poleas y cables para cambiar la dirección del esfuerzo.
+2: Los **teatros** usan poleas para subir y bajar decorados en la **tramoya**.
+1: Según **Plutarco**, **Arquímedes** movió él solo un barco cargado con un sistema de poleas.
+? ¿Qué es un polipasto? | Un sistema de varias poleas que reduce la fuerza necesaria.
+? ¿Qué movió Arquímedes con poleas? | Un barco, según Plutarco.
++ Wikipedia: Polea | https://es.wikipedia.org/wiki/Polea
++ Wikipedia: Polipasto | https://es.wikipedia.org/wiki/Polipasto
++ Wikipedia: Tramoya | https://es.wikipedia.org/wiki/Tramoya
+
+=319 tecnologia
+Los muelles guardan energía y la sueltan cuando hace falta. Estos son 10 datos.
+10: Un **muelle** almacena energía al comprimirlo o estirarlo, y la libera al soltarlo.
+9: Un **bolígrafo** retráctil usa un muelle para el clic.
+8: Los **amortiguadores** de los coches combinan muelles y aceite para absorber los baches.
+7: Los relojes mecánicos tienen un **muelle real** que se tensa al dar cuerda.
+6: Las **básculas** antiguas medían el peso por lo que se estiraba un muelle.
+5: Las **ratoneras** clásicas usan un muelle que se cierra en milésimas de segundo.
+4: Los **trampolines** tienen decenas de muelles alrededor de la lona.
+3: Las **pinzas de la ropa** llevan un pequeño muelle metálico.
+2: Muchos **autobuses** usan **suspensión neumática**: muelles de aire que pueden bajar el vehículo para facilitar la entrada.
+1: Un **colchón de muelles** puede tener cientos, y algunos más de **1.000**.
+? ¿Qué es un muelle real? | El muelle que se tensa al dar cuerda a un reloj.
+? ¿Por qué se inclinan algunos autobuses? | Por su suspensión de aire.
++ Wikipedia: Resorte | https://es.wikipedia.org/wiki/Resorte
++ Wikipedia: Suspensión neumática | https://es.wikipedia.org/wiki/Suspensi%C3%B3n_neum%C3%A1tica
++ Wikipedia: Ley de Hooke | https://es.wikipedia.org/wiki/Ley_de_elasticidad_de_Hooke
+
+=320 tecnologia
+La rueda sigue reinventándose miles de años después. Estos son 10 datos.
+10: Las ruedas con **radios**, de hace unos 4.000 años, eran más ligeras que las macizas y permitieron carros rápidos.
+9: En **1888**, **John Boyd Dunlop** hizo práctico el **neumático de aire** para el triciclo de su hijo. Robert Thomson lo había patentado en 1845.
+8: Los neumáticos son **negros** por el **negro de carbono**, que los hace más resistentes. Antes eran blancos.
+7: **George Ferris** construyó la primera gran **noria** para la Exposición de Chicago de **1893**.
+6: Una **rueda cuadrada** puede rodar suavemente sobre un suelo con **curvas** del tamaño adecuado.
+5: Las ruedas de los trenes son ligeramente **cónicas**, así el tren toma las curvas sin diferencial.
+4: Las ruedas de un avión aterrizan a más de **250 km/h** y soportan cargas enormes.
+3: Los **monociclos** exigen equilibrio: el ciclista corrige la inclinación con los pedales.
+2: Las ruedas del rover **Curiosity** son de **aluminio** y tienen marcas que dejan en el suelo el código Morse de "JPL".
+1: Hay **neumáticos sin aire** con radios flexibles que no se pinchan.
+? ¿Por qué los neumáticos son negros? | Por el negro de carbono.
+? ¿Por qué son cónicas las ruedas del tren? | Para tomar las curvas sin diferencial.
++ Wikipedia: John Boyd Dunlop | https://es.wikipedia.org/wiki/John_Boyd_Dunlop
++ Wikipedia: Noria de Chicago | https://es.wikipedia.org/wiki/Noria_de_Ferris
++ NASA: Curiosity wheels | https://mars.nasa.gov/msl/

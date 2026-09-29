@@ -1,0 +1,53 @@
+---
+// Página del "link en bio": rápida, pensada para móvil y con buscador por número.
+import Base from '../layouts/Base.astro';
+import { getDatos } from '../lib';
+const datos = await getDatos();
+const index = datos.map((d) => ({ id: d.id, n: d.data.numero, t: d.data.title, h: d.data.hook }));
+---
+<Base title="Busca el dato del video" description="¿Viste un dato en TikTok? Escribe su número o una palabra y lee la historia completa.">
+  <section class="container wrap">
+    <h1>¿Qué dato <span class="mark">viste</span>?</h1>
+    <p class="muted">Escribe el número que aparece al final del video o una palabra clave.</p>
+    <input id="q" type="search" inputmode="search" placeholder="Ej: 12 o flamencos" autocomplete="off" aria-label="Buscar dato" />
+    <ul id="list" class="list">
+      {index.map((d) => (
+        <li data-n={d.n} data-s={`${d.n} ${d.t} ${d.h}`.toLowerCase()}>
+          <a href={`/datos/${d.id}`}><span class="num">{String(d.n).padStart(3, '0')}</span><span>{d.t}</span></a>
+        </li>
+      ))}
+    </ul>
+    <p id="empty" class="muted" hidden>No encontramos ese dato. Revisa el número o prueba con otra palabra.</p>
+  </section>
+</Base>
+<script>
+  function setup() {
+    const q = document.getElementById('q') as HTMLInputElement | null;
+    if (!q) return;
+    const items = [...document.querySelectorAll<HTMLLIElement>('#list li')];
+    const empty = document.getElementById('empty')!;
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace('#', '').trim();
+    q.addEventListener('input', () => {
+      const v = norm(q.value);
+      let shown = 0;
+      for (const li of items) {
+        const ok = !v || (/^\d+$/.test(v) ? li.dataset.n === v : norm(li.dataset.s!).includes(v));
+        li.hidden = !ok;
+        if (ok) shown++;
+      }
+      empty.hidden = shown > 0;
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup); else setup();
+</script>
+<style>
+  .wrap { max-width: 640px; padding-top: clamp(40px, 8vw, 88px); }
+  h1 { font-size: clamp(38px, 8vw, 60px); margin: 0 0 12px; }
+  input { width: 100%; margin: 24px 0; padding: 18px 20px; font: 500 18px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); transition: border-color 150ms ease; }
+  input::placeholder { color: var(--muted); }
+  input:focus { outline: none; border-color: var(--ink); box-shadow: 0 0 0 4px color-mix(in srgb, var(--marker) 60%, transparent); }
+  .list { list-style: none; padding: 0; margin: 0; border-bottom: 1px solid var(--line); }
+  .list a { display: flex; gap: 18px; align-items: baseline; padding: 18px 4px; border-top: 1px solid var(--line); text-decoration: none; font-weight: 500; font-size: 17px; transition: background-color 150ms ease; }
+  .list a:active { background: var(--surface); }
+  .list .num { color: var(--muted); font-size: 14px; min-width: 36px; }
+</style>
