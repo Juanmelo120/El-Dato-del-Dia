@@ -20,7 +20,7 @@
   --font-body: 'Onest', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, monospace;
   --max: 1120px;
-  --prose: 68ch;
+  --prose: 720px;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
