@@ -1,4 +1,5 @@
 ---
+import Social from '../components/Social.astro';
 import Base from '../layouts/Base.astro';
 import DatoList from '../components/DatoList.astro';
 import AdSlot from '../components/AdSlot.astro';
@@ -20,6 +21,11 @@ const pasos = [
 ];
 ---
 <Base jsonLd={[{ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: Astro.site?.href }]}>
+  {SITE.bannerPortada && (
+    <section class="container banner">
+      <img src={`/imagenes/${SITE.bannerPortada}`} alt={SITE.name} loading="eager" />
+    </section>
+  )}
   {hoy && (
     <section class="container hero">
       <div class="hero-copy">
@@ -28,8 +34,8 @@ const pasos = [
         <p class="lead" data-reveal style="--i:2">{hoy.data.description}</p>
         <div class="actions" data-reveal style="--i:3">
           <a class="btn btn--marker" href={`/datos/${hoy.id}`}>Leer la historia completa <Icon name="arrow-right" size={17} /></a>
-          <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Ver en TikTok <Icon name="arrow-up-right" size={16} /></a>
         </div>
+        <div class="hero-social" data-reveal style="--i:4"><Social /></div>
       </div>
       <aside class="peek" data-reveal style="--i:2" aria-label="Qué vas a encontrar en este dato">
         <p class="peek-h">En este dato</p>
@@ -97,10 +103,10 @@ const pasos = [
   <section class="container promo">
     <div class="promo-card" data-reveal>
       <div class="promo-copy">
-        <p class="eyebrow eyebrow--dark">En TikTok · {SITE.tiktokHandle}</p>
+        <p class="eyebrow eyebrow--dark">En TikTok y YouTube · {SITE.tiktokHandle}</p>
         <h2>Primero te sorprende. Después lo entiendes.</h2>
-        <p>En TikTok ves el dato en segundos. Aquí descubres por qué es así, qué hay detrás y lo que no cabía en el carrusel.</p>
-        <a class="btn" href={SITE.tiktok} target="_blank" rel="noopener">Seguir en TikTok <Icon name="arrow-up-right" size={16} /></a>
+        <p>En TikTok y YouTube ves el dato en segundos. Aquí descubres por qué es así, qué hay detrás y lo que no cabía en el video.</p>
+        <Social />
       </div>
       <div class="phone" aria-hidden="true" data-parallax="8">
         <div class="phone-screen">
@@ -134,11 +140,11 @@ const pasos = [
 
   <section class="container habit" data-reveal>
     <h2>La curiosidad también puede ser un <span class="gold">hábito</span>.</h2>
-    <p class="muted">Un dato al día. Diez segundos en TikTok, cinco minutos aquí.</p>
+    <p class="muted">Un dato al día. Unos segundos en TikTok y YouTube, cinco minutos aquí.</p>
     <div class="actions center">
       <a class="btn btn--marker" href="#buscar"><Icon name="search" size={16} />Busca el dato que viste</a>
-      <a class="btn btn--ghost" href={SITE.tiktok} target="_blank" rel="noopener">Seguir {SITE.tiktokHandle}</a>
     </div>
+    <div class="center-social"><Social /></div>
   </section>
 </Base>
 <script>
@@ -291,4 +297,9 @@ const pasos = [
     .stats, .steps { grid-template-columns: 1fr; }
     .actions .btn { flex: 1; justify-content: center; }
   }
+  .hero-social { margin-top: 14px; }
+  .center-social { display: flex; justify-content: center; margin-top: 14px; }
+  .center-social :global(.social) { justify-content: center; }
+  .banner { margin-top: 24px; }
+  .banner img { width: 100%; max-height: 420px; object-fit: cover; border-radius: 20px; }
 </style>

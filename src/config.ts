@@ -6,6 +6,10 @@ export const SITE = {
     'Datos curiosos de ciencia, historia, animales y el universo, explicados a fondo. La versión completa de los videos de El Dato del Día en TikTok.',
   tiktok: 'https://www.tiktok.com/@eldatodeldia03',
   tiktokHandle: '@eldatodeldia03',
+  youtube: 'https://www.youtube.com/@eldatodeldia03',
+  youtubeHandle: '@eldatodeldia03',
+  // Imagen opcional para la portada: pon el nombre de un archivo de public/imagenes (ej. 'banner.jpg'). Vacío = sin imagen.
+  bannerPortada: '',
   email: 'contacto@eldatodeldia.com', // TODO: tu correo de contacto
   // TODO: tu ID de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = no se cargan anuncios.
   adsenseClient: 'ca-pub-9237733209875674',

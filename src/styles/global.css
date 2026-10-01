@@ -133,3 +133,8 @@ p { text-wrap: pretty; }
   *, *::before, *::after { animation-duration: 1ms !important; animation-iteration-count: 1 !important; transition-duration: 1ms !important; }
   .js [data-reveal] { opacity: 1; transform: none; filter: none; }
 }
+
+/* Imágenes dentro de los artículos (líneas "! foto.jpg | descripción") */
+.foto { margin: 28px 0; }
+.foto img { width: 100%; height: auto; max-height: 560px; object-fit: contain; border-radius: 14px; background: var(--surface); }
+.foto figcaption { margin-top: 8px; font-size: 14px; color: var(--muted); text-align: center; }

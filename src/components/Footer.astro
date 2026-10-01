@@ -1,4 +1,5 @@
 ---
+import Social from './Social.astro';
 import { SITE, CATEGORIES } from '../config';
 const year = new Date().getFullYear();
 ---
@@ -7,7 +8,7 @@ const year = new Date().getFullYear();
     <div>
       <p class="brand"><img src="/perfil.png" alt="" width="44" height="44" /><span><span class="gold">El Dato</span> <span class="cyan">del Día</span></span></p>
       <p class="muted">{SITE.tagline}</p>
-      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Síguenos en TikTok · {SITE.tiktokHandle}</a>
+      <Social />
     </div>
     <div>
       <p class="h">Categorías</p>
