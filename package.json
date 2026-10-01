@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "python3 contenido/generar.py && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
