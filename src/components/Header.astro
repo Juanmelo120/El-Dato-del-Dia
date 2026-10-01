@@ -1,15 +1,20 @@
 ---
+import Social from './Social.astro';
 import Icon from './Icon.astro';
 import { SITE, CATEGORIES } from '../config';
 const path = Astro.url.pathname;
 ---
 <header class="header">
+  <a class="promo-bar" href={SITE.youtube} target="_blank" rel="noopener">Nuevo video cada día en <strong>TikTok</strong> y <strong>YouTube</strong><span class="handle"> · {SITE.tiktokHandle}</span> →</a>
   <div class="container bar">
     <a href="/" class="logo" aria-label={`${SITE.name}, inicio`}>
       <img src="/perfil.png" alt="" width="36" height="36" class="avatar" />
       <span><span class="gold">El Dato</span> <span class="cyan">del Día</span></span>
     </a>
-    <a href="/#buscar" class="btn btn--marker btn--sm"><Icon name="search" size={16} />Buscar dato</a>
+    <div class="right">
+    <Social variant="icons" />
+    <a href="/#buscar" class="btn btn--marker btn--sm"><Icon name="search" size={16} /><span class="lbl">Buscar dato</span></a>
+    </div>
   </div>
   <nav class="container cats" aria-label="Categorías">
     {Object.entries(CATEGORIES).map(([slug, c]) => (
@@ -28,6 +33,11 @@ const path = Astro.url.pathname;
   .cats a:hover { color: var(--ink); background: var(--surface); }
   .cats a[aria-current] { color: var(--marker-ink); background: var(--marker); }
   @media (min-width: 1100px) { .cats { flex-wrap: wrap; justify-content: space-between; gap: 0; } .cats a { padding: 7px 9px; } .cats a :global(.icon) { display: none; } }
+  .promo-bar { display: block; text-align: center; padding: 7px 16px; font-size: 13px; text-decoration: none; color: #fff; background: linear-gradient(90deg, #fe2c55, #ff0033 50%, #7c3aed); }
+  .promo-bar:hover { filter: brightness(1.08); }
+  @media (max-width: 480px) { .handle { display: none; } }
+  .right { display: flex; align-items: center; gap: 10px; }
+  @media (max-width: 520px) { .lbl { display: none; } }
   .btn--sm { padding: 10px 16px; font-size: 14px; }
   @media (max-width: 400px) { .logo { font-size: 17px; } .btn--sm { padding: 10px 12px; } }
 </style>

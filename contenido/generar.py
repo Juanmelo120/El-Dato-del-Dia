@@ -16,7 +16,7 @@ Formato de cada carrusel en los .txt:
 
 Uso: python3 contenido/generar.py
 """
-import glob, json, os, re, unicodedata
+import glob, html, json, os, re, unicodedata, urllib.parse
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DESTINO = os.path.join(RAIZ, 'src/content/datos')
@@ -34,6 +34,19 @@ def q(t):
     return json.dumps(t, ensure_ascii=False)
 
 
+def imagen(l):
+    """'! foto.jpg | descripción' -> <figure>. Si la foto no existe, avisa y no la pone."""
+    archivo, _, texto = l[1:].partition('|')
+    archivo, texto = archivo.strip(), texto.strip()
+    if not os.path.isfile(os.path.join(RAIZ, 'public/imagenes', archivo)):
+        print(f'AVISO: no encuentro public/imagenes/{archivo}; la imagen no se muestra')
+        return None
+    alt = html.escape(texto, quote=True)
+    pie = f'<figcaption>{html.escape(texto)}</figcaption>' if texto else ''
+    return (f'<figure class="foto"><img src="/imagenes/{urllib.parse.quote(archivo)}" alt="{alt}" '
+            f'loading="lazy" decoding="async" />{pie}</figure>')
+
+
 def leer_articulos():
     arts, cur, dato = {}, None, None
     for f in sorted(glob.glob(os.path.join(RAIZ, 'contenido/articulos/*.txt'))):
@@ -45,6 +58,12 @@ def leer_articulos():
                 num, cat = l[1:].split()
                 cur = arts[int(num)] = {'cat': cat, 'intro': [], 'datos': {}, 'faq': [], 'src': []}
                 dato = None
+            elif l.startswith('!'):
+                fig = imagen(l)
+                if fig and dato is not None:
+                    cur['datos'][dato] += '\n\n' + fig
+                elif fig:
+                    cur['intro'].append(fig)
             elif l.startswith('?'):
                 p, r = l[1:].split('|', 1)
                 cur['faq'].append((p.strip(), r.strip()))

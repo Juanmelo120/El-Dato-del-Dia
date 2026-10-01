@@ -1,4 +1,5 @@
 ---
+import Social from '../../components/Social.astro';
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import AdSlot from '../../components/AdSlot.astro';
@@ -37,6 +38,7 @@ if (d.faq.length) jsonLd.push({
       <p class="meta"><span class="num stamp">Dato #{d.numero}</span><a class="tag" href={`/categoria/${d.category}`}><Icon name={cat.icon} size={14} />{cat.name}</a></p>
       <h1>{d.title}</h1>
       <p class="hook"><span class="mark mark--draw">{d.hook}</span></p>
+      <div class="follow"><span class="muted small">Míralo en video:</span><Social /></div>
       <p class="muted small">{fecha} · {readingTime(dato.body)} min de lectura</p>
     </header>
 
@@ -82,8 +84,8 @@ if (d.faq.length) jsonLd.push({
     )}
 
     <aside class="cta">
-      <p><strong>¿Te gustó este dato?</strong> Cada día publicamos uno nuevo en TikTok.</p>
-      <a class="btn btn--marker" href={SITE.tiktok} target="_blank" rel="noopener">Seguir en TikTok <Icon name="arrow-up-right" size={16} /></a>
+      <p><strong>¿Te gustó este dato?</strong> Cada día publicamos uno nuevo en TikTok y YouTube. Síguenos para no perderte ninguno.</p>
+      <Social />
     </aside>
   </article>
 
@@ -140,4 +142,5 @@ if (d.faq.length) jsonLd.push({
   .cta { margin-top: 56px; padding: 24px; border-radius: var(--radius); background: linear-gradient(135deg, var(--surface-2), var(--surface)); box-shadow: var(--glow); color: var(--ink); display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
   .cta p { margin: 0; }
   .rel { font-size: clamp(26px, 3.4vw, 34px); margin: 80px 0 24px; }
+  .follow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 16px 0; }
 </style>
