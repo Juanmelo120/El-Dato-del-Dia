@@ -8,7 +8,7 @@ export const SITE = {
   tiktokHandle: '@eldatodeldia03',
   email: 'contacto@eldatodeldia.com', // TODO: tu correo de contacto
   // TODO: tu ID de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = no se cargan anuncios.
-  adsenseClient: '',
+  adsenseClient: 'ca-pub-9237733209875674',
   // TODO: tu ID de Google Analytics 4 (G-XXXXXXXXXX). Vacío = sin analítica.
   gaId: '',
   // Número del carrusel que se muestra como "Dato de hoy" en la portada.
