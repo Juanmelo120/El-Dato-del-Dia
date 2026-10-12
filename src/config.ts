@@ -10,7 +10,7 @@ export const SITE = {
   youtubeHandle: '@eldatodeldia03',
   // Imagen opcional para la portada: pon el nombre de un archivo de public/imagenes (ej. 'banner.jpg'). Vacío = sin imagen.
   bannerPortada: '',
-  email: 'melo24639@gmail.com',
+  email: 'murillotoro116@gmail.com',
   autor: 'Sebastian Ramirez',
   // TODO: tu ID de AdSense (ca-pub-XXXXXXXXXXXXXXXX). Vacío = no se cargan anuncios.
   adsenseClient: 'ca-pub-9237733209875674',
