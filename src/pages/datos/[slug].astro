@@ -32,7 +32,7 @@ if (d.faq.length) jsonLd.push({
   mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 });
 ---
-<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd}>
+<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd} noindex={d.noindex}>
   <article class="container">
     <header class="head">
       <p class="meta"><span class="num stamp">Dato #{d.numero}</span><a class="tag" href={`/categoria/${d.category}`}><Icon name={cat.icon} size={14} />{cat.name}</a></p>

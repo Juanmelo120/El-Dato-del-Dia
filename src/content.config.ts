@@ -16,6 +16,7 @@ const datos = defineCollection({
     // Las diapositivas del carrusel: el mismo texto que aparece en cada imagen de TikTok.
     slides: z.array(z.object({ n: z.number(), id: z.string(), titulo: z.string(), gancho: z.string() })).default([]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    noindex: z.boolean().default(false), // lo pone generar.py en los artículos cortos
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
   }),
 });

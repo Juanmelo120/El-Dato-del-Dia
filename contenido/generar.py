@@ -20,6 +20,8 @@ import glob, html, json, os, re, unicodedata, urllib.parse
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DESTINO = os.path.join(RAIZ, 'src/content/datos')
+# Por debajo de esta media de palabras por dato, el artículo no se ofrece a Google.
+MIN_PALABRAS_DATO = 250
 FECHA = '2026-09-29'
 
 
@@ -108,6 +110,10 @@ def main():
             fm.append('sources:')
             for t, u in a['src']:
                 fm += [f'  - title: {q(t)}', f'    url: {q(u)}']
+        # Artículo corto: Google no lo indexa hasta que se amplíe (media de palabras por dato).
+        palabras = sum(len(re.sub(r'<[^>]+>', ' ', t).split()) for t in a['datos'].values()) / len(a['datos'])
+        if palabras < MIN_PALABRAS_DATO:
+            fm.append('noindex: true')
         fm.append('---')
         cuerpo = ['\n\n'.join(a['intro']), '']
         for i, d in enumerate(c['datos']):
