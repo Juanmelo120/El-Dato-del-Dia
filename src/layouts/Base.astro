@@ -12,8 +12,9 @@ interface Props {
   image?: string;
   type?: 'website' | 'article';
   jsonLd?: object[];
+  noindex?: boolean;
 }
-const { title, description = SITE.description, image, type = 'website', jsonLd = [] } = Astro.props;
+const { title, description = SITE.description, image, type = 'website', jsonLd = [], noindex = false } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name}: ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.site);
@@ -25,6 +26,7 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
   <link rel="canonical" href={canonical} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="sitemap" href="/sitemap-index.xml" />
@@ -52,7 +54,7 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og.png', Astro.si
   </script>
   {SITE.gaId && <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaId}`}></script>}
   {SITE.gaId && <script is:inline define:vars={{ id: SITE.gaId }}>gtag('js', new Date()); gtag('config', id);</script>}
-  {SITE.adsenseClient && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>}
+  {SITE.adsenseClient && !noindex && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>}
   <Motion />
 </head>
 <body>
