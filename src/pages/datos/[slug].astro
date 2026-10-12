@@ -25,7 +25,7 @@ const url = new URL(`/datos/${dato.id}`, Astro.site).href;
 const jsonLd: object[] = [{
   '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
   datePublished: d.date.toISOString(), mainEntityOfPage: url,
-  author: { '@type': 'Organization', name: SITE.name }, publisher: { '@type': 'Organization', name: SITE.name },
+  author: { '@type': 'Person', name: SITE.autor, url: new URL('/sobre-nosotros', Astro.site).href }, publisher: { '@type': 'Organization', name: SITE.name },
 }];
 if (d.faq.length) jsonLd.push({
   '@context': 'https://schema.org', '@type': 'FAQPage',
@@ -39,7 +39,7 @@ if (d.faq.length) jsonLd.push({
       <h1>{d.title}</h1>
       <p class="hook"><span class="mark mark--draw">{d.hook}</span></p>
       <div class="follow"><span class="muted small">Míralo en video:</span><Social /></div>
-      <p class="muted small">{fecha} · {readingTime(dato.body)} min de lectura</p>
+      <p class="muted small">Por <a href="/sobre-nosotros">{SITE.autor}</a> · {fecha} · {readingTime(dato.body)} min de lectura</p>
     </header>
 
     {d.slides.length > 0 && (
